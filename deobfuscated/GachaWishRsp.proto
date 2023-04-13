@@ -6,11 +6,11 @@ option java_package = "emu.grasscutter.net.proto";
 // CmdId: 1556
 // Name: AEEFJKOLIKC
 message GachaWishRsp {
-    uint32 wishMaxProgress = 4; // KKDFKKEMEBA
-    uint32 wishProgress = 15; // KJPOJHMDBNE
-    uint32 gachaType = 14; // FBILBJNNIKE
-    uint32 gachaScheduleId = 6; // KDFPKENAIOJ
+    uint32 wishItemId = 4; // KKDFKKEMEBA
+    uint32 gachaScheduleId = 15;
+    uint32 wishMaxProgress = 14; // FBILBJNNIKE
+    uint32 wishProgress = 6; // KDFPKENAIOJ
     int32 retcode = 1;
-    uint32 wishItemId = 5; // AOLMBNPLFEO
+    uint32 gachaType = 5;
 }
 

@@ -10,7 +10,7 @@ message GetPlayerTokenRsp {
     string birthday = 1258;
     string msg = 11;
     string sign = 907;
-    bytes security_cmd_buffer = 9; // JLOPICGGPBP
+    bytes extra_bin_data = 9;
     uint32 account_type = 12; // CIJNPHDIOND
     uint32 blackUidEndTime = 834;  // KDIHPMJOCPG
     uint32 platform_type = 1;
@@ -27,7 +27,7 @@ message GetPlayerTokenRsp {
     uint32 tag = 1489;
     uint32 uid = 13;
     uint64 secret_key_seed = 5;
-    string country_code = 446; // AAEIDEMEKFF
+    string country_code = 446;
     StopServerInfo stop_server = 1928;
     bool is_guest = 2;
     uint32 JJNLKCNPOLA = 7;
@@ -35,9 +35,9 @@ message GetPlayerTokenRsp {
     uint32 FGAKKMHIKHF = 6;
     string client_version_random_key = 238;
     string secret_key = 3;
-    bytes extra_bin_data = 8; // MFPGIGPEFBK
+    bytes security_cmd_buffer = 8;
     repeated uint32 finish_collection_id_list = 785;
     string psn_id = 1146; 
-    string client_ip_str = 265; // HKNHLNJCCLP
+    string client_ip_str = 265;
 }
 

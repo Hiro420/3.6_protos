@@ -7,7 +7,7 @@ option java_package = "emu.grasscutter.net.proto";
 // Name: JEOLICDPLML
 message GachaWishReq {
     uint32 item_id = 15;
-    uint32 gachaScheduleId = 14; // KJPOJHMDBNE
-    uint32 gachaType = 3; // AOLMBNPLFEO
+    uint32 gachaScheduleId = 14;
+    uint32 gachaType = 3;
 }
 

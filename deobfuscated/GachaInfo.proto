@@ -6,11 +6,11 @@ import "GachaUpInfo.proto";
 
 // Name: INCDGNIDDAE
 message GachaInfo {
-    uint32 gachaTimesLimit = 578; // FBILBJNNIKE
+    uint32 tenCostItemId = 578; // FBILBJNNIKE
     uint32 wishMaxProgress = 9; // BIPHOPJBNHC
     uint32 leftGachaTimes = 7; // FBIDPNFLBJL
     string gachaProbUrl = 3; // OMGFPIJPPGH
-    uint32 gachaType = 316; // PELOHDIKFAM
+    uint32 gachaTimesLimit = 316; // PELOHDIKFAM
     uint32 begin_time = 1;
     uint32 gachaSortId = 4; // DINELKJLAPI
     uint32 end_time = 10;
@@ -26,7 +26,7 @@ message GachaInfo {
     string titleTextmap = 1371; // AMGOIFHFKIE
     repeated uint32 displayUp5ItemList = 793;
     bool is_new_wish = 1748; 
-    uint32 tenCostItemId = 6;  // AOLMBNPLFEO
+    uint32 gachaType = 6;
     uint32 costItemId = 5; // DKCIEKFPMCG
     uint32 tenCostItemNum = 14; // EAGFIDHCDPD
     uint32 wishProgress = 1986; // KDFPKENAIOJ
