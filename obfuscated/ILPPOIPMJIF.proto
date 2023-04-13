@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ILPPOIPMJIF
+message ILPPOIPMJIF {
+    uint32 BNNBEAHNPNH = 5;
+    repeated uint32 EFBGNKCHODA = 9;
+    uint32 OPPGKAGCJBJ = 7;
+    uint32 CGNFCGJIOGM = 11;
+    uint32 MIEDMELHOLI = 6;
+    uint32 NGBIFFGKFHN = 4;
+    repeated uint32 DJEKCGJNNDE = 3;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8849
+// Name: JHIAOLOMKAL
+message BlitzRushParkourRestartReq {
+    uint32 group_id = 5;
+    uint32 schedule_id = 2;
+}
+

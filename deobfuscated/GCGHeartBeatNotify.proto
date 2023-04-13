@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7684
+// Name: CCCHPDLEDMO
+message GCGHeartBeatNotify {
+    uint32 server_seq = 14;
+}
+

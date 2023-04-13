@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EBANBNPAEGF.proto";
+
+// Name: DGLJAIHGONO
+message DGLJAIHGONO {
+    uint32 JOPJKOGODAM = 6;
+    repeated EBANBNPAEGF BABKMKKLGMN = 11;
+}
+

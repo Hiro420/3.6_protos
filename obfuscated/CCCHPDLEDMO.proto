@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7684
+// Name: CCCHPDLEDMO
+message CCCHPDLEDMO {
+    uint32 DCANKEBLMNC = 14;
+}
+

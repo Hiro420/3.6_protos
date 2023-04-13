@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FNNCKHEEBGD.proto";
+
+// Name: EKLAJOBKPEA
+message EKLAJOBKPEA {
+    repeated FNNCKHEEBGD CIDDMNDBKIM = 12;
+}
+

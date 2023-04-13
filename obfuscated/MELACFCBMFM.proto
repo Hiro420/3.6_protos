@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EKLAJOBKPEA.proto";
+import "KPMMLJKDLKH.proto";
+
+// Name: MELACFCBMFM
+message MELACFCBMFM {
+    uint32 EIMBKPHMPEH = 3;
+    uint32 IPDPBFFPPBG = 1489;
+    uint32 NFAGHAIMDKI = 15;
+    bool AJFBLDPHGDD = 12;
+    uint32 NILFBNCBADF = 658;
+    bool NHKJHKLOPDP = 14;
+    uint32 CIECOAHMPMG = 10;
+    EKLAJOBKPEA KIDJJJEHDLC = 13;
+    bool BCKJALNOGKD = 1;
+    bool NOBKNCIPHOE = 4;
+    repeated KPMMLJKDLKH GDPPILBFFBJ = 8;
+    uint32 LOJJNAJBAFO = 11;
+    bool FKOBJPCKIFJ = 9;
+    uint32 JJGGAPDDOLN = 5;
+    uint32 DFAFANNFGMG = 2;
+}
+

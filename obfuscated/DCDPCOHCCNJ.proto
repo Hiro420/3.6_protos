@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// Name: DCDPCOHCCNJ
+message DCDPCOHCCNJ {
+    INPDDALBMBO MHNNJDLOCAM = 2;
+    bool FONPKBDEJOE = 3;
+}
+

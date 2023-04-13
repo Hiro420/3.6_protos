@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8598
+// Name: JIGIEEIOHCF
+message JIGIEEIOHCF {
+    int32 EEDMFEOGLFN = 8;
+    repeated uint32 LFNLHAABJAM = 1;
+}
+

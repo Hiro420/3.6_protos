@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 6231
+// Name: APIBJAAJMAJ
+message TryCustomDungeonRsp {
+    uint32 room_id = 7;
+    int32 retcode = 3;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1970
+// Name: NNKBLEKCIDM
+message NNKBLEKCIDM {
+    repeated uint32 PDKHOOGKKJC = 4;
+}
+

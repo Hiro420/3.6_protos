@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2103
+// Name: BPMGLBBNAPD
+message BlessingAcceptAllGivePicRsp {
+    map<uint32, uint32> accept_pic_num_map = 2;
+    repeated uint32 accept_index_list = 14;
+    int32 retcode = 8;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DJGOABOOOHI
+message SalvageScoreChallengeInfo {
+    uint32 max_score = 4;
+    uint32 salvage_challenge_id = 10;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2058
+// Name: OEOALPJFLGC
+message OEOALPJFLGC {
+    uint32 GOMIFKCFNKJ = 11;
+    uint32 PIHIMOCPPFO = 2;
+    uint32 HKMHCKDOJCL = 14;
+    int32 EEDMFEOGLFN = 8;
+    repeated uint32 MKJHCLJINAD = 5;
+}
+

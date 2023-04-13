@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ALCABPLHONH.proto";
+
+// CmdId: 4731
+// Name: DOFAGDOJLAN
+message DOFAGDOJLAN {
+    ALCABPLHONH GEGLLHBOPMK = 9;
+    int32 EEDMFEOGLFN = 1;
+}
+

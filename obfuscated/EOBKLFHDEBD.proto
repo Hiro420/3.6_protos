@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OKHLKNPBBHN.proto";
+
+// CmdId: 5062
+// Name: EOBKLFHDEBD
+message EOBKLFHDEBD {
+    OKHLKNPBBHN BPFJOLBAONG = 2;
+}
+

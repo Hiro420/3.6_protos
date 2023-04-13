@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BECOGAKOLEB
+enum BECOGAKOLEB {
+    BECOGAKOLEB_NONE = 0;
+    BECOGAKOLEB_SAIL = 1;
+    BECOGAKOLEB_BATTLE = 2;
+}
+

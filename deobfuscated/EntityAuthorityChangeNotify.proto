@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AuthorityChange.proto";
+
+// CmdId: 350
+// Name: JLADAPJELAE
+message EntityAuthorityChangeNotify {
+    repeated AuthorityChange authority_change_list = 6;
+}
+

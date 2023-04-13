@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GHGALEANJOA.proto";
+
+// CmdId: 2006
+// Name: NLGHNCOBFEL
+message NLGHNCOBFEL {
+    bool HKHAADBCFDO = 5;
+    repeated GHGALEANJOA MIMNBFPLAKJ = 6;
+    uint32 GELFIDPMHLJ = 15;
+    uint32 FCLFLMPGIKN = 2;
+}
+

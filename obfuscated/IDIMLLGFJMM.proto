@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IMFKPCAPJNI.proto";
+
+// Name: IDIMLLGFJMM
+message IDIMLLGFJMM {
+    IMFKPCAPJNI CNDKFAMECDF = 4;
+    uint32 JBMPBFDPKGD = 5;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LKCKGBIFDAB.proto";
+
+// CmdId: 3327
+// Name: EDBBJDLNODE
+message EDBBJDLNODE {
+    LKCKGBIFDAB ANPNJDLGOIE = 6;
+    uint32 FBAJDBHFLHA = 4;
+}
+

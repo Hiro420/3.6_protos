@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8663
+// Name: LFCPDAGJKDN
+message LFCPDAGJKDN {
+    repeated uint32 KMHLIGKEJBD = 9;
+}
+

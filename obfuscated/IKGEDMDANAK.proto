@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2090
+// Name: IKGEDMDANAK
+message IKGEDMDANAK {
+    uint32 JOEIFCBMJEF = 13;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 646
+// Name: JDGBIPPFOBN
+message JDGBIPPFOBN {
+    uint32 IMPNFEJOEGP = 5;
+    uint64 FPIIPJJPBOH = 8;
+    int32 EEDMFEOGLFN = 11;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 806
+// Name: NJBBECLNJOP
+message NJBBECLNJOP {
+    int32 EEDMFEOGLFN = 13;
+}
+

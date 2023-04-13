@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 494
+// Name: EJJMNAGIMNB
+message EJJMNAGIMNB {
+    repeated int32 KFGHMMAGGHK = 3;
+    uint32 ECPFFHACLBJ = 2;
+    uint32 OHBALLHKMLM = 9;
+}
+

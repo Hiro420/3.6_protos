@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KIAHPIKPLMH.proto";
+
+// CmdId: 7763
+// Name: NNAAFMMAGIF
+message NNAAFMMAGIF {
+    KIAHPIKPLMH CIIKDLCIMEJ = 13;
+    uint32 HDMDJECGCKC = 4;
+    uint32 AMEJLPJCENL = 7;
+    int32 EEDMFEOGLFN = 8;
+}
+

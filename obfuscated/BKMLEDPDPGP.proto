@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 928
+// Name: BKMLEDPDPGP
+message BKMLEDPDPGP {
+    bool AMMCKGEEOLJ = 1;
+}
+

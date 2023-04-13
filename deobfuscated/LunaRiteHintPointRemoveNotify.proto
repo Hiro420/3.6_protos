@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8663
+// Name: LFCPDAGJKDN
+message LunaRiteHintPointRemoveNotify {
+    repeated uint32 hint_point_index = 9;
+}
+

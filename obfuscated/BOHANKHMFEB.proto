@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LAGPLFLFOEF.proto";
+
+// CmdId: 2316
+// Name: BOHANKHMFEB
+message BOHANKHMFEB {
+    uint32 ILMENCHMGBJ = 1;
+    bool GDOJNKFHDMP = 10;
+    repeated LAGPLFLFOEF PBDAIOCEAKF = 13;
+    uint32 EKOAFIHJCPL = 14;
+    uint32 FGEIEPJKHDL = 2;
+    uint32 KEOAIKGJLNH = 15;
+}
+

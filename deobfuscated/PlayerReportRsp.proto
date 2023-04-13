@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4073
+// Name: KMMICFCAEMN
+message PlayerReportRsp {
+    uint32 target_uid = 7;
+    uint32 cd_time = 4;
+    int32 retcode = 11;
+}
+

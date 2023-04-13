@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JCAFAPNCKDP.proto";
+
+// CmdId: 7111
+// Name: MJLFJPCIPKH
+message MJLFJPCIPKH {
+    JCAFAPNCKDP CEJIHNIFLHG = 4;
+    repeated JCAFAPNCKDP ELBDENMOANJ = 3;
+    repeated JCAFAPNCKDP ABGFKOHNMFD = 5;
+}
+

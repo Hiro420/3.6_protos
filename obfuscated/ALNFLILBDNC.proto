@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ALNFLILBDNC
+message ALNFLILBDNC {
+    uint32 JBMPBFDPKGD = 9;
+    uint32 ICPLDONIHID = 14;
+    uint32 PHAKMIAPJGA = 3;
+    uint32 CENLAOLNIAO = 5;
+}
+

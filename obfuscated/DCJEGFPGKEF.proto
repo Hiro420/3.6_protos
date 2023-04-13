@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24889
+// Name: DCJEGFPGKEF
+message DCJEGFPGKEF {
+    uint32 HDMDJECGCKC = 15;
+}
+

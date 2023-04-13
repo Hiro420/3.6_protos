@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2620
+// Name: FDMEHNBNHEO
+message FDMEHNBNHEO {
+    uint32 ENNFMNMNAKB = 1;
+}
+

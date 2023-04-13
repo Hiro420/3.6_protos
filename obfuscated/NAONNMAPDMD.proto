@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 473
+// Name: NAONNMAPDMD
+message NAONNMAPDMD {
+    uint32 OHBALLHKMLM = 8;
+    map<uint32, uint32> EINPJAFBMIG = 2;
+}
+

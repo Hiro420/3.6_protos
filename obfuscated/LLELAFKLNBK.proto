@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 21089
+// Name: LLELAFKLNBK
+message LLELAFKLNBK {
+    int32 EEDMFEOGLFN = 9;
+}
+

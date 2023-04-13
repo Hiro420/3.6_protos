@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8467
+// Name: FJLEGFGIHPO
+message FJLEGFGIHPO {
+    uint32 LFOCJEADKPK = 2;
+}
+

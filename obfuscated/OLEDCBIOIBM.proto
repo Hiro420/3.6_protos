@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EEDNKCDNPIP.proto";
+
+// CmdId: 196
+// Name: OLEDCBIOIBM
+message OLEDCBIOIBM {
+    string CLBCECHIELM = 1258;
+    string OKHFJOFHFPN = 11;
+    string ECBPBNLAKDG = 907;
+    bytes JLOPICGGPBP = 9;
+    uint32 CIJNPHDIOND = 12;
+    uint32 KDIHPMJOCPG = 834;
+    uint32 OEDHPFMKEIJ = 1;
+    uint32 KGEIMHOAJAD = 1156;
+    int32 EEDMFEOGLFN = 10;
+    string ALOLGBDKGBD = 4;
+    uint32 IEPOFPNOOKD = 1572;
+    string GOFLJIMJEKE = 15;
+    uint32 IFCEGFAIFKG = 1470;
+    uint32 LFPHHMGKIIP = 1474;
+    string IBCDGMKEDCM = 1291;
+    bool MPKKNNFFINM = 1058;
+    bool GBLBPKNHLLG = 14;
+    uint32 LMNGGDPKEKF = 1489;
+    uint32 JBMPBFDPKGD = 13;
+    uint64 FLAANIGELDC = 5;
+    string AAEIDEMEKFF = 446;
+    EEDNKCDNPIP GCMJCMHKCCB = 1928;
+    bool MHHMMOLNDAK = 2;
+    uint32 JJNLKCNPOLA = 7;
+    bool EHGCBOCIJPA = 1881;
+    uint32 FGAKKMHIKHF = 6;
+    string DKKCANDNOGN = 238;
+    string BLIDMDKHGGO = 3;
+    bytes MFPGIGPEFBK = 8;
+    repeated uint32 MFEKIDNDOPL = 785;
+    string FDMCFBMDDLH = 1146;
+    string HKNHLNJCCLP = 265;
+}
+

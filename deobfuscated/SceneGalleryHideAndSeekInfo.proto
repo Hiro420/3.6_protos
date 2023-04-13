@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IIIFEGBGIHG
+message SceneGalleryHideAndSeekInfo {
+    repeated uint32 GCNNADABPLG = 10;
+    repeated uint32 GIDIOJBKDKH = 13;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OHBLLAGJHLI.proto";
+
+// Name: NOOFJAGIGGO
+message NOOFJAGIGGO {
+    map<uint32, OHBLLAGJHLI> ELCNCHBNMKE = 12;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ABBABGECCOD.proto";
+
+// Name: HALCGPHPNPL
+message HALCGPHPNPL {
+    uint32 KOECFICGDOI = 8;
+    uint32 LIHIMGBNIFL = 13;
+    uint32 NBCLHDEBGGP = 1;
+    ABBABGECCOD CNDKFAMECDF = 11;
+    uint32 BKHAKDNDMIO = 14;
+}
+

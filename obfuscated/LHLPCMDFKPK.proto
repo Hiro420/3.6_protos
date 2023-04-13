@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2516
+// Name: LHLPCMDFKPK
+message LHLPCMDFKPK {
+    uint32 CMPLFINPFAP = 13;
+    uint32 LFOCJEADKPK = 6;
+}
+

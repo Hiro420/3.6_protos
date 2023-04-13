@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 927
+// Name: MCMBEAGPLJA
+message MCMBEAGPLJA {
+    uint32 HFGFELKHDDK = 4;
+    uint32 JHNHKIBHLBA = 12;
+    uint32 IHJHBOGKMLA = 11;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OCEJMFHDDOD.proto";
+
+// Name: PFNLMPFONPN
+message PFNLMPFONPN {
+    uint32 HJLEBAHLAOL = 8;
+    repeated OCEJMFHDDOD PFJBEMANPKG = 4;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2183
+// Name: KFGCJIJPJAI
+message ExpeditionTakeRewardRsp {
+    uint32 path_id = 12;
+    bool is_bonus = 15;
+    uint32 reward_level = 11;
+    int32 retcode = 9;
+}
+

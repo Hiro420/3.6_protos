@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8043
+// Name: NNJHAPEPALJ
+message NNJHAPEPALJ {
+    uint32 LFOCJEADKPK = 12;
+    map<uint32, uint32> AMFJKOMGOJN = 11;
+}
+

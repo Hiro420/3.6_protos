@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OKLFPJCHPDD
+message OKLFPJCHPDD {
+    uint32 FCLFLMPGIKN = 4;
+    uint32 GELFIDPMHLJ = 9;
+}
+

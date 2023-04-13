@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 3992
+// Name: ONLHKPHEIHA
+message MechanicusLevelupGearReq {
+    uint32 gear_id = 10;
+    uint32 mechanicus_id = 5;
+}
+

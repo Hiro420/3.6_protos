@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5345
+// Name: NMAGLFPGECM
+message HideAndSeekPlayerSetAvatarNotify {
+    uint32 uid = 9;
+    uint32 avatar_id = 8;
+    uint32 costume_id = 5;
+}
+

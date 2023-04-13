@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DDAGBEPBBEP
+message DDAGBEPBBEP {
+    bool FKOBJPCKIFJ = 8;
+    uint32 JGIPOEKBNNN = 15;
+    bool OCGNLLPOCNC = 11;
+    uint32 MDNMOJAPBKB = 2;
+    uint32 BAKNPCGIKBO = 5;
+    repeated uint32 LFLGHINLIAH = 10;
+}
+

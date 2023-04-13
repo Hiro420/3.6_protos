@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MAPAKLCCCEH.proto";
+
+// CmdId: 109
+// Name: HOAAPIKFAMA
+message HOAAPIKFAMA {
+    repeated MAPAKLCCCEH GFBOJOJALGK = 13;
+}
+

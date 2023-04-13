@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GJNLKPILJFD.proto";
+
+// Name: KGEBMHPKFMN
+message KGEBMHPKFMN {
+    uint32 FILHPFFFBOD = 2;
+    repeated uint32 IJNMBHEDFJP = 11;
+    uint32 PGHHOPCMEFC = 1;
+    GJNLKPILJFD PLPNECOAEON = 14;
+}
+

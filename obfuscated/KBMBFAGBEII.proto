@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KBMBFAGBEII
+enum KBMBFAGBEII {
+    KBMBFAGBEII_ROGUE_CELL_NONE = 0;
+    KBMBFAGBEII_ROGUE_CELL_BATTLE = 1;
+    KBMBFAGBEII_ROGUE_CELL_SUCCESS = 2;
+    KBMBFAGBEII_ROGUE_CELL_FINISH = 3;
+    KBMBFAGBEII_ROGUE_CELL_TAKEN_CHEST = 4;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7511
+// Name: LMLBLFPAGIK
+message GCGDSDeckUnlockNotify {
+    uint32 deck_id = 11;
+}
+

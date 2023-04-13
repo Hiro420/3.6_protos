@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 23760
+// Name: LDAMKEBHPEO
+message LDAMKEBHPEO {
+    uint32 HDMDJECGCKC = 15;
+    uint32 BCPGAFGNGEH = 11;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CFHDBJENNAP
+enum CFHDBJENNAP {
+    CFHDBJENNAP_OBSTACLE_SHAPE_CAPSULE = 0;
+    CFHDBJENNAP_OBSTACLE_SHAPE_BOX = 1;
+}
+

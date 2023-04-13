@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AKBGENMICHJ.proto";
+
+// CmdId: 326
+// Name: GDCDGDCNMLB
+message GDCDGDCNMLB {
+    repeated AKBGENMICHJ FHCMPLDECEG = 2;
+    uint32 FGEIEPJKHDL = 5;
+}
+

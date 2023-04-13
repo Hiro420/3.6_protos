@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 429
+// Name: PFFEILDHDMB
+message PFFEILDHDMB {
+    uint32 GKCJMLGNMCL = 15;
+}
+

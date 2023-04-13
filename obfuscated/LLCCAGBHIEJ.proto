@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PIPBKPPGDHE.proto";
+
+// CmdId: 6219
+// Name: LLCCAGBHIEJ
+message LLCCAGBHIEJ {
+    repeated PIPBKPPGDHE BDJPPAMNFAE = 6;
+    int32 EEDMFEOGLFN = 5;
+}
+

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EGMOPPAHAMP.proto";
+
+// Name: MNHBJMJPKAP
+message MNHBJMJPKAP {
+    repeated EGMOPPAHAMP HPNOAHOLKOF = 12;
+    uint32 GCGPEOOKLHP = 9;
+    bool FKOBJPCKIFJ = 10;
+    EGMOPPAHAMP ALJBPHELEAE = 14;
+    uint32 HDMDJECGCKC = 15;
+    uint32 JGIPOEKBNNN = 8;
+}
+

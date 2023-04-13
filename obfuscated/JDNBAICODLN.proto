@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 926
+// Name: JDNBAICODLN
+message JDNBAICODLN {
+    uint32 EMKCFAOFHNA = 5;
+    uint32 PKDJIGJDEJE = 12;
+    uint32 LAOBIDKNELB = 6;
+}
+

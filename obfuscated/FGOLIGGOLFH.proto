@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4644
+// Name: FGOLIGGOLFH
+message FGOLIGGOLFH {
+    uint32 NDEIHPOEFDN = 5;
+    int32 EEDMFEOGLFN = 8;
+    uint32 NMNCDDNAKLK = 12;
+    uint32 KLNKMDGAOJI = 9;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HIOHLMOBFND.proto";
+
+// CmdId: 251
+// Name: LNAAFIHHCDN
+message LNAAFIHHCDN {
+    uint32 FGEIEPJKHDL = 11;
+    repeated uint32 DIMICFPBIBN = 9;
+    repeated HIOHLMOBFND GBPDOMJOOFB = 12;
+    int32 EEDMFEOGLFN = 2;
+}
+

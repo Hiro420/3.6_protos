@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ENJILBPPCGP.proto";
+
+// CmdId: 5072
+// Name: KPOICGBLJAH
+message KPOICGBLJAH {
+    int32 EEDMFEOGLFN = 15;
+    ENJILBPPCGP HBJKFGNJKMA = 9;
+}
+

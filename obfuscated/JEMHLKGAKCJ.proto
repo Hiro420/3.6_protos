@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 101
+// Name: JEMHLKGAKCJ
+message JEMHLKGAKCJ {
+    // Name: KIHMMCOKBOG
+    enum KIHMMCOKBOG {
+        KIHMMCOKBOG_QUEST = 0;
+        KIHMMCOKBOG_GADGET = 1;
+    }
+
+    uint32 EIBBPACAANG = 10;
+    KIHMMCOKBOG NMELCDGPAMB = 15;
+    repeated INPDDALBMBO HBCGHCPACGD = 2;
+    map<uint64, uint32> ILLELGBJJJI = 3;
+}
+

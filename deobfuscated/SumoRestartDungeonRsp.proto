@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8584
+// Name: CNGGPGPNJDP
+message SumoRestartDungeonRsp {
+    uint32 dungeon_id = 14;
+    uint32 point_id = 2;
+    int32 retcode = 9;
+}
+

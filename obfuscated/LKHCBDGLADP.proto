@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NPALPPLEFFC.proto";
+
+// CmdId: 6209
+// Name: LKHCBDGLADP
+message LKHCBDGLADP {
+    uint32 IHJHBOGKMLA = 7;
+    uint64 DKFHDCGJEJK = 11;
+    NPALPPLEFFC IGIANMBNHAO = 1;
+}
+

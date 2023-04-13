@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OtherCustomDungeonBrief.proto";
+
+// CmdId: 6219
+// Name: LLCCAGBHIEJ
+message GetStoreCustomDungeonRsp {
+    repeated OtherCustomDungeonBrief custom_dungeon_list = 6;
+    int32 retcode = 5;
+}
+

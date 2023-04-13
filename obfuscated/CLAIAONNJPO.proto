@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 286
+// Name: CLAIAONNJPO
+message CLAIAONNJPO {
+    uint32 LAMAHKLHAED = 1;
+    uint32 FGEIEPJKHDL = 9;
+}
+

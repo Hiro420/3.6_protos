@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KCKOEEDAIMB.proto";
+
+// Name: LJEKGNLHFBO
+message LJEKGNLHFBO {
+    float HKLFAPFDLCN = 7;
+    repeated KCKOEEDAIMB MCLPANONIJO = 4;
+}
+

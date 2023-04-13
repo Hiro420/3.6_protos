@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20024
+// Name: JGLJENGADON
+message JGLJENGADON {
+    uint32 CANGDGHGIIF = 11;
+    bool GBHJHJENFGK = 2;
+    uint32 NNJAJGCHJKE = 10;
+    bool HKHAADBCFDO = 9;
+    uint32 HDMDJECGCKC = 14;
+}
+

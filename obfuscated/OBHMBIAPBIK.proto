@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JPFBGLAPEMJ.proto";
+
+// Name: OBHMBIAPBIK
+message OBHMBIAPBIK {
+    repeated JPFBGLAPEMJ IEELACNECJA = 5;
+    uint32 MLPILHLBBBG = 15;
+    uint32 NOEKMBGKNOF = 14;
+    map<uint32, uint32> ACGEIJNJJAG = 7;
+}
+

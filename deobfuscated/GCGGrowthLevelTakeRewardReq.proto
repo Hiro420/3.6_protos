@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7787
+// Name: ILDNNMNCLJM
+message GCGGrowthLevelTakeRewardReq {
+    uint32 level = 8;
+}
+

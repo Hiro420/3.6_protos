@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7470
+// Name: OPKHNAMFACE
+message GCGGrowthLevelRewardNotify {
+    repeated uint32 level_reward_taken_list = 12;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5594
+// Name: ICAJCEJKAEI
+message ICAJCEJKAEI {
+    uint32 ECLCBCEPGIH = 3;
+}
+

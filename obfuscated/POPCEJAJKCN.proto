@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GEKCCHCJMPC.proto";
+
+// CmdId: 4549
+// Name: POPCEJAJKCN
+message POPCEJAJKCN {
+    uint32 MMLDFIDPMHG = 14;
+    GEKCCHCJMPC MIBIPIGCEOI = 9;
+}
+

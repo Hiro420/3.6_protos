@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EGDJCLPGOJC.proto";
+import "FFDCKFPNAHP.proto";
+import "KPPGCJMONCN.proto";
+import "PAPLIDJPGCN.proto";
+
+// Name: MLOIGBMELIF
+message MLOIGBMELIF {
+    uint32 MFCJNNNFCGF = 1;
+    map<uint32, PAPLIDJPGCN> IJIHPHPHEEI = 2;
+    repeated uint32 DHOMBEMCDBJ = 3;
+    map<uint32, float> MJKONFIDPMK = 4;
+    uint32 OGAANBBGHFN = 5;
+    uint32 GGGEHDAJMOC = 6;
+    repeated uint32 JLGKIHDBLJN = 7;
+    map<uint32, uint32> PDKANDNEGHK = 8;
+    map<uint32, uint32> JJFELOPEDOM = 9;
+    repeated KPPGCJMONCN GCEEDOJHJAI = 10;
+    EGDJCLPGOJC MENHBKHHOBL = 11;
+    uint32 EPLAOCBKEBP = 12;
+    FFDCKFPNAHP IJNPOEINPBI = 13;
+}
+

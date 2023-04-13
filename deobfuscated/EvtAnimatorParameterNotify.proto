@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EvtAnimatorParameterInfo.proto";
+import "ForwardType.proto";
+
+// CmdId: 396
+// Name: IOKHKCLAMIO
+message EvtAnimatorParameterNotify {
+    ForwardType forward_type = 15;
+    EvtAnimatorParameterInfo animator_param_info = 11;
+}
+

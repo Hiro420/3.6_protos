@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ANBGDIAABLH
+message ANBGDIAABLH {
+    uint32 AMBDCDLBMAN = 5;
+    bool HGEPJDPIAAP = 11;
+    int32 AJBLMLDNING = 12;
+}
+

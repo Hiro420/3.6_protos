@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 21648
+// Name: ODCPBFFABNO
+message ODCPBFFABNO {
+    int32 EEDMFEOGLFN = 3;
+}
+

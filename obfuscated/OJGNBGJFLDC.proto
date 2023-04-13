@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IOGDNKFIGHK.proto";
+import "KPEEEJLJLCI.proto";
+import "ONINAMINFAL.proto";
+
+// Name: OJGNBGJFLDC
+message OJGNBGJFLDC {
+    bool JCJGLEDFBGG = 8;
+    uint32 FNFPIGHNBLL = 3;
+    uint32 IJIJCEOFJFI = 11;
+    uint32 HEAIGJBBEIP = 9;
+    fixed32 PHELLJODGAN = 14;
+    KPEEEJLJLCI ADHJFIFJFJD = 2;
+    repeated IOGDNKFIGHK JPEIDEHFJLL = 7;
+    uint32 HJLEBAHLAOL = 4;
+    fixed32 MFDOOOMAMKN = 10;
+    repeated ONINAMINFAL CEEKAANHKID = 12;
+}
+

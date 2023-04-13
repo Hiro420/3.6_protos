@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BIGICACAMIG.proto";
+import "INFFPBNIKIF.proto";
+import "LPCIOFANBMP.proto";
+
+// Name: OBFDDCOLMPE
+message OBFDDCOLMPE {
+    uint32 JJGGAPDDOLN = 6;
+    oneof MKDKKDLDJFI {
+        BIGICACAMIG KLODAAEBKMG = 12;
+        LPCIOFANBMP AGJPIFLGJBK = 13;
+        INFFPBNIKIF NMFINDNAEBG = 7;
+    }
+}
+

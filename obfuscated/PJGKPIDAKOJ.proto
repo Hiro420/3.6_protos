@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24658
+// Name: PJGKPIDAKOJ
+message PJGKPIDAKOJ {
+    uint32 HDMDJECGCKC = 3;
+}
+

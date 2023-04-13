@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 191
+// Name: AJKNMCDMLOI
+message AJKNMCDMLOI {
+    bool JBECKIOEBDD = 1;
+}
+

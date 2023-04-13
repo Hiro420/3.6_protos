@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 135
+// Name: GNMHOBIGNDL
+message GNMHOBIGNDL {
+    uint32 OIIBJEANAME = 7;
+}
+

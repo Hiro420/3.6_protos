@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PEHFOAKOBCN
+message PEHFOAKOBCN {
+    uint32 IGGFEPAJECG = 3;
+    uint32 NLMFLJDFCMK = 9;
+}
+

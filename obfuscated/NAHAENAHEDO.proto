@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7339
+// Name: NAHAENAHEDO
+message NAHAENAHEDO {
+    bool PAJGKKPGKAA = 12;
+}
+

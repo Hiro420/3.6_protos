@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IBHCDDLNFFL.proto";
+
+// Name: DBMCOIFNCGD
+message DBMCOIFNCGD {
+    uint32 DNOPLJCEPEK = 12;
+    float FIGCHBCEBLM = 10;
+    uint32 BOCPCJNJFLL = 1;
+    map<uint32, uint32> GPKLMILLOED = 7;
+    uint32 LLDLIEFOODH = 9;
+    float AKBGKFBHPEO = 5;
+    uint32 DMBFPFFMFCM = 15;
+    float EHCPFCIGKMJ = 11;
+    uint32 GBCJLKBJCBO = 3;
+    repeated IBHCDDLNFFL GIPOHEBBAPL = 2;
+    uint32 HPLKPDLHGJB = 6;
+    float HLLKKIIENIK = 4;
+}
+

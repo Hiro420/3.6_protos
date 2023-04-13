@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 22447
+// Name: BOGKEHNLPAM
+message BOGKEHNLPAM {
+    repeated uint32 MBPOCFFFMNC = 10;
+}
+

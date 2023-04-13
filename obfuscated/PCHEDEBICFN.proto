@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PGMMPGOGFEH.proto";
+
+// CmdId: 3509
+// Name: PCHEDEBICFN
+message PCHEDEBICFN {
+    repeated PGMMPGOGFEH MDLOBBJCLMH = 4;
+}
+

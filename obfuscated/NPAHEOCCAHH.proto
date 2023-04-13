@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IJBDFMLMJMF.proto";
+
+// CmdId: 183
+// Name: NPAHEOCCAHH
+message NPAHEOCCAHH {
+    IJBDFMLMJMF DLCNKBJLOHJ = 4;
+    int32 EEDMFEOGLFN = 13;
+}
+

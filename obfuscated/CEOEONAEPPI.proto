@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1999
+// Name: CEOEONAEPPI
+message CEOEONAEPPI {
+    repeated uint32 NDCGDOIPKNJ = 5;
+    int32 EEDMFEOGLFN = 6;
+    uint32 HJLEBAHLAOL = 8;
+}
+

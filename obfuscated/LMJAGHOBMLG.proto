@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 175
+// Name: LMJAGHOBMLG
+message LMJAGHOBMLG {
+    string HFJHMECOIJI = 15;
+    uint32 MFCJNNNFCGF = 2;
+}
+

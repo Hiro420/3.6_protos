@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JAEINPOMBHJ.proto";
+
+// CmdId: 2565
+// Name: JLPCIJCCNOI
+message JLPCIJCCNOI {
+    repeated JAEINPOMBHJ GPBOHMFKMEE = 1;
+    int32 EEDMFEOGLFN = 7;
+}
+

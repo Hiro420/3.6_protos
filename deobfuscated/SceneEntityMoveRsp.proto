@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MotionInfo.proto";
+
+// CmdId: 292
+// Name: DMMGIENKIKO
+message SceneEntityMoveRsp {
+    uint32 scene_time = 2;
+    int32 retcode = 8;
+    uint32 reliable_seq = 9;
+    MotionInfo fail_motion = 15;
+    uint32 entity_id = 14;
+}
+

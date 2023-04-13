@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1976
+// Name: FAPCCOFIPHK
+message FAPCCOFIPHK {
+    uint32 HJLEBAHLAOL = 9;
+    uint32 OGGANPIOMED = 7;
+    int32 EEDMFEOGLFN = 10;
+}
+

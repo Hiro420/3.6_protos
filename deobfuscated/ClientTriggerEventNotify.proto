@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EventTriggerType.proto";
+
+// CmdId: 112
+// Name: NCFJLNGOJAD
+message ClientTriggerEventNotify {
+    EventTriggerType event_type = 13;
+    uint32 force_id = 4;
+}
+

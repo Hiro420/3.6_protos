@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1749
+// Name: MBNHDAMLHMP
+message MBNHDAMLHMP {
+    uint32 GNBAJDLLIMB = 7;
+    uint32 KDPMCPNBDFF = 3;
+    uint64 FPIIPJJPBOH = 12;
+}
+

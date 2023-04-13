@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EALFDFCFHPG.proto";
+
+// CmdId: 7479
+// Name: LMHHDFLHLMN
+message LMHHDFLHLMN {
+    uint32 BMFNMPCCLIA = 10;
+    uint32 BAOMCLNMEJG = 8;
+    EALFDFCFHPG EPLOGDKMJBN = 1;
+}
+

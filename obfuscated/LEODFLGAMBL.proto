@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LEODFLGAMBL
+message LEODFLGAMBL {
+    uint32 EHPIOILFBIN = 8;
+    uint32 GKJHPNJHBOC = 6;
+}
+

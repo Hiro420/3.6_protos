@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LNCEDAALACN
+message SceneGalleryTreasureSeelieInfo {
+    uint32 goal = 15;
+    uint32 progress = 13;
+}
+

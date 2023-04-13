@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NLLKFGCFOBL.proto";
+
+// CmdId: 1499
+// Name: GOLFMOPNENJ
+message GOLFMOPNENJ {
+    uint32 CDLABECFBPJ = 7;
+    repeated NLLKFGCFOBL FJHLKLIJPKK = 5;
+    bool LKHFHNAJFJG = 12;
+    uint32 GAAHHONLFPA = 8;
+    int32 EEDMFEOGLFN = 2;
+    string LKLDJHKFFOL = 10;
+}
+

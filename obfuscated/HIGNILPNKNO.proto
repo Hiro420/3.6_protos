@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8921
+// Name: HIGNILPNKNO
+message HIGNILPNKNO {
+    uint32 LFOCJEADKPK = 1;
+    map<uint32, uint32> FHELHIPKFPB = 5;
+}
+

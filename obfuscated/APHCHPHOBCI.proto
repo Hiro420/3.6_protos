@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MCHGLACJIHO.proto";
+
+// Name: APHCHPHOBCI
+message APHCHPHOBCI {
+    repeated MCHGLACJIHO PDIFKJJOFCB = 15;
+    uint32 HDMDJECGCKC = 9;
+    bool FKOBJPCKIFJ = 10;
+    bool CCOOPGOPBDI = 4;
+}
+

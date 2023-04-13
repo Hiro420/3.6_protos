@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ECAMCLJMACN
+message ECAMCLJMACN {
+    uint32 MFCJNNNFCGF = 1;
+    uint32 EPLAOCBKEBP = 2;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ANDGDNJMFIH.proto";
+
+// Name: LAFPNNGPPME
+message LAFPNNGPPME {
+    uint32 JJGGAPDDOLN = 12;
+    bool FKOBJPCKIFJ = 11;
+    uint32 JGIPOEKBNNN = 15;
+    map<uint32, ANDGDNJMFIH> CAFHANCEHMA = 3;
+    bool NCACAHINDCJ = 4;
+}
+

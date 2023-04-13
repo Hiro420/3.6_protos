@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PDOJLOOPDDO
+message PDOJLOOPDDO {
+    uint32 LJIDLHJCMIL = 1;
+    repeated uint32 PBDPAEPCBJP = 2;
+    uint32 PGKLHFMKKKC = 3;
+}
+

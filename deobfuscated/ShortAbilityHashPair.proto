@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LGGNFLPNPII
+message ShortAbilityHashPair {
+    sfixed32 ability_name_hash = 4;
+    sfixed32 ability_config_hash = 5;
+}
+

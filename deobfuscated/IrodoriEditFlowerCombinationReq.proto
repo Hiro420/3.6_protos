@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CustomGadgetTreeInfo.proto";
+
+// CmdId: 8944
+// Name: MKEDLCFFAOO
+message IrodoriEditFlowerCombinationReq {
+    CustomGadgetTreeInfo combination_info = 3;
+    uint32 entity_id = 7;
+}
+

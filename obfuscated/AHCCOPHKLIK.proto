@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JLEGECKKDKB.proto";
+
+// Name: AHCCOPHKLIK
+message AHCCOPHKLIK {
+    repeated JLEGECKKDKB KMGGPLOCMCJ = 5;
+}
+

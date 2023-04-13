@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8494
+// Name: IDMOIJINDIJ
+message RogueFinishRepairRsp {
+    int32 retcode = 5;
+}
+

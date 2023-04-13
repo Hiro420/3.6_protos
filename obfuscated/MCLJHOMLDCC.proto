@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CKOKLOOFHLJ.proto";
+
+// Name: MCLJHOMLDCC
+message MCLJHOMLDCC {
+    uint32 GKHNAEEAAOA = 4;
+    CKOKLOOFHLJ BHPDABPJDOG = 13;
+    uint32 JGMIHIGGIDB = 7;
+}
+

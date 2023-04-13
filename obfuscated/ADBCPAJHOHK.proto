@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ONINAMINFAL.proto";
+
+// Name: ADBCPAJHOHK
+message ADBCPAJHOHK {
+    repeated ONINAMINFAL MGPJAPEDDNF = 4;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 20539
+// Name: PMBAFLIIPEC
+message PMBAFLIIPEC {
+    int32 retcode = 9;
+}
+

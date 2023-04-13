@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BBNFFMPCCDO.proto";
+
+// CmdId: 4614
+// Name: FKKDNFEPMIL
+message FKKDNFEPMIL {
+    int32 EEDMFEOGLFN = 8;
+    BBNFFMPCCDO OJDOGILALFE = 14;
+}
+

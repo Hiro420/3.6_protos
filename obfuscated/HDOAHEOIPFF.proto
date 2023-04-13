@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GECIFFJAPJD.proto";
+
+// Name: HDOAHEOIPFF
+message HDOAHEOIPFF {
+    uint32 PBGIFFMIILN = 11;
+    repeated GECIFFJAPJD HPIECCGDIGE = 3;
+}
+

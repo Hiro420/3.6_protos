@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KBNDDMHEAAB.proto";
+
+// Name: EMCLDENBBCF
+message EMCLDENBBCF {
+    uint32 DMBFPFFMFCM = 9;
+    repeated KBNDDMHEAAB IHBNLMKGGBJ = 7;
+}
+

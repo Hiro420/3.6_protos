@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: IMNNCILPDEM
+enum IMNNCILPDEM {
+    IMNNCILPDEM_GCG_SETTLE_OPT_NONE = 0;
+    IMNNCILPDEM_GCG_SETTLE_OPT_EXIT = 1;
+    IMNNCILPDEM_GCG_SETTLE_OPT_CONTINUE = 2;
+    IMNNCILPDEM_GCG_SETTLE_OPT_RESTART = 3;
+}
+

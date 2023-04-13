@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: NBGPGDKIFEN
+message NBGPGDKIFEN {
+    uint32 LLDFMFMLKOP = 2;
+    repeated uint32 BCGPLMJLPIF = 13;
+}
+

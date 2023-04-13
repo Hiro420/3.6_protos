@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HKIDINMGFBN
+message HKIDINMGFBN {
+    uint32 MAEEFMMLAPD = 8;
+    bool AOLLLBPODHH = 7;
+    bool ODMFBOGNBNK = 5;
+    uint32 CINIDFALGKI = 1;
+}
+

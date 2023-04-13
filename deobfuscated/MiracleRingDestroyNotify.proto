@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5220
+// Name: NIEOBKOODAE
+message MiracleRingDestroyNotify {
+    uint32 entity_id = 8;
+}
+

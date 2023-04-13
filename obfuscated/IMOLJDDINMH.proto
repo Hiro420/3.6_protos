@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IMNNCILPDEM.proto";
+
+// CmdId: 7356
+// Name: IMOLJDDINMH
+message IMOLJDDINMH {
+    int32 EEDMFEOGLFN = 8;
+    IMNNCILPDEM JHIJHILLLBA = 15;
+}
+

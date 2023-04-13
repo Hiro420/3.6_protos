@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HLAAMJAKIEJ.proto";
+import "KHKOLNIDAEP.proto";
+
+// CmdId: 3060
+// Name: FPPNHNKFNPK
+message FPPNHNKFNPK {
+    uint32 KAHKHODLMPL = 2;
+    repeated HLAAMJAKIEJ LNFNIMPJAKF = 15;
+    KHKOLNIDAEP JLNIFAPGJPK = 10;
+}
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BAEMPHKEOGM
+message SceneGalleryDuelHeartInfo {
+    uint32 difficulty = 14;
+}
+

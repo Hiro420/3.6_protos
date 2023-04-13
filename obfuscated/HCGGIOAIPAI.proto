@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OKLFPJCHPDD.proto";
+
+// Name: HCGGIOAIPAI
+message HCGGIOAIPAI {
+    bool NMBCKBAAEAG = 5;
+    repeated OKLFPJCHPDD CLBHIKIDNIG = 11;
+    map<uint32, uint32> EGKIONLJPOE = 14;
+    uint32 PCKJELDENIP = 15;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// Name: IHKFBPJAMOH
+message IHKFBPJAMOH {
+    uint32 BJFIFAHAGNK = 1;
+    uint32 NLOIOLPFGHC = 2;
+    repeated uint32 LFDEFHKMINJ = 3;
+    repeated uint32 HPEGFPOADAC = 4;
+    INPDDALBMBO GFOLOFELCKC = 5;
+}
+

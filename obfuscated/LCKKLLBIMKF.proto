@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7766
+// Name: LCKKLLBIMKF
+message LCKKLLBIMKF {
+    repeated uint32 PLLKHFKFNBD = 9;
+}
+

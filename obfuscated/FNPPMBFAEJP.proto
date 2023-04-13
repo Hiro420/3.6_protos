@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PEKCNIEFEPH.proto";
+
+// CmdId: 4594
+// Name: FNPPMBFAEJP
+message FNPPMBFAEJP {
+    PEKCNIEFEPH APOLEDIMKCI = 3;
+    int32 EEDMFEOGLFN = 6;
+    uint32 JCDGAIIGPGC = 2;
+}
+

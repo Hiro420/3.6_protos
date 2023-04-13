@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OKDOOEMGDLK.proto";
+
+// CmdId: 6320
+// Name: EGFDJDEEIPJ
+message EGFDJDEEIPJ {
+    uint64 PJDFHKIKLNM = 13;
+    OKDOOEMGDLK KFFPLKOPJLE = 6;
+}
+

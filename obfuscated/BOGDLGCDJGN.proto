@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AKFKOGCMMAF.proto";
+
+// CmdId: 1159
+// Name: BOGDLGCDJGN
+message BOGDLGCDJGN {
+    uint32 DMBFPFFMFCM = 11;
+    AKFKOGCMMAF GEINJBIHLID = 15;
+}
+

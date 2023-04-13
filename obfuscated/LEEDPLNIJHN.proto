@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5249
+// Name: LEEDPLNIJHN
+message LEEDPLNIJHN {
+    uint32 CBGNJHFJMLP = 2;
+    uint32 PNLGKNFEFGC = 15;
+}
+

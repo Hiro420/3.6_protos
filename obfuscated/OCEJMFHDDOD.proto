@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NAIKDEGJNDH.proto";
+
+// Name: OCEJMFHDDOD
+message OCEJMFHDDOD {
+    int32 AJBLMLDNING = 7;
+    NAIKDEGJNDH BPKDOPHJPAL = 5;
+}
+

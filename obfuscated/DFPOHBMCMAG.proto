@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FHMCMLOIGJB.proto";
+
+// CmdId: 1775
+// Name: DFPOHBMCMAG
+message DFPOHBMCMAG {
+    map<uint64, FHMCMLOIGJB> MJDCPJBLBNB = 8;
+}
+

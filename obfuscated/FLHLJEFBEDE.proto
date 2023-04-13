@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 692
+// Name: FLHLJEFBEDE
+message FLHLJEFBEDE {
+    uint32 MIKNKAKEFHE = 13;
+    uint32 GMJNLBGNFEJ = 5;
+    int32 EEDMFEOGLFN = 7;
+    uint64 CNOIPKBMEHD = 3;
+    uint64 EEMILGMLGOH = 8;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 21164
+// Name: CAHLCOBAAOA
+message CAHLCOBAAOA {
+    bool HKHAADBCFDO = 11;
+    uint32 HDMDJECGCKC = 5;
+    int32 EEDMFEOGLFN = 4;
+}
+

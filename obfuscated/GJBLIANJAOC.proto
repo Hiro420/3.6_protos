@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+import "OAOOLKPAOFH.proto";
+
+// CmdId: 148
+// Name: GJBLIANJAOC
+message GJBLIANJAOC {
+    uint32 AIBLNBAFJOL = 2;
+    int32 EEDMFEOGLFN = 12;
+    uint32 EHPKNEPMOAO = 14;
+    repeated INPDDALBMBO IEEPAJEHDIJ = 8;
+    repeated INPDDALBMBO MHFCIOCKFKH = 15;
+    OAOOLKPAOFH NNGBCNCOGPK = 9;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ENJILBPPCGP
+message ENJILBPPCGP {
+    uint32 GANAIGKNLOD = 7;
+    repeated uint32 IMNAKOPDFEP = 9;
+    uint32 AMEJLPJCENL = 13;
+    uint32 ODCICMMHNOH = 10;
+}
+

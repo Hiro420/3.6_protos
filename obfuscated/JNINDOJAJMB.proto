@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 4285
+// Name: JNINDOJAJMB
+message JNINDOJAJMB {
+    uint32 DNHHONGGDCN = 2;
+    KKFEDHALJFH DBDEEBCMHMM = 1;
+    uint32 DMBFPFFMFCM = 13;
+}
+

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JAJEHOIAKLD
+message JAJEHOIAKLD {
+    string JPIEPAAAKPA = 1;
+    string FFFEIEGGGNJ = 2;
+    uint32 JHAIHEIBNGN = 3;
+    uint32 PNHMMIBBDHB = 4;
+    uint32 BEJLIKCLKPN = 5;
+    uint32 JFAFMJAFPEF = 6;
+    uint32 ENKAIDGPEKF = 7;
+}
+

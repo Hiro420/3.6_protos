@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8596
+// Name: HDGLOCPPIII
+message HDGLOCPPIII {
+    int32 EEDMFEOGLFN = 6;
+    uint32 FCJPKOCJACN = 2;
+    uint32 IHJHBOGKMLA = 10;
+}
+

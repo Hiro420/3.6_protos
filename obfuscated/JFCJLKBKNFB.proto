@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PLIOPEDCBDE.proto";
+
+// CmdId: 495
+// Name: JFCJLKBKNFB
+message JFCJLKBKNFB {
+    PLIOPEDCBDE HNGCCGJJGAC = 2;
+    uint32 PKJKKDPMAHL = 14;
+    int32 EEDMFEOGLFN = 12;
+    int32 EMENIOELKDM = 7;
+}
+

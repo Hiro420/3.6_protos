@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2121
+// Name: EBOFNEMBJCD
+message EBOFNEMBJCD {
+    uint32 JBMPBFDPKGD = 11;
+    uint32 AMBDCDLBMAN = 4;
+}
+

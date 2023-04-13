@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ONINAMINFAL.proto";
+
+// Name: GAFAFJOLEAO
+message GAFAFJOLEAO {
+    uint32 EHPIOILFBIN = 5;
+    repeated ONINAMINFAL AJICMDLBFLK = 6;
+}
+

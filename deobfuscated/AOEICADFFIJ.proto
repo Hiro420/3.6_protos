@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PlatformType.proto";
+
+// CmdId: 968
+// Name: AOEICADFFIJ
+message AOEICADFFIJ {
+    repeated PlatformType CHOPMGJFOKD = 4;
+    repeated uint32 monster_id_list = 11;
+}
+

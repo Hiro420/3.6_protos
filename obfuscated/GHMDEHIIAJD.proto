@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GGDPCAPPPNF.proto";
+
+// Name: GHMDEHIIAJD
+message GHMDEHIIAJD {
+    int32 JALOBHKEKIJ = 1;
+    GGDPCAPPPNF GDELKPLHLFJ = 2;
+}
+

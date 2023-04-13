@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OKPKNAAHJPO.proto";
+
+// CmdId: 261
+// Name: CBPCIBPLELE
+message CBPCIBPLELE {
+    uint32 FAEMKENJOKO = 6;
+    bool ONABAFCOJBC = 7;
+    repeated OKPKNAAHJPO BPGFDJAMANE = 3;
+}
+

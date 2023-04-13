@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PushTipsData.proto";
+
+// CmdId: 2277
+// Name: GJPHFPEDDIM
+message PushTipsAllDataNotify {
+    repeated PushTipsData push_tips_list = 3;
+}
+

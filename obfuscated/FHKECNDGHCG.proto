@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FHKECNDGHCG
+message FHKECNDGHCG {
+    uint32 FGEIEPJKHDL = 9;
+    repeated uint32 PCLBJKHFMML = 15;
+    uint32 OMHOEFNPOBG = 1;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 126
+// Name: MJLAMJFMCHJ
+message DailyTaskScoreRewardNotify {
+    uint32 reward_id = 11;
+}
+

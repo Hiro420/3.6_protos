@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 556
+// Name: ECHDOLNIDMO
+message ECHDOLNIDMO {
+    repeated uint32 GENPLCLLLFB = 8;
+}
+

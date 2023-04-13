@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PKKAPIFAEHB
+enum PKKAPIFAEHB {
+    PKKAPIFAEHB_MONSTER_BORN_NONE = 0;
+    PKKAPIFAEHB_MONSTER_BORN_DEFAULT = 1;
+    PKKAPIFAEHB_MONSTER_BORN_RANDOM = 2;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MLOIGBMELIF.proto";
+
+// CmdId: 4026
+// Name: MAIBFBAOOEK
+message MAIBFBAOOEK {
+    repeated MLOIGBMELIF JIBEPPHLOLI = 10;
+    uint32 JBMPBFDPKGD = 3;
+    int32 EEDMFEOGLFN = 15;
+}
+

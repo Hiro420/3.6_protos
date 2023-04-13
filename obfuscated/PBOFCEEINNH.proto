@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PBOFCEEINNH
+message PBOFCEEINNH {
+    // Name: HBLHBIJLGFB
+    message HBLHBIJLGFB {
+        map<uint32, uint32> LKKEJINPDOC = 1;
+        uint32 FIKGIDKLCAO = 2;
+    }
+
+    // Name: KAJCGGDEJKP
+    message KAJCGGDEJKP {
+        uint32 KGLILHEMECM = 1;
+    }
+
+    // Name: JAAPOMEKCLE
+    message JAAPOMEKCLE {
+        map<uint32, uint32> LKKEJINPDOC = 1;
+        uint32 DNJLHEDNMGC = 2;
+        uint32 FIKGIDKLCAO = 3;
+    }
+
+    bool IDCADHKGPHI = 1;
+    oneof DELAIHGCGMI {
+        HBLHBIJLGFB IKKPLLOAOEK = 2;
+        KAJCGGDEJKP GHKAIKIFOBB = 3;
+        JAAPOMEKCLE JJGMGGNIFBM = 4;
+    }
+}
+

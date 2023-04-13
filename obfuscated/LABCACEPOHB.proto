@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HFPGMAKDKLF.proto";
+
+// Name: LABCACEPOHB
+message LABCACEPOHB {
+    uint32 BJEOCHCOHMH = 9;
+    HFPGMAKDKLF CNDKFAMECDF = 3;
+    uint32 MDNMOJAPBKB = 13;
+    uint32 OPPFLHPJBFL = 15;
+}
+

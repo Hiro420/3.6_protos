@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KCAIJMFIGIA
+message KCAIJMFIGIA {
+    uint32 GMJNLBGNFEJ = 1;
+    uint32 ECMMHDFBILH = 2;
+    uint32 CLACOFIEOOC = 3;
+    uint32 CMLDJEEBBKI = 4;
+}
+

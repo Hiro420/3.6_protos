@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JEMOPJPJDPL
+message GCGSkillPreviewReactionInfo {
+    uint32 EIJFJJJBIIH = 9;
+    uint32 LKDBPBBGDBN = 12;
+}
+

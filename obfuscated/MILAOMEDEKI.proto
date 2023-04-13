@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ONINAMINFAL.proto";
+
+// CmdId: 4746
+// Name: MILAOMEDEKI
+message MILAOMEDEKI {
+    repeated ONINAMINFAL DMCEFNMOPNE = 9;
+}
+

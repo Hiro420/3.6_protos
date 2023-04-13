@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OOHLEADJAIL
+message OOHLEADJAIL {
+    uint32 FJLHCPEOPBD = 1;
+    uint32 OLEBJHOKNAH = 2;
+    uint32 BDIGFOFBEKI = 3;
+    uint32 IOLKEPCMIAN = 13;
+    bool BCKJALNOGKD = 10;
+}
+

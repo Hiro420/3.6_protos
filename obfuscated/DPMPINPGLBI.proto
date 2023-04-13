@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DPMPINPGLBI
+message DPMPINPGLBI {
+    bool FKOBJPCKIFJ = 1;
+    uint32 JJGGAPDDOLN = 7;
+    uint32 JGIPOEKBNNN = 10;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ANPKECIJOAF
+message ANPKECIJOAF {
+    string KJKBNOFBAJD = 14;
+    uint32 MFCJNNNFCGF = 5;
+}
+

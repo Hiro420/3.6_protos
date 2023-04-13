@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OOHLEADJAIL
+message ReunionWatcherInfo {
+    uint32 cur_progress = 1;
+    uint32 watcher_id = 2;
+    uint32 reward_unlock_time = 3;
+    uint32 total_progress = 13;
+    bool is_taken_reward = 10;
+}
+

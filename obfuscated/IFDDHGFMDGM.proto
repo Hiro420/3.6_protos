@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NINBHPBDBNP.proto";
+
+// Name: IFDDHGFMDGM
+message IFDDHGFMDGM {
+    uint32 JJGGAPDDOLN = 4;
+    bool FKOBJPCKIFJ = 15;
+    repeated NINBHPBDBNP DLPEGIMPGFH = 10;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KKGDPNEEALG
+message KKGDPNEEALG {
+    bool DPGCAEOPGKM = 13;
+    uint64 FPIIPJJPBOH = 14;
+}
+

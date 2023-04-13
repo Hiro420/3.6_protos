@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MDGLDNMDCHA.proto";
+
+// CmdId: 5659
+// Name: LOFBJHDKDDA
+message LOFBJHDKDDA {
+    repeated MDGLDNMDCHA BBKHGOGAEAD = 9;
+    int32 EEDMFEOGLFN = 7;
+    uint32 OOGMKAHMIJH = 5;
+}
+

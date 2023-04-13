@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 259
+// Name: PGDKDGKKGBF
+message PGDKDGKKGBF {
+    bool FBIKHHNCOKJ = 9;
+    KKFEDHALJFH EHADCOBANHG = 12;
+    int32 EEDMFEOGLFN = 11;
+}
+

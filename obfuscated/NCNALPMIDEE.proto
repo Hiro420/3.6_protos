@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EIIDPILABCO.proto";
+
+// Name: NCNALPMIDEE
+message NCNALPMIDEE {
+    repeated EIIDPILABCO PIABMJLNENG = 14;
+    bool INPCACIBHDA = 3;
+}
+

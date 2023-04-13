@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 648
+// Name: KIPFBEGHHLN
+message KIPFBEGHHLN {
+    uint32 CAPDPNKCHEG = 11;
+    uint64 FPIIPJJPBOH = 9;
+    uint32 GMJNLBGNFEJ = 6;
+}
+

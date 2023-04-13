@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2478
+// Name: PDANKGGIHNG
+message PDANKGGIHNG {
+    repeated uint32 JMHBMOHOLIM = 7;
+    uint32 NOKGLOCNOLN = 5;
+    uint32 MLPILHLBBBG = 9;
+    int32 EEDMFEOGLFN = 1;
+}
+

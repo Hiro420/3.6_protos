@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GHGALEANJOA
+message GHGALEANJOA {
+    bool NJALPCBACMP = 3;
+    bool HKHAADBCFDO = 13;
+    uint32 LAOBIDKNELB = 12;
+    uint32 EMKCFAOFHNA = 4;
+    uint32 LCLFGCABJLL = 11;
+}
+

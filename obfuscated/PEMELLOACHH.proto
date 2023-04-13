@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 122
+// Name: PEMELLOACHH
+message PEMELLOACHH {
+    bytes BPMHJGFFDGP = 3;
+    uint32 HJLEBAHLAOL = 12;
+}
+

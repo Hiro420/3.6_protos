@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LockedPersonallineData.proto";
+
+// CmdId: 404
+// Name: CKJDCPDNGII
+message PersonalLineAllDataRsp {
+    uint32 legendary_key_count = 14;
+    uint32 cur_finished_daily_task_count = 6;
+    repeated uint32 can_be_unlocked_personal_line_list = 3; // OIJBKBOLJIL
+    repeated uint32 ongoing_personal_line_list = 10; // DIHALBEEOPO
+    int32 retcode = 2;
+    repeated LockedPersonallineData locked_personal_line_list = 1;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ChallengeRecord.proto";
+
+// CmdId: 939
+// Name: NFMELNBDDAE
+message ChallengeRecordNotify {
+    uint32 group_id = 4;
+    repeated ChallengeRecord challenge_record_list = 11;
+}
+

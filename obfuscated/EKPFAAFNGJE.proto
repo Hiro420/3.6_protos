@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JACLEOIAGLK.proto";
+
+// CmdId: 5599
+// Name: EKPFAAFNGJE
+message EKPFAAFNGJE {
+    JACLEOIAGLK BNCIKHIDNGM = 15;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 22017
+// Name: AKIFJCCDNEM
+message AKIFJCCDNEM {
+    uint32 OPOGLLHHAHF = 2;
+    bool GBHJHJENFGK = 1;
+    uint32 HDMDJECGCKC = 6;
+    uint32 NCGGLBKNEJD = 13;
+    uint32 BFCNINBLMEJ = 14;
+}
+

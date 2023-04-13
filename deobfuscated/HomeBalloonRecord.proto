@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeBalloonGalleryRecord.proto";
+
+// Name: HCLHBNIHOHL
+message HomeBalloonRecord {
+    repeated HomeBalloonGalleryRecord record_list = 6;
+}
+

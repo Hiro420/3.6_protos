@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LNEDLNCEKDB
+message SummerTimeV2DungeonSettleInfo {
+    uint32 BCAIGBJGEOD = 15;
+    bool is_success = 5;
+    uint32 CFFPNHNDNNI = 3;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+
+// Name: CPKIODONDBP
+message CPKIODONDBP {
+    string FLJJCLIMMJA = 13;
+    CAOGLKMLEOG IAEKOGMCHED = 1;
+    string EBLOGJGAOIP = 15;
+    uint32 KDKGDDHPIKG = 4;
+    uint32 JBMPBFDPKGD = 9;
+}
+

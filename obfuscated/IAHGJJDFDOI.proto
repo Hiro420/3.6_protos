@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 139
+// Name: IAHGJJDFDOI
+message IAHGJJDFDOI {
+    map<uint32, uint32> CBPDPIOMLNN = 9;
+}
+

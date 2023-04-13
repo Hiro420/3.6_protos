@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EDIIGNKNLHN.proto";
+import "KNCIONFEMPE.proto";
+import "OLHOELIKCAG.proto";
+
+// Name: JENPONLBPJB
+message JENPONLBPJB {
+    uint32 BGPCMFNDBOJ = 1;
+    uint32 AMEJLPJCENL = 2;
+    int64 JNFHOBCLAKL = 3;
+    oneof LFKNKFAGPCM {
+        KNCIONFEMPE FKCDPJHKILF = 4;
+        OLHOELIKCAG EBPJHLGAPJE = 5;
+        EDIIGNKNLHN FHOKBCCBANE = 6;
+    }
+}
+

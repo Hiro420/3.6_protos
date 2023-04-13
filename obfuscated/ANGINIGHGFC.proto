@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8447
+// Name: ANGINIGHGFC
+message ANGINIGHGFC {
+    uint32 AMBDCDLBMAN = 14;
+    uint32 MOLCMPFBACG = 13;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CJGELELGMNO
+message CJGELELGMNO {
+    uint32 MKMAIDBBFJP = 10;
+    uint32 CKCCFJDGNPM = 7;
+    uint32 AMEJLPJCENL = 1;
+    uint32 PHELLJODGAN = 13;
+}
+

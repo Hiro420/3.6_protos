@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8442
+// Name: PAMMFIELIDA
+message PAMMFIELIDA {
+    int32 EEDMFEOGLFN = 14;
+}
+

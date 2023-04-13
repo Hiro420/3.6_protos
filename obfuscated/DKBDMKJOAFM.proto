@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MEDHAFCLIHB.proto";
+
+// CmdId: 4275
+// Name: DKBDMKJOAFM
+message DKBDMKJOAFM {
+    MEDHAFCLIHB CDPIPBIMLNJ = 2;
+}
+

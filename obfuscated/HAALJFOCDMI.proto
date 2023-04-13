@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4173
+// Name: HAALJFOCDMI
+message HAALJFOCDMI {
+    uint32 AOOCBPDDMKC = 10;
+}
+

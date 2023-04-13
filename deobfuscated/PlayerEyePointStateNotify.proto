@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CylinderRegionSize.proto";
+import "PolygonRegionSize.proto";
+import "Vector.proto";
+
+// CmdId: 3222
+// Name: CDIJDIKAMLC
+message PlayerEyePointStateNotify {
+    bool EBMNNMLGDFM = 13; // EBMNNMLGDFM
+    uint32 region_config_id = 5; // BMCPCINJEAI
+    uint32 region_group_id = 1; // JEJEJCACLMD
+    uint32 region_shape = 14; // DAJKMINBALI
+    Vector eye_point_pos = 7;
+    bool EMOONDLNHJK = 6; // EMOONDLNHJK
+    int32 fix_lod_level = 9;
+    uint32 region_entity_id = 4;     // KLHMJNPKGJP
+    oneof region_size {
+        float sphere_radius = 1292;
+        Vector cubic_size = 362;
+        CylinderRegionSize cylinder_size = 208;
+        PolygonRegionSize polygon_size = 886;
+    }
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OFOIBICFDCF.proto";
+
+// CmdId: 7872
+// Name: EGNIHJPKBKP
+message EGNIHJPKBKP {
+    OFOIBICFDCF NPKDABMLFAL = 15;
+    uint32 DCANKEBLMNC = 9;
+}
+

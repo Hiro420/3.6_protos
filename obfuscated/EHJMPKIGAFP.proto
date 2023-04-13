@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 22145
+// Name: EHJMPKIGAFP
+message EHJMPKIGAFP {
+    uint32 EOICKCAFEIG = 2;
+    bool LIEHECKPKDA = 6;
+    bool GBHJHJENFGK = 7;
+    bool PBDLJNOKLDJ = 15;
+    uint32 EPMMPEOMKDM = 8;
+    uint32 JJGGAPDDOLN = 5;
+    uint32 ECLCBCEPGIH = 14;
+}
+

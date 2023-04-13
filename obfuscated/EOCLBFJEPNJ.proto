@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3026
+// Name: EOCLBFJEPNJ
+message EOCLBFJEPNJ {
+    map<uint32, uint32> MEOGMACBKCL = 15;
+}
+

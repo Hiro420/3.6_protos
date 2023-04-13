@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JEONPFEGIOJ.proto";
+import "LAFPNNGPPME.proto";
+import "LDPIJPEGAHL.proto";
+import "MKDIJONGAPJ.proto";
+import "POOLBEFCIIE.proto";
+
+// Name: KCBPFIEBOOC
+message KCBPFIEBOOC {
+    JEONPFEGIOJ DPHCALEGODM = 4;
+    map<uint32, MKDIJONGAPJ> ACGJOBBIPDM = 3;
+    map<uint32, POOLBEFCIIE> JKGEJOEFLIM = 1;
+    LDPIJPEGAHL AOEFNLMFOMP = 5;
+    bool MFBLCKKNECK = 15;
+    map<uint32, LAFPNNGPPME> OHJMFPGBENP = 12;
+}
+

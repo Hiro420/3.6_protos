@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8712
+// Name: NEEPOMKBDAK
+message NEEPOMKBDAK {
+    uint32 JJGGAPDDOLN = 9;
+}
+

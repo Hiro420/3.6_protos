@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "POJFIGNPLMH.proto";
+
+// CmdId: 21144
+// Name: PGJFHOOLDEE
+message PGJFHOOLDEE {
+    uint32 CFEMFAKPDCP = 3;
+    repeated POJFIGNPLMH HLHKNNLONGP = 9;
+}
+

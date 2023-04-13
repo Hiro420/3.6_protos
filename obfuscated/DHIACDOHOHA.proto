@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DHIACDOHOHA
+message DHIACDOHOHA {
+    uint32 NIIMBNGADDB = 2;
+    repeated uint64 CBLFCLJDKAO = 1;
+}
+

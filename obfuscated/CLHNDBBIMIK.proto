@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AOCBMGOJAEH.proto";
+import "COHJIIJBAGM.proto";
+import "FJNDMHEHEEH.proto";
+import "OFGPAAEDBLN.proto";
+
+// Name: CLHNDBBIMIK
+message CLHNDBBIMIK {
+    repeated uint32 LKGHAADOFLF = 1;
+    repeated FJNDMHEHEEH ILPCNJFGKGG = 10;
+    repeated AOCBMGOJAEH KMACBGBMKKG = 14;
+    repeated uint32 KIKFFIHPEKI = 6;
+    repeated OFGPAAEDBLN EKIIPACMNCC = 12;
+    repeated COHJIIJBAGM JPEIPBCCBLK = 13;
+    repeated uint32 DJDBGBNHGGL = 9;
+}
+

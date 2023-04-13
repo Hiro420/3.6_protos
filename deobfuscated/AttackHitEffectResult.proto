@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ABOLAALABPG
+message AttackHitEffectResult {
+    uint32 FAAKOHDGPFM = 13;
+    uint32 FMEGOOPBEJB = 11;
+    float OIJINAAFNAC = 9;
+    float JHNFFJDKJJJ = 2;
+    float GMFMEIEIEPB = 3;
+    float JOOLHFLPAOE = 10;
+}
+

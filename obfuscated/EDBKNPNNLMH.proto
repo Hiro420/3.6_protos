@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CGBMNFJOEMP.proto";
+
+// CmdId: 4567
+// Name: EDBKNPNNLMH
+message EDBKNPNNLMH {
+    int32 EEDMFEOGLFN = 13;
+    repeated CGBMNFJOEMP KBLDLLCGPBK = 14;
+}
+

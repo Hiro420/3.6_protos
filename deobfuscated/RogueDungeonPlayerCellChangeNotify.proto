@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8229
+// Name: GAHJJDLCPKI
+message RogueDungeonPlayerCellChangeNotify {
+    uint32 cell_id = 2;
+    uint32 old_cell_id = 15;
+}
+

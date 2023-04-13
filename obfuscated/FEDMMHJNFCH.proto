@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FEDMMHJNFCH
+enum FEDMMHJNFCH {
+    FEDMMHJNFCH_NEED_CONFIRM = 0;
+    FEDMMHJNFCH_REFUSE = 1;
+    FEDMMHJNFCH_DIRECT = 2;
+}
+

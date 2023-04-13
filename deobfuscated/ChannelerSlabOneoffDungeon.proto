@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GHJHLHKEADB
+message ChannelerSlabOneoffDungeon {
+    bool is_done = 15;
+    uint32 dungeon_id = 10;
+    uint32 reward_id = 13;
+}
+

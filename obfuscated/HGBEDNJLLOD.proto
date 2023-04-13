@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GHNPJLHELHH.proto";
+import "KKFEDHALJFH.proto";
+import "PEHLILGOPKN.proto";
+
+// CmdId: 312
+// Name: HGBEDNJLLOD
+message HGBEDNJLLOD {
+    PEHLILGOPKN CGAFJIIPALB = 9;
+    uint32 CHAAECJCFEO = 11;
+    int32 BLKANPLNPPB = 8;
+    uint32 COMKPCEEHHP = 10;
+    KKFEDHALJFH MIACKLDGLNE = 3;
+    GHNPJLHELHH JNDLJDCFAKM = 14;
+    KKFEDHALJFH HMFHFOBAMHL = 15;
+    uint32 DMBFPFFMFCM = 2;
+    uint32 NPDKHLDBEBI = 4;
+}
+

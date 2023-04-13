@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GJCKIPADNIM.proto";
+
+// CmdId: 4278
+// Name: DGNBGJPCNAN
+message DGNBGJPCNAN {
+    GJCKIPADNIM OMPKAGLAHAC = 6;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4518
+// Name: KFFGIGOAKJA
+message HomeSceneJumpRsp {
+    int32 retcode = 1;
+    bool is_enter_room_scene = 4;
+}
+

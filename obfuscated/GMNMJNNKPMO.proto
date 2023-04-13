@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 653
+// Name: GMNMJNNKPMO
+message GMNMJNNKPMO {
+    map<uint32, uint32> MPNCNOCKFCH = 6;
+}
+

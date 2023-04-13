@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 2841
+// Name: LEIJECOECHD
+message LEIJECOECHD {
+    repeated uint32 BLKEOJMFAOC = 14;
+    int32 EEDMFEOGLFN = 12;
+    repeated INPDDALBMBO IEEPAJEHDIJ = 7;
+    uint32 HEKHEPFHLDL = 11;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HIDBGEPIKMB.proto";
+
+// CmdId: 792
+// Name: HFFEKJIIFDG
+message HFFEKJIIFDG {
+    uint32 AFGOHALCCGO = 12;
+    repeated HIDBGEPIKMB GDIJOINCDHC = 13;
+}
+

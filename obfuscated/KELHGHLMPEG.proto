@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NLAAPIDMOCD.proto";
+
+// CmdId: 272
+// Name: KELHGHLMPEG
+message KELHGHLMPEG {
+    NLAAPIDMOCD JDBAEBBIDJF = 13;
+    uint32 DMBFPFFMFCM = 9;
+    uint32 BPJENGBJHHF = 6;
+    uint32 BIHMFOCDMKP = 5;
+}
+

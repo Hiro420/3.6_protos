@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BCGPFOIOOFJ.proto";
+
+// CmdId: 3996
+// Name: CIHBDJAJHLN
+message CIHBDJAJHLN {
+    BCGPFOIOOFJ LKCCHFBILAF = 14;
+    int32 EEDMFEOGLFN = 11;
+}
+

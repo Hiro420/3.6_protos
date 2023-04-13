@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: AINNNEOCPMB
+enum AINNNEOCPMB {
+    AINNNEOCPMB_IDLE = 0;
+    AINNNEOCPMB_CHANGING_AVATAR = 1;
+    AINNNEOCPMB_READY = 2;
+}
+

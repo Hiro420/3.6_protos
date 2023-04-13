@@ -1,0 +1,55 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IOEAFDEDGHH.proto";
+import "NIKAOEMFALA.proto";
+
+// CmdId: 189
+// Name: CLFNBHKDFFH
+message CLFNBHKDFFH {
+    uint32 KDIHPMJOCPG = 909;
+    uint32 PNJNCCNPILL = 2033;
+    string GOFLJIMJEKE = 8;
+    bool MHHMMOLNDAK = 6;
+    string JKPKMFPELKK = 778;
+    string FLJJCLIMMJA = 1781;
+    IOEAFDEDGHH GEHBLNGNJLI = 2010;
+    uint64 ABMBKHJGAHJ = 12;
+    NIKAOEMFALA HCNPIMFIADA = 498;
+    uint32 EIFPCLGOALG = 7;
+    uint32 CJHEEAGCFJG = 2015;
+    uint32 FGAKKMHIKHF = 829;
+    string FIALIJNFLDH = 2;
+    string DOAPGNNFLBJ = 1352;
+    string ALOLGBDKGBD = 4;
+    uint32 AOOCBPDDMKC = 14;
+    string KCODJEPOJPE = 254;
+    string AAEIDEMEKFF = 936;
+    uint32 FIDMBJJPBEH = 832;
+    string ADMEMLCIHBA = 1953;
+    string PKCPAMFKKPC = 11;
+    bytes JLOPICGGPBP = 978;
+    string IOBMOHHHGNB = 823;
+    uint32 ECJMGOCEABB = 1650;
+    string ENNPHCJEFFC = 3;
+    string FDMCFBMDDLH = 1125;
+    bool GDOJNKFHDMP = 10;
+    bytes JDKDCMJLHHM = 922;
+    string CIFBJNLGHBH = 1;
+    uint32 KGEIMHOAJAD = 913;
+    bool OIGAOLIKNAC = 1382;
+    string PAGIGLAOJIC = 1519;
+    string GEKKFJHGJFB = 9;
+    uint32 FMOKLFNAOOK = 1173;
+    uint32 LMNGGDPKEKF = 1897;
+    uint32 CIJNPHDIOND = 5;
+    uint32 KEILPNCNHBH = 1098;
+    string DABNCDNACJK = 587;
+    string EMACJCPNKAB = 13;
+    uint32 OEDHPFMKEIJ = 15;
+    bytes GHKJJPJKKBI = 1959;
+    uint32 LFPHHMGKIIP = 1187;
+    string CLBCECHIELM = 1256;
+}
+

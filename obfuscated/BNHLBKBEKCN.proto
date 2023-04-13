@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NEJGOAIKEPA.proto";
+
+// CmdId: 2556
+// Name: BNHLBKBEKCN
+message BNHLBKBEKCN {
+    int32 EEDMFEOGLFN = 2;
+    NEJGOAIKEPA HBJKFGNJKMA = 1;
+}
+

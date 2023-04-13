@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeGroupPlayerInfo.proto";
+
+// Name: LJAOMOMCHCJ
+message HomeRacingGalleryRecord {
+    HomeGroupPlayerInfo player_info = 4;
+    uint32 timestamp = 2;
+    uint32 use_time = 7;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeSeekFurniturePlayerScore.proto";
+
+// Name: FALEIHAMGBK
+message HomeSeekFurnitureOneRecord {
+    repeated HomeSeekFurniturePlayerScore engaged_player_score_list = 8;
+    uint32 timestamp = 10;
+}
+

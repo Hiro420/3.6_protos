@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OKDOOEMGDLK.proto";
+
+// CmdId: 6336
+// Name: OBIOHADBMBC
+message OBIOHADBMBC {
+    int32 EEDMFEOGLFN = 7;
+    OKDOOEMGDLK KFFPLKOPJLE = 15;
+    repeated uint64 LHDDCKNPAOA = 11;
+}
+

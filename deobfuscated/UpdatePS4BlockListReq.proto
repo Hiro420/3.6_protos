@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4054
+// Name: IJLJNBINDBI
+message UpdatePS4BlockListReq {
+    repeated string psn_id_list = 5;
+}
+

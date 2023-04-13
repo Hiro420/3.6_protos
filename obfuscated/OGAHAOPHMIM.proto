@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GOHGODJALDD.proto";
+import "NOABONHBAJJ.proto";
+
+// CmdId: 4257
+// Name: OGAHAOPHMIM
+message OGAHAOPHMIM {
+    GOHGODJALDD EPLOGDKMJBN = 14;
+    NOABONHBAJJ IMPNFEJOEGP = 2;
+}
+

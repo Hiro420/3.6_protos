@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 134
+// Name: AANJMLLAOLA
+message RemoveRandTaskInfoNotify {
+    // Name: HIIPJHPPCOE
+    enum FinishReason {
+        DEFAULT = 0;
+        CLEAR = 1;
+        DISTANCE = 2;
+        FINISH = 3;
+    }
+
+    uint32 rand_task_id = 4;
+    bool is_succ = 11;
+    FinishReason reason = 8;
+}
+

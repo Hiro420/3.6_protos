@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7398
+// Name: IMOCMGPFFLJ
+message IMOCMGPFFLJ {
+    uint32 BIEJNHMGMON = 7;
+}
+

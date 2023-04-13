@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KBNDDMHEAAB.proto";
+
+// CmdId: 1176
+// Name: BKDFGPLGGGB
+message BKDFGPLGGGB {
+    repeated KBNDDMHEAAB IHBNLMKGGBJ = 6;
+    uint32 DMBFPFFMFCM = 4;
+}
+

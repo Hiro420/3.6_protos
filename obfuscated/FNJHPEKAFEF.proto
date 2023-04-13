@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NNEANEAPPGD.proto";
+
+// CmdId: 8785
+// Name: FNJHPEKAFEF
+message FNJHPEKAFEF {
+    uint32 ECLCBCEPGIH = 1;
+    NNEANEAPPGD KEPJFKAEJDH = 2;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FJAGNEBFDHH
+message BargainSnapshot {
+    uint32 FBLDNHGMENF = 7;
+    uint32 LJKDGKOHKPG = 15;
+    int32 cur_mood = 2;
+    uint32 bargain_id = 13;
+}
+

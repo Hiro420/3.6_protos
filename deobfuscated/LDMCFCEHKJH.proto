@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 829
+// Name: LDMCFCEHKJH
+message LDMCFCEHKJH {
+    bool KOKIFJMPGLI = 3;
+    map<uint32, uint32> gadget_chain_level_map = 1;
+}
+

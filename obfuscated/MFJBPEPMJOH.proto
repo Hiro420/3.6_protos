@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MFJBPEPMJOH
+message MFJBPEPMJOH {
+    repeated uint64 CBLFCLJDKAO = 15;
+    string AMCINKLPCBC = 2;
+}
+

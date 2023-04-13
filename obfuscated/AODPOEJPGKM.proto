@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NBEGCGIOLGP.proto";
+
+// CmdId: 4440
+// Name: AODPOEJPGKM
+message AODPOEJPGKM {
+    NBEGCGIOLGP MGEMFCJNAFI = 7;
+}
+

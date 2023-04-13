@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JFGLKLBDHBF.proto";
+import "OHBLLAGJHLI.proto";
+
+// Name: GNBPOJNPKCA
+message GNBPOJNPKCA {
+    repeated JFGLKLBDHBF AKDNFEAGLCO = 2;
+    map<uint32, OHBLLAGJHLI> ELCNCHBNMKE = 14;
+    repeated JFGLKLBDHBF JIDGICBBLBG = 1;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PGIJOMGHNEA
+message PGIJOMGHNEA {
+    uint32 PLPNPDNKJEO = 11;
+    uint32 HJPNGFCANDB = 12;
+}
+

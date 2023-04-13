@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8630
+// Name: HKDMDDFLHND
+message HKDMDDFLHND {
+    uint32 MAEEFMMLAPD = 8;
+}
+

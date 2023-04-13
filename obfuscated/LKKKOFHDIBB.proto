@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LKKKOFHDIBB
+message LKKKOFHDIBB {
+    uint32 HCGIBBGCFHO = 1;
+    uint32 KBCFLOPLBOI = 2;
+    uint32 CMLDJEEBBKI = 3;
+    map<uint32, uint32> CGDKECAFPNM = 4;
+}
+

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+import "PHLABMFOJJA.proto";
+
+// CmdId: 4710
+// Name: AIOIBJHEPKI
+message AIOIBJHEPKI {
+    PHLABMFOJJA FAOBIMACLPC = 11;
+    uint32 HBDKCGNFKMH = 7;
+    repeated INPDDALBMBO MDJJBOAANKF = 4;
+    int32 EEDMFEOGLFN = 10;
+    repeated INPDDALBMBO BNCLNGJLJIA = 2;
+}
+

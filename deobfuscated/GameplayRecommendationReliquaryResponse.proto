@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GameplayRecommendationReliquaryMainPropData.proto";
+
+// Name: NHMPFEALEGC
+message GameplayRecommendationReliquaryResponse {
+    uint32 equip_type = 12;
+    repeated GameplayRecommendationReliquaryMainPropData main_prop_data_list = 11;
+}
+

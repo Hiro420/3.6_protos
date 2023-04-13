@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: AGFFIOMCMJK
+message AGFFIOMCMJK {
+    uint32 AMEJLPJCENL = 10;
+    bool PMGMPLGIKOD = 5;
+    uint32 JFCEBEHKCIK = 15;
+}
+

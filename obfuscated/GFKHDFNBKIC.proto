@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 606
+// Name: GFKHDFNBKIC
+message GFKHDFNBKIC {
+    uint64 FPIIPJJPBOH = 13;
+    uint32 EHMBOELABHH = 6;
+    uint32 NBOGOGNNBKI = 7;
+    int32 EEDMFEOGLFN = 2;
+    repeated INPDDALBMBO IHDOKECEDDF = 9;
+    repeated INPDDALBMBO FHAEJOGBPCP = 3;
+    repeated INPDDALBMBO INKBGEBHDDN = 12;
+    repeated INPDDALBMBO OIJHNBLLBGE = 11;
+    repeated INPDDALBMBO DIBLNNKANMM = 10;
+}
+

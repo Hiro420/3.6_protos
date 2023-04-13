@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NBGGEIGICAF.proto";
+
+// Name: BEHGLPOBCPO
+message BEHGLPOBCPO {
+    repeated NBGGEIGICAF PFCKLEMEOOL = 3;
+}
+

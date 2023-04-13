@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 220
+// Name: CMEINLHKMJA
+message CMEINLHKMJA {
+    uint32 IHEPIKIDEAB = 11;
+}
+

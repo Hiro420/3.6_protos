@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LPJODIDIFIL.proto";
+
+// Name: IHONIMHMIGN
+message IHONIMHMIGN {
+    LPJODIDIFIL IHFHAKNFPKH = 5;
+    uint32 MAEEFMMLAPD = 10;
+    uint32 HCGIBBGCFHO = 2;
+}
+

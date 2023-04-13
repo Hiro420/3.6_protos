@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PABEKLDMOOJ
+message PABEKLDMOOJ {
+    uint32 MFCJNNNFCGF = 5;
+    string LLMNHOCLJHG = 12;
+    uint32 EPLAOCBKEBP = 1;
+    uint32 FCHAFDEEOFA = 4;
+    string FLJJCLIMMJA = 13;
+}
+

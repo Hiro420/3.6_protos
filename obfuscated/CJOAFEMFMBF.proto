@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LALFJCCDPOB.proto";
+
+// Name: CJOAFEMFMBF
+message CJOAFEMFMBF {
+    repeated LALFJCCDPOB OEDIBEDBHGF = 15;
+}
+

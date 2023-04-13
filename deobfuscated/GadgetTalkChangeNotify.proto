@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 842
+// Name: HDPNKEHBOFA
+message GadgetTalkChangeNotify {
+    uint32 cur_gadget_talk_state = 1;
+    uint32 gadget_entity_id = 15;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2135
+// Name: GFPCJOCCGMC
+message GFPCJOCCGMC {
+    uint32 ONPKOKBOFEJ = 14;
+    uint32 GFNMGEGMMOP = 11;
+    uint32 LFOCJEADKPK = 15;
+}
+

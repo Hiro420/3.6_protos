@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeResource.proto";
+
+// CmdId: 4519
+// Name: NBELLMAHLCJ
+message HomeResourceTakeFetterExpRsp {
+    HomeResource fetter_exp = 14;
+    int32 retcode = 15;
+}
+

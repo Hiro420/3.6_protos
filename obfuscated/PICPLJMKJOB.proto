@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 245
+// Name: PICPLJMKJOB
+message PICPLJMKJOB {
+    uint32 DMBFPFFMFCM = 14;
+}
+

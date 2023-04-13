@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DBDCBIBLLAE.proto";
+import "DOHNFLCDCJP.proto";
+import "HOKJIFJPJLB.proto";
+import "IPICMDDHCHD.proto";
+import "JEFLHCMKIFB.proto";
+import "LPNDMALNLNP.proto";
+import "MEDHAFCLIHB.proto";
+import "MJLCBFDOPBF.proto";
+import "NOABONHBAJJ.proto";
+
+// CmdId: 4263
+// Name: KOINNJPEKPI
+message KOINNJPEKPI {
+    DBDCBIBLLAE OBDFDDMPHLJ = 3;
+    LPNDMALNLNP JNNPPPHBKKC = 9;
+    repeated JEFLHCMKIFB ADBNKFCAFIA = 12;
+    HOKJIFJPJLB HPHEBMLGPIH = 5;
+    repeated NOABONHBAJJ MADHOCEALIB = 6;
+    repeated IPICMDDHCHD PLGPCHOMBHK = 2;
+    MEDHAFCLIHB CDPIPBIMLNJ = 8;
+    repeated uint32 PLNPOIMBDMC = 1;
+    repeated MJLCBFDOPBF FDPCHELILNI = 15;
+    repeated MJLCBFDOPBF PDHMECJOMAB = 13;
+    repeated DOHNFLCDCJP EOJIFJJHOAJ = 11;
+    uint32 LHLGBJHBAKL = 7;
+}
+

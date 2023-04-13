@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 20862
+// Name: DHPHLFEODEE
+message VintageMarketStoreUnlockSlotReq {
+    uint32 store_id = 14;
+}
+

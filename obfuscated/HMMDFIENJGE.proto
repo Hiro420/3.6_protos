@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HFPGMAKDKLF.proto";
+
+// Name: HMMDFIENJGE
+message HMMDFIENJGE {
+    uint32 ECLCBCEPGIH = 15;
+    HFPGMAKDKLF CNDKFAMECDF = 13;
+    uint32 NDJPOJGKEHD = 6;
+    uint32 GHOCEIKOMHJ = 4;
+    uint32 FDJCJOGJMMP = 9;
+    uint32 NNJAJGCHJKE = 3;
+}
+

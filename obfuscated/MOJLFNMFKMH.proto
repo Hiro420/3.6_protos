@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 104
+// Name: MOJLFNMFKMH
+message MOJLFNMFKMH {
+    repeated INPDDALBMBO IEEPAJEHDIJ = 13;
+    int32 EEDMFEOGLFN = 4;
+}
+

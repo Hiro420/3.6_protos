@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 8618
+// Name: ACHNGCDDBMA
+message ACHNGCDDBMA {
+    bool GKJIEEGOBAN = 6;
+    uint32 LIPDKBFCAKO = 4;
+    KKFEDHALJFH EPCFLDJKNJH = 7;
+}
+

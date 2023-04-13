@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 464
+// Name: LPENNMHPHGO
+message LPENNMHPHGO {
+    uint32 BHNIGBDOGPG = 2;
+    uint32 NNGAKPMFPOO = 13;
+    uint32 FDBFNNDGPBB = 4;
+}
+

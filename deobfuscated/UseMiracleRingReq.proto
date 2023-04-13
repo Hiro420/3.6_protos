@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// CmdId: 5209
+// Name: NDABEMEEAOE
+message UseMiracleRingReq {
+    Vector rot = 14;
+    Vector pos = 6;
+    uint32 miracle_ring_op_type = 11;
+}
+

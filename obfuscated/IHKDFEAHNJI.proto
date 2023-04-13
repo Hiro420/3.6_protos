@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1930
+// Name: IHKDFEAHNJI
+message IHKDFEAHNJI {
+    uint32 MEJDAEOJCFP = 9;
+    int32 EEDMFEOGLFN = 15;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IHOGDGIBMEC
+message SceneGalleryInstableSprayBuffInfo {
+    uint64 JAADBLKABKF = 12;
+    uint64 PEPAMAPELFG = 11;
+    uint32 buff_id = 14;
+}
+

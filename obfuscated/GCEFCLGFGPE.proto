@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BECOGAKOLEB.proto";
+
+// CmdId: 5551
+// Name: GCEFCLGFGPE
+message GCEFCLGFGPE {
+    uint32 GPGPMFDFCMN = 5;
+    uint32 MIEDMELHOLI = 11;
+    BECOGAKOLEB JPOCBCKODGE = 1;
+    uint32 FDJCJOGJMMP = 4;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1824
+// Name: NGHOBFHEIMD
+message NGHOBFHEIMD {
+    uint32 DPBGGDPMLLD = 13;
+    uint32 ICDAIDNAOBK = 1;
+    bool PKLIAIGBAHN = 7;
+    int32 EEDMFEOGLFN = 4;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Quest.proto";
+
+// CmdId: 496
+// Name: IMOKNCEDDIN
+message QuestListUpdateNotify {
+    repeated Quest quest_list = 6;
+}
+

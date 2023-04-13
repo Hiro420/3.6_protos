@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 859
+// Name: CMGHDEALCOM
+message CMGHDEALCOM {
+    uint32 ELIEBOMLPDN = 9;
+    uint32 DMBFPFFMFCM = 1;
+    uint32 MIEDMELHOLI = 5;
+}
+

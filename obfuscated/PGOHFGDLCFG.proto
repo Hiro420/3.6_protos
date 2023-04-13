@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8644
+// Name: PGOHFGDLCFG
+message PGOHFGDLCFG {
+    uint32 LFCAGIIIEFJ = 9;
+    int32 EEDMFEOGLFN = 7;
+}
+

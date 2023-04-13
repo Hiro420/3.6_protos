@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HFKNBJHCGCI.proto";
+import "KKFEDHALJFH.proto";
+
+// CmdId: 228
+// Name: OBPENFHAFGD
+message OBPENFHAFGD {
+    KKFEDHALJFH DBDEEBCMHMM = 1;
+    uint32 FGEIEPJKHDL = 7;
+    HFKNBJHCGCI CNDKFAMECDF = 9;
+    KKFEDHALJFH EHADCOBANHG = 11;
+}
+

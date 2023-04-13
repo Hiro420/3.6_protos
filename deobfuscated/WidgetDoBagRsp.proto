@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4279
+// Name: PBKOFJACIMK
+message WidgetDoBagRsp {
+    int32 retcode = 8;
+    uint32 material_id = 9;
+}
+

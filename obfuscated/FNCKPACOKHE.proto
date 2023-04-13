@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1199
+// Name: FNCKPACOKHE
+message FNCKPACOKHE {
+    uint32 DMBFPFFMFCM = 12;
+    uint32 EADHHILENEO = 1;
+}
+

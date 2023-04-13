@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7510
+// Name: HEDBOGHMAEH
+message HEDBOGHMAEH {
+    uint32 NIOFCCMPGJA = 4;
+    int32 EEDMFEOGLFN = 7;
+}
+

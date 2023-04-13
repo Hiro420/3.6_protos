@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8958
+// Name: JHPGPCBHJIB
+message JHPGPCBHJIB {
+    uint32 EPMMPEOMKDM = 3;
+    uint32 HDMDJECGCKC = 15;
+}
+

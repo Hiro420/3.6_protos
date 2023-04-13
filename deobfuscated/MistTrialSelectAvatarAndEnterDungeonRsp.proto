@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8364
+// Name: MGGNIBPAOEK
+message MistTrialSelectAvatarAndEnterDungeonRsp {
+    int32 retcode = 11;
+    uint32 trial_id = 1;
+}
+

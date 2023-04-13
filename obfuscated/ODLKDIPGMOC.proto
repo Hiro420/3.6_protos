@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1075
+// Name: ODLKDIPGMOC
+message ODLKDIPGMOC {
+    bool HECEAAMDGKA = 11;
+}
+

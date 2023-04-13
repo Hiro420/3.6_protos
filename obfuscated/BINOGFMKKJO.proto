@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JAJEHOIAKLD.proto";
+import "JFMBGGFOPJO.proto";
+import "NMLPHHIHIOK.proto";
+import "OOHOEKGOKIO.proto";
+
+// Name: BINOGFMKKJO
+message BINOGFMKKJO {
+    repeated NMLPHHIHIOK HABPEEKABIP = 1;
+    uint32 AFGOHALCCGO = 6;
+    repeated OOHOEKGOKIO EDCLEGGLKHL = 13;
+    uint32 HEKHEPFHLDL = 14;
+    uint32 HJFJMAEKNGD = 9;
+    repeated JAJEHOIAKLD OGIMIAMBAPO = 3;
+    repeated JFMBGGFOPJO HMEAFNGPALM = 5;
+    uint32 FIENFMJNDBA = 4;
+}
+

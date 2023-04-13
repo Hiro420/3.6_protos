@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 270
+// Name: GCIGDCCBENG
+message GCIGDCCBENG {
+    bool HGEPJDPIAAP = 2;
+    repeated uint32 BHNJNFCKKMA = 7;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NNNABEEOCCB.proto";
+
+// CmdId: 39
+// Name: GFOBEJIPOED
+message GFOBEJIPOED {
+    repeated NNNABEEOCCB FNOOIDGMJDA = 3;
+}
+

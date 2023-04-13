@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HPODJPJFNAC
+enum HPODJPJFNAC {
+    HPODJPJFNAC_ADDED = 0;
+    HPODJPJFNAC_REMOVED = 1;
+}
+

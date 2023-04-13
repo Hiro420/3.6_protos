@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5315
+// Name: IJINBICPPIL
+message HideAndSeekSetReadyRsp {
+    int32 retcode = 11;
+}
+

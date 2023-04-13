@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: JAFAPEIOPGD
+message JAFAPEIOPGD {
+    uint32 OGBDFDJKDGF = 1;
+    KKFEDHALJFH EHADCOBANHG = 7;
+    KKFEDHALJFH DBDEEBCMHMM = 2;
+}
+

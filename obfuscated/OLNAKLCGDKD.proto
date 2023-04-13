@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3138
+// Name: OLNAKLCGDKD
+message OLNAKLCGDKD {
+    string LMNGGDPKEKF = 11;
+    uint32 DMBFPFFMFCM = 3;
+    bool HGEPJDPIAAP = 13;
+}
+

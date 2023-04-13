@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NEKLBLMLJNC.proto";
+
+// CmdId: 3170
+// Name: IJAJCEENKHC
+message IJAJCEENKHC {
+    uint32 FGEIEPJKHDL = 15;
+    repeated NEKLBLMLJNC FFOCAEJIIDD = 13;
+}
+

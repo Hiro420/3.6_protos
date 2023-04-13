@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5543
+// Name: MDHPLAGPINN
+message MDHPLAGPINN {
+    uint32 JFAFMJAFPEF = 7;
+    uint32 ECLCBCEPGIH = 2;
+}
+

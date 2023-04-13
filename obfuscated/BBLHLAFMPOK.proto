@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1634
+// Name: BBLHLAFMPOK
+message BBLHLAFMPOK {
+    int32 EEDMFEOGLFN = 15;
+}
+

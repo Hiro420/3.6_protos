@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7498
+// Name: JKOODGPGFIC
+message JKOODGPGFIC {
+    uint32 BHPHOGJAADH = 2;
+    uint32 EHPIOILFBIN = 5;
+}
+

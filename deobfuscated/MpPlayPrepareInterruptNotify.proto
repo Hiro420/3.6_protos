@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1847
+// Name: LJPJJCMCKAB
+message MpPlayPrepareInterruptNotify {
+    uint32 mp_play_id = 11;
+}
+

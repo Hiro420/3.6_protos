@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JCAFAPNCKDP
+message JCAFAPNCKDP {
+    uint32 HDMDJECGCKC = 6;
+    uint32 GKHKBJOKPCK = 12;
+    uint32 HJLEBAHLAOL = 7;
+}
+

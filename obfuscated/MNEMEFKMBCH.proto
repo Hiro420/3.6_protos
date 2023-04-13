@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1063
+// Name: MNEMEFKMBCH
+message MNEMEFKMBCH {
+    uint64 FPIIPJJPBOH = 12;
+    uint32 GPEINDKHNLM = 5;
+    int32 EEDMFEOGLFN = 14;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DailyTaskInfo.proto";
+
+// CmdId: 140
+// Name: OHLMKKDBBCL
+message WorldOwnerDailyTaskNotify {
+    uint32 finished_daily_task_num = 10; // IPPGLLBIHHJ
+    repeated DailyTaskInfo task_list = 14;
+    uint32 filter_city_id = 6; // JJHMPHKOHIC
+}
+

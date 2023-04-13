@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4470
+// Name: CLLEAGFNBFB
+message CLLEAGFNBFB {
+    uint32 PNJDDHDNEBA = 3;
+}
+

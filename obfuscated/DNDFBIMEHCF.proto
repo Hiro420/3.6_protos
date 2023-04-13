@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 456
+// Name: DNDFBIMEHCF
+message DNDFBIMEHCF {
+    uint32 OOOENCCPLGD = 10;
+    uint32 KAHKHODLMPL = 3;
+    uint32 GHGPMHHKIEK = 9;
+}
+

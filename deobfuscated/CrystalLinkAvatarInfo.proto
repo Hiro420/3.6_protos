@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ODPFLNHGMEI
+message CrystalLinkAvatarInfo {
+    uint64 avatar_id = 10;
+    bool is_trial = 3;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 23232
+// Name: BOCHPKJIPPD
+message BOCHPKJIPPD {
+    uint32 KAHKHODLMPL = 12;
+    uint32 OADDCGKICGK = 1;
+}
+

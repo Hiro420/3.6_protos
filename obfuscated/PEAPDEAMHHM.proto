@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OAOOLKPAOFH.proto";
+
+// CmdId: 170
+// Name: PEAPDEAMHHM
+message PEAPDEAMHHM {
+    OAOOLKPAOFH NNGBCNCOGPK = 12;
+}
+

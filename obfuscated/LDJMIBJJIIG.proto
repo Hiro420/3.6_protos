@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8578
+// Name: LDJMIBJJIIG
+message LDJMIBJJIIG {
+    int32 EEDMFEOGLFN = 15;
+    repeated uint64 BFKDPINEHJD = 4;
+    repeated uint64 BGJOLHNFECB = 13;
+    uint64 OAIIFOIFFNN = 12;
+    uint32 IHJHBOGKMLA = 6;
+    uint32 FCJPKOCJACN = 7;
+}
+

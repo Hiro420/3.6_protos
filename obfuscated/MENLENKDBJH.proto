@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: MENLENKDBJH
+message MENLENKDBJH {
+    bool FKOBJPCKIFJ = 15;
+    KKFEDHALJFH KFFBIJEMGFD = 6;
+    uint32 LFCAGIIIEFJ = 11;
+    uint32 JGIPOEKBNNN = 2;
+    bool JCECHLAINDC = 7;
+}
+

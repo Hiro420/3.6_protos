@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PHLABMFOJJA.proto";
+
+// CmdId: 4465
+// Name: CHBMNPCAJND
+message CHBMNPCAJND {
+    int32 EEDMFEOGLFN = 4;
+    PHLABMFOJJA FAOBIMACLPC = 5;
+}
+

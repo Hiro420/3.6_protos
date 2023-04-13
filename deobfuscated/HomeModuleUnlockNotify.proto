@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4660
+// Name: NHKAPMNLCOF
+message HomeModuleUnlockNotify {
+    uint32 module_id = 2;
+}
+

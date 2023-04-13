@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5349
+// Name: NNODMPCAPFC
+message NNODMPCAPFC {
+    uint32 MFCJNNNFCGF = 12;
+}
+

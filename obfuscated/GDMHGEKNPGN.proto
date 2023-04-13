@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GDMHGEKNPGN
+enum GDMHGEKNPGN {
+    GDMHGEKNPGN_EDIT = 0;
+    GDMHGEKNPGN_SELF_PASS = 1;
+    GDMHGEKNPGN_PUBLISHED = 2;
+}
+

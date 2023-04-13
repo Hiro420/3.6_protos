@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BGNNHOLIAAL.proto";
+import "MOEDDAGHKAE.proto";
+
+// CmdId: 5373
+// Name: GMHIAPBGKEA
+message GMHIAPBGKEA {
+    uint32 FALIEFLKLCF = 11;
+    oneof OFDMLDLAIEN {
+        BGNNHOLIAAL INBJNHIEDKO = 6;
+        MOEDDAGHKAE JBPGNAINKKD = 14;
+    }
+}
+

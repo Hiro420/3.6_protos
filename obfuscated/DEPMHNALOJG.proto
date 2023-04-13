@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1706
+// Name: DEPMHNALOJG
+message DEPMHNALOJG {
+    int32 EEDMFEOGLFN = 13;
+    uint64 EEMILGMLGOH = 10;
+}
+

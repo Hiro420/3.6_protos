@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FFADNOLCIKG.proto";
+import "ICNPCNKGFEI.proto";
+
+// Name: FKHMOADCCBJ
+message FKHMOADCCBJ {
+    repeated FFADNOLCIKG DLPEGIMPGFH = 5;
+    uint32 BBFNGINCJBB = 14;
+    repeated ICNPCNKGFEI KPKJLGAPNPI = 6;
+    uint32 DFABLHPDPIN = 7;
+    bool MFBLCKKNECK = 13;
+    uint32 LCEFDDNGDIP = 1;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24058
+// Name: PAOBGMEJMNI
+message PAOBGMEJMNI {
+    int32 EEDMFEOGLFN = 3;
+}
+

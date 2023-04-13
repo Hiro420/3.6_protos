@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1953
+// Name: AOBLCPCFAPG
+message AOBLCPCFAPG {
+    uint32 LANNIFHAGJI = 2;
+    string MCAACINKHMK = 8;
+}
+

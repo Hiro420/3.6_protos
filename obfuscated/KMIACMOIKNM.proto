@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 457
+// Name: KMIACMOIKNM
+message KMIACMOIKNM {
+    uint32 NNGAKPMFPOO = 14;
+    uint32 KPAOGOLFPCB = 3;
+}
+

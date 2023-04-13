@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4764
+// Name: GBDPEGGNNON
+message GBDPEGGNNON {
+    int32 EEDMFEOGLFN = 6;
+}
+

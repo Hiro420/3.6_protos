@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HIOHLMOBFND.proto";
+
+// CmdId: 224
+// Name: BLOKJGHICPI
+message BLOKJGHICPI {
+    int32 EEDMFEOGLFN = 14;
+    HIOHLMOBFND GGPFPFIHIOL = 2;
+    uint32 MOLCMPFBACG = 6;
+    uint32 FGEIEPJKHDL = 8;
+}
+

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 670
+// Name: BODKGGEKPHH
+message BODKGGEKPHH {
+    map<uint32, uint32> MCLMGECDMHI = 11;
+    int32 EEDMFEOGLFN = 9;
+    map<uint32, uint32> KKDIFJGIAMN = 14;
+    uint32 KGNKGJMJCKH = 4;
+    uint64 FPIIPJJPBOH = 7;
+    uint64 BMAKFKKAFOG = 13;
+}
+

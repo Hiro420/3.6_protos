@@ -1,0 +1,40 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+import "CIHBKIMLMLO.proto";
+import "FEDMMHJNFCH.proto";
+import "IFJDEEJLEDK.proto";
+import "PKPGAPABGIN.proto";
+
+// Name: HKLLEGCFOKN
+message HKLLEGCFOKN {
+    uint32 JBMPBFDPKGD = 1;
+    string EBLOGJGAOIP = 2;
+    uint32 HCGIBBGCFHO = 3;
+    uint32 MFCJNNNFCGF = 4;
+    string DAKAMJMLMNA = 5;
+    CIHBKIMLMLO CLBCECHIELM = 6;
+    uint32 PCKJELDENIP = 7;
+    repeated uint32 HNOIJDEOLNM = 8;
+    IFJDEEJLEDK GFJANJNNLGF = 9;
+    uint32 KAHKHODLMPL = 10;
+    bool IHNLODFNDOA = 11;
+    bool PHMDCBEDEGC = 12;
+    string FLJJCLIMMJA = 13;
+    uint32 ABFJMJHJLPP = 14;
+    bool NANPHIJIKBO = 15;
+    bool BFFOEDCAPLL = 16;
+    string AMBLNLJKLDC = 17;
+    uint32 DKLOCDAFJOL = 18;
+    uint32 FLNIGBFNGNK = 19;
+    uint32 OBHBGDADGFG = 20;
+    bool FIPEBADOCEE = 21;
+    repeated PKPGAPABGIN JIBEPPHLOLI = 22;
+    repeated uint32 FMNAELFNBMC = 23;
+    FEDMMHJNFCH ABLEKABNJHC = 24;
+    CAOGLKMLEOG IAEKOGMCHED = 25;
+    string CJHNBCJKFCN = 26;
+}
+

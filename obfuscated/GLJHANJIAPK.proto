@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 691
+// Name: GLJHANJIAPK
+message GLJHANJIAPK {
+    repeated uint32 LFNLHAABJAM = 14;
+}
+

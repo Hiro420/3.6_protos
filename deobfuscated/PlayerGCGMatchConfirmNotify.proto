@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4187
+// Name: BLMCHAALMDP
+message PlayerGCGMatchConfirmNotify {
+    uint32 uid = 4;
+    uint32 match_id = 14;
+    bool is_agree = 10;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KIAHPIKPLMH.proto";
+
+// CmdId: 7949
+// Name: IBOJKHAFLJN
+message IBOJKHAFLJN {
+    uint32 HDMDJECGCKC = 4;
+    KIAHPIKPLMH CIIKDLCIMEJ = 9;
+    uint32 AMEJLPJCENL = 5;
+}
+

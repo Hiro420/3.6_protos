@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8160
+// Name: LEKAFPACHHK
+message LEKAFPACHHK {
+    uint32 LAOBIDKNELB = 2;
+    int32 EEDMFEOGLFN = 9;
+    bool HEACCINCNFL = 5;
+    bool BGODKPDDOOG = 14;
+    bool IMLAMOOOKAL = 15;
+    uint32 NNJAJGCHJKE = 4;
+    bool AGFGCOGCEOC = 8;
+    uint32 JJGGAPDDOLN = 6;
+    bool GBHJHJENFGK = 3;
+}
+

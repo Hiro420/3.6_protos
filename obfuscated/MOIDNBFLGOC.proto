@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5378
+// Name: MOIDNBFLGOC
+message MOIDNBFLGOC {
+    uint32 EHPIOILFBIN = 11;
+    uint32 PKDJIGJDEJE = 3;
+    int32 EEDMFEOGLFN = 13;
+    uint32 MGOAOLCGNIJ = 5;
+}
+

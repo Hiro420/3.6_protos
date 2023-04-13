@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 829
+// Name: LDMCFCEHKJH
+message LDMCFCEHKJH {
+    bool KOKIFJMPGLI = 3;
+    map<uint32, uint32> DGMEKMOPIPD = 1;
+}
+

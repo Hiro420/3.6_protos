@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CLAKHODOFDM.proto";
+
+// CmdId: 846
+// Name: CLJJEIKNDFO
+message CLJJEIKNDFO {
+    CLAKHODOFDM OMKEFCKPOMK = 9;
+    uint32 AMOKMNBGJKN = 12;
+    int32 EEDMFEOGLFN = 11;
+    uint32 PNLGKNFEFGC = 1;
+    uint32 NDOJLJFOMNO = 5;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 301
+// Name: KKCDBAMICJC
+message KKCDBAMICJC {
+    uint32 DMBFPFFMFCM = 4;
+}
+

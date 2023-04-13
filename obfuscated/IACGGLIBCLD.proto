@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MHMEJPDBJHD.proto";
+
+// Name: IACGGLIBCLD
+message IACGGLIBCLD {
+    MHMEJPDBJHD HDDPKECHBPL = 3;
+    uint32 EHPIOILFBIN = 9;
+    uint32 HCPKPAEIOCA = 10;
+    uint32 FNFPIGHNBLL = 13;
+    uint32 BHPHOGJAADH = 12;
+    uint32 LIHIMGBNIFL = 11;
+}
+

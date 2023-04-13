@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1651
+// Name: AGJOJDPCHDG
+message AGJOJDPCHDG {
+    map<uint32, float> DLHOKKGADDC = 15;
+    uint64 FPIIPJJPBOH = 2;
+    uint32 CIECOAHMPMG = 14;
+    int32 EEDMFEOGLFN = 6;
+    uint32 ANFDBDFABFL = 1;
+    map<uint32, float> FPNFPGEBGOM = 10;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 332
+// Name: HMMIAOJNLAE
+message HMMIAOJNLAE {
+    int32 EEDMFEOGLFN = 10;
+    uint64 OBNMNOHLGNB = 11;
+    KKFEDHALJFH EPCFLDJKNJH = 5;
+    uint32 DMBFPFFMFCM = 8;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8347
+// Name: LDOBABFHGNE
+message LDOBABFHGNE {
+    uint32 PNLBJABJLFC = 2;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 638
+// Name: JDPJOAOAIMC
+message SetIsAutoUnlockSpecificEquipRsp {
+    int32 retcode = 8;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LLHKAHKDALN.proto";
+
+// CmdId: 2920
+// Name: POFHGEBPHNP
+message POFHGEBPHNP {
+    LLHKAHKDALN IHJENNPMBMD = 9;
+    int32 EEDMFEOGLFN = 11;
+}
+

@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ECMFGGGDFGN.proto";
+import "HCBPECOJPEI.proto";
+import "LGGNFLPNPII.proto";
+import "PCEIONKOFAD.proto";
+
+// CmdId: 176
+// Name: DKIPBAAHKJM
+message DKIPBAAHKJM {
+    int32 AGOBLDMPFPF = 4;
+    bytes LBMEAGDOILF = 858;
+    string AAEIDEMEKFF = 286;
+    repeated LGGNFLPNPII EHPANPJKBMM = 401;
+    string JPBIIKAEFLA = 309;
+    string CLDKNBOLOEN = 1149;
+    bool JDOAPPBMLBD = 1063;
+    bool HKINPODGHHH = 2;
+    HCBPECOJPEI DDDAOMOFIEL = 1241;
+    bool HKHOCPFCPAM = 242;
+    uint32 DCFPMMCBEAD = 6;
+    map<string, int32> MNFMHLBCKJL = 11;
+    bool OIGAOLIKNAC = 1162;
+    uint32 KEILPNCNHBH = 10;
+    repeated PCEIONKOFAD GAKDMICFFGB = 1613;
+    double HGCNFJGGLIE = 1940;
+    string ABOHBHJHFNL = 889;
+    HCBPECOJPEI DFAJKLEOLEF = 670;
+    bool FCJHOMPHEON = 741;
+    string EHDGCMPILDC = 1152;
+    int32 EEDMFEOGLFN = 5;
+    string AMNPHOBNFAB = 3;
+    bool BMLPDBNDAIJ = 15;
+    bool FLEDDLEFFLK = 1257;
+    uint64 ABMBKHJGAHJ = 1;
+    string CLBCECHIELM = 1129;
+    bool EENIILNBDPF = 461;
+    string KJJAIPPKFCI = 625;
+    bool BJLCFHHIGJD = 8;
+    uint32 IKFKPMCIONN = 9;
+    uint32 FMOKLFNAOOK = 892;
+    bytes JLDGJOPFALG = 7;
+    string GINJGPHCAKG = 300;
+    uint32 AOOCBPDDMKC = 12;
+    map<uint32, ECMFGGGDFGN> COFCCDFBNFK = 771;
+}
+

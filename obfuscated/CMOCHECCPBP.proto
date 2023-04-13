@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 3314
+// Name: CMOCHECCPBP
+message CMOCHECCPBP {
+    // Name: IGEOPIOCKBE
+    enum IGEOPIOCKBE {
+        IGEOPIOCKBE_INIT_FOLLOW_POS = 0;
+        IGEOPIOCKBE_SET_FOLLOW_POS = 1;
+        IGEOPIOCKBE_SET_ABS_FOLLOW_POS = 2;
+    }
+
+    KKFEDHALJFH BJAIBAFFGAP = 14;
+    KKFEDHALJFH BIGFKDFJPDD = 12;
+    uint32 IIMIOKBLHJM = 10;
+    repeated string BAHJBBFIBAK = 15;
+    IGEOPIOCKBE AMAKFOMKENE = 5;
+    uint32 DMBFPFFMFCM = 2;
+}
+

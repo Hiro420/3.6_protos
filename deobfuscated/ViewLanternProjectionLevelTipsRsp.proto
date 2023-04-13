@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8275
+// Name: AOKLAJLBEPJ
+message ViewLanternProjectionLevelTipsRsp {
+    int32 retcode = 1;
+}
+

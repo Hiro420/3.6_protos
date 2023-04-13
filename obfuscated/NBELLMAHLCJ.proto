@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LDMGBIGBOLN.proto";
+
+// CmdId: 4519
+// Name: NBELLMAHLCJ
+message NBELLMAHLCJ {
+    LDMGBIGBOLN MIFNLOKNJGJ = 14;
+    int32 EEDMFEOGLFN = 15;
+}
+

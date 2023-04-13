@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "POJFIGNPLMH.proto";
+
+// CmdId: 23012
+// Name: IPANFPMDLDD
+message IPANFPMDLDD {
+    uint32 LKANJDEJDDI = 9;
+    repeated uint32 JDAMJDBKIJD = 5;
+    repeated POJFIGNPLMH HLHKNNLONGP = 4;
+}
+

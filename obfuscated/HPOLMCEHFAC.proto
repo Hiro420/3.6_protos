@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HPOLMCEHFAC
+message HPOLMCEHFAC {
+    uint32 MEJDAEOJCFP = 1;
+    uint32 MFABFMFFAFJ = 2;
+    uint32 DILMPOBNGPN = 4;
+    bool NFGGMBMCOGG = 5;
+    uint32 OHBALLHKMLM = 6;
+    uint32 DCEKPNFNAOB = 7;
+    uint32 GMAAFLIAIBH = 8;
+    uint32 OKMBNDOEFND = 9;
+    repeated uint32 FCDAFGDOIOP = 10;
+    repeated uint32 JFBLOOCGKLP = 11;
+    repeated uint32 NDPNMAOAJBI = 12;
+    map<uint32, uint32> HGOPNFOIPNM = 13;
+    repeated uint32 PGGPHHFOCDK = 14;
+    map<uint32, uint32> IIEBDEMPKEI = 15;
+}
+

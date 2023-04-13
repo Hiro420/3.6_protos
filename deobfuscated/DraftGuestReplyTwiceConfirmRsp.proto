@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5478
+// Name: AMNHIJMNKKC
+message DraftGuestReplyTwiceConfirmRsp {
+    int32 retcode = 3;
+    bool is_agree = 2;
+    uint32 draft_id = 8;
+}
+

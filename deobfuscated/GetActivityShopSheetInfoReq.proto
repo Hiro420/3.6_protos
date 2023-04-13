@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 741
+// Name: BCGBHBAHONN
+message GetActivityShopSheetInfoReq {
+    uint32 shop_type = 11;
+}
+

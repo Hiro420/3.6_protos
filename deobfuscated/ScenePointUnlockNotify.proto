@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 282
+// Name: HIPLJNBHKLG
+message ScenePointUnlockNotify {
+    repeated uint32 unhide_point_list = 6; // GNNBFLNNODN
+    repeated uint32 locked_point_list = 9; // ELNACLNNKIO
+    repeated uint32 hide_point_list = 2; // CBNONONIPKH
+    uint32 scene_id = 3;
+    repeated uint32 point_list = 7;
+}
+

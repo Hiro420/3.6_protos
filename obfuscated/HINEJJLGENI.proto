@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2010
+// Name: HINEJJLGENI
+message HINEJJLGENI {
+    uint32 AAMIEOPPCFN = 4;
+    uint32 LFOCJEADKPK = 13;
+    int32 EEDMFEOGLFN = 10;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 6242
+// Name: MFCCCJJBOJD
+message MFCCCJJBOJD {
+    int32 EEDMFEOGLFN = 10;
+    uint64 DKFHDCGJEJK = 13;
+}
+

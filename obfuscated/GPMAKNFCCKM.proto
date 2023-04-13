@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+import "LJLCOKBCBOG.proto";
+
+// Name: GPMAKNFCCKM
+message GPMAKNFCCKM {
+    repeated LJLCOKBCBOG NMKIFLLBAOO = 14;
+    int64 KAHKHODLMPL = 4;
+    uint32 JBMPBFDPKGD = 1;
+    uint32 JDNIEGFHOBN = 9;
+    CAOGLKMLEOG IAEKOGMCHED = 15;
+    uint32 HIEHLGNJLKL = 10;
+    string FLJJCLIMMJA = 13;
+    string EBLOGJGAOIP = 8;
+}
+

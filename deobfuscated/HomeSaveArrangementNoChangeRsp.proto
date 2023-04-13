@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4887
+// Name: IPHKIKKEHJM
+message HomeSaveArrangementNoChangeRsp {
+    uint32 scene_id = 10;
+    int32 retcode = 1;
+}
+

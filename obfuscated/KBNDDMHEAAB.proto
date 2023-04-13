@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LIEELECPDPF.proto";
+import "OCEIMDJANPL.proto";
+import "PEHLILGOPKN.proto";
+
+// Name: KBNDDMHEAAB
+message KBNDDMHEAAB {
+    uint32 COMKPCEEHHP = 1;
+    LIEELECPDPF IHKMIGLHCHC = 13;
+    OCEIMDJANPL AFHGPHJPFAE = 12;
+    double HGCNFJGGLIE = 10;
+    uint32 AEDKDLGMHLJ = 2;
+    PEHLILGOPKN CGAFJIIPALB = 14;
+    uint32 DMBFPFFMFCM = 9;
+    bytes JHGHLFCFEDO = 6;
+    bool BKIHADHPBAG = 4;
+}
+

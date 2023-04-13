@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8597
+// Name: DNGOLEEEPKM
+message DNGOLEEEPKM {
+    int32 EEDMFEOGLFN = 11;
+    repeated uint32 ICEPJCEMLMA = 15;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 208
+// Name: FHCIHKNPCKG
+message ExecuteGadgetLuaRsp {
+    int32 retcode = 8;
+}
+

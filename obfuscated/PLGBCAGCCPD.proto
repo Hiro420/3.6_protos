@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5070
+// Name: PLGBCAGCCPD
+message PLGBCAGCCPD {
+    uint32 OFBGMCBHHJJ = 8;
+}
+

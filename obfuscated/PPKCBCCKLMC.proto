@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 835
+// Name: PPKCBCCKLMC
+message PPKCBCCKLMC {
+    uint32 DMBFPFFMFCM = 11;
+    float DOGMIECMPGD = 10;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ClientInputType.proto";
+
+// CmdId: 8724
+// Name: GINOCLNKMLI
+message ViewLanternProjectionTipsReq {
+    bool is_input_tips = 9;
+    ClientInputType input_type = 10;
+}
+

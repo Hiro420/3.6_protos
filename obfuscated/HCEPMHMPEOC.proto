@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CPKIODONDBP.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: HCEPMHMPEOC
+message HCEPMHMPEOC {
+    uint32 NCHIIILDKNA = 15;
+    uint32 ODAAILEIGLF = 12;
+    KKFEDHALJFH DBDEEBCMHMM = 2;
+    repeated CPKIODONDBP BBGHDOADNBE = 9;
+}
+

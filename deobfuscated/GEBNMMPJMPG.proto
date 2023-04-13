@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7920
+// Name: GEBNMMPJMPG
+message GEBNMMPJMPG {
+    uint32 id = 13;
+    bool FJOJGDKMFDG = 1;
+}
+

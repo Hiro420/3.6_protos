@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MABLDNEFFCB
+message MABLDNEFFCB {
+    repeated uint32 GBDOMCNBPJO = 3;
+    uint32 FGEIEPJKHDL = 6;
+    bool BPAKACCOBAK = 4;
+}
+

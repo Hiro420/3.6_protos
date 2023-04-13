@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2151
+// Name: MOFAIACOJPN
+message MOFAIACOJPN {
+    uint32 LFOCJEADKPK = 6;
+    uint32 LGLLMPAPONN = 4;
+    uint32 FKEHKLEBJOD = 2;
+    uint32 NILJOOOPIFO = 5;
+}
+

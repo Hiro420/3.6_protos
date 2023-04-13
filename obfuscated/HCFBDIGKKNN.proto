@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IOEPCLGOKPD.proto";
+
+// Name: HCFBDIGKKNN
+message HCFBDIGKKNN {
+    uint32 OLCCGHGKJHE = 13;
+    repeated IOEPCLGOKPD JOIMILGIGGF = 8;
+    repeated uint32 FEACDBJHBIF = 4;
+}
+

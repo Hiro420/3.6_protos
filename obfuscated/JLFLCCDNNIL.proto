@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 22940
+// Name: JLFLCCDNNIL
+message JLFLCCDNNIL {
+    int32 EEDMFEOGLFN = 10;
+}
+

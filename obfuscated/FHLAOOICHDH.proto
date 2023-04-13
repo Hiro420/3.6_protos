@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NOABONHBAJJ.proto";
+
+// CmdId: 4291
+// Name: FHLAOOICHDH
+message FHLAOOICHDH {
+    repeated NOABONHBAJJ MADHOCEALIB = 12;
+    int32 EEDMFEOGLFN = 8;
+}
+

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EPIODKDCPKL.proto";
+
+// Name: PDGIBDGIIMP
+message PDGIBDGIIMP {
+    repeated EPIODKDCPKL NJGECMMGLOI = 6;
+    uint32 PKDJIGJDEJE = 3;
+    uint64 DHOPKBBIOPG = 7;
+    bool HKHAADBCFDO = 15;
+    uint32 EDEPJBIHFEB = 5;
+    uint32 GIAMAGCEFII = 10;
+    uint32 MGOAOLCGNIJ = 13;
+    uint32 MPDLHJGFMFK = 14;
+}
+

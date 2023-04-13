@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BreakoutAction.proto";
+
+// Name: LMHDABKFMGE
+message BreakoutSyncAction {
+    BreakoutAction action = 1;
+}
+

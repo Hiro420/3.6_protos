@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 20618
+// Name: LFFLGJEOHFM
+message DuelHeartRestartDungeonReq {
+}
+

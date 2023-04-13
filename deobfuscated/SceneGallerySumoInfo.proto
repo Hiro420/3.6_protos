@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LBCHICGPEKA
+message SceneGallerySumoInfo {
+    uint32 EEPIFMDOOHM = 11;
+    uint32 score = 2;
+    uint32 KFACNCAIMAM = 12;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 2676
+// Name: NHNCPAEFMCD
+message NHNCPAEFMCD {
+    repeated INPDDALBMBO IEEPAJEHDIJ = 13;
+    repeated uint32 MIHFNOANLAH = 2;
+    int32 EEDMFEOGLFN = 6;
+}
+

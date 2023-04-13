@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ABBABGECCOD.proto";
+import "MHMEJPDBJHD.proto";
+
+// Name: DCPHOAIFBHC
+message DCPHOAIFBHC {
+    uint32 FNFPIGHNBLL = 4;
+    MHMEJPDBJHD NOAPBNOHBEG = 5;
+    ABBABGECCOD CNDKFAMECDF = 1;
+    repeated uint32 FMPHJBEHMII = 10;
+}
+

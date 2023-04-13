@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IECLMFCIPAE.proto";
+
+// Name: ONDOIFJPFBE
+message ONDOIFJPFBE {
+    repeated IECLMFCIPAE CBMFGIBNLAB = 15;
+    bool MFBLCKKNECK = 14;
+}
+

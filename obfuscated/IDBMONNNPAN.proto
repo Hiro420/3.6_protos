@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24171
+// Name: IDBMONNNPAN
+message IDBMONNNPAN {
+    repeated uint32 OKMBPGFHDEJ = 15;
+    uint32 IHJHBOGKMLA = 12;
+}
+

@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LanternRiteFireworksReformFactorInfo.proto";
+import "LanternRiteFireworksReformSkillInfo.proto";
+
+// CmdId: 8555
+// Name: HOAFHAEHDLJ
+message LanternRiteStartFireworksReformRsp {
+    repeated LanternRiteFireworksReformFactorInfo factor_info_list = 7;
+    int32 retcode = 4;
+    repeated LanternRiteFireworksReformSkillInfo skill_info_list = 5;
+    uint32 ALIIBHKIMBM = 3;
+    uint32 EFLPMIIEPNG = 11;
+    uint32 HEAJHLGGKLM = 6;
+    uint32 stage_id = 10;
+    uint32 challenge_id = 12;
+    uint32 MAKIBNPJGEJ = 15;
+}
+

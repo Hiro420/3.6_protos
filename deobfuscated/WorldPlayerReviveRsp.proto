@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 287
+// Name: FLPNFCLHHNP
+message WorldPlayerReviveRsp {
+    int32 retcode = 2;
+}
+

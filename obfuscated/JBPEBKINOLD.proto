@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IACGGLIBCLD.proto";
+
+// Name: JBPEBKINOLD
+message JBPEBKINOLD {
+    repeated IACGGLIBCLD FLOOBAAJGAL = 1;
+    repeated IACGGLIBCLD NKKHNKBCOAG = 14;
+}
+

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DGDNJFDLBNB.proto";
+import "JCHKINKMPDK.proto";
+
+// CmdId: 890
+// Name: CEEALLJALGP
+message CEEALLJALGP {
+    JCHKINKMPDK AJIAGELKDOC = 5;
+    bool DNKIIIIJPPF = 8;
+    DGDNJFDLBNB OMKEFCKPOMK = 9;
+    uint32 DPPGGFELLCI = 12;
+    uint32 CBGNJHFJMLP = 7;
+    uint32 PNLGKNFEFGC = 1;
+}
+

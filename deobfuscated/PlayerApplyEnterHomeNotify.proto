@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OnlinePlayerInfo.proto";
+
+// CmdId: 4549
+// Name: POPCEJAJKCN
+message PlayerApplyEnterHomeNotify {
+    uint32 src_app_id = 14;
+    OnlinePlayerInfo src_player_info = 9;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 816
+// Name: DBPJFAJEEPK
+message DBPJFAJEEPK {
+    uint32 LPCAIOJLAGI = 1;
+    uint32 PNLGKNFEFGC = 11;
+}
+

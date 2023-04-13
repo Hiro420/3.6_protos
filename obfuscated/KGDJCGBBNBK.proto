@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 2481
+// Name: KGDJCGBBNBK
+message KGDJCGBBNBK {
+    uint32 NFPEACBMIHL = 9;
+    bool HKHAADBCFDO = 11;
+    repeated INPDDALBMBO OFEFKIMCOCC = 1;
+    uint32 NMFAPIENEMG = 2;
+    repeated uint32 IIBMJOLPKEO = 6;
+}
+

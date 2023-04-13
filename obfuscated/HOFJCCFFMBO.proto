@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IDFBBDEFKOJ.proto";
+
+// CmdId: 75
+// Name: HOFJCCFFMBO
+message HOFJCCFFMBO {
+    repeated IDFBBDEFKOJ FHHBMIDHDEN = 2;
+}
+

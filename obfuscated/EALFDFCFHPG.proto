@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BEGBKFKGADM.proto";
+import "CNLFNNJLLCB.proto";
+import "IFNKDPGBJFH.proto";
+import "IIHLNKACGAI.proto";
+import "LHJBFAABGFH.proto";
+import "LOAJLHDJNOE.proto";
+import "OGNJMODKJPC.proto";
+import "PFKIAONIBDJ.proto";
+
+// Name: EALFDFCFHPG
+message EALFDFCFHPG {
+    oneof GIPDEPOBDMO {
+        CNLFNNJLLCB DABBIBCBNFE = 13;
+        BEGBKFKGADM IAPBBABLCAE = 5;
+        LHJBFAABGFH BMPJMPDDDDB = 7;
+        IFNKDPGBJFH DAOFIABCPJE = 4;
+        PFKIAONIBDJ GCBPGNPMNFK = 14;
+        IIHLNKACGAI NAACAGOODAH = 1;
+        OGNJMODKJPC DPGHCLMMGHB = 10;
+        LOAJLHDJNOE MOCDOBCFCNP = 9;
+    }
+}
+

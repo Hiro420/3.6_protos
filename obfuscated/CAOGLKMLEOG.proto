@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CAOGLKMLEOG
+message CAOGLKMLEOG {
+    uint32 MFCJNNNFCGF = 1;
+    uint32 EPLAOCBKEBP = 2;
+}
+

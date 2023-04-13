@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NPODOLLHBFD.proto";
+
+// CmdId: 8724
+// Name: GINOCLNKMLI
+message GINOCLNKMLI {
+    bool CMDIDIDOHNJ = 9;
+    NPODOLLHBFD EMOBDKGEDAD = 10;
+}
+

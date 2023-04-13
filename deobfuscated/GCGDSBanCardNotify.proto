@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7793
+// Name: FHLIADHHNAF
+message GCGDSBanCardNotify {
+    repeated uint32 card_list = 10;
+}
+

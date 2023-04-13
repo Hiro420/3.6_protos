@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3467
+// Name: MEGNOIJENKI
+message MEGNOIJENKI {
+    uint32 DMBFPFFMFCM = 3;
+    int32 GEMPAEBNICA = 4;
+    uint32 CLABNJFIPGC = 8;
+}
+

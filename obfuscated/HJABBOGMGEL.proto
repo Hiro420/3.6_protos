@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IOGDNKFIGHK.proto";
+import "KPEEEJLJLCI.proto";
+
+// Name: HJABBOGMGEL
+message HJABBOGMGEL {
+    uint32 IJIJCEOFJFI = 12;
+    uint32 BKCEKFCCCIC = 7;
+    KPEEEJLJLCI ADHJFIFJFJD = 6;
+    uint32 NCPHDFAEHJC = 10;
+    uint32 OEDHPFMKEIJ = 4;
+    repeated IOGDNKFIGHK JPEIDEHFJLL = 2;
+}
+

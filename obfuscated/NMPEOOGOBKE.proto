@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FCINIPEMLPE.proto";
+
+// CmdId: 4822
+// Name: NMPEOOGOBKE
+message NMPEOOGOBKE {
+    repeated FCINIPEMLPE EOPKACFNGNJ = 12;
+    int32 EEDMFEOGLFN = 5;
+}
+

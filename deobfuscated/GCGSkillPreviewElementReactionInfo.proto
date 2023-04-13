@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGSkillPreviewReactionInfo.proto";
+
+// Name: OKLOOLBCCKD
+message GCGSkillPreviewElementReactionInfo {
+    repeated uint32 APFLEJEMNKA = 4;
+    repeated GCGSkillPreviewReactionInfo reaction_list = 15;
+    repeated uint32 PFNNOMPLCEC = 13;
+}
+

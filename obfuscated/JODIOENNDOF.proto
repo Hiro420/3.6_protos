@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ABLCJAJAPCO.proto";
+import "CEICFCMKJOH.proto";
+
+// Name: JODIOENNDOF
+message JODIOENNDOF {
+    CEICFCMKJOH LJLBOPMNNNC = 12;
+    uint32 JFLANONHNDG = 6;
+    repeated ABLCJAJAPCO DAEHCGBHLML = 9;
+    uint32 FNFPIGHNBLL = 3;
+}
+

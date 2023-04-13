@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AGGLMJABOKH.proto";
+import "ELGBEHJIAIA.proto";
+import "GINFLDADAOO.proto";
+
+// Name: GODAKDKKBEM
+message GODAKDKKBEM {
+    // Name: PCFKFLMMDHE
+    enum PCFKFLMMDHE {
+        PCFKFLMMDHE_CLOSE = 0;
+        PCFKFLMMDHE_COND_NOT_MEET = 1;
+        PCFKFLMMDHE_COND_MEET = 2;
+        PCFKFLMMDHE_ACCEPT = 3;
+    }
+
+    uint32 NDGENILJBLM = 4;
+    repeated uint32 KAKALNAGLGJ = 7;
+    map<uint32, uint32> FNHJMNBKIGK = 14;
+    repeated AGGLMJABOKH PHNFDIICFFL = 5;
+    repeated GINFLDADAOO CIKDDDJJOEB = 8;
+    repeated uint32 LNOCPBNPHIE = 12;
+    uint32 HJLEBAHLAOL = 1;
+    uint32 EHFGHJDBOLG = 6;
+    PCFKFLMMDHE MFABFMFFAFJ = 2;
+    repeated ELGBEHJIAIA HCMIBFGAMJC = 10;
+}
+

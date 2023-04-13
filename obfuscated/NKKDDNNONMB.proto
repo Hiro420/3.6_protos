@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 16
+// Name: NKKDDNNONMB
+message NKKDDNNONMB {
+    double HGCNFJGGLIE = 4;
+    uint32 NHDAMFHBMLJ = 11;
+    uint32 FHEGBPFJLCL = 2;
+    float PIOIPCAGPLM = 9;
+    bytes NDMEILKEBAN = 6;
+}
+

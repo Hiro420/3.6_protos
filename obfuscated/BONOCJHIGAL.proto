@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5597
+// Name: BONOCJHIGAL
+message BONOCJHIGAL {
+    bool HKHAADBCFDO = 3;
+    uint32 FKLLFAPMCOB = 12;
+    uint32 HBEFCMIOHCN = 13;
+    bool HIFPOAJOGDK = 9;
+    uint32 FJDAJPLIFIG = 15;
+    uint32 DIFGKMHHIMF = 11;
+    uint32 BKIIHPOAPNA = 10;
+}
+

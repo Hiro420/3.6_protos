@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 941
+// Name: CPLBEGFODJM
+message CPLBEGFODJM {
+    repeated uint32 IDIOLDDOGHA = 13;
+    bool HGEPJDPIAAP = 14;
+}
+

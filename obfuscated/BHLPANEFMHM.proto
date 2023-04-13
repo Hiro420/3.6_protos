@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 119
+// Name: BHLPANEFMHM
+message BHLPANEFMHM {
+    int32 EEDMFEOGLFN = 4;
+    float GPJDIDODBCF = 14;
+}
+

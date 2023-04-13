@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IMGLNGHDKNK.proto";
+
+// Name: NCGOHMANHCA
+message NCGOHMANHCA {
+    map<uint32, IMGLNGHDKNK> FEODACFMDIO = 6;
+}
+

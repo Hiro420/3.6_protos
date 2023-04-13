@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CIHABAAMBHC.proto";
+
+// Name: GJPDGEBHLIF
+message GJPDGEBHLIF {
+    CIHABAAMBHC JLHGMJPELLK = 8;
+    CIHABAAMBHC BIOKNHKMKOP = 3;
+    CIHABAAMBHC IFNNKJGBCMO = 13;
+    CIHABAAMBHC FDAPFMFBAAE = 14;
+    CIHABAAMBHC DGEHFCNNEBL = 10;
+    repeated CIHABAAMBHC DGJIHAKALJN = 7;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4756
+// Name: CILDCMDNIAL
+message CILDCMDNIAL {
+    uint32 PKDJIGJDEJE = 10;
+}
+

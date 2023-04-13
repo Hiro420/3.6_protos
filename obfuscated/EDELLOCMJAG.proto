@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ICFEJHJADHJ.proto";
+import "IPLKIIFIDJK.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: EDELLOCMJAG
+message EDELLOCMJAG {
+    uint32 FGEIEPJKHDL = 1;
+    string KOIICOMMADP = 2;
+    KKFEDHALJFH DBDEEBCMHMM = 3;
+    IPLKIIFIDJK LHKBNFOCHJP = 4;
+    uint32 FPMNNICBLJG = 5;
+    ICFEJHJADHJ APDPPFGMKAL = 6;
+    uint32 MEJDAEOJCFP = 7;
+}
+

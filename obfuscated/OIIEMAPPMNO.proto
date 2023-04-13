@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GFDPEELJAFP.proto";
+
+// CmdId: 2020
+// Name: OIIEMAPPMNO
+message OIIEMAPPMNO {
+    uint32 PNILJLDIAGJ = 7;
+    repeated GFDPEELJAFP MPEKKLIIICP = 3;
+}
+

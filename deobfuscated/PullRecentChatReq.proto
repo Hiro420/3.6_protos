@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5022
+// Name: NCFBCDPLLIG
+message PullRecentChatReq {
+    uint32 HNOFCJJHEAD = 1;
+    uint32 LMHJHHFEHOL = 15;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 200
+// Name: DLCLAJOMIKL
+message DLCLAJOMIKL {
+    int32 EEDMFEOGLFN = 1;
+    uint32 MAEEFMMLAPD = 4;
+    uint32 HCGIBBGCFHO = 5;
+}
+

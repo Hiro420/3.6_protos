@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 644
+// Name: GIMLJCFLMLA
+message CombineDataNotify {
+    repeated uint32 combine_id_list = 9;
+}
+

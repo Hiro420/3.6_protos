@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5559
+// Name: HONDAHLHCKH
+message HONDAHLHCKH {
+    uint32 ECLCBCEPGIH = 10;
+    uint32 OPPFLHPJBFL = 1;
+}
+

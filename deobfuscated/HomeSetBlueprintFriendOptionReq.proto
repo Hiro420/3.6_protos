@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4547
+// Name: LKHKEOHFNAA
+message HomeSetBlueprintFriendOptionReq {
+    bool ADPGCNNFAHJ = 11;
+    bool PKDOOEMFGDL = 2;
+}
+

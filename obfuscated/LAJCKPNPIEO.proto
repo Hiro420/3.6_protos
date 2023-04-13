@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LAJCKPNPIEO
+message LAJCKPNPIEO {
+    uint32 KJFEDIBGFPJ = 7;
+    uint32 HCGIBBGCFHO = 4;
+    uint32 CPKKAJKMBEJ = 8;
+    uint32 NDOJLJFOMNO = 14;
+}
+

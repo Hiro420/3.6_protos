@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FDOECABHIEL
+enum FDOECABHIEL {
+    FDOECABHIEL_NONE = 0;
+    FDOECABHIEL_FORMAL = 1;
+    FDOECABHIEL_TRIAL = 2;
+    FDOECABHIEL_MIRROR = 3;
+}
+

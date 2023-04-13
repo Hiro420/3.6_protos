@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7752
+// Name: ECHBOAOGKHN
+message GCGDSChangeCurDeckReq {
+    uint32 deck_id = 11;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GroupLinkBundle.proto";
+
+// CmdId: 5766
+// Name: IPDDOLGPOCE
+message GroupLinkChangeNotify {
+    GroupLinkBundle bundle = 3;
+}
+

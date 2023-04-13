@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24731
+// Name: IAJAEHMLMAP
+message IAJAEHMLMAP {
+    uint32 JJGGAPDDOLN = 10;
+}
+

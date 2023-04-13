@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GroupLinkBundle.proto";
+
+// CmdId: 5799
+// Name: DJBBFDIDMLK
+message GroupLinkMarkUpdateNotify {
+    GroupLinkBundle bundle = 13;
+}
+

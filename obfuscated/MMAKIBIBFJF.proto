@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GINFLDADAOO.proto";
+
+// CmdId: 1981
+// Name: MMAKIBIBFJF
+message MMAKIBIBFJF {
+    GINFLDADAOO PGEHBIAEHEG = 11;
+}
+

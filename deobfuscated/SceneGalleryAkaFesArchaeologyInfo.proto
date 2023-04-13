@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LNIINEOKDBB
+message SceneGalleryAkaFesArchaeologyInfo {
+    uint32 EBFAEGIJHJK = 5;
+    uint32 JHDBADNLDEJ = 12;
+}
+

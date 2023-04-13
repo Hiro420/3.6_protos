@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8794
+// Name: HOBKGBOCPMM
+message HOBKGBOCPMM {
+    uint32 BDAIDKCGOHJ = 1;
+}
+

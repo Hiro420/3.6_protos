@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GDMLOGBJIGP.proto";
+
+// CmdId: 5073
+// Name: OKJHIHCODGB
+message OKJHIHCODGB {
+    GDMLOGBJIGP ODFBBFHPAIM = 8;
+    int32 EEDMFEOGLFN = 1;
+}
+

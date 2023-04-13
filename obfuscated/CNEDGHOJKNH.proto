@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20910
+// Name: CNEDGHOJKNH
+message CNEDGHOJKNH {
+    uint32 MDNMOJAPBKB = 2;
+    uint32 HDMDJECGCKC = 5;
+    bool HKHAADBCFDO = 7;
+}
+

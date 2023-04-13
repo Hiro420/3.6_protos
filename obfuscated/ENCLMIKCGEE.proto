@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ENCLMIKCGEE
+message ENCLMIKCGEE {
+    uint32 EHIMFMPNDHG = 1;
+    fixed32 FFMNLBAIHFJ = 2;
+    fixed32 KICPGBBADBL = 3;
+}
+

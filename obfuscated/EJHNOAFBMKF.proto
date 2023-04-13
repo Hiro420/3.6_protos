@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MCMJPIGCMCN.proto";
+
+// CmdId: 8651
+// Name: EJHNOAFBMKF
+message EJHNOAFBMKF {
+    int32 EEDMFEOGLFN = 9;
+    repeated MCMJPIGCMCN PKAAPNMNKKF = 5;
+}
+

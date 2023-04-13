@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3198
+// Name: FPMKANGLGAP
+message FPMKANGLGAP {
+    repeated uint32 GLJILPJPABG = 8;
+    int32 EEDMFEOGLFN = 11;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CombatInvokeEntry.proto";
+
+// CmdId: 345
+// Name: CPPOJNOOJKB
+message CombatInvocationsNotify {
+    repeated CombatInvokeEntry invoke_list = 13;
+}
+

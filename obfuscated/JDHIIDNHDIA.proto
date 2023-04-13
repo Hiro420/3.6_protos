@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 877
+// Name: JDHIIDNHDIA
+message JDHIIDNHDIA {
+    map<uint32, uint32> DGMEKMOPIPD = 13;
+}
+

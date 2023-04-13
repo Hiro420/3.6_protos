@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ABBABGECCOD.proto";
+import "MJNHGKMPCBM.proto";
+
+// Name: BLKHJENLAON
+message BLKHJENLAON {
+    map<uint32, MJNHGKMPCBM> BOBBDPDJCCF = 12;
+    uint32 FNFPIGHNBLL = 15;
+    int32 IBHEGIPJNPC = 2;
+    ABBABGECCOD CNDKFAMECDF = 13;
+    map<uint32, MJNHGKMPCBM> OHFMGAOOGED = 9;
+}
+

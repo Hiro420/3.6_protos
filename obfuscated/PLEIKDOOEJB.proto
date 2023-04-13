@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JGPGCDFBDAA.proto";
+import "KKFEDHALJFH.proto";
+
+// CmdId: 290
+// Name: PLEIKDOOEJB
+message PLEIKDOOEJB {
+    uint32 FGEIEPJKHDL = 1;
+    uint32 JHHFIFLOFKB = 482;
+    repeated uint32 GBDOMCNBPJO = 12;
+    string HPLBEOBKKMJ = 1931;
+    KKFEDHALJFH FKLFGGFNLIG = 14;
+    uint32 AOOCBPDDMKC = 4;
+    uint32 PIEFLHONJAC = 952;
+    bool OLGIDGIOPKL = 1748;
+    JGPGCDFBDAA BPKDOPHJPAL = 9;
+    bool FBCPFGPBPAJ = 6;
+    uint32 PCKJELDENIP = 11;
+    uint32 IHJHBOGKMLA = 13;
+    KKFEDHALJFH DBDEEBCMHMM = 10;
+    uint32 HICOHAJPOHC = 3;
+    uint32 IHEPIKIDEAB = 8;
+    uint64 GJJGFIEBGGH = 7;
+}
+

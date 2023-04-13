@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1999
+// Name: CEOEONAEPPI
+message SaveMainCoopRsp {
+    repeated uint32 save_point_id_list = 5;
+    int32 retcode = 6;
+    uint32 id = 8;
+}
+

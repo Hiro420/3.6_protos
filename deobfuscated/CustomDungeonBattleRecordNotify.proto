@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 6234
+// Name: NDPCFBBMFEF
+message CustomDungeonBattleRecordNotify {
+    uint32 min_cost_time = 7;
+    uint64 dungeon_guid = 6;
+}
+

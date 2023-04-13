@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PGMMPGOGFEH
+message PlayerRoutineInfo {
+    uint32 routine_type = 6;
+    uint32 finished_num = 8;
+}
+

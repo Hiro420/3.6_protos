@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NMLPHHIHIOK.proto";
+
+// CmdId: 776
+// Name: OLNLFCGNJMH
+message OLNLFCGNJMH {
+    NMLPHHIHIOK KNJDOAEJEFK = 9;
+    repeated NMLPHHIHIOK HABPEEKABIP = 15;
+    int32 EEDMFEOGLFN = 4;
+    uint32 GHIMNPECNNE = 11;
+    uint32 AFGOHALCCGO = 10;
+}
+

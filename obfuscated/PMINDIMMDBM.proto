@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 892
+// Name: PMINDIMMDBM
+message PMINDIMMDBM {
+    uint32 DMBFPFFMFCM = 10;
+    uint32 ELIEBOMLPDN = 2;
+    uint32 DILMPOBNGPN = 4;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8677
+// Name: LNGLOPJLLNH
+message ClearRoguelikeCurseNotify {
+    map<uint32, uint32> clear_curse_map = 5;
+    bool is_curse_all_clear = 13;
+    uint32 card_id = 12;
+    bool is_clear_all = 3;
+}
+

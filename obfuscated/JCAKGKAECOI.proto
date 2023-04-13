@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2180
+// Name: JCAKGKAECOI
+message JCAKGKAECOI {
+    uint32 LANNIFHAGJI = 2;
+    uint32 LFOCJEADKPK = 6;
+    uint32 CBPDFLNFOKD = 13;
+}
+

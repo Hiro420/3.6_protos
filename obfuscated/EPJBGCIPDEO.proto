@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3265
+// Name: EPJBGCIPDEO
+message EPJBGCIPDEO {
+    uint32 CLABNJFIPGC = 12;
+}
+

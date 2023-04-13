@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DDMODGNAIDJ.proto";
+import "DGIFDKNNFLL.proto";
+import "FDFGOMALABC.proto";
+import "FFNJNOEBCFC.proto";
+
+// Name: BPEIHPFCNLN
+message BPEIHPFCNLN {
+    uint32 DFABLHPDPIN = 13;
+    FFNJNOEBCFC NNGCKOEIOGH = 1;
+    FDFGOMALABC HCPJDMMIFNO = 12;
+    DDMODGNAIDJ OIDMMFABJMA = 4;
+    bool DABANFKIDFE = 8;
+    DGIFDKNNFLL HEHBODBOMOO = 3;
+    bool MFBLCKKNECK = 14;
+    uint32 MFJDILDLMGP = 11;
+    uint32 HNJDOJKGDOP = 5;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ForwardType.proto";
+
+// CmdId: 341
+// Name: CDAPHBDGAJH
+message EvtFaceToEntityNotify {
+    uint32 face_entity_id = 7;
+    ForwardType forward_type = 8;
+    uint32 entity_id = 2;
+}
+

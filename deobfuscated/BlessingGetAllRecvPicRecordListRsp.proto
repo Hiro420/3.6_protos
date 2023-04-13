@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BlessingRecvPicRecord.proto";
+
+// CmdId: 2150
+// Name: DOBNAPMLACB
+message BlessingGetAllRecvPicRecordListRsp {
+    repeated BlessingRecvPicRecord recv_pic_record_list = 14;
+    int32 retcode = 5;
+}
+

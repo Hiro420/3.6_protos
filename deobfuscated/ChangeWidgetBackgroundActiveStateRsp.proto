@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5986
+// Name: FLLAOOKCCHL
+message ChangeWidgetBackgroundActiveStateRsp {
+    uint32 material_id = 10;
+    int32 retcode = 11;
+}
+

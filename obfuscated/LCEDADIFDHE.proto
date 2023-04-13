@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 695
+// Name: LCEDADIFDHE
+message LCEDADIFDHE {
+    uint64 CNOIPKBMEHD = 4;
+    uint64 EJCLMNDCGDP = 6;
+}
+

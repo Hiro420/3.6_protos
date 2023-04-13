@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CNCIMIAOHLE.proto";
+
+// Name: BHDNEKJAHIB
+message BHDNEKJAHIB {
+    uint32 GDAEGLIFGAN = 3;
+    bool MCNJKPCOJFE = 12;
+    uint32 PDIIBHEPHAF = 6;
+    CNCIMIAOHLE JEOKINJEAJB = 11;
+    uint32 AAMIEOPPCFN = 10;
+    uint32 GFNMGEGMMOP = 14;
+    uint32 GMLNJIFOGME = 4;
+    uint32 EMPKGACAAOK = 2;
+    bool OHEICLDPHBF = 9;
+    map<uint32, uint32> MHDAKCHMEBN = 8;
+}
+

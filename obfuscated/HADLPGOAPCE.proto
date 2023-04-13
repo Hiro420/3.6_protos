@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7303
+// Name: HADLPGOAPCE
+message HADLPGOAPCE {
+    uint32 BIEJNHMGMON = 3;
+    uint32 FCKBHBBIMIP = 4;
+}
+

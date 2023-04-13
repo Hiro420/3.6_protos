@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KOKEMJCMFPK
+message KOKEMJCMFPK {
+    uint32 NICMPEHDPBF = 4;
+}
+

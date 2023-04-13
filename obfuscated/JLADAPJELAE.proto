@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FJNICKGNFHF.proto";
+
+// CmdId: 350
+// Name: JLADAPJELAE
+message JLADAPJELAE {
+    repeated FJNICKGNFHF DIIJCAJLFJE = 6;
+}
+

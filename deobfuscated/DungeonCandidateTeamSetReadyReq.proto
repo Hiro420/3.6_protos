@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 928
+// Name: BKMLEDPDPGP
+message DungeonCandidateTeamSetReadyReq {
+    bool is_ready = 1;
+}
+

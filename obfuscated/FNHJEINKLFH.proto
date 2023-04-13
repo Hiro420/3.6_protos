@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2116
+// Name: FNHJEINKLFH
+message FNHJEINKLFH {
+    int32 EEDMFEOGLFN = 4;
+    uint32 PNLBJABJLFC = 11;
+    uint32 LFOCJEADKPK = 3;
+}
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KNCIONFEMPE
+message KNCIONFEMPE {
+    int64 HJLEBAHLAOL = 1;
+}
+

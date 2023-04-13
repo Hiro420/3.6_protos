@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IACJKAKPGDL.proto";
+
+// Name: KALOBOALCPJ
+message KALOBOALCPJ {
+    repeated IACJKAKPGDL LJDDKDFAOJI = 9;
+}
+

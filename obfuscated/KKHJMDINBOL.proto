@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 222
+// Name: KKHJMDINBOL
+message KKHJMDINBOL {
+    uint32 PNILGCAHKOD = 4;
+    uint32 NILJHJLDIPH = 12;
+    uint32 OPPGKAGCJBJ = 9;
+    uint32 MIEDMELHOLI = 2;
+    uint32 JFAFMJAFPEF = 6;
+}
+

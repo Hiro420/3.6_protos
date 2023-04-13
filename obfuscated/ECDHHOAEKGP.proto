@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JNDPIICGKPI.proto";
+
+// Name: ECDHHOAEKGP
+message ECDHHOAEKGP {
+    repeated JNDPIICGKPI KIMBBMDKMLL = 1;
+}
+

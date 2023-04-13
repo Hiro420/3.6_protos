@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8750
+// Name: MECALNNAOKO
+message TreasureMapHostInfoNotify {
+    repeated uint32 mp_challenge_region_list = 10;
+}
+

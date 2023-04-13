@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GEPNCOBIMBD.proto";
+
+// Name: FFLMNBEDKJJ
+message FFLMNBEDKJJ {
+    repeated GEPNCOBIMBD KIMBBMDKMLL = 13;
+}
+

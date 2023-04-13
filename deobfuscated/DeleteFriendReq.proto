@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4059
+// Name: DNNCFLDIPFG
+message DeleteFriendReq {
+    uint32 target_uid = 12;
+}
+

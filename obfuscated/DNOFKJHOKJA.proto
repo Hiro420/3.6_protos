@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JPAKFKCGEAN.proto";
+
+// Name: DNOFKJHOKJA
+message DNOFKJHOKJA {
+    repeated JPAKFKCGEAN OLJJOJBJGBI = 14;
+    bool FKOBJPCKIFJ = 1;
+    uint32 MIKDHOOEKOI = 15;
+    uint32 JGIPOEKBNNN = 10;
+    uint32 JJGGAPDDOLN = 13;
+}
+

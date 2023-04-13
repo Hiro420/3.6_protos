@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HGKFODIDPHN.proto";
+
+// Name: PJGEGAHJACE
+message PJGEGAHJACE {
+    uint32 BCPGAFGNGEH = 12;
+    uint32 JMNAJHPFCMM = 8;
+    repeated HGKFODIDPHN AOAKGOPBGIH = 2;
+    bool BBKBDFEGOHI = 1;
+    string DMBECIDFDFE = 15;
+}
+

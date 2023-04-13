@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LODHKCAGNKL
+message LODHKCAGNKL {
+    uint32 FPMNNICBLJG = 7;
+    uint32 HCGIBBGCFHO = 2;
+    uint32 PBJHMHDJPLL = 8;
+    repeated uint32 NPCGHLDMAMH = 3;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PNHIFNNFPKO
+message PNHIFNNFPKO {
+    uint32 KDLINMLAMDC = 6;
+    int32 FJDLJEFKCHG = 14;
+    uint32 IHDJAALOOBL = 15;
+    uint32 OPFADNLICOA = 7;
+    bool HJGEEAAKCGP = 5;
+    uint32 GNPHBAADHMG = 11;
+}
+

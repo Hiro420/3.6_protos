@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LDPIOEFDNDN
+message LDPIOEFDNDN {
+    fixed32 KIOEDPFMCCC = 1;
+    uint32 HJLEBAHLAOL = 10;
+    uint32 HGCINBLHFLN = 3;
+    repeated uint32 NMKIFLLBAOO = 8;
+    string KOIICOMMADP = 13;
+    repeated uint32 OFOBMLDHDPL = 14;
+    uint32 FCKBHBBIMIP = 7;
+    bool HBAIGMMEFOM = 15;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 5209
+// Name: NDABEMEEAOE
+message NDABEMEEAOE {
+    KKFEDHALJFH EHADCOBANHG = 14;
+    KKFEDHALJFH DBDEEBCMHMM = 6;
+    uint32 ENJAAINHEFK = 11;
+}
+

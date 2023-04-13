@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IIANFLLDLFO.proto";
+
+// Name: EGDJCLPGOJC
+message EGDJCLPGOJC {
+    uint32 GFEJBLDNNNE = 1;
+    uint32 EIKGOGGNELD = 2;
+    repeated uint32 FNOPHAAHLMC = 3;
+    repeated uint32 BPGJCBJKOOP = 4;
+    repeated uint32 EJMADJCBKGE = 5;
+    repeated IIANFLLDLFO CEAIKCIAGFN = 6;
+}
+

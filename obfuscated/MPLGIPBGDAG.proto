@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OAJKPEBHHCH.proto";
+
+// Name: MPLGIPBGDAG
+message MPLGIPBGDAG {
+    repeated OAJKPEBHHCH BABKMKKLGMN = 14;
+}
+

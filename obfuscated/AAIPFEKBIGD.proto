@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CJDBELBDBLI.proto";
+
+// Name: AAIPFEKBIGD
+message AAIPFEKBIGD {
+    repeated CJDBELBDBLI HNMDCKBGNJA = 1;
+    uint32 BJEOCHCOHMH = 2;
+    float DOGMIECMPGD = 3;
+}
+

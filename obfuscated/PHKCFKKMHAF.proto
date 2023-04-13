@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4606
+// Name: PHKCFKKMHAF
+message PHKCFKKMHAF {
+    uint32 NJFLCDNPMPE = 5;
+    uint32 CLGHMJHALKB = 4;
+    uint32 ECLCBCEPGIH = 7;
+    uint32 ICPLDONIHID = 8;
+}
+

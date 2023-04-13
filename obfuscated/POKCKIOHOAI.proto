@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: POKCKIOHOAI
+message POKCKIOHOAI {
+    // Name: NEKANOJJFGN
+    message NEKANOJJFGN {
+        uint64 BHHFMKMEFOA = 10;
+        bool EFKIEIDNLOF = 11;
+        uint32 GKDDBKPKIKH = 2;
+    }
+
+    uint64 NBEIMJIGHIN = 10;
+    uint32 PFEJLBFPMGF = 13;
+    string LKLDJHKFFOL = 11;
+    uint32 HMEKPCPLCDG = 8;
+    float LOMKEBDNAGJ = 9;
+    repeated NEKANOJJFGN LPAONJMNHCP = 7;
+}
+

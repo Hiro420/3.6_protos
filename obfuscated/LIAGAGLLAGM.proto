@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LIAGAGLLAGM
+message LIAGAGLLAGM {
+    map<uint32, uint32> LANGDELIGOP = 11;
+    uint32 FLGEIJDLABF = 15;
+    uint32 JEJBBAIBLGF = 2;
+    uint32 FGHPHCDOPFF = 10;
+    uint32 GFLOKGOCOKM = 13;
+}
+

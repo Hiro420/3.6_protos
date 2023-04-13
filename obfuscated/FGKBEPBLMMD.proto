@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5317
+// Name: FGKBEPBLMMD
+message FGKBEPBLMMD {
+    repeated uint32 FOIBMIAMHGF = 9;
+}
+

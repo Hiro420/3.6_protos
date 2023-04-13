@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2070
+// Name: NKFGJMDKJCJ
+message NKFGJMDKJCJ {
+    repeated uint32 MKJHCLJINAD = 7;
+    uint32 PIHIMOCPPFO = 9;
+    uint32 GOMIFKCFNKJ = 15;
+    uint32 HKMHCKDOJCL = 13;
+}
+

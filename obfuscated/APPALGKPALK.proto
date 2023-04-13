@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 650
+// Name: APPALGKPALK
+message APPALGKPALK {
+    uint64 CHBILHCABBC = 6;
+    uint32 BDLCGNNPHLJ = 9;
+    repeated uint32 FPGACFGKCCK = 10;
+    repeated uint32 PHGKJLPHCBI = 7;
+    int32 EEDMFEOGLFN = 13;
+    uint32 AKLAKDIDLBE = 14;
+}
+

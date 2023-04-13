@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8322
+// Name: NNLIGIGADKL
+message NNLIGIGADKL {
+    float FFNODIODHMO = 12;
+}
+

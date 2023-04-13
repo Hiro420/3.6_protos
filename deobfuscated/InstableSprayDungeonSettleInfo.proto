@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AHMJPHBBHKI
+message InstableSprayDungeonSettleInfo {
+    uint32 stage_id = 9;
+    repeated uint32 score_list = 14;
+    uint32 level_id = 2;
+    uint32 round = 4;
+    bool is_new_record = 15;
+    uint32 difficulty = 1;
+}
+

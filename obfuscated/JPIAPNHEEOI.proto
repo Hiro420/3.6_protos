@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24538
+// Name: JPIAPNHEEOI
+message JPIAPNHEEOI {
+    uint32 MFMAKKFFAHP = 2;
+    uint32 FCOMCAIMCGG = 6;
+    repeated uint32 GNAIIJGCDIB = 15;
+}
+

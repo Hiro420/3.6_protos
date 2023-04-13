@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JKPKCHPJLBK.proto";
+import "LJLCOKBCBOG.proto";
+
+// CmdId: 5326
+// Name: CKGALBJACEN
+message CKGALBJACEN {
+    // Name: BNPALGNFKAB
+    enum BNPALGNFKAB {
+        BNPALGNFKAB_TIME_OUT = 0;
+        BNPALGNFKAB_SETTLE_PLAY_END = 1;
+        BNPALGNFKAB_SETTLE_PLAYER_QUIT = 2;
+    }
+
+    repeated JKPKCHPJLBK EANNAIMKIOB = 5;
+    uint32 NCHIIILDKNA = 13;
+    uint32 FALIEFLKLCF = 7;
+    repeated LJLCOKBCBOG HPCEKLCECKB = 6;
+    uint32 MGOAOLCGNIJ = 9;
+    repeated uint32 MENCGEKOILM = 1;
+    BNPALGNFKAB CNDKFAMECDF = 10;
+    bool HJGMGNEDJIF = 11;
+}
+

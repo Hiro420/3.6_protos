@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PAPLIDJPGCN.proto";
+
+// CmdId: 3017
+// Name: GLHFIFHNHGH
+message GLHFIFHNHGH {
+    map<uint32, PAPLIDJPGCN> OGPJNGECDBA = 8;
+}
+

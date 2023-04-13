@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8348
+// Name: MCCOAEMCDDM
+message FinishLanternProjectionRsp {
+    int32 retcode = 7;
+}
+

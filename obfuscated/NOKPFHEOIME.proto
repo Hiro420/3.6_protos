@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: NOKPFHEOIME
+message NOKPFHEOIME {
+    uint32 ELIBBKFLJIL = 3;
+    repeated uint32 ONJPANAGAJC = 9;
+}
+

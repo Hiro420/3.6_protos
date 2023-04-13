@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7007
+// Name: MKPDDCLLPOF
+message MKPDDCLLPOF {
+    string KOIICOMMADP = 12;
+    uint32 BIEJNHMGMON = 11;
+    bool OKPBIBHGKEJ = 2;
+}
+

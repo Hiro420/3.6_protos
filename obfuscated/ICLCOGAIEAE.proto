@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JNCLNIFHAEF.proto";
+
+// Name: ICLCOGAIEAE
+message ICLCOGAIEAE {
+    JNCLNIFHAEF BECPKOBJKKF = 5;
+    uint32 FNFPIGHNBLL = 10;
+}
+

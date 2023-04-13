@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DBDCBIBLLAE.proto";
+
+// CmdId: 4270
+// Name: KGFNKABPJMB
+message KGFNKABPJMB {
+    int32 EEDMFEOGLFN = 14;
+    DBDCBIBLLAE OBDFDDMPHLJ = 10;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OEIONLNODLN.proto";
+import "PEHLILGOPKN.proto";
+
+// CmdId: 372
+// Name: KBNHHFJKOBM
+message KBNHHFJKOBM {
+    OEIONLNODLN FGLDLIEOIOE = 9;
+    PEHLILGOPKN CGAFJIIPALB = 12;
+}
+

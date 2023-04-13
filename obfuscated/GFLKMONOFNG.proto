@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GFLKMONOFNG
+message GFLKMONOFNG {
+    uint32 KIGONGLABHC = 2;
+    uint32 DLEMDNGLGAP = 4;
+    bool FGBFALDMDAB = 3;
+    bool KPLBFMBGPAP = 9;
+}
+

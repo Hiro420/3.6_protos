@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2164
+// Name: OHGIACFCBDK
+message BlessingAcceptGivePicRsp {
+    int32 retcode = 14;
+    uint32 pic_id = 11;
+    uint32 index = 8;
+    uint32 uid = 1;
+}
+

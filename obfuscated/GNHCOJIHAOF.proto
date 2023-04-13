@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1465
+// Name: GNHCOJIHAOF
+message GNHCOJIHAOF {
+    bool LKHFHNAJFJG = 7;
+}
+

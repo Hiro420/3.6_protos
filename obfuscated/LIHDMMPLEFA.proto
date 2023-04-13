@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4834
+// Name: LIHDMMPLEFA
+message LIHDMMPLEFA {
+    uint32 IAJGALONLCK = 3;
+    int32 EEDMFEOGLFN = 10;
+}
+

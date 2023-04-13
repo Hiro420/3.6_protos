@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7117
+// Name: KIPCLAPGJDA
+message GCGDSChangeDeckNameRsp {
+    string name = 7;
+    int32 retcode = 6;
+    bool OKPBIBHGKEJ = 4;
+    uint32 deck_id = 13;
+}
+

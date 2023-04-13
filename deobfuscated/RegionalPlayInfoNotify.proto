@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "RegionalPlayVar.proto";
+
+// CmdId: 6259
+// Name: KFAMOPAFOHC
+message RegionalPlayInfoNotify {
+    uint32 play_type = 14;
+    bool LJFEFBNPALB = 7;
+    repeated RegionalPlayVar var_list = 1;
+    bool JEPMEPFCDDA = 8;
+    string play_name = 11;
+}
+

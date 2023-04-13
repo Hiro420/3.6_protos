@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FOGOFNJIKON.proto";
+import "MAGCLOOBFPI.proto";
+
+// Name: OKHLKNPBBHN
+message OKHLKNPBBHN {
+    uint32 NLJOBCPBLIA = 2;
+    uint32 EPMMPEOMKDM = 3;
+    uint32 DILMPOBNGPN = 8;
+    bool HBKGGJHLDGI = 9;
+    bool GHIPMPFNFJK = 1;
+    uint32 GNOPBILLLON = 11;
+    string KEOAIKGJLNH = 12;
+    FOGOFNJIKON CAKHPNNGABF = 7;
+    repeated MAGCLOOBFPI ACBAPFHKIMM = 6;
+    uint32 GFBMNPDIDFI = 13;
+    uint32 NKFMAJIEMBK = 14;
+    bool JBCJPJECCNA = 4;
+    uint32 OFBGMCBHHJJ = 15;
+}
+

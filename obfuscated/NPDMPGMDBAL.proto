@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BCLNCCOHMKK.proto";
+
+// CmdId: 4159
+// Name: NPDMPGMDBAL
+message NPDMPGMDBAL {
+    BCLNCCOHMKK KNBLDJKPEPG = 15;
+    uint32 ICDAIDNAOBK = 13;
+    uint32 IHJHBOGKMLA = 12;
+    uint32 APIJKPINGON = 6;
+    uint32 BFPBOJOIACJ = 2;
+    repeated uint32 ABCFJMBIDKF = 11;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "UgcMusicTrack.proto";
+
+// Name: GINOBGBGIGO
+message UgcMusicRecord {
+    repeated UgcMusicTrack music_track_list = 4;
+    uint32 music_id = 9;
+}
+

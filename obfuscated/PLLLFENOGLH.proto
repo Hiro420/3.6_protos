@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1730
+// Name: PLLLFENOGLH
+message PLLLFENOGLH {
+    int32 EEDMFEOGLFN = 6;
+    uint64 FPIIPJJPBOH = 4;
+    uint32 EGKMPDPBLFO = 10;
+}
+

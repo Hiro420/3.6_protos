@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EFNFEPKAAOA.proto";
+
+// CmdId: 219
+// Name: OMOJHMPFPPG
+message OMOJHMPFPPG {
+    EFNFEPKAAOA CIFBJNLGHBH = 9;
+    uint32 DMBFPFFMFCM = 15;
+    uint32 BIHMFOCDMKP = 7;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomePlantFieldData.proto";
+
+// CmdId: 4604
+// Name: KPOMBGHCCIJ
+message HomePlantInfoRsp {
+    int32 retcode = 4;
+    repeated HomePlantFieldData field_list = 9;
+}
+

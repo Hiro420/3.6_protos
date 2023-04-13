@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 21870
+// Name: JCHILFKMGON
+message JCHILFKMGON {
+    int32 EEDMFEOGLFN = 5;
+}
+

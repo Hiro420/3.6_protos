@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2472
+// Name: BHBFGMDJLLI
+message BHBFGMDJLLI {
+    bool FHPGJPCMLDM = 7;
+}
+

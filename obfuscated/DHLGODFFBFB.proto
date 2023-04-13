@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BMCLBPGLLAJ.proto";
+import "DJPKGLHMFIO.proto";
+import "DPDLJODAKKL.proto";
+import "KFHEKHMOBEC.proto";
+import "OMHFNEJPLIG.proto";
+import "PCCKJKGKPOA.proto";
+
+// CmdId: 942
+// Name: DHLGODFFBFB
+message DHLGODFFBFB {
+    uint32 MDLNIEHGHHD = 3;
+    uint32 JGEIIGFGNJG = 6;
+    uint32 IOJKKNAJAAH = 5;
+    uint32 EMKCFAOFHNA = 14;
+    DPDLJODAKKL KKKJIADHMGK = 7;
+    bool HKHAADBCFDO = 2;
+    map<uint32, BMCLBPGLLAJ> KNMLKNGAFPC = 13;
+    bool GBHJHJENFGK = 8;
+    oneof OFDMLDLAIEN {
+        OMHFNEJPLIG BJCOFBGGILK = 357;
+        PCCKJKGKPOA LLLOHJOEGEB = 1482;
+        DJPKGLHMFIO CAIHJJHGMOC = 507;
+        KFHEKHMOBEC CGEFDDIBIPP = 806;
+    }
+}
+

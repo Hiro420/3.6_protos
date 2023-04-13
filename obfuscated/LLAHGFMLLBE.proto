@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5071
+// Name: LLAHGFMLLBE
+message LLAHGFMLLBE {
+    uint32 MAEEFMMLAPD = 8;
+    uint32 FILHECJHLJD = 4;
+    uint32 OFBGMCBHHJJ = 9;
+}
+

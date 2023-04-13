@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 6159
+// Name: DIJAILOHJEA
+message DIJAILOHJEA {
+    bool AHDBAKJJBNC = 11;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EJIAFKLBMHP.proto";
+
+// CmdId: 3549
+// Name: NKEPKPDOHFG
+message NKEPKPDOHFG {
+    uint32 IHJLDALJGLB = 13;
+    EJIAFKLBMHP LKLBLIKELBF = 2;
+}
+

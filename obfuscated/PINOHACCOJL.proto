@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 230
+// Name: PINOHACCOJL
+message PINOHACCOJL {
+    int32 EEDMFEOGLFN = 15;
+}
+

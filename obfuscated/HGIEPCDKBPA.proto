@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8466
+// Name: HGIEPCDKBPA
+message HGIEPCDKBPA {
+    bool LOEACBGBDKG = 7;
+    uint32 EHPIOILFBIN = 11;
+    uint32 HDMDJECGCKC = 10;
+}
+

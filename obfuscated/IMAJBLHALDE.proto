@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 117
+// Name: IMAJBLHALDE
+message IMAJBLHALDE {
+    uint32 EIBBPACAANG = 12;
+    int32 EEDMFEOGLFN = 13;
+}
+

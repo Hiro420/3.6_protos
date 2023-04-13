@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OKDOOEMGDLK
+enum OKDOOEMGDLK {
+    OKDOOEMGDLK_NONE = 0;
+    OKDOOEMGDLK_MUSIC_GAME = 1;
+}
+

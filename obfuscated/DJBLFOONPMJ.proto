@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5327
+// Name: DJBLFOONPMJ
+message DJBLFOONPMJ {
+    uint32 EHPIOILFBIN = 1;
+    uint32 KABFEHLJFKF = 3;
+}
+

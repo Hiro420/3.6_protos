@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ONINAMINFAL.proto";
+
+// CmdId: 2134
+// Name: PNJBCLJOKMN
+message PNJBCLJOKMN {
+    repeated uint32 CGFKLALMOLH = 11;
+    repeated uint32 IMFFKIMJDJH = 2;
+    repeated uint32 OJABHLFOAJP = 6;
+    repeated ONINAMINFAL OHLJHBOMDJK = 7;
+    uint32 LFOCJEADKPK = 9;
+    uint32 PNLBJABJLFC = 3;
+}
+

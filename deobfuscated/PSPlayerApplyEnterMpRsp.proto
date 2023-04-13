@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1821
+// Name: IFCMJCBNEIP
+message PSPlayerApplyEnterMpRsp {
+    uint32 param = 7;
+    string target_psn_id = 10;
+    int32 retcode = 12;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ONINAMINFAL.proto";
+
+// Name: PEMNFGBNJBG
+message PEMNFGBNJBG {
+    uint32 AMEJLPJCENL = 10;
+    repeated ONINAMINFAL IJKIMPJGFGC = 8;
+    bool FFPBCPLJLMJ = 4;
+}
+

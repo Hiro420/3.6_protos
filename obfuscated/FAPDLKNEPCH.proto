@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20550
+// Name: FAPDLKNEPCH
+message FAPDLKNEPCH {
+    int32 EEDMFEOGLFN = 14;
+    string LKLDJHKFFOL = 6;
+}
+

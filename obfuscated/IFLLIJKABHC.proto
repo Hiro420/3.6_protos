@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5546
+// Name: IFLLIJKABHC
+message IFLLIJKABHC {
+    uint32 EEPIFMDOOHM = 1;
+    uint32 ECLCBCEPGIH = 12;
+    uint32 MDNMOJAPBKB = 3;
+    uint32 KFACNCAIMAM = 14;
+}
+

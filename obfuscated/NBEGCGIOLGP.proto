@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: NBEGCGIOLGP
+message NBEGCGIOLGP {
+    uint32 MFABFMFFAFJ = 9;
+    repeated uint32 DOENFEBOKMK = 2;
+    uint32 KEEINOOHGPJ = 1;
+    uint32 MIEDMELHOLI = 14;
+    uint32 DILMPOBNGPN = 4;
+    uint32 PPHMNEGECDM = 11;
+    uint32 FCIFCABFFHJ = 3;
+    uint32 BPKDOPHJPAL = 5;
+    uint32 OMOHCFAEBJB = 12;
+    uint32 ELIEBOMLPDN = 8;
+}
+

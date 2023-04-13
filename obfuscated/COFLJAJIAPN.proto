@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BECOGAKOLEB.proto";
+import "BPJKMCDHCOJ.proto";
+
+// Name: COFLJAJIAPN
+message COFLJAJIAPN {
+    BPJKMCDHCOJ GGLMJKGICBA = 1;
+    uint32 BEBDPAPHFMM = 9;
+    uint32 MEIDOEMPBOH = 3;
+    BECOGAKOLEB JPOCBCKODGE = 11;
+    uint32 FHFHIGBGEBG = 6;
+    uint32 ABOELDEOICA = 2;
+    uint32 GPGPMFDFCMN = 12;
+}
+

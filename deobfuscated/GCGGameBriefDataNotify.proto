@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGGameBriefData.proto";
+
+// CmdId: 7068
+// Name: JKLHNBADGCE
+message GCGGameBriefDataNotify {
+    bool is_new_game = 2;
+    GCGGameBriefData gcg_brief_data = 13;
+}
+

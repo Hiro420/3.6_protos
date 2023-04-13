@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OIEKIGIJIFH.proto";
+
+// Name: MCHJIPMJGJP
+message MCHJIPMJGJP {
+    OIEKIGIJIFH EONNMOEJLJH = 15;
+    uint32 CAMMDIMJEMH = 10;
+    uint32 DMBFPFFMFCM = 11;
+}
+

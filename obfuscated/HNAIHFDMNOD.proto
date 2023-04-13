@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PEHLILGOPKN.proto";
+
+// CmdId: 306
+// Name: HNAIHFDMNOD
+message HNAIHFDMNOD {
+    PEHLILGOPKN CGAFJIIPALB = 2;
+    bool KDBIFOAPHNI = 11;
+    uint32 DMBFPFFMFCM = 6;
+}
+

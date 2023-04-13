@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GHNPJLHELHH.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: CNPANIAGIPH
+message CNPANIAGIPH {
+    float FEKCJAKMKFP = 5;
+    KKFEDHALJFH GJHIABHJFAL = 4;
+    KKFEDHALJFH HMFHFOBAMHL = 12;
+    int32 BLKANPLNPPB = 14;
+    GHNPJLHELHH JNDLJDCFAKM = 10;
+    float JNGOHDMOBPJ = 8;
+}
+

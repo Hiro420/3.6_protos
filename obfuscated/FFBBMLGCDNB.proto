@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HNLOLPHFANA.proto";
+
+// CmdId: 4634
+// Name: FFBBMLGCDNB
+message FFBBMLGCDNB {
+    HNLOLPHFANA APHLKPBNNNC = 10;
+}
+

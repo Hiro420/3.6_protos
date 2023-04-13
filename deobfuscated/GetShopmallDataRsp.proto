@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 756
+// Name: ANANDPPJAOD
+message GetShopmallDataRsp {
+    repeated uint32 shop_type_list = 9;
+    int32 retcode = 15;
+}
+

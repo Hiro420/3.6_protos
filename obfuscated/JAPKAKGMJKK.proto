@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HCFBDIGKKNN.proto";
+
+// CmdId: 5949
+// Name: JAPKAKGMJKK
+message JAPKAKGMJKK {
+    uint32 BOAAADPFMDE = 7;
+    repeated HCFBDIGKKNN NHKNOIDGGAD = 10;
+}
+

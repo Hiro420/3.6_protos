@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 240
+// Name: NCFPJNJGBGD
+message NCFPJNJGBGD {
+    KKFEDHALJFH EPCFLDJKNJH = 3;
+    uint32 DMBFPFFMFCM = 4;
+    uint32 FPMNNICBLJG = 8;
+}
+

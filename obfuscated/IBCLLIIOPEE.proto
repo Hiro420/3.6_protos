@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JAFAPEIOPGD.proto";
+
+// CmdId: 8576
+// Name: IBCLLIIOPEE
+message IBCLLIIOPEE {
+    repeated JAFAPEIOPGD LMLEFPKACEC = 9;
+}
+

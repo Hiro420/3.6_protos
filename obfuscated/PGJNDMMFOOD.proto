@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: PGJNDMMFOOD
+message PGJNDMMFOOD {
+    bool PMHJPLEMFAD = 9;
+    string PJPMLAKAGCF = 1;
+    repeated uint32 OBDCBHCHDFL = 12;
+    uint32 DMBFPFFMFCM = 11;
+    float CNLKENIFMKG = 4;
+    KKFEDHALJFH AJKMDJGMIPG = 2;
+    bool FPFCJFPALLI = 5;
+}
+

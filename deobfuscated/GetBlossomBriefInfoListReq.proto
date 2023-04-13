@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2790
+// Name: ENHLMPMFMBG
+message GetBlossomBriefInfoListReq {
+    repeated uint32 city_id_list = 4;
+}
+

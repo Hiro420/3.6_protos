@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: HHHLHLJODIG
+message HHHLHLJODIG {
+    float EAOKBGDLBJD = 3;
+    uint32 DMBFPFFMFCM = 4;
+    float OFEGAMLNHDE = 12;
+    KKFEDHALJFH AJKMDJGMIPG = 7;
+    float CNLKENIFMKG = 1;
+}
+

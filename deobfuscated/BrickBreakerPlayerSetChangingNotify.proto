@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5330
+// Name: EPLLEJADMPA
+message BrickBreakerPlayerSetChangingNotify {
+    uint32 uid = 2;
+    bool is_changing = 3;
+}
+

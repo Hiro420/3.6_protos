@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ADPEHMKAAKK.proto";
+
+// CmdId: 3246
+// Name: PKBIBIIEKBM
+message PKBIBIIEKBM {
+    repeated ADPEHMKAAKK NKHOEDOKKMM = 7;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5837
+// Name: LODNMOGMOOM
+message LODNMOGMOOM {
+    uint32 CKLDBMICPMP = 12;
+}
+

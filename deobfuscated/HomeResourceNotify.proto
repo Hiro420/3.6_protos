@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeResource.proto";
+
+// CmdId: 4687
+// Name: KOKKGGFLIGL
+message HomeResourceNotify {
+    HomeResource fetter_exp = 11;
+    HomeResource home_coin = 15;
+}
+

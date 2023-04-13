@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GJPDGEBHLIF.proto";
+import "PFEKDHGCBPP.proto";
+
+// Name: MEMFEIDLPMA
+message MEMFEIDLPMA {
+    PFEKDHGCBPP IOIOJAEBHNB = 14;
+    GJPDGEBHLIF ENAEBHJHBLC = 4;
+}
+

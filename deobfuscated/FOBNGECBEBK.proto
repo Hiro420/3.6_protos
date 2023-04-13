@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FOBNGECBEBK
+message FOBNGECBEBK {
+    uint32 FFFEGANCBGK = 1;
+    uint32 card_id = 9;
+}
+

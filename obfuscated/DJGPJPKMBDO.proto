@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3320
+// Name: DJGPJPKMBDO
+message DJGPJPKMBDO {
+    repeated string GKLHBPICCMH = 15;
+    repeated uint32 GBDOMCNBPJO = 10;
+}
+

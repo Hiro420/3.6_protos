@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGSkillPreviewTokenInfo.proto";
+
+// Name: IBINNJHOFAN
+message GCGSkillPreviewTokenChangeInfo {
+    repeated GCGSkillPreviewTokenInfo token_change_list = 4;
+}
+

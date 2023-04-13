@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 285
+// Name: MLIDIOPMEBK
+message EnterSceneReadyRsp {
+    int32 retcode = 13;
+    uint32 enter_scene_token = 1;
+}
+

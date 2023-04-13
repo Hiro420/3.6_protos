@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FJAGNEBFDHH.proto";
+
+// CmdId: 481
+// Name: ICLLOANFNEB
+message ICLLOANFNEB {
+    int32 EEDMFEOGLFN = 10;
+    repeated FJAGNEBFDHH ENFAIHFHHKK = 8;
+}
+

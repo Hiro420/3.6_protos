@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FOGBFDIKCIL
+message FOGBFDIKCIL {
+    bool HPJEGEAOCJB = 6;
+    repeated uint32 LCGMABBNMCH = 3;
+    repeated uint32 MJCLKLBEPLO = 12;
+    uint32 MIKDHOOEKOI = 2;
+    bool NCACAHINDCJ = 8;
+    uint32 HDMDJECGCKC = 7;
+}
+

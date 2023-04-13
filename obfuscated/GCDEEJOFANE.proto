@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 22439
+// Name: GCDEEJOFANE
+message GCDEEJOFANE {
+    int32 EEDMFEOGLFN = 2;
+    uint32 HDMDJECGCKC = 6;
+}
+

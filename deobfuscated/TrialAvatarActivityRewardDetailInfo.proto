@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: HKIDINMGFBN
+message TrialAvatarActivityRewardDetailInfo {
+    uint32 reward_id = 8;
+    bool received_reward = 7; // AOLLLBPODHH
+    bool passed_dungeon = 5; // ODMFBOGNBNK
+    uint32 trial_avatar_index_id = 1;
+}
+

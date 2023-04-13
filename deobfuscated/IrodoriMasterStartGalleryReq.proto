@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8260
+// Name: MINCIEAHAPO
+message IrodoriMasterStartGalleryReq {
+    uint32 difficulty = 13;
+    uint32 level_id = 14;
+}
+

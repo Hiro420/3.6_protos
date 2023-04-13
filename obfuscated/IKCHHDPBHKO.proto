@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5095
+// Name: IKCHHDPBHKO
+message IKCHHDPBHKO {
+    uint32 AMEJLPJCENL = 2;
+    uint32 CMPLFINPFAP = 11;
+}
+

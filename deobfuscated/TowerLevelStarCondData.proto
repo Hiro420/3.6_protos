@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GFLKMONOFNG
+message TowerLevelStarCondData {
+    uint32 star_cond_index = 2; // KIGONGLABHC
+    uint32 cond_value = 4; // DLEMDNGLGAP
+    bool FGBFALDMDAB = 3; // FGBFALDMDAB
+    bool KPLBFMBGPAP = 9; // KPLBFMBGPAP
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8809
+// Name: KHFNIEFPEEP
+message KHFNIEFPEEP {
+    int32 EEDMFEOGLFN = 1;
+    uint32 LFOCJEADKPK = 11;
+    uint32 GBMDFIKFNLM = 9;
+}
+

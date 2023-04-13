@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2188
+// Name: GIOGOPPLLGE
+message GIOGOPPLLGE {
+    uint32 HNJDOJKGDOP = 6;
+    uint32 MFJDILDLMGP = 13;
+}
+

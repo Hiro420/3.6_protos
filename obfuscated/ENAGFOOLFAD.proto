@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 627
+// Name: ENAGFOOLFAD
+message ENAGFOOLFAD {
+    repeated INPDDALBMBO HBCGHCPACGD = 13;
+    uint64 BMAKFKKAFOG = 1;
+    repeated uint64 CGNDMKNCNPK = 4;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4489
+// Name: APAEMKIJPBM
+message APAEMKIJPBM {
+    uint32 apply_uid = 1;
+    bool is_agreed = 7;
+    int32 retcode = 12;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: EEKGPJAAGNH
+message EEKGPJAAGNH {
+    uint32 guid = 12;
+    Vector pos = 7;
+    Vector rot = 14;
+    uint32 block_id = 9;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "RogueCellInfo.proto";
+
+// CmdId: 8385
+// Name: FLLCEDEPHHB
+message RogueCellUpdateNotify {
+    RogueCellInfo cell_info = 11;
+}
+

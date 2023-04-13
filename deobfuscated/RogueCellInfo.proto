@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "RogueCellState.proto";
+
+// Name: HDNDEDIEKCJ
+message RogueCellInfo {
+    uint32 cell_config_id = 5;
+    uint32 dungeon_id = 14;
+    uint32 cell_type = 13;
+    uint32 cell_id = 12;
+    RogueCellState state = 4;
+}
+

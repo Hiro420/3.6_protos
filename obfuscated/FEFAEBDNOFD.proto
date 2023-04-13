@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CIDPEEOGOFC.proto";
+import "OKIDGAFOHGD.proto";
+
+// Name: FEFAEBDNOFD
+message FEFAEBDNOFD {
+    uint32 EEMILGMLGOH = 10;
+    repeated uint32 GNDFCBMMDOM = 2;
+    bool OMLLMCIHLII = 7;
+    uint32 HJLEBAHLAOL = 1;
+    repeated OKIDGAFOHGD NBAFNNPGHEE = 14;
+    repeated CIDPEEOGOFC MLKDGNKMKCG = 8;
+    uint32 FNFPIGHNBLL = 9;
+    uint32 BHPHOGJAADH = 3;
+    repeated uint32 HLBLDDOLLBA = 11;
+}
+

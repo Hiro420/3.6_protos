@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 2650
+// Name: DCGIKJPBKGI
+message DCGIKJPBKGI {
+    uint32 KIHLPOPDEHO = 5;
+    uint32 CLAPOODOICH = 8;
+    uint32 LFOCJEADKPK = 15;
+    repeated INPDDALBMBO IEEPAJEHDIJ = 2;
+}
+

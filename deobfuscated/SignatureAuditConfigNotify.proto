@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4047
+// Name: FONPLIJKICI
+message SignatureAuditConfigNotify {
+    uint32 submit_limit = 14;
+    bool is_open = 12;
+}
+

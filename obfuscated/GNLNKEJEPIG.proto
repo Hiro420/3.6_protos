@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8406
+// Name: GNLNKEJEPIG
+message GNLNKEJEPIG {
+    uint32 LKOGKCCJBFE = 6;
+    bool HKHAADBCFDO = 5;
+    uint32 PKDJIGJDEJE = 10;
+    uint32 HPCCAIMDMDN = 7;
+    uint32 MDNMOJAPBKB = 2;
+    uint32 IKINEMPBMLM = 3;
+    uint32 KLPCIBODOEE = 1;
+    bool GBHJHJENFGK = 13;
+}
+

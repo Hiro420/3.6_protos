@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1700
+// Name: JLLHOHBNJPM
+message JLLHOHBNJPM {
+    uint64 FPIIPJJPBOH = 3;
+    uint32 CMLDJEEBBKI = 4;
+}
+

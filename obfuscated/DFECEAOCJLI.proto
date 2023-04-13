@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8138
+// Name: DFECEAOCJLI
+message DFECEAOCJLI {
+    bool PBDLJNOKLDJ = 2;
+    uint32 LFCAGIIIEFJ = 15;
+    uint32 KHPFCPNBLKI = 6;
+}
+

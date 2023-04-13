@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KGIAEDGPNBH.proto";
+import "NKMCNBPFMBJ.proto";
+
+// Name: CCDHFNFGODI
+message CCDHFNFGODI {
+    repeated KGIAEDGPNBH KONKKPPIKDJ = 2;
+    repeated NKMCNBPFMBJ NLCFOCCFPDG = 15;
+}
+

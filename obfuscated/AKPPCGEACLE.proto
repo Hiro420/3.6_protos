@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: AKPPCGEACLE
+message AKPPCGEACLE {
+    fixed64 MFDOOOMAMKN = 6;
+    fixed64 BEJLIKCLKPN = 5;
+    uint32 FNFPIGHNBLL = 11;
+}
+

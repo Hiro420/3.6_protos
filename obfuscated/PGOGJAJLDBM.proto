@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 397
+// Name: PGOGJAJLDBM
+message PGOGJAJLDBM {
+    uint32 EFKGHKAOALK = 14;
+    repeated uint32 BGMJMPFANGL = 2;
+    uint32 JMHFBMHOEOA = 3;
+}
+

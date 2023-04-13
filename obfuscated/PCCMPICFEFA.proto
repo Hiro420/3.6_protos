@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JENPONLBPJB.proto";
+
+// CmdId: 388
+// Name: PCCMPICFEFA
+message PCCMPICFEFA {
+    repeated JENPONLBPJB HAMFPBCLFCE = 2;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FALEIHAMGBK.proto";
+import "HFPGMAKDKLF.proto";
+
+// CmdId: 4791
+// Name: AILOGCEEAEF
+message AILOGCEEAEF {
+    FALEIHAMGBK DEGPHCCOCFB = 2;
+    uint32 ECLCBCEPGIH = 15;
+    HFPGMAKDKLF CNDKFAMECDF = 13;
+}
+

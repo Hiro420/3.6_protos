@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FEFAEBDNOFD.proto";
+
+// Name: JBFOKFOHFML
+message JBFOKFOHFML {
+    FEFAEBDNOFD KCDNFJNELJF = 4;
+}
+

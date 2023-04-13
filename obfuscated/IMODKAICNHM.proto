@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PDOJLOOPDDO.proto";
+
+// CmdId: 1072
+// Name: IMODKAICNHM
+message IMODKAICNHM {
+    map<uint32, PDOJLOOPDDO> GOEEJEOKMNM = 1;
+    uint64 EEMILGMLGOH = 12;
+}
+

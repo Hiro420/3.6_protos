@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CompoundBoostTakeStatusType.proto";
+import "CompoundQueueData.proto";
+import "ItemParam.proto";
+
+// CmdId: 113
+// Name: DNCELLIFEHB
+message PlayerCompoundMaterialBoostRsp {
+    int32 retcode = 8;
+    CompoundBoostTakeStatusType take_status = 9;
+    repeated CompoundQueueData compound_que_data_list = 15;
+    repeated ItemParam take_item_list = 14;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 128
+// Name: EMGCHDJIFIO
+message PlayerTimeNotify {
+    uint64 server_time = 2;
+    bool is_paused = 5;
+    uint64 player_time = 15;
+}
+

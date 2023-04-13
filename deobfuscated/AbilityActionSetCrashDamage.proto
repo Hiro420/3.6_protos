@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: DCPBNCDJFIK
+message AbilityActionSetCrashDamage {
+    Vector hit_pos = 10;
+    float damage = 14;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ChatInfo.proto";
+
+// CmdId: 3103
+// Name: AEOICKOILCK
+message PlayerChatNotify {
+    ChatInfo chat_info = 13;
+    uint32 channel_id = 5;
+}
+

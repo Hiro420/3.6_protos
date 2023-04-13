@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FIBFPHIAJHG.proto";
+
+// CmdId: 4086
+// Name: CDMDKCDGNPE
+message CDMDKCDGNPE {
+    uint32 AOOCBPDDMKC = 7;
+    FIBFPHIAJHG GNDOPDADBHK = 13;
+}
+

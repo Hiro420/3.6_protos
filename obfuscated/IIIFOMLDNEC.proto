@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 283
+// Name: IIIFOMLDNEC
+message IIIFOMLDNEC {
+    uint32 MOLCMPFBACG = 9;
+    int32 EEDMFEOGLFN = 12;
+    uint32 HAOGJLHNDBM = 14;
+}
+

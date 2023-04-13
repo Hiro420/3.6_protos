@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PCPONDNPNNL.proto";
+
+// Name: AMCGPEAFCJI
+message AMCGPEAFCJI {
+    uint32 JJGGAPDDOLN = 14;
+    bool AHJPBEPBKLC = 11;
+    uint32 JNHIANIADPK = 12;
+    bool JMOLAENOAFO = 2;
+    map<uint32, PCPONDNPNNL> LIPAPPBJLIC = 10;
+    uint32 CPLMDBMFONL = 7;
+    uint32 CIECOAHMPMG = 1;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OJPECCKGNLO.proto";
+
+// Name: DADCGFGAELF
+message DADCGFGAELF {
+    repeated OJPECCKGNLO LJDDKDFAOJI = 8;
+    bool HKKDKNFIKKN = 13;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKJAKFLICEJ.proto";
+
+// CmdId: 298
+// Name: NMFKFALELHO
+message NMFKFALELHO {
+    int32 EEDMFEOGLFN = 4;
+    KKJAKFLICEJ JCJOHOJDHND = 14;
+    uint32 DMBFPFFMFCM = 3;
+}
+

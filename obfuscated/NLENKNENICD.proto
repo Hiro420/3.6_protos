@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 981
+// Name: NLENKNENICD
+message NLENKNENICD {
+    uint32 IHJHBOGKMLA = 12;
+    uint32 BLILHBOJOCD = 13;
+}
+

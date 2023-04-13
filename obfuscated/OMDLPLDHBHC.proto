@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7367
+// Name: OMDLPLDHBHC
+message OMDLPLDHBHC {
+    int32 EEDMFEOGLFN = 9;
+    uint32 BIEJNHMGMON = 11;
+    uint32 HGCINBLHFLN = 2;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GADICHLBHOI
+message GADICHLBHOI {
+    fixed32 BEJLIKCLKPN = 9;
+    uint32 MMIDJCFGLPI = 7;
+    fixed32 KDLJEJAOLKE = 14;
+    uint32 MFCJNNNFCGF = 11;
+    uint32 HBDKCGNFKMH = 5;
+    uint32 AMBDCDLBMAN = 13;
+}
+

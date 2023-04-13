@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AANGCNPKJIH.proto";
+
+// CmdId: 4823
+// Name: AFFCNECKBGG
+message AFFCNECKBGG {
+    uint32 GHIMNPECNNE = 1;
+    repeated AANGCNPKJIH HABPEEKABIP = 12;
+    int32 EEDMFEOGLFN = 5;
+    AANGCNPKJIH KNJDOAEJEFK = 15;
+}
+

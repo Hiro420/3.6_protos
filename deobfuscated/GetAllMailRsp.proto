@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MailData.proto";
+
+// CmdId: 1478
+// Name: LBGKJBDFGKP
+message GetAllMailRsp {
+    bool is_collected = 4;
+    repeated MailData mail_list = 6;
+    bool is_truncated = 10;
+    int32 retcode = 7;
+}
+

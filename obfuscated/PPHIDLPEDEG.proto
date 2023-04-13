@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 6232
+// Name: PPHIDLPEDEG
+message PPHIDLPEDEG {
+    uint64 DKFHDCGJEJK = 8;
+    bool LPCBJEJLKID = 7;
+}
+

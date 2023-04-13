@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FMNPHBGDPIP
+message FMNPHBGDPIP {
+    uint32 PBFMHLPEEPE = 1;
+    uint32 NJDCDHDPMBE = 2;
+}
+

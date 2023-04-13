@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 369
+// Name: AMHAGIPKAMI
+message AMHAGIPKAMI {
+    KKFEDHALJFH EPCFLDJKNJH = 3;
+    uint64 OBNMNOHLGNB = 7;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2617
+// Name: PPDFLNOGDEB
+message PPDFLNOGDEB {
+    repeated uint32 FLEFCGAFLDJ = 1;
+}
+

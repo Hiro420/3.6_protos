@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 186
+// Name: GBJPMDHMOGG
+message GBJPMDHMOGG {
+    uint32 OBHPNGPDLOM = 3;
+    uint32 AJBLMLDNING = 14;
+}
+

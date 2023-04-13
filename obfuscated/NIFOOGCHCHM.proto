@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+import "PEHLILGOPKN.proto";
+
+// CmdId: 376
+// Name: NIFOOGCHCHM
+message NIFOOGCHCHM {
+    uint32 NICMPEHDPBF = 3;
+    uint32 KAHGNDGIEEP = 2;
+    KKFEDHALJFH FBHBDKEJFDO = 15;
+    PEHLILGOPKN CGAFJIIPALB = 14;
+}
+

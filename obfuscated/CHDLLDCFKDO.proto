@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3975
+// Name: CHDLLDCFKDO
+message CHDLLDCFKDO {
+    int32 EEDMFEOGLFN = 8;
+    uint32 IHJHBOGKMLA = 9;
+    uint32 OGIJIILIIPF = 1;
+}
+

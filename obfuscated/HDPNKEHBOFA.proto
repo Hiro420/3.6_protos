@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 842
+// Name: HDPNKEHBOFA
+message HDPNKEHBOFA {
+    uint32 FNDMPMCHKEH = 1;
+    uint32 PNLGKNFEFGC = 15;
+}
+

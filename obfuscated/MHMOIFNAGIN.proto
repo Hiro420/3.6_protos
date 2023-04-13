@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IMEDIOJHOEL.proto";
+
+// Name: MHMOIFNAGIN
+message MHMOIFNAGIN {
+    bool GBHJHJENFGK = 3;
+    IMEDIOJHOEL KEPJFKAEJDH = 9;
+}
+

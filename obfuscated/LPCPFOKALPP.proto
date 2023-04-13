@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HMCBPDBJEOM.proto";
+import "PFGKJAENJNE.proto";
+
+// Name: LPCPFOKALPP
+message LPCPFOKALPP {
+    HMCBPDBJEOM GOGANHMBHKD = 8;
+    repeated PFGKJAENJNE EBDBLIFOODB = 3;
+}
+

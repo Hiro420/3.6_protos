@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3139
+// Name: FKAFHNIHACL
+message FKAFHNIHACL {
+    uint32 ABIIBMGJNKM = 13;
+    uint32 DICOPPHCLEO = 12;
+}
+

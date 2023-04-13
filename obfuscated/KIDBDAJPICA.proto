@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NFBBOLGMJHK.proto";
+
+// CmdId: 693
+// Name: KIDBDAJPICA
+message KIDBDAJPICA {
+    repeated uint32 BCMIBCFPAOD = 5;
+    uint32 KMECAPPHDNN = 10;
+    map<uint32, NFBBOLGMJHK> NDAGFMBKOGO = 14;
+}
+

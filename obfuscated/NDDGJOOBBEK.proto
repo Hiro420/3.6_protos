@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2175
+// Name: NDDGJOOBBEK
+message NDDGJOOBBEK {
+    uint32 PFKKHHMHCMD = 8;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 174
+// Name: DEJJJOMGGIC
+message PlayerSetPauseReq {
+    bool is_paused = 14;
+}
+

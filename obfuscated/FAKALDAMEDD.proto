@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JOFBOBHLMJA.proto";
+
+// CmdId: 4991
+// Name: FAKALDAMEDD
+message FAKALDAMEDD {
+    repeated JOFBOBHLMJA PLJBJJEMGEH = 10;
+    int32 EEDMFEOGLFN = 11;
+}
+

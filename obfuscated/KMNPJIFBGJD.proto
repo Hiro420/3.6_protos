@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DIJILDLCPLG.proto";
+import "GENJGPDIPNI.proto";
+import "KHHEAFGCOMJ.proto";
+import "PPBLCBFKEHE.proto";
+
+// Name: KMNPJIFBGJD
+message KMNPJIFBGJD {
+    uint32 JOPGJGDHIFD = 14;
+    GENJGPDIPNI BPKDOPHJPAL = 13;
+    uint32 HKPLPJIBMOC = 8;
+    repeated uint32 KAOGGMEJPBD = 6;
+    string KOIICOMMADP = 3;
+    oneof OFDMLDLAIEN {
+        PPBLCBFKEHE AOIHIJODLEH = 1759;
+        KHHEAFGCOMJ AKBBNAEECEM = 360;
+        DIJILDLCPLG DKFBFBCOKLD = 492;
+    }
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKDALGHGFLA.proto";
+
+// CmdId: 201
+// Name: FCLLABHADCK
+message FCLLABHADCK {
+    uint32 BIHMFOCDMKP = 4;
+    repeated KKDALGHGFLA AELGFHFMOLO = 3;
+    uint32 FGEIEPJKHDL = 14;
+}
+

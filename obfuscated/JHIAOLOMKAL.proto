@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8849
+// Name: JHIAOLOMKAL
+message JHIAOLOMKAL {
+    uint32 PKDJIGJDEJE = 5;
+    uint32 LFOCJEADKPK = 2;
+}
+

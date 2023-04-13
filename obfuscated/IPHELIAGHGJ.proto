@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DCDPCOHCCNJ.proto";
+import "INPDDALBMBO.proto";
+
+// Name: IPHELIAGHGJ
+message IPHELIAGHGJ {
+    INPDDALBMBO BECIIDHGPMG = 13;
+    repeated DCDPCOHCCNJ GJHDOEKAFCH = 3;
+    repeated INPDDALBMBO GACMHEPMPFP = 9;
+    bool DKPCGKMJNMC = 1;
+    bool HBJJJDGGBCN = 11;
+}
+

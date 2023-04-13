@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HNCPFKLDBIF.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: KDHIILONFMA
+message KDHIILONFMA {
+    KKFEDHALJFH PEIAJDDGMIG = 6;
+    uint32 IAJGALONLCK = 5;
+    KKFEDHALJFH IPPBNCILPHJ = 3;
+    repeated HNCPFKLDBIF OGDJDCJBPPP = 2;
+    uint32 FGEIEPJKHDL = 8;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NLLKFGCFOBL.proto";
+
+// CmdId: 1478
+// Name: LBGKJBDFGKP
+message LBGKJBDFGKP {
+    bool LKHFHNAJFJG = 4;
+    repeated NLLKFGCFOBL FJHLKLIJPKK = 6;
+    bool PGBMBKIGNCK = 10;
+    int32 EEDMFEOGLFN = 7;
+}
+

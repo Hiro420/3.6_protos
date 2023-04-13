@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 669
+// Name: DCKDKJNEPCN
+message DCKDKJNEPCN {
+    repeated uint32 LFNLHAABJAM = 3;
+    repeated uint32 NGHLEILOIKL = 7;
+    int32 EEDMFEOGLFN = 14;
+}
+

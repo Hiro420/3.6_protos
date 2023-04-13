@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4391
+// Name: APLBBCHALEL
+message APLBBCHALEL {
+    uint32 PPHMNEGECDM = 15;
+    bool AHLBALEPDGC = 7;
+}
+

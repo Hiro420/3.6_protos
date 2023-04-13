@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4793
+// Name: AFJNICPBLBF
+message AFJNICPBLBF {
+    uint32 HBDKCGNFKMH = 8;
+    uint32 MFCJNNNFCGF = 14;
+}
+

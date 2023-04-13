@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MJNHGKMPCBM.proto";
+
+// CmdId: 7243
+// Name: CJPDFDFACHM
+message CJPDFDFACHM {
+    repeated uint32 ECLJEEFBNJG = 5;
+    repeated MJNHGKMPCBM EDGEAPPCNJL = 9;
+}
+

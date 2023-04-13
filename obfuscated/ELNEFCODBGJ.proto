@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NEFLDLBMEOI.proto";
+
+// CmdId: 5759
+// Name: ELNEFCODBGJ
+message ELNEFCODBGJ {
+    repeated NEFLDLBMEOI GJADFFKDIKL = 6;
+}
+

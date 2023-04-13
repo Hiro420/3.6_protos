@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MBJHALEKELO.proto";
+
+// CmdId: 8151
+// Name: GFIMONONAEB
+message GFIMONONAEB {
+    repeated MBJHALEKELO ACMHJAPHJAL = 9;
+}
+

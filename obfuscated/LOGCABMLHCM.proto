@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1678
+// Name: LOGCABMLHCM
+message LOGCABMLHCM {
+    int32 EEDMFEOGLFN = 8;
+    uint32 NICMPEHDPBF = 6;
+    uint64 HIALDMPLBDC = 7;
+}
+

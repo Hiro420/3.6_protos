@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 976
+// Name: JPNMIFILGBP
+message PlayerEnterDungeonRsp {
+    uint32 dungeon_id = 12;
+    uint32 point_id = 10;
+    int32 retcode = 1;
+}
+

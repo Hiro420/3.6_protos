@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PANKLPDCNBE.proto";
+
+// CmdId: 1927
+// Name: LKMFLLAFCCF
+message LKMFLLAFCCF {
+    repeated PANKLPDCNBE HPELIPHBIKH = 6;
+}
+

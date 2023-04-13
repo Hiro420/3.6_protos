@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 981
+// Name: NLENKNENICD
+message DungeonCandidateTeamCreateReq {
+    uint32 dungeon_id = 12;
+    uint32 point_id = 13;
+}
+

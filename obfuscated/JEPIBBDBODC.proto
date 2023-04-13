@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PKDOAJEGHLP.proto";
+
+// CmdId: 1688
+// Name: JEPIBBDBODC
+message JEPIBBDBODC {
+    bool LFMJDPGLGNN = 14;
+    PKDOAJEGHLP MJODFLJAOIM = 5;
+}
+

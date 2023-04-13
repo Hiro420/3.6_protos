@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2189
+// Name: CONHOPDNJDG
+message CONHOPDNJDG {
+    uint32 PNLBJABJLFC = 1;
+    map<uint32, uint32> AKDMBMOOOKN = 14;
+    uint32 LFOCJEADKPK = 2;
+}
+

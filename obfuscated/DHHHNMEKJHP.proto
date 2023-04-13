@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DHHHNMEKJHP
+message DHHHNMEKJHP {
+    uint32 BPKDOPHJPAL = 1;
+    uint32 HJLEBAHLAOL = 2;
+    int32 CPEJFNDDHJN = 3;
+    int32 FBBNKHDEMJG = 4;
+    int32 CMNMDFMICGE = 5;
+    int32 HPMBLMCBACA = 6;
+    int32 LJBFDIBKCDM = 7;
+    int32 ABOLKDPHHHE = 8;
+    bool LHLCMNDKKIC = 9;
+    int32 FCIFCABFFHJ = 10;
+    int32 JFAFMJAFPEF = 11;
+    uint32 PHAKMIAPJGA = 12;
+    uint32 IPAAGPMLFCI = 13;
+    uint32 FNGFMBMIODF = 14;
+    uint32 HCGIBBGCFHO = 15;
+    uint32 GBNBIPNHOOO = 16;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BGNNHOLIAAL
+message BGNNHOLIAAL {
+    uint32 MEACAEHGMKJ = 4;
+    bool HKHAADBCFDO = 7;
+    uint32 KCHAMIMJKKK = 3;
+    uint32 DDGOJCJLFAM = 5;
+    map<uint32, int32> NIAGJOHNCJJ = 15;
+}
+

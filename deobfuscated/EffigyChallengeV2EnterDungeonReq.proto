@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 21076
+// Name: BFGKDKIPBFO
+message EffigyChallengeV2EnterDungeonReq {
+    uint32 level_id = 4;
+    uint32 challenge_mode_skill_no = 12;
+    uint32 challenge_mode_difficulty = 13;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EBADLMHHFPL.proto";
+import "GMIMOGNEPNK.proto";
+
+// Name: KJILDIJGJEN
+message KJILDIJGJEN {
+    repeated EBADLMHHFPL CEAJFPMKPJK = 3;
+    GMIMOGNEPNK BNKEADPKOIN = 7;
+    uint64 DKFHDCGJEJK = 6;
+    uint32 IHJHBOGKMLA = 4;
+}
+

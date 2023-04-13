@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AranaraCollectionState.proto";
+
+// Name: OMCPIFLGGJH
+message AranaraCollectionSuite {
+    map<uint32, AranaraCollectionState> collection_id_state_map = 6;
+    uint32 collection_type = 15;
+}
+

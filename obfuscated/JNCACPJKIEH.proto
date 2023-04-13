@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+import "MKFIMBHKACA.proto";
+
+// CmdId: 5822
+// Name: JNCACPJKIEH
+message JNCACPJKIEH {
+    MKFIMBHKACA CNDKFAMECDF = 10;
+    uint32 JBMPBFDPKGD = 1;
+    repeated uint32 PCLBJKHFMML = 12;
+    KKFEDHALJFH DBDEEBCMHMM = 9;
+}
+

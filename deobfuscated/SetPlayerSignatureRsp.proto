@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4075
+// Name: OCCAFEBEKAD
+message SetPlayerSignatureRsp {
+    string signature = 10;
+    int32 retcode = 15;
+}
+

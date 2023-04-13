@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GAPHHKJNLCG
+message GAPHHKJNLCG {
+    float BCFKKECLAEE = 5;
+    uint32 MICBIDAINJP = 7;
+    float DHIFNAIOHEM = 15;
+}
+

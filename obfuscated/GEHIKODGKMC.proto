@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GEHIKODGKMC
+enum GEHIKODGKMC {
+    GEHIKODGKMC_HOME_FIELD_STATUE_NONE = 0;
+    GEHIKODGKMC_HOME_FIELD_STATUE_SEED = 1;
+    GEHIKODGKMC_HOME_FIELD_STATUE_SPROUT = 2;
+    GEHIKODGKMC_HOME_FIELD_STATUE_GATHER = 3;
+}
+

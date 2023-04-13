@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4809
+// Name: AKEHHECCPOO
+message AKEHHECCPOO {
+    string EFGHHOJCOOI = 4;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JAOECAEBGJO
+message ServantInfo {
+    uint32 LEIGNAKFGHF = 1;
+    uint32 IMHGJAOKPNI = 2;
+}
+

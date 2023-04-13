@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8091
+// Name: IPNMNIOOKMA
+message IPNMNIOOKMA {
+    uint32 LFOCJEADKPK = 1;
+    uint32 JBMPBFDPKGD = 11;
+}
+

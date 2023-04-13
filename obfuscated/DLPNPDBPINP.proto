@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CBEEEDOJOEF.proto";
+import "EAEIOMOEIEC.proto";
+import "NHMPFEALEGC.proto";
+
+// CmdId: 102
+// Name: DLPNPDBPINP
+message DLPNPDBPINP {
+    int32 EEDMFEOGLFN = 8;
+    uint32 MFCJNNNFCGF = 11;
+    oneof OFDMLDLAIEN {
+        EAEIOMOEIEC EKIJKPFHPAD = 645;
+        NHMPFEALEGC MJCLIFOGPNH = 1180;
+        CBEEEDOJOEF FHLCNLGEINK = 1053;
+    }
+}
+

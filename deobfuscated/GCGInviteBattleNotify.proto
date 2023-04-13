@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7450
+// Name: IKJMJIFLCAF
+message GCGInviteBattleNotify {
+    uint32 confirm_end_time = 1;
+    uint32 LNNOPIDBJDH = 11;
+}
+

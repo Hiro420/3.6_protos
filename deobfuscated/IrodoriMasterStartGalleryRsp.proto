@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8754
+// Name: CLNICKOLOIM
+message IrodoriMasterStartGalleryRsp {
+    int32 retcode = 6;
+}
+

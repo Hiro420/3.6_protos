@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: NFBBOLGMJHK
+message NFBBOLGMJHK {
+    uint32 LFKLAHBIMHG = 5;
+    uint32 ANEHHKAEKNL = 12;
+    uint32 MFCJNNNFCGF = 13;
+    uint32 GLJCEFHAJFK = 14;
+    uint32 HANICBEMMJM = 11;
+    uint32 EBFDNIFEKBN = 1;
+    uint32 JHCELCAALGH = 15;
+}
+

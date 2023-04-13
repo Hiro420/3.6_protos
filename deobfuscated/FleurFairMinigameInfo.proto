@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FleurFairBalloonInfo.proto";
+import "FleurFairFallInfo.proto";
+import "FleurFairMusicGameInfo.proto";
+
+// Name: HCOIKDMFANG
+message FleurFairMinigameInfo {
+    uint32 minigame_id = 14;
+    bool is_open = 1;
+    uint32 open_time = 6;
+    oneof detail {
+        FleurFairBalloonInfo balloon_info = 2;
+        FleurFairFallInfo fall_info = 9;
+        FleurFairMusicGameInfo music_info = 15;
+    }
+}
+

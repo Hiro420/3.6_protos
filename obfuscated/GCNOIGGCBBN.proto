@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 277
+// Name: GCNOIGGCBBN
+message GCNOIGGCBBN {
+    // Name: PPGMHILJKOI
+    enum PPGMHILJKOI {
+        PPGMHILJKOI_NULL = 0;
+        PPGMHILJKOI_ACTIVE = 1;
+        PPGMHILJKOI_PASSIVE = 2;
+    }
+
+    PPGMHILJKOI MICIOIIBAJG = 4;
+    KKFEDHALJFH DBDEEBCMHMM = 6;
+    KKFEDHALJFH EHADCOBANHG = 3;
+    uint32 DMBFPFFMFCM = 5;
+}
+

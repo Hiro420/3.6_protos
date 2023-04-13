@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BreakoutSnapShot.proto";
+
+// Name: GFNHIBJPLLH
+message BreakoutSyncSnapShot {
+    BreakoutSnapShot snap_shot = 15;
+}
+

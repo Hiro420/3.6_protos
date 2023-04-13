@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 940
+// Name: KOIONEDIPOO
+message KOIONEDIPOO {
+    int32 EEDMFEOGLFN = 15;
+    uint32 EMKCFAOFHNA = 13;
+    uint32 LAOBIDKNELB = 3;
+    uint32 PKDJIGJDEJE = 5;
+}
+

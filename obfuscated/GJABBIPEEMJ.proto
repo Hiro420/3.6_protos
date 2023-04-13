@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1641
+// Name: GJABBIPEEMJ
+message GJABBIPEEMJ {
+    uint64 FPIIPJJPBOH = 7;
+    uint32 EGKMPDPBLFO = 10;
+}
+

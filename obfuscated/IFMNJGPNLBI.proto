@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ANHDCCFHLOD.proto";
+
+// Name: IFMNJGPNLBI
+message IFMNJGPNLBI {
+    repeated ANHDCCFHLOD LDOFPBILINN = 9;
+    uint32 HJLEBAHLAOL = 6;
+    bool OJOBEMKMALK = 10;
+}
+

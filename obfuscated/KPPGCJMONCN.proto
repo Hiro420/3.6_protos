@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BAADGLFOHPI.proto";
+import "LKKKOFHDIBB.proto";
+
+// Name: KPPGCJMONCN
+message KPPGCJMONCN {
+    uint32 GMJNLBGNFEJ = 1;
+    oneof OFDMLDLAIEN {
+        BAADGLFOHPI FLMHPACNIOK = 2;
+        LKKKOFHDIBB KCGKNOIHAMN = 3;
+    }
+}
+

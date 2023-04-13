@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OAOOLKPAOFH
+message CookRecipeData {
+    uint32 recipe_id = 8;
+    uint32 proficiency = 2;
+}
+

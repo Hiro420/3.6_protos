@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7176
+// Name: FAGHNCIAALG
+message FAGHNCIAALG {
+    int32 EEDMFEOGLFN = 5;
+    uint32 BIEJNHMGMON = 7;
+}
+

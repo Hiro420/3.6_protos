@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8339
+// Name: AFMCHCJOMPE
+message ChannellerSlabOneOffDungeonInfoNotify {
+    repeated uint32 scheme_buff_id_list = 3;
+}
+

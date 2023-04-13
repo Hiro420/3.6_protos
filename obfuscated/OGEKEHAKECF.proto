@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 86
+// Name: OGEKEHAKECF
+message OGEKEHAKECF {
+    uint32 GBGNADKLBAD = 4;
+    string IHGEHAHMHAH = 5;
+}
+

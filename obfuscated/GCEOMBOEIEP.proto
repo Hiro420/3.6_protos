@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JEACAGKGEGF.proto";
+import "PHLABMFOJJA.proto";
+
+// CmdId: 4881
+// Name: GCEOMBOEIEP
+message GCEOMBOEIEP {
+    JEACAGKGEGF DPNFDAOBJKP = 3;
+    PHLABMFOJJA FAOBIMACLPC = 8;
+}
+

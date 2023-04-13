@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EJIAFKLBMHP.proto";
+
+// Name: PLBDABDIBDH
+message PLBDABDIBDH {
+    uint32 IHJLDALJGLB = 11;
+    repeated EJIAFKLBMHP EOANEMDJEMP = 5;
+    uint32 HJFJMAEKNGD = 8;
+}
+

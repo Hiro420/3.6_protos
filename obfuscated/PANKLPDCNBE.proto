@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PANKLPDCNBE
+message PANKLPDCNBE {
+    // Name: OJMGAAEJHAD
+    enum OJMGAAEJHAD {
+        OJMGAAEJHAD_INVALID = 0;
+        OJMGAAEJHAD_IN_PROGRESS = 1;
+        OJMGAAEJHAD_COMPLETE = 2;
+        OJMGAAEJHAD_REWARD_TAKEN = 3;
+    }
+
+    uint32 APILEGLIAMA = 3;
+    uint32 IOLKEPCMIAN = 5;
+    uint32 MIEDMELHOLI = 15;
+    uint32 MEJDAEOJCFP = 4;
+    OJMGAAEJHAD MFABFMFFAFJ = 9;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 128
+// Name: EMGCHDJIFIO
+message EMGCHDJIFIO {
+    uint64 BGKJLDDHKOI = 2;
+    bool OJKAHBMCECO = 5;
+    uint64 CJLBPGEKBMA = 15;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "TowerMonthlyDetail.proto";
+
+// CmdId: 2483
+// Name: BCKCLMPIOGE
+message TowerRecordHandbookRsp {
+    repeated TowerMonthlyDetail monthly_detail_list = 4;
+    int32 retcode = 5;
+}
+

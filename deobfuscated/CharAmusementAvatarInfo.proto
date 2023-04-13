@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KEBACJLDGHN
+message CharAmusementAvatarInfo {
+    repeated uint32 avatar_id_list = 3;
+    uint32 punish_time = 11;
+    uint32 uid = 8;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+
+// Name: JKFGLOLKOKP
+message JKFGLOLKOKP {
+    string EBLOGJGAOIP = 14;
+    uint32 JBMPBFDPKGD = 13;
+    map<uint32, uint32> AMFJKOMGOJN = 12;
+    CAOGLKMLEOG IAEKOGMCHED = 9;
+}
+

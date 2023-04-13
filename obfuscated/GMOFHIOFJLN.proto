@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5845
+// Name: GMOFHIOFJLN
+message GMOFHIOFJLN {
+    uint32 PLCIBPIPKIN = 7;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2290
+// Name: BFMJGJJOHPC
+message WatcherAllDataNotify {
+    repeated uint32 watcher_list = 6;
+}
+

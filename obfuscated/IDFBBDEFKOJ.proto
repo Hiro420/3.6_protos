@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: IDFBBDEFKOJ
+message IDFBBDEFKOJ {
+    uint32 HJMAICKGLNO = 1;
+    bytes ENFJNHJHJMK = 3;
+}
+

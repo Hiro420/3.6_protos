@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PKPGAPABGIN
+message PKPGAPABGIN {
+    uint32 MFCJNNNFCGF = 1;
+    uint32 HCGIBBGCFHO = 2;
+    uint32 EPLAOCBKEBP = 3;
+}
+

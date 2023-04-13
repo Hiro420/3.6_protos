@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1965
+// Name: LNCMJEHKBCI
+message LNCMJEHKBCI {
+    uint32 OGGANPIOMED = 9;
+    uint32 HJLEBAHLAOL = 5;
+}
+

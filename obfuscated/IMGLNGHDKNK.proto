@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: IMGLNGHDKNK
+message IMGLNGHDKNK {
+    uint32 MIKDHOOEKOI = 2;
+    bool IBNEJGFDCEI = 6;
+    uint32 PDOCNGMGJAG = 13;
+}
+

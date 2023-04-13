@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GLGKDKCGEKF
+enum GLGKDKCGEKF {
+    GLGKDKCGEKF_SEAL_BATTLE_KEEP_ALIVE = 0;
+    GLGKDKCGEKF_SEAL_BATTLE_KILL_MONSTER = 1;
+    GLGKDKCGEKF_SEAL_BATTLE_ENERGY_CHARGE = 2;
+}
+

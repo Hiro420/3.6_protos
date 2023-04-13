@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LOFDJMMJMAJ
+message LOFDJMMJMAJ {
+    map<uint32, uint32> LJENBNHMAHE = 10;
+    bool CEEAHMAEEBF = 6;
+    bool MFBLCKKNECK = 3;
+    map<uint32, uint32> LBKFMDJGOPL = 1;
+    uint32 GFNMGEGMMOP = 11;
+    uint32 AJOELAEIAAK = 15;
+}
+

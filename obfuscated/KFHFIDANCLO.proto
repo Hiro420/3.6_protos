@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5092
+// Name: KFHFIDANCLO
+message KFHFIDANCLO {
+    uint32 OFBGMCBHHJJ = 12;
+    uint32 OLEBJHOKNAH = 10;
+}
+

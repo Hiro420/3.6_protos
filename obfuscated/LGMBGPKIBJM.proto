@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IMEJDDMMKFB.proto";
+import "PIDANILFCHF.proto";
+
+// CmdId: 4349
+// Name: LGMBGPKIBJM
+message LGMBGPKIBJM {
+    int32 EEDMFEOGLFN = 9;
+    uint32 HEKHEPFHLDL = 11;
+    repeated IMEJDDMMKFB KNHJKOIHFJF = 3;
+    PIDANILFCHF DHNBNHMELDK = 1;
+    uint32 OOLDOBOIIEK = 4;
+    uint32 HJFJMAEKNGD = 5;
+}
+

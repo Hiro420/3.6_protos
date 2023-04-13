@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HOOINALOANB.proto";
+import "KJILDIJGJEN.proto";
+import "NPALPPLEFFC.proto";
+
+// CmdId: 6207
+// Name: DAHJKHDDMBP
+message DAHJKHDDMBP {
+    repeated uint32 HDOPDNEEIGP = 11;
+    KJILDIJGJEN NOHFJDIGECI = 14;
+    NPALPPLEFFC IGIANMBNHAO = 2;
+    HOOINALOANB DCDMAOGBELF = 5;
+}
+

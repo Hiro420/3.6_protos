@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5546
+// Name: IFLLIJKABHC
+message GallerySumoKillMonsterNotify {
+    uint32 EEPIFMDOOHM = 1;
+    uint32 gallery_id = 12;
+    uint32 score = 3;
+    uint32 KFACNCAIMAM = 14;
+}
+

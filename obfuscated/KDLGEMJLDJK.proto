@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2040
+// Name: KDLGEMJLDJK
+message KDLGEMJLDJK {
+    repeated uint32 FAAOILLELHJ = 3;
+    uint32 JOPJKOGODAM = 10;
+    int32 EEDMFEOGLFN = 8;
+    uint32 LAOBIDKNELB = 13;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 231
+// Name: EHDLDPHGGFF
+message EHDLDPHGGFF {
+    uint32 JLCIBMELNKI = 6;
+    uint32 IHEPIKIDEAB = 9;
+    uint32 IPAAGPMLFCI = 12;
+    uint32 BAEPMMGCLLE = 5;
+}
+

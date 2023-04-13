@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7820
+// Name: OJDIFIEOINF
+message OJDIFIEOINF {
+    uint32 FCKBHBBIMIP = 15;
+}
+

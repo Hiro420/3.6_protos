@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OBHMBIAPBIK.proto";
+
+// CmdId: 2496
+// Name: ONJNAGDHCDM
+message ONJNAGDHCDM {
+    bool PFNBNGMOLFC = 4;
+    repeated OBHMBIAPBIK DFFHJODBJGL = 13;
+}
+

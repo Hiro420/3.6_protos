@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4043
+// Name: DONBHCNMFJN
+message DONBHCNMFJN {
+    int32 EEDMFEOGLFN = 4;
+}
+

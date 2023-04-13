@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AiSyncInfo.proto";
+
+// CmdId: 357
+// Name: BOKDCFPDBFM
+message EntityAiSyncNotify {
+    repeated uint32 local_avatar_alerted_monster_list = 7;
+    repeated AiSyncInfo info_list = 3;
+}
+

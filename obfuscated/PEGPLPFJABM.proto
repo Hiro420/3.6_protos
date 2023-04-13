@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ABEDKGJICJE.proto";
+
+// CmdId: 4464
+// Name: PEGPLPFJABM
+message PEGPLPFJABM {
+    repeated ABEDKGJICJE MPNKKODEOFM = 1;
+}
+

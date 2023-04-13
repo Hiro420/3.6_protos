@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OFOIBICFDCF
+message OFOIBICFDCF {
+    uint32 IOLKEPCMIAN = 4;
+    uint32 LAOBIDKNELB = 8;
+    uint32 FJLHCPEOPBD = 5;
+}
+

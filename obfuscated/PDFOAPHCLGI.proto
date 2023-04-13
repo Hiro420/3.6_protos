@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BMMIIMLDFOG.proto";
+
+// CmdId: 42
+// Name: PDFOAPHCLGI
+message PDFOAPHCLGI {
+    repeated BMMIIMLDFOG PFCKLEMEOOL = 1;
+}
+

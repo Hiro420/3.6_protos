@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3207
+// Name: HDJGNGLPHHO
+message HDJGNGLPHHO {
+    uint32 BPKDOPHJPAL = 4;
+    repeated float HEMCHGGHBAK = 7;
+    repeated int32 EBIDPAAAOHG = 3;
+    string PIPAMNPDJCM = 5;
+}
+

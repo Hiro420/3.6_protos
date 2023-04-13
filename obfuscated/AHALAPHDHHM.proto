@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EMCLDENBBCF.proto";
+
+// CmdId: 1141
+// Name: AHALAPHDHHM
+message AHALAPHDHHM {
+    repeated EMCLDENBBCF LCPCKNHBLHI = 8;
+}
+

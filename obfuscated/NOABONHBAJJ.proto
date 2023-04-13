@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PKGFJDKCLNB.proto";
+
+// Name: NOABONHBAJJ
+message NOABONHBAJJ {
+    uint32 DNHHONGGDCN = 11;
+    PKGFJDKCLNB LMNGGDPKEKF = 5;
+    uint32 LLPCBPIDGJK = 6;
+    bool FPIDBNFKDFL = 12;
+}
+

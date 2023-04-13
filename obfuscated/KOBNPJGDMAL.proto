@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IHELPFGLMOP.proto";
+
+// CmdId: 4409
+// Name: KOBNPJGDMAL
+message KOBNPJGDMAL {
+    repeated IHELPFGLMOP PCLFIHHLLIH = 6;
+}
+

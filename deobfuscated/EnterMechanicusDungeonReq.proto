@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 3959
+// Name: EJLGLJHLKMG
+message EnterMechanicusDungeonReq {
+    uint32 difficult_level = 12;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// CmdId: 253
+// Name: MCBNOBMCOEH
+message HitClientTrivialNotify {
+    uint32 owner_entity_id = 8;
+    Vector position = 3;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8082
+// Name: ANAGINKCDEH
+message ANAGINKCDEH {
+    uint32 JJGGAPDDOLN = 15;
+    uint32 LCLFGCABJLL = 12;
+}
+

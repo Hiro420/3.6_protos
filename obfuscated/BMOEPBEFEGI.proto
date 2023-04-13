@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PNDFBCEFOOA.proto";
+
+// Name: BMOEPBEFEGI
+message BMOEPBEFEGI {
+    PNDFBCEFOOA AIOODCJHJON = 9;
+    repeated uint32 MBEEMKLMCFB = 5;
+}
+

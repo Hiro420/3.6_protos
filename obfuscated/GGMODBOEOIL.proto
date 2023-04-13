@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 449
+// Name: GGMODBOEOIL
+message GGMODBOEOIL {
+    bool FJKLNOIHBPH = 15;
+}
+

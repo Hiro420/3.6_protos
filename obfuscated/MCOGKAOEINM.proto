@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HFPGMAKDKLF.proto";
+
+// Name: MCOGKAOEINM
+message MCOGKAOEINM {
+    uint32 CPFOMHFAKII = 9;
+    uint32 NPHNKCIAEGC = 5;
+    HFPGMAKDKLF CNDKFAMECDF = 6;
+}
+

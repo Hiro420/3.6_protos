@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ALNFLILBDNC.proto";
+
+// Name: PEKBDJKFBDM
+message PEKBDJKFBDM {
+    map<uint32, ALNFLILBDNC> JCPKLFDDMJI = 13;
+    uint32 JFAFMJAFPEF = 14;
+}
+

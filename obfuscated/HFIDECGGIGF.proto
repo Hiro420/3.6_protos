@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CBHAJLMEILM.proto";
+
+// CmdId: 8764
+// Name: HFIDECGGIGF
+message HFIDECGGIGF {
+    uint32 JOPJKOGODAM = 2;
+    uint32 HDMDJECGCKC = 12;
+    repeated CBHAJLMEILM KIFHECBDOOE = 11;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MAPAKLCCCEH
+message MAPAKLCCCEH {
+    repeated uint32 AOOFIIDMNKK = 14;
+    uint32 EJAOLEFDJEG = 4;
+}
+

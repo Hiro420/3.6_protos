@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IIINMHIAOCN.proto";
+
+// CmdId: 993
+// Name: HOJHJGGEABM
+message HOJHJGGEABM {
+    // Name: ALMDBKOCELN
+    message ALMDBKOCELN {
+        repeated uint32 JNOJCLMDDOP = 6;
+        string HAFEEECHHOJ = 2;
+        repeated IIINMHIAOCN CHOPMGJFOKD = 7;
+    }
+
+    repeated ALMDBKOCELN BGFGADONCPI = 15;
+}
+

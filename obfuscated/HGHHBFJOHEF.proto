@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8351
+// Name: HGHHBFJOHEF
+message HGHHBFJOHEF {
+    uint32 MOLCMPFBACG = 10;
+}
+

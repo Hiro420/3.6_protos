@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+import "PEHLILGOPKN.proto";
+
+// CmdId: 316
+// Name: FJHPBLOMBHI
+message FJHPBLOMBHI {
+    uint32 HBKHIIDMJFP = 9;
+    uint64 EEMILGMLGOH = 2;
+    PEHLILGOPKN CGAFJIIPALB = 10;
+    KKFEDHALJFH HJFJBNDECGA = 3;
+    bool DKJHPANLPGJ = 1474;
+    bool GHPBDOFGBDK = 2005;
+    uint32 KEBOJOCKOGO = 12;
+    repeated uint32 LJAEIDNMKBF = 1490;
+    KKFEDHALJFH DEIILDKBNJN = 1;
+    bool DGIFLLEHOND = 6;
+    uint32 AAGPAKHKGFO = 8;
+    uint32 LGGANMGEBFB = 14;
+    repeated uint32 LFBEJKAFPCB = 383;
+    uint32 AMEJLPJCENL = 11;
+    uint32 DMBFPFFMFCM = 13;
+    uint32 PECOGIHGJDC = 5;
+    bool IJDOMBBFNOM = 7;
+    uint32 DICOPPHCLEO = 15;
+    uint32 CBGIIEEOJIG = 4;
+}
+

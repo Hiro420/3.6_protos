@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Uint32Pair.proto";
+
+// Name: PEMNFGBNJBG
+message RogueDiaryRoomInfo {
+    uint32 config_id = 10;
+    repeated Uint32Pair monster_list = 8;
+    bool is_boss = 4;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ABEDKGJICJE
+message HomeAvatarSummonEventInfo {
+    uint32 avatar_id = 5;
+    uint32 random_position = 3;
+    uint32 event_over_time = 8;
+    uint32 guid = 12;
+    uint32 suit_id = 2;
+    uint32 event_id = 1;
+}
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ELCAKMDGIBA
+message ELCAKMDGIBA {
+    bool OOLFCFMNBOJ = 15;
+}
+

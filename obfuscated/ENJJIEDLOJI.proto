@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ENJJIEDLOJI
+message ENJJIEDLOJI {
+    uint32 MDNMOJAPBKB = 11;
+    uint32 FDJCJOGJMMP = 2;
+    uint32 NDJPOJGKEHD = 9;
+}
+

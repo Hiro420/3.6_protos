@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2177
+// Name: BHEFKNOPEOO
+message BHEFKNOPEOO {
+    uint32 PNLBJABJLFC = 15;
+    int32 EEDMFEOGLFN = 8;
+    uint32 MAEEFMMLAPD = 6;
+}
+

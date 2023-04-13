@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 389
+// Name: NPBLKELHECA
+message NPBLKELHECA {
+    uint32 JLCIBMELNKI = 3;
+    uint32 AEEJJKLPHDP = 11;
+}
+

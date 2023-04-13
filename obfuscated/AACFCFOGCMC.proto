@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GMKOGAABHBL.proto";
+import "MNKOCGLGJNP.proto";
+
+// Name: AACFCFOGCMC
+message AACFCFOGCMC {
+    uint32 FJDLJEFKCHG = 3;
+    repeated uint32 ACCPFOLHEFH = 4;
+    bool HJGEEAAKCGP = 5;
+    repeated MNKOCGLGJNP LBNIJIPEDKI = 6;
+    GMKOGAABHBL CBACIJLDANC = 7;
+    oneof JADCHIAGFLA {
+        uint32 KDLINMLAMDC = 1;
+        uint32 OPFADNLICOA = 2;
+    }
+}
+

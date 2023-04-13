@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JMMIILKOMNH
+enum JMMIILKOMNH {
+    JMMIILKOMNH_ROGUE_ELITE_NORMAL = 0;
+    JMMIILKOMNH_ROGUE_ELITE_HARD = 1;
+}
+

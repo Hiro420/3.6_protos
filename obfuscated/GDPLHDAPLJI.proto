@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GODAKDKKBEM.proto";
+
+// CmdId: 1995
+// Name: GDPLHDAPLJI
+message GDPLHDAPLJI {
+    bool DLIMEGDKJFC = 3;
+    uint32 BBOHBNNJEMC = 13;
+    repeated GODAKDKKBEM PDPACAADJLD = 2;
+    repeated uint32 OLEHGDEFJLE = 10;
+}
+

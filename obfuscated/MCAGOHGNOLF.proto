@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20675
+// Name: MCAGOHGNOLF
+message MCAGOHGNOLF {
+    uint32 HDMDJECGCKC = 13;
+    uint32 ECLCBCEPGIH = 2;
+    uint32 MFJBNDHNNMO = 15;
+    uint32 JCFJLLKLHFO = 3;
+    uint32 MDNMOJAPBKB = 5;
+    bool GBHJHJENFGK = 9;
+    uint32 IFECDFBGBAA = 7;
+    bool HKHAADBCFDO = 14;
+}
+

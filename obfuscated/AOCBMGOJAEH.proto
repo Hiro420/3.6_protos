@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: AOCBMGOJAEH
+message AOCBMGOJAEH {
+    uint32 NABBCOACLGI = 3;
+    bool JGPAOHOBEBM = 9;
+    uint32 BHGDBPKJHMA = 15;
+    uint32 GKDDBKPKIKH = 8;
+    uint32 JALOBHKEKIJ = 6;
+}
+

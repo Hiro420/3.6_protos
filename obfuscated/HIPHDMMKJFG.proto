@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HIPHDMMKJFG
+enum HIPHDMMKJFG {
+    HIPHDMMKJFG_GET_UGC_NONE = 0;
+    HIPHDMMKJFG_MINE = 1;
+    HIPHDMMKJFG_PUBLISH = 2;
+}
+

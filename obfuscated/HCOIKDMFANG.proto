@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IMLFLIICPJL.proto";
+import "NCGOHMANHCA.proto";
+import "NDMNFHFIDMB.proto";
+
+// Name: HCOIKDMFANG
+message HCOIKDMFANG {
+    uint32 BNPKCHFCJFP = 14;
+    bool FKOBJPCKIFJ = 1;
+    uint32 JGIPOEKBNNN = 6;
+    oneof OFDMLDLAIEN {
+        NDMNFHFIDMB EMBNBLELHND = 2;
+        IMLFLIICPJL MJAADIFKCFC = 9;
+        NCGOHMANHCA DFCJLFKPFLP = 15;
+    }
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PJGEGAHJACE.proto";
+
+// Name: BNDBEPBOMPG
+message BNDBEPBOMPG {
+    repeated PJGEGAHJACE GAIGJBMAEGL = 7;
+    uint32 HDMDJECGCKC = 4;
+    uint32 MGOAOLCGNIJ = 9;
+}
+

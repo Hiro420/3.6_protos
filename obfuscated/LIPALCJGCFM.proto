@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IDBCJPINEJE.proto";
+
+// CmdId: 315
+// Name: LIPALCJGCFM
+message LIPALCJGCFM {
+    repeated IDBCJPINEJE KNHIGMJJJGK = 12;
+}
+

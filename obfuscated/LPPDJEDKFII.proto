@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20722
+// Name: LPPDJEDKFII
+message LPPDJEDKFII {
+    uint32 JJGGAPDDOLN = 15;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2142
+// Name: EHJFDIKIABJ
+message ExpeditionChallengeFinishedNotify {
+    uint32 id = 10;
+}
+

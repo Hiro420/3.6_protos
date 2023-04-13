@@ -1,0 +1,77 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ADBCPAJHOHK.proto";
+import "AIHPBEIFCCF.proto";
+import "BIAEHIPFJNC.proto";
+import "BLKHJENLAON.proto";
+import "BMOEPBEFEGI.proto";
+import "CILAMJDNCIL.proto";
+import "DCPHOAIFBHC.proto";
+import "EDHEBJGBOAN.proto";
+import "EHGIKMKOHPO.proto";
+import "ENHLKCOONLF.proto";
+import "FCGNHNICJGO.proto";
+import "GDPPALNKIAN.proto";
+import "GFAELBEOMOL.proto";
+import "GJPAKBGFCDN.proto";
+import "GNHGCOJILOC.proto";
+import "HALCGPHPNPL.proto";
+import "HLCHOKIIMAD.proto";
+import "HMNIHMNIOKA.proto";
+import "HPOLFIGKAOA.proto";
+import "IAKOPEJNCLO.proto";
+import "IBLAEMNIJBI.proto";
+import "ICLCOGAIEAE.proto";
+import "IKBBEANCFMM.proto";
+import "JBFOKFOHFML.proto";
+import "JPOIDEAHMPH.proto";
+import "KKMFKCJNEAF.proto";
+import "KLKGODCFLBJ.proto";
+import "KOKEMJCMFPK.proto";
+import "LIAEEPNLLPA.proto";
+import "OMOMDIGPEHH.proto";
+import "ONBDEKKLDOB.proto";
+import "PDOFGDCDGEE.proto";
+import "PNIJILANGCI.proto";
+
+// Name: ABLCJAJAPCO
+message ABLCJAJAPCO {
+    oneof KLDCDJJJLFF {
+        HALCGPHPNPL GPNNFHOBFAH = 9;
+        IBLAEMNIJBI NAJKKNNFCMG = 2;
+        HMNIHMNIOKA MDEBDKCBNND = 7;
+        DCPHOAIFBHC BGGPIFDEDGM = 8;
+        BIAEHIPFJNC BKDKFBGLNHA = 12;
+        EDHEBJGBOAN LOMKEJNOHFI = 15;
+        HLCHOKIIMAD IJKDNDECFNO = 5;
+        LIAEEPNLLPA EGKIEKIJBOP = 4;
+        PNIJILANGCI FLAHHHPCBAC = 1;
+        ENHLKCOONLF FOONEOAOGIF = 11;
+        BLKHJENLAON HMPOAHICEAN = 10;
+        ONBDEKKLDOB COAOEFJHMGF = 14;
+        GJPAKBGFCDN BJPDKJHKABG = 6;
+        AIHPBEIFCCF PLAFFCPDMFC = 1986;
+        ADBCPAJHOHK BLIKHMKANCG = 948;
+        KLKGODCFLBJ HGBINKLCDNK = 761;
+        JPOIDEAHMPH MJCHBCOHFAE = 1863;
+        KKMFKCJNEAF LHMHNFBFGKL = 1956;
+        HPOLFIGKAOA GNNICGAJIIG = 1834;
+        BMOEPBEFEGI FEODKAJFBBH = 1305;
+        IAKOPEJNCLO MFPKGGOGFLP = 1760;
+        CILAMJDNCIL OOLCAAKIHGM = 1132;
+        FCGNHNICJGO LDEONOBAJLH = 1429;
+        JBFOKFOHFML DACLNCBGGNG = 1809;
+        EHGIKMKOHPO KKPJADDFNJN = 436;
+        ICLCOGAIEAE BECPKOBJKKF = 197;
+        GNHGCOJILOC CBBBMJDCMHB = 54;
+        GFAELBEOMOL NPNFJCAMMHP = 930;
+        OMOMDIGPEHH AHADBNNLGNK = 1306;
+        GDPPALNKIAN OFNKDCBAHHD = 1718;
+        IKBBEANCFMM GBJCBNLENHH = 458;
+        PDOFGDCDGEE PJBCBICGJEO = 1867;
+        KOKEMJCMFPK FPDGDKCCANJ = 1440;
+    }
+}
+

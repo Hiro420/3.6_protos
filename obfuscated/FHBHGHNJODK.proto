@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FHBHGHNJODK
+message FHBHGHNJODK {
+    uint32 PFPJPOEDPON = 15;
+    uint32 MEKGLJAFFHC = 4;
+    uint32 BKHAKDNDMIO = 2;
+}
+

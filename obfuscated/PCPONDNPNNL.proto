@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PCPONDNPNNL
+message PCPONDNPNNL {
+    uint32 OAHOGNOCKDJ = 6;
+    uint32 CBOFMPMNLEL = 7;
+    uint32 MFMAKKFFAHP = 8;
+}
+

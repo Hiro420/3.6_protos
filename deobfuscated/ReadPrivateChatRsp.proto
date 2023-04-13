@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5009
+// Name: HIPHCOIDFEP
+message ReadPrivateChatRsp {
+    int32 retcode = 14;
+}
+

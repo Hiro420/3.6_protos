@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4662
+// Name: MPIIBDEPHOI
+message MPIIBDEPHOI {
+    repeated uint32 EFCNHEEIEAM = 7;
+}
+

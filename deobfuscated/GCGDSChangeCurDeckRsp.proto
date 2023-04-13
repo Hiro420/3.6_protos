@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7037
+// Name: CLIBJPLOGDC
+message GCGDSChangeCurDeckRsp {
+    int32 retcode = 14;
+    uint32 deck_id = 13;
+}
+

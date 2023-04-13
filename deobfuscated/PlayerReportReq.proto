@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ReportReasonType.proto";
+
+// CmdId: 4074
+// Name: PHAHKLANPKO
+message PlayerReportReq {
+    string target_home_module_name = 5;
+    uint32 target_home_module_id = 11;
+    uint32 target_uid = 14;
+    string content = 10;
+    ReportReasonType reason = 1;
+}
+

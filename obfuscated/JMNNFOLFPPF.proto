@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MELACFCBMFM.proto";
+import "NLKKLDNECPM.proto";
+
+// Name: JMNNFOLFPPF
+message JMNNFOLFPPF {
+    repeated uint32 ICEPJCEMLMA = 13;
+    bool MFBLCKKNECK = 2;
+    uint32 DFABLHPDPIN = 1;
+    repeated MELACFCBMFM PIKLPFIFAKE = 14;
+    repeated NLKKLDNECPM POHNANNDJEH = 3;
+    repeated uint32 PPOBHDBENBL = 7;
+}
+

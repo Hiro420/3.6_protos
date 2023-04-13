@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AAGAOBLAFOD.proto";
+
+// Name: IEMOAMPLPGH
+message IEMOAMPLPGH {
+    bool GBHJHJENFGK = 6;
+    AAGAOBLAFOD KEPJFKAEJDH = 13;
+}
+

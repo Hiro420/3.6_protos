@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8201
+// Name: LGDLEIHFKDC
+message LGDLEIHFKDC {
+    uint32 PGDFKOCBKJC = 10;
+    uint32 PNLBJABJLFC = 3;
+}
+

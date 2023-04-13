@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AINNNEOCPMB.proto";
+import "IOMGMKIBJJD.proto";
+
+// CmdId: 995
+// Name: DFHKBHEIOBF
+message DFHKBHEIOBF {
+    repeated IOMGMKIBJJD CIDDMNDBKIM = 5;
+    map<uint32, AINNNEOCPMB> BPGMIECNHBN = 8;
+    uint32 KNBLDJKPEPG = 7;
+    repeated uint32 BMMKELLJLKB = 2;
+    uint32 IHJHBOGKMLA = 10;
+}
+

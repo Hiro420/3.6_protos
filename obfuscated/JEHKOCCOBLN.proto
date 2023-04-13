@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JDIEPDONHGO.proto";
+
+// CmdId: 5338
+// Name: JEHKOCCOBLN
+message JEHKOCCOBLN {
+    JDIEPDONHGO NOPNDHBENMH = 13;
+}
+

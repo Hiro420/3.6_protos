@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MOKFNGGECIL
+enum MOKFNGGECIL {
+    MOKFNGGECIL_SERVER_LOG_NONE = 0;
+    MOKFNGGECIL_SERVER_LOG_ABILITY = 1;
+    MOKFNGGECIL_SERVER_LOG_LEVEL = 2;
+    MOKFNGGECIL_SERVER_LOG_ENTITY = 3;
+    MOKFNGGECIL_SERVER_LOG_LUA = 4;
+}
+

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OOHLEADJAIL.proto";
+
+// Name: GDMLOGBJIGP
+message GDMLOGBJIGP {
+    uint32 OFBGMCBHHJJ = 1;
+    bool BCKJALNOGKD = 4;
+    repeated OOHLEADJAIL BAJBMGLOOJA = 12;
+    uint32 HJFJMAEKNGD = 6;
+    repeated bool PFMKODKJENE = 8;
+    bool LODOAPOPHCN = 9;
+    repeated OOHLEADJAIL NJGECMMGLOI = 2;
+    uint32 ICPLDONIHID = 13;
+}
+

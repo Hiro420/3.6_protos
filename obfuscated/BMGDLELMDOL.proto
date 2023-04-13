@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7065
+// Name: BMGDLELMDOL
+message BMGDLELMDOL {
+    bool HBAIGMMEFOM = 15;
+    fixed32 KIOEDPFMCCC = 13;
+    uint32 BIEJNHMGMON = 12;
+    int32 EEDMFEOGLFN = 14;
+}
+

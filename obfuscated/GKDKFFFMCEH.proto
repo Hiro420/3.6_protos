@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GEKCCHCJMPC.proto";
+
+// CmdId: 1809
+// Name: GKDKFFFMCEH
+message GKDKFFFMCEH {
+    uint32 MMLDFIDPMHG = 9;
+    uint32 GLILFMJBDNC = 8;
+    GEKCCHCJMPC MIBIPIGCEOI = 7;
+}
+

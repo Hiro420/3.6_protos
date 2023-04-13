@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: DGNCNCCLGEK
+message DGNCNCCLGEK {
+    Vector target_pos = 10;
+    Vector HKBOHPAPLMF = 14;
+}
+

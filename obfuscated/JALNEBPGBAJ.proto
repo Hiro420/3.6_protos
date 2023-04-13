@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DGOABKCAGHB.proto";
+
+// Name: JALNEBPGBAJ
+message JALNEBPGBAJ {
+    uint32 DGCJNEBKNHO = 11;
+    uint32 BLILHBOJOCD = 12;
+    uint32 FGEIEPJKHDL = 8;
+    repeated DGOABKCAGHB LIPHMOCEKBG = 4;
+}
+

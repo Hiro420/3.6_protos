@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20229
+// Name: EIJDIBHELFI
+message EIJDIBHELFI {
+    uint32 EBLFOLDMCDK = 4;
+    repeated uint32 JDAMJDBKIJD = 1;
+}
+

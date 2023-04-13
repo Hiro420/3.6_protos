@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KAMHNCPNIKM
+message KAMHNCPNIKM {
+    uint32 KJFPEMKMEAB = 1;
+    uint32 PECOGIHGJDC = 2;
+    uint32 OHBALLHKMLM = 3;
+    uint32 HMCIGKKMNII = 4;
+}
+

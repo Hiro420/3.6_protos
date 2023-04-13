@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24388
+// Name: INPJHOENKHP
+message INPJHOENKHP {
+    uint32 EBLFOLDMCDK = 7;
+    int32 EEDMFEOGLFN = 2;
+    repeated uint32 JDAMJDBKIJD = 11;
+}
+

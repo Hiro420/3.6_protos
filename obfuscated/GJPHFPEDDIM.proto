@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CLBLCGKLOEE.proto";
+
+// CmdId: 2277
+// Name: GJPHFPEDDIM
+message GJPHFPEDDIM {
+    repeated CLBLCGKLOEE LHMNKFAANMN = 3;
+}
+

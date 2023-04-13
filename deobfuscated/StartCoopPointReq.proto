@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1971
+// Name: LIBMCEMPILH
+message StartCoopPointReq {
+    uint32 coop_point = 13;
+}
+

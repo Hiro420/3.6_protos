@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KECEDJBKILI.proto";
+
+// CmdId: 140
+// Name: OHLMKKDBBCL
+message OHLMKKDBBCL {
+    uint32 IPPGLLBIHHJ = 10;
+    repeated KECEDJBKILI DIFJFEBFGHN = 14;
+    uint32 JJHMPHKOHIC = 6;
+}
+

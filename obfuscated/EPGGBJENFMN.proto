@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: EPGGBJENFMN
+message EPGGBJENFMN {
+    bool LODOAPOPHCN = 2;
+    uint32 JJGGAPDDOLN = 15;
+    bool FKOBJPCKIFJ = 3;
+}
+

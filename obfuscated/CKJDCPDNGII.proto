@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HHBEOGDHPOE.proto";
+
+// CmdId: 404
+// Name: CKJDCPDNGII
+message CKJDCPDNGII {
+    uint32 FIFGEBCELEG = 14;
+    uint32 EHGDFBJBAPO = 6;
+    repeated uint32 OIJBKBOLJIL = 3;
+    repeated uint32 DIHALBEEOPO = 10;
+    int32 EEDMFEOGLFN = 2;
+    repeated HHBEOGDHPOE MNLOFDGEMMC = 1;
+}
+

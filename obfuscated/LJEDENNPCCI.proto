@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "COKLELGGFLH.proto";
+import "FFDCKFPNAHP.proto";
+import "JEOEDBOGIAG.proto";
+import "LIHFDPHMIGJ.proto";
+import "LLBAHDBLEPH.proto";
+
+// Name: LJEDENNPCCI
+message LJEDENNPCCI {
+    uint32 JBMPBFDPKGD = 1;
+    uint32 MFCJNNNFCGF = 2;
+    uint64 EEMILGMLGOH = 3;
+    uint32 IPAAGPMLFCI = 4;
+    repeated uint32 MKDCAGGAFHG = 5;
+    uint32 OGAANBBGHFN = 6;
+    repeated uint32 DHOMBEMCDBJ = 7;
+    JEOEDBOGIAG KCGKNOIHAMN = 8;
+    repeated COKLELGGFLH LKNMOKKMFBG = 9;
+    uint32 GGGEHDAJMOC = 11;
+    repeated uint32 JLGKIHDBLJN = 12;
+    map<uint32, uint32> PDKANDNEGHK = 13;
+    map<uint32, uint32> JJFELOPEDOM = 14;
+    repeated LIHFDPHMIGJ KNEDKLODAND = 15;
+    repeated uint32 MPOBFAJNOHF = 16;
+    uint32 EKGADLFFBBD = 17;
+    uint32 FMHJFHCPPCJ = 18;
+    uint32 EPLAOCBKEBP = 19;
+    LLBAHDBLEPH GJOOMCGJFPC = 20;
+    FFDCKFPNAHP IJNPOEINPBI = 21;
+    uint32 FBMMIALDBKC = 22;
+}
+

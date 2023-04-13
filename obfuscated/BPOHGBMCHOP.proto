@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BPOHGBMCHOP
+message BPOHGBMCHOP {
+    uint32 CLBLAAFJBCB = 5;
+    uint32 HHKCHFDLAMO = 2;
+    bool IGLHBIKHHFL = 8;
+    bool EJJFGFOKOPC = 10;
+    uint32 LCHKEEDFCCL = 3;
+}
+

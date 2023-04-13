@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 919
+// Name: MKLPCGDLALI
+message MKLPCGDLALI {
+    uint32 BMPJMCOMPCA = 11;
+    uint32 JAACCHMDLKH = 7;
+}
+

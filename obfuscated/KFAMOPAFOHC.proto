@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ALENKGIOHDP.proto";
+
+// CmdId: 6259
+// Name: KFAMOPAFOHC
+message KFAMOPAFOHC {
+    uint32 ELIEBOMLPDN = 14;
+    bool LJFEFBNPALB = 7;
+    repeated ALENKGIOHDP KPNPALHBOGI = 1;
+    bool JEPMEPFCDDA = 8;
+    string PCGKPGAKOKP = 11;
+}
+

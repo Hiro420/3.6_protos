@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PAKMJACDBEJ
+message PAKMJACDBEJ {
+    bool CCOOPGOPBDI = 5;
+    uint32 HDPJCNBFLEB = 6;
+    uint32 HDMDJECGCKC = 9;
+}
+

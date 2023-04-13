@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PGJKHDMCNJM
+message PGJKHDMCNJM {
+    uint32 AEDKDLGMHLJ = 2;
+    uint32 EEMILGMLGOH = 6;
+    uint32 DIKAADFOCDG = 1;
+    uint32 DDLDJHCLEGH = 3;
+    uint32 MFCJNNNFCGF = 11;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MCOGKAOEINM.proto";
+
+// CmdId: 4840
+// Name: APPIAPLKDKO
+message APPIAPLKDKO {
+    MCOGKAOEINM KEPJFKAEJDH = 5;
+    bool GBHJHJENFGK = 13;
+    uint32 ECLCBCEPGIH = 10;
+    uint32 KACLOEKOCBH = 7;
+}
+

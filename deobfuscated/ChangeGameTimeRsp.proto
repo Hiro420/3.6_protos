@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 163
+// Name: BEPBEGIBFIJ
+message ChangeGameTimeRsp {
+    uint32 extra_days = 11;
+    int32 retcode = 3;
+    uint32 cur_game_time = 12;
+}
+

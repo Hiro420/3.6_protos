@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JEMOPJPJDPL.proto";
+
+// Name: OKLOOLBCCKD
+message OKLOOLBCCKD {
+    repeated uint32 APFLEJEMNKA = 4;
+    repeated JEMOPJPJDPL PJMHDIOEBII = 15;
+    repeated uint32 PFNNOMPLCEC = 13;
+}
+

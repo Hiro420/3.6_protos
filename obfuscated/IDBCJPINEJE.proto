@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: IDBCJPINEJE
+message IDBCJPINEJE {
+    uint32 BGPCMFNDBOJ = 1;
+    int64 JNFHOBCLAKL = 2;
+    uint32 AMNIMGJKILB = 3;
+}
+

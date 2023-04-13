@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DIJFLLLNCPM.proto";
+
+// Name: PNBMCBELDNA
+message PNBMCBELDNA {
+    map<uint32, DIJFLLLNCPM> NCLFFOLKJID = 9;
+}
+

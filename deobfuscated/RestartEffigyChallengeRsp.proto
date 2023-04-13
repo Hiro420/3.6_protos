@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2106
+// Name: INHEBNAKIKD
+message RestartEffigyChallengeRsp {
+    int32 retcode = 3;
+}
+

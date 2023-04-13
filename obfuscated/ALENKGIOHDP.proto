@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ALENKGIOHDP
+message ALENKGIOHDP {
+    float KDDPKEEIMFC = 15;
+    float AJBLMLDNING = 13;
+    uint32 BPKDOPHJPAL = 4;
+    float ELDGOKNLNPP = 7;
+}
+

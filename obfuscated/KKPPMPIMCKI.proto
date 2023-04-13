@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5596
+// Name: KKPPMPIMCKI
+message KKPPMPIMCKI {
+    int32 NJFLCDNPMPE = 13;
+    uint64 CENLAOLNIAO = 2;
+    uint32 PHAKMIAPJGA = 7;
+    uint32 CLGHMJHALKB = 6;
+    uint32 ICPLDONIHID = 11;
+    uint32 ECLCBCEPGIH = 5;
+}
+

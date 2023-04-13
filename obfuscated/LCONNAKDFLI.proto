@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IHCFDBEPNMD.proto";
+
+// CmdId: 3307
+// Name: LCONNAKDFLI
+message LCONNAKDFLI {
+    uint32 DMBFPFFMFCM = 6;
+    IHCFDBEPNMD PGECHAJOJGC = 10;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OMEFMODIDAM.proto";
+
+// CmdId: 6366
+// Name: EEHLGKBAOJJ
+message EEHLGKBAOJJ {
+    uint32 IGJGAMNJJDM = 2;
+    OMEFMODIDAM IJBFIKCDABD = 10;
+    OMEFMODIDAM CIEAPDGLPOL = 4;
+    uint32 KJEAPCOAOHG = 3;
+}
+

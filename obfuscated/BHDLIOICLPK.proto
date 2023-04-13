@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KBNDDMHEAAB.proto";
+
+// CmdId: 1190
+// Name: BHDLIOICLPK
+message BHDLIOICLPK {
+    KBNDDMHEAAB BKDHNIKAFLH = 9;
+    KBNDDMHEAAB KHPMEKFDAAE = 12;
+    KBNDDMHEAAB KMHDFNIJGJK = 11;
+    KBNDDMHEAAB LGEKDIMGJEP = 3;
+    KBNDDMHEAAB DAAJIPDGECA = 4;
+    KBNDDMHEAAB MBCMPLKDGJK = 7;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OHNCHMDLPPM
+message OHNCHMDLPPM {
+    bool OODLKMEPPFA = 12;
+    uint64 FPIIPJJPBOH = 2;
+    bool DPGCAEOPGKM = 14;
+}
+

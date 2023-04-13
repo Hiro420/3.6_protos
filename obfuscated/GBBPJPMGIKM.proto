@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8511
+// Name: GBBPJPMGIKM
+message GBBPJPMGIKM {
+    uint32 ECLCBCEPGIH = 5;
+    uint32 EBBCMNKEDDA = 10;
+}
+

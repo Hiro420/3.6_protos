@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ONINAMINFAL.proto";
+
+// CmdId: 8741
+// Name: EILMBOBIDGI
+message EILMBOBIDGI {
+    bool EOACLMEANDL = 6;
+    ONINAMINFAL CMKKCAIJLME = 2;
+}
+

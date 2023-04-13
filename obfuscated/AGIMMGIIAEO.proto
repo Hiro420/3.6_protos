@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ANPKECIJOAF.proto";
+
+// CmdId: 1783
+// Name: AGIMMGIIAEO
+message AGIMMGIIAEO {
+    repeated ANPKECIJOAF HNFPEKGFPGN = 14;
+}
+

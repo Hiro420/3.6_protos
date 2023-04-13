@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1968
+// Name: IFLJBALCLEO
+message IFLJBALCLEO {
+    uint32 LANNIFHAGJI = 5;
+}
+

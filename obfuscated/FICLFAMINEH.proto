@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CGOBFABMIJI.proto";
+import "NPODOLLHBFD.proto";
+
+// Name: FICLFAMINEH
+message FICLFAMINEH {
+    repeated NPODOLLHBFD OFBHBGHNMKN = 9;
+    repeated NPODOLLHBFD KDDNLOBMNFD = 12;
+    repeated uint32 GEPMLFHMHNP = 14;
+    repeated CGOBFABMIJI CLBHIKIDNIG = 1;
+}
+

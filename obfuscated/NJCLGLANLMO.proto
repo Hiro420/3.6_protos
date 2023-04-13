@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2198
+// Name: NJCLGLANLMO
+message NJCLGLANLMO {
+    uint32 OOOENCCPLGD = 14;
+    int32 EEDMFEOGLFN = 2;
+    uint32 LHEFDGPEFPN = 4;
+    uint32 LCMDALFODMC = 7;
+}
+

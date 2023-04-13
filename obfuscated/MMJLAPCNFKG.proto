@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GAMFHGOFNHP.proto";
+import "HLPOLJHCJGP.proto";
+import "KALOBOALCPJ.proto";
+
+// Name: MMJLAPCNFKG
+message MMJLAPCNFKG {
+    KALOBOALCPJ CKOCDGFHANM = 14;
+    HLPOLJHCJGP OKKEDJMNNHL = 3;
+    GAMFHGOFNHP HNBDKJNKFHB = 2;
+}
+

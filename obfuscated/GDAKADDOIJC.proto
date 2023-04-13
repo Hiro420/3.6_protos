@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5399
+// Name: GDAKADDOIJC
+message GDAKADDOIJC {
+    int32 EEDMFEOGLFN = 13;
+    uint32 MGOAOLCGNIJ = 10;
+    uint32 PKDJIGJDEJE = 3;
+}
+

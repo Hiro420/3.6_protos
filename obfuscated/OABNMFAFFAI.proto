@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4426
+// Name: OABNMFAFFAI
+message OABNMFAFFAI {
+    bool PKLIAIGBAHN = 15;
+    uint32 PPHMNEGECDM = 2;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: ADPEHMKAAKK
+message HitTreeInfo {
+    Vector tree_pos = 14;
+    uint32 tree_type = 15;
+}
+

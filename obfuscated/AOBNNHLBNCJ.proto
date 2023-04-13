@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GNCMJDPOLCE.proto";
+
+// CmdId: 1966
+// Name: AOBNNHLBNCJ
+message AOBNNHLBNCJ {
+    repeated GNCMJDPOLCE IEFONFAEAEL = 5;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 21832
+// Name: DEMMHAIDKNK
+message DEMMHAIDKNK {
+    int32 EEDMFEOGLFN = 7;
+    uint32 CFEMFAKPDCP = 8;
+    uint32 HCINPOEALAH = 10;
+    uint32 BPKMLMJPAMG = 2;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 2699
+// Name: HKJFMELKBDM
+message HKJFMELKBDM {
+    repeated INPDDALBMBO IEEPAJEHDIJ = 10;
+    int32 EEDMFEOGLFN = 5;
+    repeated uint32 MIHFNOANLAH = 14;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1915
+// Name: BHNOHDDKCNG
+message BHNOHDDKCNG {
+    uint32 HJLEBAHLAOL = 6;
+    int32 EEDMFEOGLFN = 11;
+}
+

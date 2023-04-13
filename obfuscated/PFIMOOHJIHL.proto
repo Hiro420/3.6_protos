@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 937
+// Name: PFIMOOHJIHL
+message PFIMOOHJIHL {
+    bool AALDEBEDLON = 4;
+    int32 EEDMFEOGLFN = 15;
+    bool JENOBHPEEGI = 3;
+}
+

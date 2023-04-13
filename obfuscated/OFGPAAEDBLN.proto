@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LADHOKCFHNL.proto";
+import "MEEKLHEGAKK.proto";
+
+// Name: OFGPAAEDBLN
+message OFGPAAEDBLN {
+    repeated uint32 ONGOEANKEBM = 5;
+    uint32 BKDBFPMPMKA = 10;
+    uint32 IHJHBOGKMLA = 9;
+    uint32 JIFEPOLMBCO = 15;
+    repeated uint32 HBGDJGLGJIH = 2;
+    repeated MEEKLHEGAKK FFBBBLONHBE = 3;
+    repeated LADHOKCFHNL ILBAOPGLOEC = 13;
+}
+

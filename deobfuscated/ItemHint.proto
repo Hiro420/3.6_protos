@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JCFPNEILBEO
+message ItemHint {
+    uint32 item_id = 4;
+    uint64 guid = 15;
+    bool is_new = 11;
+    uint32 count = 7;
+}
+

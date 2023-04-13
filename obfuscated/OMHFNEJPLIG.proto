@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OMHFNEJPLIG
+message OMHFNEJPLIG {
+    uint32 OMCIMCAMBEK = 1;
+    uint32 BAKNPCGIKBO = 6;
+    uint32 NOMPCPNPLLH = 10;
+    bool FNHPJGJJEME = 9;
+    bool HKHAADBCFDO = 15;
+}
+

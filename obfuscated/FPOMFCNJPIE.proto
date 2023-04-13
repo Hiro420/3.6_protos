@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FPOMFCNJPIE
+enum FPOMFCNJPIE {
+    FPOMFCNJPIE_GALLERY_NONE = 0;
+    FPOMFCNJPIE_GALLERY_PRESTART = 1;
+    FPOMFCNJPIE_GALLERY_START = 2;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PAPLIDJPGCN
+message PAPLIDJPGCN {
+    uint32 BPKDOPHJPAL = 1;
+    int64 BHGKMJEGBBN = 4;
+    oneof HPADLNLDALC {
+        int64 KEEMOPKLMGG = 2;
+        float HMLMNNIOGEN = 3;
+    }
+}
+

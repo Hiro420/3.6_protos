@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8889
+// Name: PHFCPOBGHGO
+message ActivityTakeAllScoreRewardReq {
+    uint32 activity_id = 14;
+}
+

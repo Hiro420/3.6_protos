@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1994
+// Name: NCAEGBLIDHA
+message NCAEGBLIDHA {
+    repeated uint32 PDKHOOGKKJC = 4;
+}
+

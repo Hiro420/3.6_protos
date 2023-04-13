@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5412
+// Name: FLHLCBJEEFM
+message FLHLCBJEEFM {
+    bool CDBEAHFBHKF = 14;
+    uint32 MFOOMFBLNMK = 3;
+}
+

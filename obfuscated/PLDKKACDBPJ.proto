@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2859
+// Name: PLDKKACDBPJ
+message PLDKKACDBPJ {
+    uint32 KACNNLGDCCO = 6;
+    int32 EEDMFEOGLFN = 8;
+    uint32 HEKHEPFHLDL = 14;
+}
+

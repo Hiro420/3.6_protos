@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PAPLIDJPGCN.proto";
+
+// CmdId: 178
+// Name: PNDKKEIJPPN
+message PNDKKEIJPPN {
+    map<uint32, PAPLIDJPGCN> IJIHPHPHEEI = 3;
+}
+

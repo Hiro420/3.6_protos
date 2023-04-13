@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MHMOIFNAGIN.proto";
+
+// CmdId: 2038
+// Name: LOJGHFIINHP
+message LOJGHFIINHP {
+    map<uint32, MHMOIFNAGIN> JIKGEALPNAH = 7;
+    uint32 BNPKCHFCJFP = 6;
+}
+

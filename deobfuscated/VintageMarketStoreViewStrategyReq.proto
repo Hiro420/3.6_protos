@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 20229
+// Name: EIJDIBHELFI
+message VintageMarketStoreViewStrategyReq {
+    uint32 strategy_id = 4;
+    repeated uint32 strategy_list = 1;
+}
+

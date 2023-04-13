@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JIDKKFKPDIH.proto";
+import "PANKLPDCNBE.proto";
+
+// CmdId: 1917
+// Name: AAGKEHNFPPN
+message AAGKEHNFPPN {
+    repeated JIDKKFKPDIH LKHGCEMAAJF = 4;
+    repeated PANKLPDCNBE HPELIPHBIKH = 12;
+}
+

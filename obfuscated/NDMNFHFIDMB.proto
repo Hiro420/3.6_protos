@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: NDMNFHFIDMB
+message NDMNFHFIDMB {
+    uint32 FILHPFFFBOD = 10;
+}
+

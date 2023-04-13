@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 333
+// Name: JDCLEDBBEAH
+message JDCLEDBBEAH {
+    string PEACKPEKOIN = 8;
+    uint32 DMBFPFFMFCM = 5;
+    uint32 CBGNJHFJMLP = 15;
+    uint32 PNLGKNFEFGC = 10;
+}
+

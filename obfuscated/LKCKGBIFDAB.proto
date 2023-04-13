@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LKCKGBIFDAB
+enum LKCKGBIFDAB {
+    LKCKGBIFDAB_AREA_PLAY_NONE = 0;
+    LKCKGBIFDAB_AREA_PLAY_CLIMATE = 1;
+    LKCKGBIFDAB_AREA_PLAY_REGIONAL_PLAY = 2;
+}
+

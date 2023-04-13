@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 898
+// Name: DBEMAIELIGP
+message DBEMAIELIGP {
+    uint32 MFEBFFKLLPC = 14;
+}
+

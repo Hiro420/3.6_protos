@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7735
+// Name: HGBOBJMKKPF
+message GCGDSChangeFieldRsp {
+    uint32 deck_id = 13;
+    int32 retcode = 14;
+    uint32 field_id = 11;
+}
+

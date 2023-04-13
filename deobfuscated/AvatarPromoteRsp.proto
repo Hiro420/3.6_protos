@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1640
+// Name: FNOLNFIPFMH
+message AvatarPromoteRsp {
+    uint64 guid = 6;
+    int32 retcode = 2;
+}
+

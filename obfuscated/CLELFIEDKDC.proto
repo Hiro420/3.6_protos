@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CLELFIEDKDC
+message CLELFIEDKDC {
+    uint32 DKLAPODPMLA = 12;
+    uint32 JGIPOEKBNNN = 7;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PAPLIDJPGCN.proto";
+
+// Name: MEDAMHIOKME
+message MEDAMHIOKME {
+    uint32 BPKDOPHJPAL = 1;
+    PAPLIDJPGCN LEFCHILCGGE = 2;
+}
+

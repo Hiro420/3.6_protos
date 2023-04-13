@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4897
+// Name: HECKGLMELIB
+message HECKGLMELIB {
+    uint32 PNJDDHDNEBA = 10;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PMGGIBMHJEJ.proto";
+
+// CmdId: 912
+// Name: FKHLCMCPIGC
+message FKHLCMCPIGC {
+    int32 EEDMFEOGLFN = 3;
+    uint32 KHNEIFCOPFL = 12;
+    PMGGIBMHJEJ ADHLENHFNJG = 9;
+}
+

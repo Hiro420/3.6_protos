@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JNENOEAOCLB.proto";
+
+// Name: OJPECCKGNLO
+message OJPECCKGNLO {
+    bool PIDDMPHPPHM = 11;
+    uint32 JJGGAPDDOLN = 15;
+    repeated JNENOEAOCLB BABKMKKLGMN = 6;
+}
+

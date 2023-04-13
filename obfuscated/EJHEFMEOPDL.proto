@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DDOKGPGCJNK.proto";
+
+// CmdId: 476
+// Name: EJHEFMEOPDL
+message EJHEFMEOPDL {
+    repeated DDOKGPGCJNK BLKEOJMFAOC = 5;
+}
+

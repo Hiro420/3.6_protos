@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3353
+// Name: LAMDJJOGEDA
+message LAMDJJOGEDA {
+    int32 EEDMFEOGLFN = 13;
+    bool PMIFDHMHEEM = 9;
+    uint32 HJNODGHEKAE = 11;
+}
+

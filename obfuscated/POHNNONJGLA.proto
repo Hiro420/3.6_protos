@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8047
+// Name: POHNNONJGLA
+message POHNNONJGLA {
+    uint32 JJGGAPDDOLN = 15;
+    uint32 JOPJKOGODAM = 3;
+    bool GBHJHJENFGK = 5;
+    uint32 DPLOCABFHKK = 14;
+    uint32 KFACNCAIMAM = 1;
+    uint32 NNJAJGCHJKE = 7;
+}
+

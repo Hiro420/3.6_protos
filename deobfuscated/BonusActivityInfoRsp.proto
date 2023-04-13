@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BonusActivityInfo.proto";
+
+// CmdId: 2565
+// Name: JLPCIJCCNOI
+message BonusActivityInfoRsp {
+    repeated BonusActivityInfo bonus_activity_info_list = 1;
+    int32 retcode = 7;
+}
+

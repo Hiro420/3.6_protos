@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 899
+// Name: NAJCCPACDGD
+message NAJCCPACDGD {
+    // Name: BEOBGNOIFEM
+    enum BEOBGNOIFEM {
+        BEOBGNOIFEM_OP_NONE = 0;
+        BEOBGNOIFEM_OP_ACTIVATE = 1;
+        BEOBGNOIFEM_OP_DEACTIVATE = 2;
+    }
+
+    uint32 DMBFPFFMFCM = 10;
+    BEOBGNOIFEM OMKEFCKPOMK = 6;
+}
+

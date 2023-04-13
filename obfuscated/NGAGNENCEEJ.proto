@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ECKGBIFKOFN.proto";
+import "FAHPLGLAMOL.proto";
+
+// Name: NGAGNENCEEJ
+message NGAGNENCEEJ {
+    uint32 DFABLHPDPIN = 10;
+    ECKGBIFKOFN LMLIEFJNCBI = 4;
+    bool MFBLCKKNECK = 14;
+    map<uint32, FAHPLGLAMOL> NMJHBFFOPBH = 5;
+}
+

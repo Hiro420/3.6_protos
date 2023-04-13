@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GGFHKNGHNLB
+message SceneGallerySalvageEscortInfo {
+    uint32 GKOBEKMBGBO = 14;
+    uint32 monster_count = 12;
+    uint32 FHOMEMBDLIM = 13;
+    uint32 CNODBENOPKK = 11;
+}
+

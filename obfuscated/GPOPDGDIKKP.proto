@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 957
+// Name: GPOPDGDIKKP
+message GPOPDGDIKKP {
+    bool AALDEBEDLON = 1;
+}
+

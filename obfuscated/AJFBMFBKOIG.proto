@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OKDOOEMGDLK.proto";
+
+// CmdId: 6343
+// Name: AJFBMFBKOIG
+message AJFBMFBKOIG {
+    int32 EEDMFEOGLFN = 7;
+    OKDOOEMGDLK KFFPLKOPJLE = 12;
+    uint64 PJDFHKIKLNM = 13;
+}
+

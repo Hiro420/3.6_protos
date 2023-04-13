@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+
+// Name: JEACAGKGEGF
+message JEACAGKGEGF {
+    uint32 KDKGDDHPIKG = 1;
+    string DMBECIDFDFE = 12;
+    fixed32 OMPLBJFIEKN = 8;
+    CAOGLKMLEOG IAEKOGMCHED = 11;
+    uint32 JBMPBFDPKGD = 4;
+}
+

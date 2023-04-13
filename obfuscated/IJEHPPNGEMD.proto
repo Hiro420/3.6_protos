@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LABCACEPOHB.proto";
+
+// CmdId: 4782
+// Name: IJEHPPNGEMD
+message IJEHPPNGEMD {
+    uint32 KACLOEKOCBH = 5;
+    bool GBHJHJENFGK = 14;
+    LABCACEPOHB KEPJFKAEJDH = 15;
+    uint32 ECLCBCEPGIH = 8;
+}
+

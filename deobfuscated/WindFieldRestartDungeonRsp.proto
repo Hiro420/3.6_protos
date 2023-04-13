@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 20488
+// Name: HICCNJAEIDF
+message WindFieldRestartDungeonRsp {
+    int32 retcode = 10;
+}
+

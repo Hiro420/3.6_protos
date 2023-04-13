@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EIADKMICKID.proto";
+
+// CmdId: 4206
+// Name: IPKAMNDGCKJ
+message IPKAMNDGCKJ {
+    int32 EEDMFEOGLFN = 11;
+    repeated EIADKMICKID PPPFNNGFCIH = 1;
+    repeated uint32 JOFJGPECLLJ = 8;
+    repeated uint32 LKGKDGLNMAG = 14;
+    repeated uint32 COGOBHKCKAN = 10;
+}
+

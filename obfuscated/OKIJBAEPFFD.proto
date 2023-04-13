@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OKIJBAEPFFD
+message OKIJBAEPFFD {
+    repeated int32 MBEEMKLMCFB = 5;
+}
+

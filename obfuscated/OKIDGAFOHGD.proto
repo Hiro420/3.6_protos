@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CEPMFMBMHPN.proto";
+
+// Name: OKIDGAFOHGD
+message OKIDGAFOHGD {
+    uint32 NICMPEHDPBF = 11;
+    repeated CEPMFMBMHPN HCNGOHELHKJ = 1;
+}
+

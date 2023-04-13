@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 233
+// Name: NOOICDGONFO
+message NOOICDGONFO {
+    uint32 MOLCMPFBACG = 7;
+    uint32 HAOGJLHNDBM = 10;
+}
+

@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HCCCNFFCBGN.proto";
+import "IHLEOGKOHJH.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: FCINIPEMLPE
+message FCINIPEMLPE {
+    repeated HCCCNFFCBGN DMALLBPIKFC = 12;
+    uint32 DEDGAOCJOGB = 7;
+    uint32 LFKABDNGNLI = 5;
+    repeated IHLEOGKOHJH HDIIOPBFJAK = 15;
+    uint32 FGEIEPJKHDL = 9;
+    KKFEDHALJFH FGMCFDMLGEB = 13;
+    bool CKAMFIFEGLF = 11;
+    HCCCNFFCBGN HNMBDBJHMJB = 4;
+    uint32 PNJDDHDNEBA = 6;
+    KKFEDHALJFH PCIJFOPGEDO = 3;
+    KKFEDHALJFH CEMCNFMAOGE = 2;
+    repeated HCCCNFFCBGN NIHPFMMOMDA = 8;
+}
+

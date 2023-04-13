@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OOHLEADJAIL.proto";
+
+// CmdId: 5081
+// Name: GOIFNMPJFAL
+message GOIFNMPJFAL {
+    OOHLEADJAIL BAIEDBLGJII = 6;
+    uint32 OFBGMCBHHJJ = 15;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LAJCKPNPIEO.proto";
+
+// Name: IGLPHNBDPBA
+message IGLPHNBDPBA {
+    uint32 JBMPBFDPKGD = 6;
+    bool AJGKOEIFCPI = 9;
+    repeated LAJCKPNPIEO EPAPFNHCDIK = 10;
+    uint32 FABNMNFMJFG = 12;
+    uint32 OGEKLCAABAG = 3;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BPJKMCDHCOJ.proto";
+
+// CmdId: 5550
+// Name: NHJCFFPDGHB
+message NHJCFFPDGHB {
+    uint32 ECLCBCEPGIH = 3;
+    BPJKMCDHCOJ GGLMJKGICBA = 11;
+    bool CDELNKPCNLM = 5;
+    uint32 JFAFMJAFPEF = 8;
+}
+

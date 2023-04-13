@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 63
+// Name: FDLANFBPBIO
+message FDLANFBPBIO {
+    uint64 BGKJLDDHKOI = 10;
+}
+

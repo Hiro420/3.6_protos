@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BJGMHMHDCGE.proto";
+
+// CmdId: 8639
+// Name: EIPMPMPMJPE
+message EIPMPMPMJPE {
+    uint32 LFOCJEADKPK = 10;
+    uint32 DMBFPFFMFCM = 1;
+    BJGMHMHDCGE BAINGGNIKKI = 11;
+}
+

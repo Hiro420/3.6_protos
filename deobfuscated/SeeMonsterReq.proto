@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 221
+// Name: FBJNIGOFFBL
+message SeeMonsterReq {
+    uint32 monster_id = 9;
+}
+

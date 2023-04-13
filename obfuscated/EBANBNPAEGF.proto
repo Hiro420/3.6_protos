@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CBHAJLMEILM.proto";
+
+// Name: EBANBNPAEGF
+message EBANBNPAEGF {
+    uint32 HDMDJECGCKC = 12;
+    bool FKOBJPCKIFJ = 14;
+    repeated CBHAJLMEILM KIFHECBDOOE = 15;
+    uint32 FILHPFFFBOD = 13;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 150
+// Name: IMAKIKFJHOM
+message PlayerCookReq {
+    uint32 qte_quality = 13; // AIBLNBAFJOL
+    uint32 assist_avatar = 1;
+    uint32 cook_count = 6; // EHPKNEPMOAO
+    uint32 recipe_id = 7;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ODMKEMKFBMB
+message ODMKEMKFBMB {
+    uint32 PGHHOPCMEFC = 14;
+    uint32 BFPBOJOIACJ = 3;
+    repeated uint32 POMAOHHBBCI = 9;
+    bool HENFMNOKAGA = 13;
+}
+

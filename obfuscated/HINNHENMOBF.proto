@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BEOFHEJKBNP.proto";
+
+// CmdId: 6156
+// Name: HINNHENMOBF
+message HINNHENMOBF {
+    BEOFHEJKBNP GELILBLKIDN = 14;
+    uint32 FGEIEPJKHDL = 7;
+    int32 ECKFNDOIIGN = 12;
+    bool KHINAKCANFD = 10;
+}
+

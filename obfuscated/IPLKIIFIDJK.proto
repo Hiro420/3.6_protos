@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: IPLKIIFIDJK
+enum IPLKIIFIDJK {
+    IPLKIIFIDJK_NPC = 0;
+    IPLKIIFIDJK_QUEST = 1;
+    IPLKIIFIDJK_SPECIAL = 2;
+    IPLKIIFIDJK_MINE = 3;
+    IPLKIIFIDJK_COLLECTION = 4;
+    IPLKIIFIDJK_MONSTER = 5;
+    IPLKIIFIDJK_FISH_POOL = 6;
+}
+

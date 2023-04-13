@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 686
+// Name: AGLHKLJCGPJ
+message WeaponPromoteRsp {
+    uint64 target_weapon_guid = 4;
+    uint32 old_promote_level = 3; // BDLCGNNPHLJ
+    uint32 cur_promote_level = 9; // AKLAKDIDLBE
+    int32 retcode = 6;
+}
+

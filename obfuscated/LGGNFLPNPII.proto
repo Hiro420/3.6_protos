@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LGGNFLPNPII
+message LGGNFLPNPII {
+    sfixed32 FFMNLBAIHFJ = 4;
+    sfixed32 GFACMKFLOKG = 5;
+}
+

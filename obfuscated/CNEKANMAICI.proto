@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8980
+// Name: CNEKANMAICI
+message CNEKANMAICI {
+    int32 EEDMFEOGLFN = 2;
+    uint32 MOLCMPFBACG = 5;
+    repeated uint32 LEEILJPCMKF = 14;
+    uint32 AMBDCDLBMAN = 10;
+}
+

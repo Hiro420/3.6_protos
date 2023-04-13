@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EFHAHCEGCJB.proto";
+import "IACGGLIBCLD.proto";
+import "IBINNJHOFAN.proto";
+import "JBPEBKINOLD.proto";
+import "NJLIHAAKFNM.proto";
+import "OKLOOLBCCKD.proto";
+
+// Name: CKOKLOOFHLJ
+message CKOKLOOFHLJ {
+    repeated IACGGLIBCLD NKLKLKJCIMF = 9;
+    map<uint32, EFHAHCEGCJB> CLMEBMAMPKA = 11;
+    map<uint32, IBINNJHOFAN> JOBBGHKIDEK = 15;
+    JBPEBKINOLD DGNGKHBMAEE = 1;
+    repeated IACGGLIBCLD IJAMMNCLDEP = 3;
+    repeated NJLIHAAKFNM KFGCBICCMKN = 13;
+    uint32 NICMPEHDPBF = 10;
+    map<uint32, OKLOOLBCCKD> AALFNOJMPJE = 5;
+}
+

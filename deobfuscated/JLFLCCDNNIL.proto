@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 22940
+// Name: JLFLCCDNNIL
+message JLFLCCDNNIL {
+    int32 retcode = 10;
+}
+

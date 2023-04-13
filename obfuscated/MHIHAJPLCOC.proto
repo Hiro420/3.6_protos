@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 6203
+// Name: MHIHAJPLCOC
+message MHIHAJPLCOC {
+    int32 EEDMFEOGLFN = 6;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EFNFEPKAAOA.proto";
+
+// CmdId: 232
+// Name: COHGDKEIGAM
+message COHGDKEIGAM {
+    uint32 BIHMFOCDMKP = 6;
+    uint32 DMBFPFFMFCM = 5;
+    EFNFEPKAAOA CIFBJNLGHBH = 14;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: IIANFLLDLFO
+message IIANFLLDLFO {
+    uint32 BEPDMNAACDC = 1;
+    uint32 KJMLHCMHCGF = 2;
+    repeated uint32 IBGIMDKGEFH = 3;
+}
+

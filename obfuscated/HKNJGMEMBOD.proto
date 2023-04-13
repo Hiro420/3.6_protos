@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 373
+// Name: HKNJGMEMBOD
+message HKNJGMEMBOD {
+    uint64 OBNMNOHLGNB = 15;
+    int32 GFBDIAMIIJD = 13;
+    int32 NEAMEEDBKHM = 14;
+    uint32 DMBFPFFMFCM = 11;
+}
+

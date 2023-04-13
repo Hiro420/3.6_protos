@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HFPGMAKDKLF.proto";
+
+// Name: IHEBHBFOELG
+message IHEBHBFOELG {
+    uint32 POAIAJDFEKL = 14;
+    HFPGMAKDKLF CNDKFAMECDF = 3;
+    uint32 EPMMPEOMKDM = 1;
+    uint32 HDMDJECGCKC = 5;
+    bool NCACAHINDCJ = 9;
+}
+

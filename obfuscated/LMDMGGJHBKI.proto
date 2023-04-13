@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LMDMGGJHBKI
+message LMDMGGJHBKI {
+    // Name: PJKEMGMCEFM
+    enum PJKEMGMCEFM {
+        PJKEMGMCEFM_INNER = 0;
+        PJKEMGMCEFM_TILE_BOUND = 1;
+        PJKEMGMCEFM_TILE_BOUND_UNCONNECT = 2;
+        PJKEMGMCEFM_TILE_BOUND_OVERIDE = 3;
+    }
+
+    repeated PJKEMGMCEFM LEMLCADHFGO = 8;
+    repeated int32 IELANJOPKOG = 1;
+    int32 KHNNMNLDBCD = 6;
+}
+

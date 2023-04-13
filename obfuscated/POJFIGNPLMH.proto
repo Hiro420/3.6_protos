@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: POJFIGNPLMH
+message POJFIGNPLMH {
+    uint32 LBNGJLNFDIG = 7;
+    uint32 LKANJDEJDDI = 6;
+    repeated uint32 JDAMJDBKIJD = 13;
+    uint32 AHDCCAFBDLA = 1;
+    repeated uint32 FOOJGADLLLG = 9;
+}
+

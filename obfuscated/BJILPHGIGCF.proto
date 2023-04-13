@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BJILPHGIGCF
+message BJILPHGIGCF {
+    uint32 BKECHEIMCGP = 14;
+    uint32 ICPLDONIHID = 5;
+    uint32 DILMPOBNGPN = 3;
+    uint32 FJBKBMHJMMM = 15;
+}
+

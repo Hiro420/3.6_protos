@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1698
+// Name: HCJFKLALPGP
+message HCJFKLALPGP {
+    uint64 OAIIFOIFFNN = 12;
+    repeated uint64 CBLFCLJDKAO = 9;
+}
+

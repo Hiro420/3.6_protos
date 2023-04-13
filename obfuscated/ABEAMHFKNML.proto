@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 381
+// Name: ABEAMHFKNML
+message ABEAMHFKNML {
+    uint32 OMLEMIOPDAC = 3;
+}
+

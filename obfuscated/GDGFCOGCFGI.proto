@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4058
+// Name: GDGFCOGCFGI
+message GDGFCOGCFGI {
+    int32 EEDMFEOGLFN = 5;
+    bool FIPEBADOCEE = 6;
+    repeated uint32 INANBDADCAA = 2;
+}
+

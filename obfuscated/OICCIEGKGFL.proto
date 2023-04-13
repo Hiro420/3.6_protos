@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2621
+// Name: OICCIEGKGFL
+message OICCIEGKGFL {
+    uint32 LFOCJEADKPK = 9;
+    int32 EEDMFEOGLFN = 12;
+}
+

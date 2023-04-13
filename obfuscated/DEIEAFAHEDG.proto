@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5709
+// Name: DEIEAFAHEDG
+message DEIEAFAHEDG {
+    uint32 BNANNGAGHKF = 6;
+    repeated uint32 DFLDJDPGFOL = 10;
+    repeated uint32 MBEEMKLMCFB = 2;
+    uint32 FCIFCABFFHJ = 7;
+}
+

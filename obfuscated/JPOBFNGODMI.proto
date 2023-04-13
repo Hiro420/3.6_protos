@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IDIMLLGFJMM.proto";
+
+// CmdId: 5476
+// Name: JPOBFNGODMI
+message JPOBFNGODMI {
+    uint32 DPBGGDPMLLD = 5;
+    repeated IDIMLLGFJMM OJAFJCANDIA = 3;
+    int32 EEDMFEOGLFN = 15;
+    uint32 MFOOMFBLNMK = 1;
+}
+

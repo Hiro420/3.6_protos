@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 282
+// Name: HIPLJNBHKLG
+message HIPLJNBHKLG {
+    repeated uint32 GNNBFLNNODN = 6;
+    repeated uint32 ELNACLNNKIO = 9;
+    repeated uint32 CBNONONIPKH = 2;
+    uint32 FGEIEPJKHDL = 3;
+    repeated uint32 MCLPANONIJO = 7;
+}
+

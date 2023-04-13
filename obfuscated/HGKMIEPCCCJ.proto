@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4480
+// Name: HGKMIEPCCCJ
+message HGKMIEPCCCJ {
+    // Name: FOLINBPAHGO
+    message FOLINBPAHGO {
+        uint32 KLNKMDGAOJI = 14;
+        uint32 NDEIHPOEFDN = 8;
+        uint32 NMOCBJLDBGH = 9;
+        fixed32 HJFJMAEKNGD = 1;
+    }
+
+    int32 EEDMFEOGLFN = 4;
+    repeated FOLINBPAHGO KJDCCBEJHLM = 3;
+}
+

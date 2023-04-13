@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HLAAMJAKIEJ.proto";
+import "KHKOLNIDAEP.proto";
+
+// CmdId: 3466
+// Name: AEIMANHHJAC
+message AEIMANHHJAC {
+    uint32 KAHKHODLMPL = 12;
+    KHKOLNIDAEP JLNIFAPGJPK = 8;
+    repeated HLAAMJAKIEJ LNFNIMPJAKF = 14;
+}
+

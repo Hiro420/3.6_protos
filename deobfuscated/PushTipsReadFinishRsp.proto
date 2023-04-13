@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2239
+// Name: OONPHCCDMBF
+message PushTipsReadFinishRsp {
+    uint32 push_tips_id = 2;
+    int32 retcode = 5;
+}
+

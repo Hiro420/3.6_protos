@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 3169
+// Name: DIIBHMNKDJK
+message WidgetQuickHitTreeRsp {
+    int32 retcode = 3;
+}
+

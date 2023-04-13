@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKJAKFLICEJ.proto";
+import "MOJACKAPJGM.proto";
+
+// CmdId: 248
+// Name: PMHPGGKMPCJ
+message PMHPGGKMPCJ {
+    bool NNLNALIPEFE = 9;
+    MOJACKAPJGM CNDKFAMECDF = 5;
+    KKJAKFLICEJ JCJOHOJDHND = 2;
+}
+

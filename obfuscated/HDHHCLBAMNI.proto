@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HDHHCLBAMNI
+message HDHHCLBAMNI {
+    uint32 BCPGAFGNGEH = 12;
+    uint32 JMNAJHPFCMM = 7;
+    repeated uint32 MKJHCLJINAD = 8;
+    bool JCKCDNBOODM = 15;
+    repeated uint32 LLOCMGDOEKD = 10;
+    repeated uint32 HBDGIIILAFN = 14;
+}
+

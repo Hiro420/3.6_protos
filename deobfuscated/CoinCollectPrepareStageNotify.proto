@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CoinCollectStageInfo.proto";
+
+// CmdId: 6569
+// Name: GNCOBJFHHNG
+message CoinCollectPrepareStageNotify {
+    CoinCollectStageInfo coin_collect_info = 6;
+}
+

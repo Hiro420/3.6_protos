@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5465
+// Name: PAFCKKCJDCF
+message PAFCKKCJDCF {
+    uint32 MFOOMFBLNMK = 2;
+    bool AHLBALEPDGC = 11;
+    uint32 GPAOOGENIPP = 8;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 6238
+// Name: HHKLOLJJHGP
+message OutStuckCustomDungeonRsp {
+    int32 retcode = 2;
+}
+

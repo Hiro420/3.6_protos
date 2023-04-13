@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BKINFCJMFNH
+message BKINFCJMFNH {
+    uint32 JGIPOEKBNNN = 11;
+    bool FKOBJPCKIFJ = 15;
+}
+

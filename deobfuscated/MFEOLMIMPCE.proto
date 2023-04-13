@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 22376
+// Name: MFEOLMIMPCE
+message MFEOLMIMPCE {
+    repeated uint32 JNLFELKMPPM = 14;
+    uint32 difficulty_level = 12;
+    uint32 level_id = 8;
+    repeated uint32 NFJHJMKEAEH = 7;
+}
+

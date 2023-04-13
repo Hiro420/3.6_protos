@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8606
+// Name: DEJPLOKCHLE
+message DEJPLOKCHLE {
+    uint32 MAEEFMMLAPD = 8;
+    int32 EEDMFEOGLFN = 10;
+}
+

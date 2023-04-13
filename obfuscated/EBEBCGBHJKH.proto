@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8846
+// Name: EBEBCGBHJKH
+message EBEBCGBHJKH {
+    uint32 OMPLBJFIEKN = 12;
+    int32 EEDMFEOGLFN = 7;
+    uint32 HDMDJECGCKC = 13;
+    repeated uint32 AMFMKIJEBBL = 11;
+}
+

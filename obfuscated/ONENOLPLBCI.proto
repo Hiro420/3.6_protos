@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ONENOLPLBCI
+message ONENOLPLBCI {
+    uint32 LJLHBEEDOCF = 4;
+}
+

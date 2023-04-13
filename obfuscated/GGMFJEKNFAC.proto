@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 239
+// Name: GGMFJEKNFAC
+message GGMFJEKNFAC {
+    repeated uint32 HJKONJJKFNH = 15;
+    uint32 FGEIEPJKHDL = 14;
+}
+

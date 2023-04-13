@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8079
+// Name: PKFMIJJIEJG
+message LanternRiteStartFireworksReformReq {
+    uint32 challenge_id = 7;
+    uint32 stage_id = 2;
+}
+

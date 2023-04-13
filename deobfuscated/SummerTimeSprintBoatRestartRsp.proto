@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8132
+// Name: CPINAKDAFBG
+message SummerTimeSprintBoatRestartRsp {
+    uint32 schedule_id = 13;
+    uint32 group_id = 7;
+    int32 retcode = 6;
+}
+

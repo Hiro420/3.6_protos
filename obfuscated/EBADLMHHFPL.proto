@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AKCLNKNCMFK.proto";
+
+// Name: EBADLMHHFPL
+message EBADLMHHFPL {
+    uint32 PECOGIHGJDC = 4;
+    repeated AKCLNKNCMFK IHAKNMCMCAB = 3;
+}
+

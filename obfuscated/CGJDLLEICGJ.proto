@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8811
+// Name: CGJDLLEICGJ
+message CGJDLLEICGJ {
+    map<uint32, uint32> FHELHIPKFPB = 5;
+    uint32 LFOCJEADKPK = 14;
+    uint32 JBMPBFDPKGD = 13;
+}
+

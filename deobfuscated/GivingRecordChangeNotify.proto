@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GivingRecord.proto";
+
+// CmdId: 124
+// Name: JKNNMPIHGJG
+message GivingRecordChangeNotify {
+    GivingRecord giving_record = 11;
+    bool is_deactive = 7;
+}
+

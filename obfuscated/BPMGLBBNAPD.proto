@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2103
+// Name: BPMGLBBNAPD
+message BPMGLBBNAPD {
+    map<uint32, uint32> GBBLLBPLJLL = 2;
+    repeated uint32 NLONBPHBJDC = 14;
+    int32 EEDMFEOGLFN = 8;
+}
+

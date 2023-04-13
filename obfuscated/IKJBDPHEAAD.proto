@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HJABBOGMGEL.proto";
+
+// CmdId: 7433
+// Name: IKJBDPHEAAD
+message IKJBDPHEAAD {
+    HJABBOGMGEL CMBDEKMPLCB = 8;
+}
+

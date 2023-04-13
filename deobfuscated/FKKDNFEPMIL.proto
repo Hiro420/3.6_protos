@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeBlueprintSlotInfo.proto";
+
+// CmdId: 4614
+// Name: FKKDNFEPMIL
+message FKKDNFEPMIL {
+    int32 retcode = 8;
+    HomeBlueprintSlotInfo slot_info = 14;
+}
+

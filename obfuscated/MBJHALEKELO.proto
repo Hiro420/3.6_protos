@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MBJHALEKELO
+message MBJHALEKELO {
+    uint32 JBMPBFDPKGD = 2;
+    uint32 MFCJNNNFCGF = 4;
+    uint32 MLCDACECPKD = 7;
+}
+

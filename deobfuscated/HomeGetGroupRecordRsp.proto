@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeGroupRecord.proto";
+
+// CmdId: 4594
+// Name: FNPPMBFAEJP
+message HomeGetGroupRecordRsp {
+    HomeGroupRecord group_record = 3;
+    int32 retcode = 6;
+    uint32 record_type = 2;
+}
+

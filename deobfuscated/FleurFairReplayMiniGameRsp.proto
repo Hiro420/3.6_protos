@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2028
+// Name: EDBGLCIMCLG
+message FleurFairReplayMiniGameRsp {
+    int32 retcode = 2;
+    uint32 minigame_id = 4;
+}
+

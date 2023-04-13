@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JFHCFAPJOHN.proto";
+
+// Name: IFJOMPBIBLO
+message IFJOMPBIBLO {
+    repeated JFHCFAPJOHN JADMIPPCIBC = 12;
+    uint32 BFPBOJOIACJ = 3;
+    uint32 AHHEOIHNOFL = 15;
+}
+

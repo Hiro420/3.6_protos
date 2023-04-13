@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FOGGKINBMOI
+message AnnounceData {
+    string count_down_text = 9; // MLDDOLJCDAM
+    bool is_center_system_last_5_every_minutes = 2;
+    string center_system_text = 10; // HEAKAFCFBHM
+    uint32 center_system_frequency = 12; // OMEJDCDMJKH
+    uint32 config_id = 13;
+    string dungeon_confirm_text = 5; // DLKKCKHJJAC
+    uint32 begin_time = 14;
+    uint32 count_down_frequency = 15; // GBNNHNDNCPP
+    uint32 end_time = 3;
+}
+

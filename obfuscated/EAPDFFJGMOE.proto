@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ILPPOIPMJIF.proto";
+
+// CmdId: 8910
+// Name: EAPDFFJGMOE
+message EAPDFFJGMOE {
+    ILPPOIPMJIF LMIKKPKFLDN = 11;
+    int32 EEDMFEOGLFN = 3;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ICFEJHJADHJ
+enum ICFEJHJADHJ {
+    ICFEJHJADHJ_NOE = 0;
+    ICFEJHJADHJ_MONSTER = 1;
+    ICFEJHJADHJ_QUEST = 2;
+}
+

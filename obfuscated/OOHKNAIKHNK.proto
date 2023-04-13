@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AMCGPEAFCJI.proto";
+
+// CmdId: 8451
+// Name: OOHKNAIKHNK
+message OOHKNAIKHNK {
+    int32 EEDMFEOGLFN = 4;
+    uint32 JJGGAPDDOLN = 9;
+    oneof MKDKKDLDJFI {
+        AMCGPEAFCJI KEPJFKAEJDH = 10;
+    }
+}
+

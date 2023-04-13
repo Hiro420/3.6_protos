@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ENJILBPPCGP.proto";
+
+// CmdId: 5076
+// Name: NDLOBKKGODC
+message NDLOBKKGODC {
+    int32 EEDMFEOGLFN = 12;
+    ENJILBPPCGP HBJKFGNJKMA = 10;
+}
+

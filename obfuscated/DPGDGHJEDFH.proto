@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NMLPHHIHIOK.proto";
+
+// CmdId: 789
+// Name: DPGDGHJEDFH
+message DPGDGHJEDFH {
+    uint32 AFGOHALCCGO = 4;
+    uint32 GHIMNPECNNE = 9;
+    NMLPHHIHIOK KNJDOAEJEFK = 13;
+}
+

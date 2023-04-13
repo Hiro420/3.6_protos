@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: NNNABEEOCCB
+message NNNABEEOCCB {
+    uint32 NAPBIHOHLLD = 1;
+    bool OMLLMCIHLII = 2;
+    uint32 BEPBPGGFBDO = 3;
+}
+

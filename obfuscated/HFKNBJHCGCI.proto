@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HFKNBJHCGCI
+enum HFKNBJHCGCI {
+    HFKNBJHCGCI_TRANSMIT_NONE = 0;
+    HFKNBJHCGCI_TRANSMIT_QUEST = 1;
+}
+

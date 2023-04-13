@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8272
+// Name: DNAEJFJFPPA
+message DNAEJFJFPPA {
+    uint32 HDMDJECGCKC = 9;
+}
+

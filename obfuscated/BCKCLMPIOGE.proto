@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MEMFEIDLPMA.proto";
+
+// CmdId: 2483
+// Name: BCKCLMPIOGE
+message BCKCLMPIOGE {
+    repeated MEMFEIDLPMA LBNCFNEMILK = 4;
+    int32 EEDMFEOGLFN = 5;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5374
+// Name: LDJKHIMCNAE
+message FleurFairBuffEnergyNotify {
+    uint32 energy = 7;
+}
+

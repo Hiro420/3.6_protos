@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HJINEIJEJIL.proto";
+import "INPDDALBMBO.proto";
+
+// CmdId: 5821
+// Name: IKIGLFPJABI
+message IKIGLFPJABI {
+    // Name: BAOFMDDOHHC
+    enum BAOFMDDOHHC {
+        BAOFMDDOHHC_FISH_NO_REWARD_NONE = 0;
+        BAOFMDDOHHC_FISH_NO_REWARD_ACTIVITY_LIMIT = 1;
+        BAOFMDDOHHC_FISH_NO_REWARD_BAG_LIMIT = 2;
+        BAOFMDDOHHC_FISH_NO_REWARD_POOL_LIMIT = 3;
+    }
+
+    bool PIEDNOKEHAD = 7;
+    BAOFMDDOHHC OKFGAGMOOGO = 10;
+    repeated INPDDALBMBO OFEFKIMCOCC = 9;
+    repeated INPDDALBMBO EGKGIDNNNLG = 13;
+    repeated INPDDALBMBO GJCMOFAMKLA = 4;
+    int32 EEDMFEOGLFN = 11;
+    HJINEIJEJIL AENJHPLAOBC = 12;
+}
+

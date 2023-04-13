@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// CmdId: 259
+// Name: PGDKDGKKGBF
+message SceneAvatarStaminaStepRsp {
+    bool use_client_rot = 9;
+    Vector rot = 12;
+    int32 retcode = 11;
+}
+

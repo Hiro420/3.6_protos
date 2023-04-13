@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8693
+// Name: DECMCFHDGFM
+message DECMCFHDGFM {
+    map<uint32, uint32> AMFJKOMGOJN = 7;
+    uint32 JBMPBFDPKGD = 1;
+    uint32 LFOCJEADKPK = 15;
+}
+

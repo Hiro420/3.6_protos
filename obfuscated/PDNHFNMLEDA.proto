@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CPMJBNHKIEA.proto";
+
+// Name: PDNHFNMLEDA
+message PDNHFNMLEDA {
+    CPMJBNHKIEA LGAFLFAJCJD = 14;
+    uint32 LKMGOKLMODA = 8;
+    uint32 OFAEKMMHPEK = 12;
+    CPMJBNHKIEA DDPBBPLODOC = 6;
+}
+

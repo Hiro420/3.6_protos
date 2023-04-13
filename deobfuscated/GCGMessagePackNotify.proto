@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGMessagePack.proto";
+
+// CmdId: 7133
+// Name: JCMIBMOKICD
+message GCGMessagePackNotify {
+    uint32 server_seq = 2;
+    repeated GCGMessagePack msg_pack_list = 14;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OEJGBFFFNMP.proto";
+
+// Name: IBGEIFCCHLN
+message IBGEIFCCHLN {
+    uint32 GNAMHBEINMA = 15;
+    uint32 GOLEIJEKOGL = 1;
+    repeated OEJGBFFFNMP ODBLPILCJHI = 10;
+}
+

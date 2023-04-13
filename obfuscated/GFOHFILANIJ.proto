@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8835
+// Name: GFOHFILANIJ
+message GFOHFILANIJ {
+    uint32 PNLBJABJLFC = 1;
+    int32 EEDMFEOGLFN = 12;
+    uint32 PGDFKOCBKJC = 7;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: AAFJPKBFECB
+message AAFJPKBFECB {
+    uint32 NFBAIOMHCIB = 1;
+    uint32 CJGFLACFCDB = 2;
+    uint32 GGLBEPKKMGH = 3;
+    uint32 FCJPKOCJACN = 4;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24252
+// Name: BNNMGNNFFOG
+message BNNMGNNFFOG {
+    bool GBHJHJENFGK = 5;
+    bool PBDLJNOKLDJ = 12;
+    uint32 NCHIIILDKNA = 15;
+}
+

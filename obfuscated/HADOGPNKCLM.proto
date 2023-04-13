@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NLAAPIDMOCD.proto";
+
+// CmdId: 278
+// Name: HADOGPNKCLM
+message HADOGPNKCLM {
+    NLAAPIDMOCD JDBAEBBIDJF = 3;
+    uint32 BPJENGBJHHF = 1;
+    uint32 BIHMFOCDMKP = 14;
+    uint32 DMBFPFFMFCM = 15;
+}
+

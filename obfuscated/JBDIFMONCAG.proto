@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+import "LLHKAHKDALN.proto";
+
+// CmdId: 2912
+// Name: JBDIFMONCAG
+message JBDIFMONCAG {
+    repeated INPDDALBMBO IEEPAJEHDIJ = 15;
+    LLHKAHKDALN IHJENNPMBMD = 4;
+    int32 EEDMFEOGLFN = 5;
+}
+

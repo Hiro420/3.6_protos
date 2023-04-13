@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ICEJFGHDGJI.proto";
+
+// CmdId: 5556
+// Name: LFHBKCENMLC
+message LFHBKCENMLC {
+    map<uint32, ICEJFGHDGJI> PMKDGBDLMEC = 15;
+    uint32 ECLCBCEPGIH = 2;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 3019
+// Name: CJBOFJOHMON
+message PlayerChatCDNotify {
+    uint32 over_time = 3;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 6172
+// Name: CJJFIHPLEMJ
+message CJJFIHPLEMJ {
+    uint32 FGEIEPJKHDL = 10;
+    int32 ECKFNDOIIGN = 8;
+    int32 GAAABFELFGG = 9;
+}
+

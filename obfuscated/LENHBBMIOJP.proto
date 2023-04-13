@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OANHOEBKLCP.proto";
+
+// CmdId: 863
+// Name: LENHBBMIOJP
+message LENHBBMIOJP {
+    uint32 MDNMOJAPBKB = 12;
+    bool DJPHNINHIGD = 1;
+    uint32 ELIEBOMLPDN = 6;
+    uint32 NCHIIILDKNA = 10;
+    uint32 DMBFPFFMFCM = 14;
+    repeated OANHOEBKLCP BBGHDOADNBE = 13;
+}
+

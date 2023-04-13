@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JCBNLMMLEEB.proto";
+import "PEHLILGOPKN.proto";
+
+// CmdId: 378
+// Name: AEMCOFMKGBP
+message AEMCOFMKGBP {
+    PEHLILGOPKN CGAFJIIPALB = 2;
+    JCBNLMMLEEB PPMGKDOIJIH = 12;
+}
+

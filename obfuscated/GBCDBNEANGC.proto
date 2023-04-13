@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8804
+// Name: GBCDBNEANGC
+message GBCDBNEANGC {
+    uint32 PLLAPJNHNII = 1;
+}
+

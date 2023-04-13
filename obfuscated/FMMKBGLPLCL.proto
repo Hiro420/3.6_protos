@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1837
+// Name: FMMKBGLPLCL
+message FMMKBGLPLCL {
+    uint32 ICDAIDNAOBK = 12;
+    uint32 PHAMPFMIAFJ = 7;
+    bool KMDPBFFLLDN = 9;
+}
+

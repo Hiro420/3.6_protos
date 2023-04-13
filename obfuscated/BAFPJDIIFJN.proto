@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1815
+// Name: BAFPJDIIFJN
+message BAFPJDIIFJN {
+    bool JBJBKIMEOOD = 14;
+    uint32 DLANKMOEDDJ = 9;
+}
+

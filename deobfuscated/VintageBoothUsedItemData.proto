@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JEONPFEGIOJ
+message VintageBoothUsedItemData {
+    bool is_open = 7;
+    uint32 gadget_id = 9;
+}
+

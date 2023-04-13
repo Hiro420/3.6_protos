@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8245
+// Name: NCFOMHIINBL
+message NCFOMHIINBL {
+    uint32 LAOBIDKNELB = 13;
+    uint32 JJGGAPDDOLN = 3;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NLHPEJGCEDG.proto";
+
+// Name: ANKAEHLNHEP
+message ANKAEHLNHEP {
+    repeated NLHPEJGCEDG LGDLLHNPJGN = 15;
+    uint32 HMKJINBANGI = 11;
+    bool MFBLCKKNECK = 5;
+}
+

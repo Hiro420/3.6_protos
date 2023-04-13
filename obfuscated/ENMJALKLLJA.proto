@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 478
+// Name: ENMJALKLLJA
+message ENMJALKLLJA {
+    uint32 FGEIEPJKHDL = 5;
+    uint32 MEJDAEOJCFP = 7;
+    uint32 DMBFPFFMFCM = 4;
+}
+

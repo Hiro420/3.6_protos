@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: AIFEAPAMKDD
+message AIFEAPAMKDD {
+    uint32 BJFIFAHAGNK = 6;
+    uint32 MFABFMFFAFJ = 1;
+    uint32 HEKHEPFHLDL = 7;
+    bool INMGHDLLFMJ = 9;
+    uint32 KALKPMMFPBF = 10;
+    uint32 MAEEFMMLAPD = 13;
+    uint32 PNGJMNFPCKD = 15;
+    uint32 FGEIEPJKHDL = 12;
+    KKFEDHALJFH DBDEEBCMHMM = 8;
+    uint32 OIBCNJKJFOL = 2;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1706
+// Name: DEPMHNALOJG
+message SpringUseRsp {
+    int32 retcode = 13;
+    uint64 guid = 10;
+}
+

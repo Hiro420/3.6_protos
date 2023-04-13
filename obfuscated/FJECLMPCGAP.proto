@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5387
+// Name: FJECLMPCGAP
+message FJECLMPCGAP {
+    int32 EEDMFEOGLFN = 2;
+    repeated uint32 NICMPEHDPBF = 3;
+}
+

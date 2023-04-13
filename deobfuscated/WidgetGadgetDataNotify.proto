@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "WidgetGadgetData.proto";
+
+// CmdId: 4278
+// Name: DGNBGJPCNAN
+message WidgetGadgetDataNotify {
+    WidgetGadgetData widget_gadget_data = 6;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OJPLFMHBHHC
+message OJPLFMHBHHC {
+    uint32 PALOHKEMHDN = 8;
+    repeated uint32 LFNLHAABJAM = 9;
+}
+

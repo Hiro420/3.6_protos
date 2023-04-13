@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2200
+// Name: LKPBOMLAPJJ
+message LKPBOMLAPJJ {
+    uint32 NOMPCPNPLLH = 13;
+    bool HKHAADBCFDO = 1;
+    uint32 LAOBIDKNELB = 3;
+    uint32 OMCIMCAMBEK = 12;
+}
+

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1492
+// Name: NFCEPLAAPBE
+message NFCEPLAAPBE {
+    uint32 OBPIIAHOMOE = 3;
+    int32 EEDMFEOGLFN = 8;
+    uint32 EAFDADOGNIF = 10;
+    string AMNPHOBNFAB = 4;
+    string OBCLOIHKIOC = 1;
+    string DJGALFIMINA = 15;
+}
+

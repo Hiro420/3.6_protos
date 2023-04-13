@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CODPKPLDBDH.proto";
+import "GNBJGEJCCJN.proto";
+import "IHCFDBEPNMD.proto";
+import "JEOEDBOGIAG.proto";
+import "PKKAPIFAEHB.proto";
+
+// Name: CIBJHBFKKAN
+message CIBJHBFKKAN {
+    uint32 FPMNNICBLJG = 1;
+    uint32 PKDJIGJDEJE = 2;
+    uint32 AMEJLPJCENL = 3;
+    repeated JEOEDBOGIAG FACMOMLHNNK = 4;
+    uint32 CAMMDIMJEMH = 5;
+    repeated uint32 NPCGHLDMAMH = 6;
+    bool HDIMJOGHJGG = 7;
+    uint32 HBKHIIDMJFP = 8;
+    uint32 ONHOIOMJFFE = 9;
+    map<uint32, uint32> PFGFCAGGFHP = 10;
+    uint32 FELFCHBPJFE = 11;
+    PKKAPIFAEHB KBOIKFADDDB = 12;
+    uint32 HMCIGKKMNII = 13;
+    uint32 PDONAFJFGMI = 14;
+    uint32 AGCGOLKAMHN = 15;
+    uint32 CGOCEOJAGJK = 16;
+    uint32 HPLKPDLHGJB = 17;
+    IHCFDBEPNMD PGECHAJOJGC = 18;
+    uint32 DBMOOGPCDDC = 19;
+    uint32 CBODIBJGLCP = 20;
+    uint32 HHKMIMGOAOD = 21;
+    bool HKKPLDAAFFL = 22;
+    uint32 GLEBFNLFOIA = 23;
+    oneof EOBACNJEEGP {
+        CODPKPLDBDH GLICEMOOFHF = 50;
+        GNBJGEJCCJN OKFFDGLDGMA = 51;
+    }
+}
+

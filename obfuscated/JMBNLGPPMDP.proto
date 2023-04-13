@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24764
+// Name: JMBNLGPPMDP
+message JMBNLGPPMDP {
+    bool CNJHECGFPKA = 1;
+    uint64 PJDFHKIKLNM = 9;
+    uint32 KAJGEMAAIJH = 14;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NLAAPIDMOCD.proto";
+
+// CmdId: 206
+// Name: OPNIBBJGIID
+message OPNIBBJGIID {
+    uint32 PECOGIHGJDC = 7;
+    uint32 DMBFPFFMFCM = 14;
+    uint32 BIHMFOCDMKP = 8;
+    NLAAPIDMOCD JDBAEBBIDJF = 6;
+}
+

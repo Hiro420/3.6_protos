@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4522
+// Name: HACMAFACMPM
+message HACMAFACMPM {
+    uint32 DECHHOMMECG = 2;
+    uint32 MFCJNNNFCGF = 12;
+}
+

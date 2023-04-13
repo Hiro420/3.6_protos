@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5554
+// Name: ONMECJLKJJC
+message ONMECJLKJJC {
+    uint32 gallery_id = 14;
+}
+

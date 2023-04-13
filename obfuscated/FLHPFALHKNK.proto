@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BIKCJHPDNBI.proto";
+import "FKENPFDANHC.proto";
+import "FOCGIMOBEAB.proto";
+
+// CmdId: 114
+// Name: FLHPFALHKNK
+message FLHPFALHKNK {
+    uint32 MFCJNNNFCGF = 7;
+    oneof OFDMLDLAIEN {
+        FOCGIMOBEAB DJLDFCCCOIA = 1417;
+        FKENPFDANHC APJOEACENNK = 616;
+        BIKCJHPDNBI MCFFKDFBLMA = 2013;
+    }
+}
+

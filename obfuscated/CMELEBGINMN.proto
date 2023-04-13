@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CMELEBGINMN
+enum CMELEBGINMN {
+    CMELEBGINMN_LUASHELL_NONE = 0;
+    CMELEBGINMN_LUASHELL_NORMAL = 1;
+    CMELEBGINMN_LUASHELL_SECURITY = 2;
+    CMELEBGINMN_LUASHELL_SHELL_CODE = 3;
+}
+

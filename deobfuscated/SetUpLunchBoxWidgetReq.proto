@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LunchBoxData.proto";
+
+// CmdId: 4272
+// Name: NEEIJAKMAFF
+message SetUpLunchBoxWidgetReq {
+    LunchBoxData lunch_box_data = 4;
+}
+

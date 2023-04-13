@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8436
+// Name: FHPIDHMKKPM
+message FHPIDHMKKPM {
+    uint32 JOINLEBLHCI = 3;
+    uint32 KNMIDELFHMM = 6;
+}
+

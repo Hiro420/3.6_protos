@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7793
+// Name: FHLIADHHNAF
+message FHLIADHHNAF {
+    repeated uint32 NMKIFLLBAOO = 10;
+}
+

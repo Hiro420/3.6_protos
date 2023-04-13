@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 906
+// Name: LHOODIGKDCF
+message LHOODIGKDCF {
+    int32 EEDMFEOGLFN = 6;
+}
+

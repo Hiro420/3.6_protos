@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GOHGODJALDD.proto";
+import "PKGFJDKCLNB.proto";
+
+// CmdId: 4296
+// Name: HDJLOAEAPLC
+message HDJLOAEAPLC {
+    uint32 DNHHONGGDCN = 12;
+    GOHGODJALDD EPLOGDKMJBN = 15;
+    int32 EEDMFEOGLFN = 2;
+    repeated PKGFJDKCLNB GNDFCBMMDOM = 14;
+}
+

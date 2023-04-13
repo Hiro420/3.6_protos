@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JODIOENNDOF.proto";
+import "MLBIGMHGJJB.proto";
+
+// CmdId: 7486
+// Name: NMPEGOIHHIH
+message NMPEGOIHHIH {
+    repeated JODIOENNDOF PBDEELBNIKA = 4;
+    MLBIGMHGJJB AHBMDHOLOBN = 5;
+    int32 EEDMFEOGLFN = 15;
+}
+

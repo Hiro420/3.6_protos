@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CFHDJPBPBJD.proto";
+import "OGOGMKJEFGO.proto";
+
+// CmdId: 258
+// Name: ALNJKBLPCHH
+message ALNJKBLPCHH {
+    repeated OGOGMKJEFGO BAFFOCPBEPI = 15;
+    repeated CFHDJPBPBJD PNMFABKEOFA = 12;
+}
+

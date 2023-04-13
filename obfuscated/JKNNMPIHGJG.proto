@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OBDLPMCIFNG.proto";
+
+// CmdId: 124
+// Name: JKNNMPIHGJG
+message JKNNMPIHGJG {
+    OBDLPMCIFNG AFLGGNECNKC = 11;
+    bool KLDMKEPABAB = 7;
+}
+

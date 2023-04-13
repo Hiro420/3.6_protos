@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BCLNCCOHMKK.proto";
+import "IFJOMPBIBLO.proto";
+import "LDHLGONLKPM.proto";
+
+// CmdId: 4195
+// Name: JAEBMMNHIFH
+message JAEBMMNHIFH {
+    uint32 AEEJJKLPHDP = 8;
+    uint32 IHJHBOGKMLA = 13;
+    LDHLGONLKPM ODLJKKLDDEP = 7;
+    BCLNCCOHMKK KNBLDJKPEPG = 3;
+    uint32 ICDAIDNAOBK = 12;
+    uint32 GJLFMAOLNCC = 6;
+    uint32 APIJKPINGON = 10;
+    IFJOMPBIBLO AOBHALDCBGO = 1;
+}
+

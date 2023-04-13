@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AMLIKODMAOK.proto";
+
+// Name: MOEDDAGHKAE
+message MOEDDAGHKAE {
+    uint32 KCHAMIMJKKK = 4;
+    uint32 NCHIIILDKNA = 1;
+    bool HKHAADBCFDO = 9;
+    repeated AMLIKODMAOK DBEONNKFOPI = 8;
+    uint32 CMIPJGCAJKH = 7;
+}
+

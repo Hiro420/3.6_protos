@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LBNDFFCAGIF
+message LBNDFFCAGIF {
+    uint32 PAMNIEEJDLE = 2;
+    bool AIKOIFECOAE = 11;
+    bool NCACAHINDCJ = 10;
+    uint32 EOICKCAFEIG = 14;
+}
+

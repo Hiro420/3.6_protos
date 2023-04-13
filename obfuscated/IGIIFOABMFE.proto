@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 23878
+// Name: IGIIFOABMFE
+message IGIIFOABMFE {
+    bool GBHJHJENFGK = 2;
+    uint32 EPMMPEOMKDM = 9;
+    bool PBDLJNOKLDJ = 13;
+}
+

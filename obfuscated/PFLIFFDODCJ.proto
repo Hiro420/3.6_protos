@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PFLIFFDODCJ
+message PFLIFFDODCJ {
+    uint32 HDPJCNBFLEB = 12;
+    uint32 FPMNPOEEMJD = 8;
+    uint32 JJGGAPDDOLN = 1;
+    bool GBHJHJENFGK = 9;
+    repeated uint32 HPCEKLCECKB = 6;
+}
+

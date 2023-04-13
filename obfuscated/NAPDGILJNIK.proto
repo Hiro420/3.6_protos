@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GOHGODJALDD.proto";
+import "PKGFJDKCLNB.proto";
+
+// CmdId: 4251
+// Name: NAPDGILJNIK
+message NAPDGILJNIK {
+    repeated PKGFJDKCLNB GNDFCBMMDOM = 5;
+    GOHGODJALDD EPLOGDKMJBN = 12;
+    uint32 DNHHONGGDCN = 6;
+}
+

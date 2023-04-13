@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 50
+// Name: FPKILDGANHL
+message FPKILDGANHL {
+    string OKHFJOFHFPN = 7;
+}
+

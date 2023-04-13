@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PNCGEFDNHHF
+message PNCGEFDNHHF {
+    string KOIICOMMADP = 1;
+    string LEELKODOCOL = 2;
+    string BPKDOPHJPAL = 3;
+    string MLALGMEKKLK = 4;
+}
+

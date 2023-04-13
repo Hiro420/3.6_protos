@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DPDLJODAKKL
+enum DPDLJODAKKL {
+    DPDLJODAKKL_NONE = 0;
+    DPDLJODAKKL_FAIL = 1;
+    DPDLJODAKKL_SUCC = 2;
+    DPDLJODAKKL_PAUSE = 3;
+}
+

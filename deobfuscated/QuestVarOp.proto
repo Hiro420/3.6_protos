@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ANBGDIAABLH
+message QuestVarOp {
+    uint32 index = 5;
+    bool is_add = 11;
+    int32 value = 12;
+}
+

@@ -1,0 +1,55 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AdjustTrackingInfo.proto";
+import "TrackingIOInfo.proto";
+
+// CmdId: 189
+// Name: CLFNBHKDFFH
+message PlayerLoginReq {
+    uint32 KDIHPMJOCPG = 909;
+    uint32 PNJNCCNPILL = 2033;
+    string token = 8;
+    bool is_guest = 6;
+    string JKPKMFPELKK = 778;
+    string online_id = 1781;
+    AdjustTrackingInfo adjust_tracking_info = 2010;
+    uint64 login_rand = 12;
+    TrackingIOInfo tracking_io_info = 498;
+    uint32 language_type = 7;
+    uint32 CJHEEAGCFJG = 2015;
+    uint32 FGAKKMHIKHF = 829;
+    string FIALIJNFLDH = 2;
+    string DOAPGNNFLBJ = 1352;
+    string account_uid = 4;
+    uint32 target_uid = 14;
+    string KCODJEPOJPE = 254;
+    string AAEIDEMEKFF = 936;
+    uint32 FIDMBJJPBEH = 832;
+    string ADMEMLCIHBA = 1953;
+    string PKCPAMFKKPC = 11;
+    bytes JLOPICGGPBP = 978;
+    string IOBMOHHHGNB = 823;
+    uint32 ECJMGOCEABB = 1650;
+    string ENNPHCJEFFC = 3;
+    string psn_id = 1125;
+    bool is_editor = 10;
+    bytes JDKDCMJLHHM = 922;
+    string platform = 1;
+    uint32 channel_id = 913;
+    bool is_transfer = 1382;
+    string PAGIGLAOJIC = 1519;
+    string GEKKFJHGJFB = 9;
+    uint32 FMOKLFNAOOK = 1173;
+    uint32 tag = 1897;
+    uint32 CIJNPHDIOND = 5;
+    uint32 client_data_version = 1098;
+    string DABNCDNACJK = 587;
+    string EMACJCPNKAB = 13;
+    uint32 platform_type = 15;
+    bytes GHKJJPJKKBI = 1959;
+    uint32 LFPHHMGKIIP = 1187;
+    string birthday = 1256;
+}
+

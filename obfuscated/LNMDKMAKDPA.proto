@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MPLIKJPIIPG.proto";
+
+// CmdId: 4962
+// Name: LNMDKMAKDPA
+message LNMDKMAKDPA {
+    repeated MPLIKJPIIPG JPDABGJJEGO = 15;
+    repeated uint32 GECCCPLGEOA = 5;
+}
+

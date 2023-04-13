@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ProfilePicture.proto";
+
+// CmdId: 4037
+// Name: HOJEGAPGGNE
+message ProfilePictureChangeNotify {
+    ProfilePicture profile_picture = 9;
+}
+

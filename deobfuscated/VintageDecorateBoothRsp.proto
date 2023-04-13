@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 23197
+// Name: IFOGABNMJAE
+message VintageDecorateBoothRsp {
+    int32 retcode = 5;
+}
+

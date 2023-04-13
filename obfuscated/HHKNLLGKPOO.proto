@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MPBJOANOMOJ.proto";
+
+// CmdId: 659
+// Name: HHKNLLGKPOO
+message HHKNLLGKPOO {
+    MPBJOANOMOJ OBDBKNBAJIF = 3;
+    uint64 EEMILGMLGOH = 4;
+    int32 EEDMFEOGLFN = 5;
+}
+

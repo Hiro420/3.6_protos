@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BNELCAIKODI.proto";
+
+// Name: IBHGJOKFMEF
+message IBHGJOKFMEF {
+    bool NLKDMPEOGJC = 13;
+    BNELCAIKODI NHMMHANGFCN = 3;
+}
+

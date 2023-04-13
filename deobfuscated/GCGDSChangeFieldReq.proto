@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7303
+// Name: HADLPGOAPCE
+message GCGDSChangeFieldReq {
+    uint32 deck_id = 3;
+    uint32 field_id = 4;
+}
+

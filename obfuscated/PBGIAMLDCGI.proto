@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5535
+// Name: PBGIAMLDCGI
+message PBGIAMLDCGI {
+    uint32 DDPJNJEHGJL = 6;
+}
+

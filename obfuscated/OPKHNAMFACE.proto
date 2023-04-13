@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7470
+// Name: OPKHNAMFACE
+message OPKHNAMFACE {
+    repeated uint32 DFNAIAAOAPE = 12;
+}
+

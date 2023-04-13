@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2890
+// Name: GNJDOGANMMF
+message GNJDOGANMMF {
+    uint32 HEKHEPFHLDL = 10;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8410
+// Name: DMKCCBFCIBI
+message DMKCCBFCIBI {
+    int32 EEDMFEOGLFN = 13;
+    uint32 PNLBJABJLFC = 6;
+    repeated uint32 LJHGCNLIAFD = 8;
+}
+

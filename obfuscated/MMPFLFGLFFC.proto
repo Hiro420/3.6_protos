@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 470
+// Name: MMPFLFGLFFC
+message MMPFLFGLFFC {
+    repeated uint32 GNFJHCIHOBE = 9;
+    repeated uint32 EOMIKDEBBGN = 5;
+}
+

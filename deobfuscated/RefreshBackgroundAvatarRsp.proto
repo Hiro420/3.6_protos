@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1705
+// Name: LCJDCDGGAKG
+message RefreshBackgroundAvatarRsp {
+    int32 retcode = 5;
+    map<uint64, uint32> hp_full_time_map = 14;
+}
+

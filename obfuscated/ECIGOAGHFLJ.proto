@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 337
+// Name: ECIGOAGHFLJ
+message ECIGOAGHFLJ {
+    // Name: GFPJDFDBMKJ
+    enum GFPJDFDBMKJ {
+        GFPJDFDBMKJ_LUA_OPTION_NONE = 0;
+        GFPJDFDBMKJ_LUA_OPTION_PLAYER_INPUT = 1;
+    }
+
+    GFPJDFDBMKJ MELBOLDIFEF = 14;
+    string DJPMEEEAIJA = 10;
+}
+

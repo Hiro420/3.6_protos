@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5586
+// Name: MGNIILLEFFB
+message IslandPartyRaftInfoNotify {
+    uint32 DPKCLCKNEOF = 13;
+    uint32 point_id = 11;
+    uint32 CDJPPMFEPHL = 6;
+    uint32 coin = 14;
+}
+

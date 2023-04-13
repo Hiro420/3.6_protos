@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5379
+// Name: DCCMKDBMIOL
+message BrickBreakerSelectAvatarRsp {
+    int32 retcode = 15;
+    repeated uint32 avatar_id = 6;
+}
+

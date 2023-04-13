@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CEHPFLBDBKB.proto";
+import "IGMMKIIKDJK.proto";
+
+// CmdId: 8555
+// Name: HOAFHAEHDLJ
+message HOAFHAEHDLJ {
+    repeated CEHPFLBDBKB OAIHGLICLCG = 7;
+    int32 EEDMFEOGLFN = 4;
+    repeated IGMMKIIKDJK KIEFBHLMEDG = 5;
+    uint32 ALIIBHKIMBM = 3;
+    uint32 EFLPMIIEPNG = 11;
+    uint32 HEAJHLGGKLM = 6;
+    uint32 JJGGAPDDOLN = 10;
+    uint32 LAOBIDKNELB = 12;
+    uint32 MAKIBNPJGEJ = 15;
+}
+

@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JBBIMMPGADK.proto";
+import "LDNECEOOOOI.proto";
+import "LEODFLGAMBL.proto";
+
+// Name: HLHMEIOKCEA
+message HLHMEIOKCEA {
+    LDNECEOOOOI NNHBCELBKKG = 3;
+    uint32 BNKMINMKDMP = 10;
+    repeated uint32 NHHMCAGJHMJ = 12;
+    uint32 CCKKPIDLGEE = 7;
+    map<uint32, JBBIMMPGADK> BOCJIMAOGKP = 13;
+    uint32 LIMOMJJGJBI = 9;
+    repeated LEODFLGAMBL DEBBENAOJPB = 2;
+    uint32 MMLJDCLICFL = 15;
+    uint32 NFNKKDHGPAN = 5;
+}
+

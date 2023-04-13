@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OGNJMODKJPC
+message OGNJMODKJPC {
+    repeated uint32 EHEENCKGIOO = 10;
+    repeated uint32 NFFCNNEGFMK = 2;
+}
+

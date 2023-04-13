@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 21251
+// Name: BGPMNHLOLAE
+message BGPMNHLOLAE {
+    uint32 CLOFHKNMAHB = 7;
+    uint32 IKINEMPBMLM = 13;
+}
+

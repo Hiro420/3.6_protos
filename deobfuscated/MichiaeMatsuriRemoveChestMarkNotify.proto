@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8051
+// Name: KKNEENJMFHL
+message MichiaeMatsuriRemoveChestMarkNotify {
+    uint32 config_id = 9;
+    uint32 group_id = 12;
+}
+

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: JEFLHCMKIFB
+message JEFLHCMKIFB {
+    KKFEDHALJFH DICABNGMDAH = 4;
+    bool GFIOPLGMDPJ = 11;
+    uint32 AMEJLPJCENL = 10;
+    bool KDNAIANDJBF = 5;
+    uint32 JJGKLKOMKGE = 1;
+    uint32 PKDJIGJDEJE = 7;
+    uint32 DNHHONGGDCN = 14;
+}
+

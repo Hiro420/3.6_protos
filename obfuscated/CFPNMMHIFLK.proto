@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 2921
+// Name: CFPNMMHIFLK
+message CFPNMMHIFLK {
+    KKFEDHALJFH DICABNGMDAH = 12;
+    uint32 AMEJLPJCENL = 2;
+    uint32 PKDJIGJDEJE = 5;
+    uint32 BLCEPEMCKEM = 14;
+    uint32 JJGKLKOMKGE = 11;
+}
+

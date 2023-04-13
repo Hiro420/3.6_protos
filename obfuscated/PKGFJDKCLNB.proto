@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PKGFJDKCLNB
+enum PKGFJDKCLNB {
+    PKGFJDKCLNB_WIDGET_SLOT_QUICK_USE = 0;
+    PKGFJDKCLNB_WIDGET_SLOT_ATTACH_AVATAR = 1;
+}
+

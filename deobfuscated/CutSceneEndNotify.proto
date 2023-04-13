@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 203
+// Name: GOENHCJCPOL
+message CutSceneEndNotify {
+    int32 retcode = 14;
+    uint32 cutscene_id = 8;
+}
+

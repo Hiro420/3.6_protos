@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MLFNNJGLGFA.proto";
+
+// Name: CPEBANBOLHC
+message CPEBANBOLHC {
+    repeated MLFNNJGLGFA PIABMJLNENG = 12;
+    uint32 LPIFNMHCPEF = 9;
+}
+

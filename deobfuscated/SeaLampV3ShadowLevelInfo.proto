@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: POIEKHBPNJL
+message SeaLampV3ShadowLevelInfo {
+    uint32 level_id = 12;
+    uint32 min_finish_time = 1;
+    bool is_open = 4;
+}
+

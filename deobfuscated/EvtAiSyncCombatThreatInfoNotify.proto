@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AiThreatInfo.proto";
+
+// CmdId: 364
+// Name: NICHDLMHIME
+message EvtAiSyncCombatThreatInfoNotify {
+    map<uint32, AiThreatInfo> combat_threat_info_map = 5;
+}
+

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: KLODNOOCDPE
+message KLODNOOCDPE {
+    uint32 FJLHCPEOPBD = 9;
+    uint32 HJLEBAHLAOL = 13;
+    uint32 IOLKEPCMIAN = 2;
+    KKFEDHALJFH DBDEEBCMHMM = 5;
+    uint32 JGIPOEKBNNN = 6;
+    bool LODOAPOPHCN = 3;
+}
+

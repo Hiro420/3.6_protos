@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BABEOKMLGED
+message BABEOKMLGED {
+    map<uint32, uint32> PNIACEGONGI = 3;
+}
+

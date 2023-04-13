@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5528
+// Name: FBJAPCKJFCA
+message FBJAPCKJFCA {
+    uint32 hit_count = 10;
+    bool is_success = 3;
+    uint32 gallery_id = 11;
+}
+

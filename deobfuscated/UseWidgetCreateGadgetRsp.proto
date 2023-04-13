@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4290
+// Name: HGDJMCEDNKB
+message UseWidgetCreateGadgetRsp {
+    int32 retcode = 1;
+    uint32 material_id = 6;
+}
+

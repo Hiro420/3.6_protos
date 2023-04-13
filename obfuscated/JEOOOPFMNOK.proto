@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1721
+// Name: JEOOOPFMNOK
+message JEOOOPFMNOK {
+    uint32 MAEEFMMLAPD = 7;
+    int32 EEDMFEOGLFN = 15;
+    uint32 DCNGHDOKOPI = 13;
+    uint64 FPIIPJJPBOH = 3;
+}
+

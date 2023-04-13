@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AnimatorParameterValueInfoPair.proto";
+
+// Name: BGGGDNNJKOE
+message AbilityMetaSetPoseParameter {
+    AnimatorParameterValueInfoPair value = 2;
+}
+

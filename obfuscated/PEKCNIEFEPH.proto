@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EKKMOBNAHJH.proto";
+import "HCLHBNIHOHL.proto";
+import "OGMFJCGONHB.proto";
+import "OKKJHIMCIMM.proto";
+
+// Name: PEKCNIEFEPH
+message PEKCNIEFEPH {
+    uint32 PKDJIGJDEJE = 10;
+    oneof OFDMLDLAIEN {
+        EKKMOBNAHJH AIGENLOLHJL = 388;
+        HCLHBNIHOHL EDCGKNFKCAO = 1949;
+        OKKJHIMCIMM PBMKNMPDDJO = 748;
+        OGMFJCGONHB NDNILFPGEIL = 1996;
+    }
+}
+

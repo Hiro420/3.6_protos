@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AbilityInvokeEntry.proto";
+
+// CmdId: 1116
+// Name: BAKKCODKNDD
+message AbilityInvocationFailNotify {
+    string reason = 7;
+    uint32 entity_id = 9;
+    AbilityInvokeEntry invoke = 12;
+}
+

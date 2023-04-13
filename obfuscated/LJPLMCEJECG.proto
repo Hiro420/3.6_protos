@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JMAGIHDGPPP.proto";
+
+// CmdId: 22028
+// Name: LJPLMCEJECG
+message LJPLMCEJECG {
+    repeated JMAGIHDGPPP AOAKGOPBGIH = 10;
+}
+

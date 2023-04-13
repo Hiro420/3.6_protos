@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NHJBKINAHEH.proto";
+
+// Name: DJFBDONGFPG
+message DJFBDONGFPG {
+    repeated uint32 JNAGDNCCGNP = 6;
+    uint32 CGPHDIIGAPO = 12;
+    repeated NHJBKINAHEH DOOAGLJJFIE = 3;
+    uint32 ICPLDONIHID = 9;
+}
+

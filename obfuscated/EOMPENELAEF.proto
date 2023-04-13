@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: EOMPENELAEF
+enum EOMPENELAEF {
+    EOMPENELAEF_RECEIVE_OUTPUT = 0;
+    EOMPENELAEF_STOP_FORGE = 1;
+}
+

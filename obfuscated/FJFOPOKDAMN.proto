@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 850
+// Name: FJFOPOKDAMN
+message FJFOPOKDAMN {
+    uint32 MFEBFFKLLPC = 10;
+}
+

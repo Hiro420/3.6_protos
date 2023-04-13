@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BHMPJCHCBKN
+message HomePictureFrameInfo {
+    uint32 picture_id = 11;
+    uint32 guid = 3;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IrodoriChessEntranceInfo.proto";
+
+// Name: GJNLKPILJFD
+message IrodoriChessEntranceDetailInfo {
+    repeated IrodoriChessEntranceInfo info_list = 3;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JMLDAKCKIMF
+message BuoyantCombatDailyInfo {
+    uint32 best_score = 9;
+    uint32 start_time = 5;
+}
+

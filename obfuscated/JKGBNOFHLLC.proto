@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HKLLEGCFOKN.proto";
+
+// CmdId: 4063
+// Name: JKGBNOFHLLC
+message JKGBNOFHLLC {
+    HKLLEGCFOKN BOMFAPPAKPE = 2;
+    int32 EEDMFEOGLFN = 13;
+}
+

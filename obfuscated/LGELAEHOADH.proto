@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8158
+// Name: LGELAEHOADH
+message LGELAEHOADH {
+    int32 EEDMFEOGLFN = 12;
+    uint32 LFOCJEADKPK = 10;
+    repeated uint32 LCIGAEMPOCB = 7;
+}
+

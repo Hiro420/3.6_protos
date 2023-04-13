@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Uint32Pair.proto";
+
+// Name: GAFAFJOLEAO
+message GCGPlayCardCostInfo {
+    uint32 card_id = 5;
+    repeated Uint32Pair cost_map = 6;
+}
+

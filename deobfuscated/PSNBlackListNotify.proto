@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FriendBrief.proto";
+
+// CmdId: 4001
+// Name: BGKPCOACAPN
+message PSNBlackListNotify {
+    repeated FriendBrief psn_blacklist = 4;
+}
+

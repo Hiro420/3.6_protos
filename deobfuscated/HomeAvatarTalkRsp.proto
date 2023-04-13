@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeAvatarTalkFinishInfo.proto";
+
+// CmdId: 4628
+// Name: HGGGONGOAHF
+message HomeAvatarTalkRsp {
+    int32 retcode = 15;
+    HomeAvatarTalkFinishInfo avatar_talk_info = 8;
+}
+

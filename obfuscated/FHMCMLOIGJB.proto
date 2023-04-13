@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PHCFOHLGLJN.proto";
+
+// Name: FHMCMLOIGJB
+message FHMCMLOIGJB {
+    PHCFOHLGLJN MFABFMFFAFJ = 1;
+    uint32 GNBAJDLLIMB = 2;
+    uint32 KDPMCPNBDFF = 3;
+    uint32 DILMPOBNGPN = 4;
+    float HKMKJBKLMCF = 5;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "KAGFENNNCEA.proto";
+
+// Name: POFAIABAJGK
+message SceneGallerySandwormInfo {
+    uint32 DIOMMEDEGJI = 3;
+    uint32 energy = 14;
+    KAGFENNNCEA ODCPDKBPANB = 9;
+    bool NJGKBGOPNKD = 1;
+}
+

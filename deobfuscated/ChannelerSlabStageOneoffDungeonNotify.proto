@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8475
+// Name: DDDFAGAJHNH
+message ChannelerSlabStageOneoffDungeonNotify {
+    uint32 stage_id = 15;
+    bool is_done = 6;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2016
+// Name: GEOLGMFGJMF
+message GEOLGMFGJMF {
+    uint32 AMEJLPJCENL = 11;
+    int32 EEDMFEOGLFN = 1;
+}
+

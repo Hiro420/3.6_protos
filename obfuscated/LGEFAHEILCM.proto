@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LGEFAHEILCM
+message LGEFAHEILCM {
+    uint32 NDOJLJFOMNO = 1;
+    uint32 AMOKMNBGJKN = 2;
+    uint32 OPOGLLHHAHF = 3;
+    uint32 FKBGIKEANGH = 5;
+    uint32 BJEOCHCOHMH = 6;
+    uint32 CLOFHKNMAHB = 7;
+    uint32 IEICKPJNLED = 8;
+}
+

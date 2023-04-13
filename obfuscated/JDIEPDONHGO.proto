@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JDIEPDONHGO
+message JDIEPDONHGO {
+    uint32 KHNEENKECBK = 2;
+    uint32 FABNMNFMJFG = 9;
+    uint32 JBMPBFDPKGD = 3;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8543
+// Name: LEFMHBANNII
+message LEFMHBANNII {
+    uint32 GEGJDMMMING = 5;
+    int32 EEDMFEOGLFN = 11;
+    bool GBEAJJIBJFA = 14;
+    repeated uint32 NPCGHLDMAMH = 2;
+}
+

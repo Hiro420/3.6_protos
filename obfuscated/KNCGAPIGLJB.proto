@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BJAEMIHEOIB.proto";
+
+// Name: KNCGAPIGLJB
+message KNCGAPIGLJB {
+    repeated BJAEMIHEOIB LJDDKDFAOJI = 2;
+}
+

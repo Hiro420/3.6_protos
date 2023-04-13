@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7558
+// Name: CMELIOKBBAM
+message CMELIOKBBAM {
+    string DGMOFIACJEK = 2;
+    string HKDJKJDBGIL = 6;
+    bool is_success = 14;
+}
+

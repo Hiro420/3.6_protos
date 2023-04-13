@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8524
+// Name: IOLEDMPEMMP
+message IOLEDMPEMMP {
+    int32 EEDMFEOGLFN = 14;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1750
+// Name: BDPJACNADDJ
+message BDPJACNADDJ {
+    int32 EEDMFEOGLFN = 15;
+    uint32 MAEEFMMLAPD = 9;
+    uint64 FPIIPJJPBOH = 13;
+    uint32 CMLDJEEBBKI = 1;
+}
+

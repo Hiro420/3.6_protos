@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JBBIMMPGADK.proto";
+
+// CmdId: 5322
+// Name: MIGBJBJFKHN
+message MIGBJBJFKHN {
+    JBBIMMPGADK NOPNDHBENMH = 1;
+}
+

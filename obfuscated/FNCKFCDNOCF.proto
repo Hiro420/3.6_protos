@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JAFAPEIOPGD.proto";
+
+// Name: FNCKFCDNOCF
+message FNCKFCDNOCF {
+    repeated uint32 CBFNPIECJBO = 3;
+    uint32 JJGGAPDDOLN = 4;
+    repeated JAFAPEIOPGD LMLEFPKACEC = 5;
+}
+

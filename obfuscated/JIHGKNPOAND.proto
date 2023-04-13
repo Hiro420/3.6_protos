@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4281
+// Name: JIHGKNPOAND
+message JIHGKNPOAND {
+    bool MDJNBGFKEBO = 15;
+    uint32 DNHHONGGDCN = 10;
+    bool BKCPLOBJILI = 2;
+    bool KCMEGDBFCAH = 9;
+    uint32 MELLPOHJECK = 14;
+}
+

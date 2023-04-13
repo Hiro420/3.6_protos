@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PIDANILFCHF.proto";
+
+// CmdId: 4321
+// Name: OGILGEHKJIG
+message OGILGEHKJIG {
+    int32 EEDMFEOGLFN = 12;
+    PIDANILFCHF DEJCDJKMGIK = 7;
+}
+

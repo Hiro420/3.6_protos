@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CPFLEKBAPNG
+message CPFLEKBAPNG {
+    uint32 FPMNNICBLJG = 13;
+    repeated uint32 NPCGHLDMAMH = 14;
+    uint32 HCGIBBGCFHO = 6;
+}
+

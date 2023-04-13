@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 973
+// Name: HPAGGBIOCGI
+message HPAGGBIOCGI {
+    repeated uint64 CBLFCLJDKAO = 4;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EIADKMICKID.proto";
+
+// CmdId: 4201
+// Name: HEELPLADHOF
+message HEELPLADHOF {
+    repeated EIADKMICKID PPPFNNGFCIH = 12;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LDMGBIGBOLN.proto";
+
+// CmdId: 4672
+// Name: JBMNKOKPABK
+message JBMNKOKPABK {
+    LDMGBIGBOLN EALJJCMDFPM = 11;
+    int32 EEDMFEOGLFN = 2;
+}
+

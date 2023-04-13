@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2156
+// Name: JNFNNIBKPND
+message JNFNNIBKPND {
+    uint32 PKDJIGJDEJE = 6;
+    uint32 LFOCJEADKPK = 3;
+}
+

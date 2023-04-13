@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OOCDNJINJGJ.proto";
+
+// Name: ECLIMDFLBLN
+message ECLIMDFLBLN {
+    bool GBHJHJENFGK = 1;
+    OOCDNJINJGJ KEPJFKAEJDH = 15;
+}
+

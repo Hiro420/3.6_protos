@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KOAFDCGEPAH
+message KOAFDCGEPAH {
+    uint32 JOPGJGDHIFD = 11;
+}
+

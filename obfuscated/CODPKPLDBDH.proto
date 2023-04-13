@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: CODPKPLDBDH
+message CODPKPLDBDH {
+    uint32 PLCIBPIPKIN = 1;
+    uint32 PJKFJGCOGLN = 2;
+    KKFEDHALJFH EEBGMABAGAO = 3;
+    uint32 OEAKAMKPIDI = 4;
+    uint32 LGGFFCKFJFL = 5;
+}
+

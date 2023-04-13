@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8387
+// Name: FNFJECFFMIG
+message IrodoriEditFlowerCombinationRsp {
+    bool NCECAIKEDLC = 15;
+    int32 retcode = 6;
+    bool GJMFJJEFFHH = 4;
+}
+

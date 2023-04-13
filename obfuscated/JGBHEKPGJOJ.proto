@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JGBHEKPGJOJ
+message JGBHEKPGJOJ {
+    uint32 BJFIFAHAGNK = 1;
+    repeated uint32 HPEGFPOADAC = 2;
+    repeated uint32 LFDEFHKMINJ = 3;
+    uint32 NLOIOLPFGHC = 4;
+    uint32 JFIGMPJNMKN = 5;
+    uint32 KALKPMMFPBF = 6;
+}
+

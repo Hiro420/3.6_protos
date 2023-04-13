@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1817
+// Name: DCGHCNJEHBH
+message PlayerApplyEnterMpRsp {
+    uint32 param = 4;
+    uint32 target_uid = 2;
+    int32 retcode = 12;
+}
+

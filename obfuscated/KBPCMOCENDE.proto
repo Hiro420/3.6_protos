@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KBPCMOCENDE
+enum KBPCMOCENDE {
+    KBPCMOCENDE_LUNA_RITE_HINT_TYPE_NONE = 0;
+    KBPCMOCENDE_LUNA_RITE_HINT_TYPE_RUNE = 1;
+    KBPCMOCENDE_LUNA_RITE_HINT_TYPE_CHEST = 2;
+}
+

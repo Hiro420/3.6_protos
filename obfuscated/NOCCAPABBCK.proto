@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 23071
+// Name: NOCCAPABBCK
+message NOCCAPABBCK {
+    uint32 HDMDJECGCKC = 9;
+    uint32 JBONFLIGABG = 2;
+    uint32 EEHJGCIJFPD = 3;
+    int32 EEDMFEOGLFN = 13;
+}
+

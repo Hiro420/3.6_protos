@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: AMLFADMPJED
+message AMLFADMPJED {
+    bool ACNMECKIJCG = 12;
+    uint32 DMBFPFFMFCM = 4;
+    bool DJCCOAPGLEB = 8;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CJOAFEMFMBF.proto";
+
+// Name: GINOBGBGIGO
+message GINOBGBGIGO {
+    repeated CJOAFEMFMBF GIHANNADDKB = 4;
+    uint32 NNJDLDGHILN = 9;
+}
+

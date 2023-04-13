@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8586
+// Name: GEOJJNICOPJ
+message GEOJJNICOPJ {
+    uint32 ECLCBCEPGIH = 6;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 6461
+// Name: BACLCEEBIAD
+message BACLCEEBIAD {
+    uint32 JFAFMJAFPEF = 10;
+}
+

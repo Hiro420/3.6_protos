@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ILGBKKPPKCL.proto";
+
+// Name: MMACGCFHLKE
+message MMACGCFHLKE {
+    map<uint32, uint32> OCKNKBMCKFA = 14;
+    ILGBKKPPKCL ILCFKEDLNOP = 10;
+}
+

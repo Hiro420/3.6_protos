@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7599
+// Name: CPPJDDNMEJM
+message CPPJDDNMEJM {
+    uint32 BHPHOGJAADH = 7;
+    uint32 EHPIOILFBIN = 9;
+}
+

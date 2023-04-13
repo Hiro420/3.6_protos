@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NHPOLMCOGJM.proto";
+
+// Name: PNIJILANGCI
+message PNIJILANGCI {
+    uint32 GKHNAEEAAOA = 6;
+    uint32 CNHCLIBHJFK = 9;
+    repeated NHPOLMCOGJM COJBBBKOEHJ = 4;
+    uint32 HLKMOAAALJF = 11;
+    uint32 IBBCGCNPENN = 8;
+    uint32 FGMLNPJDMON = 12;
+    uint32 BLCGOPCAIKF = 14;
+    uint32 NICMPEHDPBF = 10;
+    uint32 EIIPECHJBJK = 2;
+    uint32 OBLPBCDOIAK = 3;
+    uint32 BDAICMLHECC = 5;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 20576
+// Name: NDONAALBHAG
+message CoinCollectPrepareRsp {
+    int32 retcode = 13;
+}
+

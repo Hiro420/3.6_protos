@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FOIMOJODMHA
+message FOIMOJODMHA {
+    uint32 OLEKBKJBLMG = 9;
+    uint32 DFABLHPDPIN = 5;
+    bool MFBLCKKNECK = 6;
+    uint32 HCGIBBGCFHO = 13;
+    bool ELLKKKIDLIE = 11;
+    uint32 KBCFLOPLBOI = 7;
+    uint32 AFOCCCPMOOL = 12;
+    uint32 BEAFFBAECMI = 4;
+    repeated uint32 NAOMCGFABLP = 1;
+}
+

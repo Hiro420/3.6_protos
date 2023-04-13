@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1000
+// Name: BIDBJCMBNDI
+message BIDBJCMBNDI {
+    uint32 BLILHBOJOCD = 7;
+    uint32 JMNAJHPFCMM = 9;
+    uint32 PHAMPFMIAFJ = 15;
+    uint32 IHJHBOGKMLA = 6;
+}
+

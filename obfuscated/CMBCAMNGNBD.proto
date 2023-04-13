@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5843
+// Name: CMBCAMNGNBD
+message CMBCAMNGNBD {
+    uint32 JBMPBFDPKGD = 2;
+}
+

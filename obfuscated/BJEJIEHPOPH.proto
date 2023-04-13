@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 660
+// Name: BJEJIEHPOPH
+message BJEJIEHPOPH {
+    repeated uint64 ENPPBADJCDL = 13;
+    uint32 AMEJLPJCENL = 15;
+    uint32 OMDKADPDENB = 6;
+}
+

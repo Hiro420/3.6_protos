@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FFFNAADIBGL.proto";
+
+// CmdId: 8427
+// Name: HBHFPDGFOML
+message HBHFPDGFOML {
+    uint32 FPMNPOEEMJD = 11;
+    bool GBHJHJENFGK = 8;
+    uint32 LANNIFHAGJI = 7;
+    map<uint32, FFFNAADIBGL> JIKGEALPNAH = 13;
+}
+

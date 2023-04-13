@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AJFIFPNNNIG.proto";
+import "BNDBEPBOMPG.proto";
+import "CJNADCAPBFH.proto";
+import "CNNGAFGPOEO.proto";
+import "DONEOCHCNJF.proto";
+import "HLHMEIOKCEA.proto";
+import "NDOLJFAEGKP.proto";
+import "ODMKEMKFBMB.proto";
+import "OEKICOMPAFL.proto";
+import "PKCCOGKFDHB.proto";
+
+// Name: MIKMHOPIOEH
+message MIKMHOPIOEH {
+    uint32 BEJLIKCLKPN = 1;
+    uint32 FALIEFLKLCF = 4;
+    uint32 MGOAOLCGNIJ = 10;
+    uint32 PKDJIGJDEJE = 3;
+    uint32 CGJKEGPICGH = 2;
+    uint32 FCIFCABFFHJ = 13;
+    uint32 ELIEBOMLPDN = 11;
+    oneof OFDMLDLAIEN {
+        OEKICOMPAFL LKCCHFBILAF = 126;
+        DONEOCHCNJF MJCDIHOJAOP = 604;
+        CJNADCAPBFH BOHGPLHPCFI = 1873;
+        HLHMEIOKCEA KOLFCPEFEKC = 167;
+        NDOLJFAEGKP CDBCNFDIINJ = 1680;
+        AJFIFPNNNIG CNCCGBMPGMK = 193;
+        CNNGAFGPOEO LIOHHEAPFJC = 1784;
+        BNDBEPBOMPG KBGNNJCJHLO = 1813;
+        ODMKEMKFBMB JDMGMPHDAOE = 1754;
+        PKCCOGKFDHB KIEMGCBBOGC = 1281;
+    }
+}
+

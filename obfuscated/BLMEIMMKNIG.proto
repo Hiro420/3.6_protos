@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 6196
+// Name: BLMEIMMKNIG
+message BLMEIMMKNIG {
+    // Name: OICDHCHDIAF
+    enum OICDHCHDIAF {
+        OICDHCHDIAF_STATUS_FAIL = 0;
+        OICDHCHDIAF_STATUS_SUCC = 1;
+        OICDHCHDIAF_STATUS_PARTIAL = 2;
+    }
+
+    OICDHCHDIAF OPBBKDKLEGC = 12;
+    repeated int32 HCGIBBGCFHO = 7;
+    int32 ECKFNDOIIGN = 15;
+    repeated KKFEDHALJFH EJDDDAIFPHF = 9;
+    repeated int64 AMBDCDLBMAN = 10;
+    int32 EEDMFEOGLFN = 5;
+}
+

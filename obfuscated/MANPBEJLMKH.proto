@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5617
+// Name: MANPBEJLMKH
+message MANPBEJLMKH {
+    uint32 HJLEBAHLAOL = 9;
+    uint32 JDFGMAJFPBF = 4;
+}
+

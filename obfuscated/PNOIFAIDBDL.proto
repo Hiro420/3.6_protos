@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3956
+// Name: PNOIFAIDBDL
+message PNOIFAIDBDL {
+    uint32 BMMDHCFGJMP = 11;
+}
+

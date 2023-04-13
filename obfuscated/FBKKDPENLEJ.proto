@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JMAGIHDGPPP.proto";
+
+// Name: FBKKDPENLEJ
+message FBKKDPENLEJ {
+    repeated JMAGIHDGPPP AOAKGOPBGIH = 7;
+}
+

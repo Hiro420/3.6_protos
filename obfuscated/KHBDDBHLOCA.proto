@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KHBDDBHLOCA
+message KHBDDBHLOCA {
+    uint32 LAOBIDKNELB = 3;
+    uint32 EMKCFAOFHNA = 2;
+    uint32 MDLNIEHGHHD = 1;
+    uint32 HHHBNDFPJJI = 15;
+}
+

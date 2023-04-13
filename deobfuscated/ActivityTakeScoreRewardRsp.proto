@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8835
+// Name: GFOHFILANIJ
+message ActivityTakeScoreRewardRsp {
+    uint32 activity_id = 1;
+    int32 retcode = 12;
+    uint32 reward_config_id = 7;
+}
+

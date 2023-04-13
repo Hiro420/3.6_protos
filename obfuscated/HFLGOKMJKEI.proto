@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7263
+// Name: HFLGOKMJKEI
+message HFLGOKMJKEI {
+    uint32 EHPIOILFBIN = 8;
+    uint32 LNPGJJPLKPP = 9;
+}
+

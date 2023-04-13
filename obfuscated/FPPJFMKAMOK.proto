@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 132
+// Name: FPPJFMKAMOK
+message FPPJFMKAMOK {
+    uint32 LAOCODHAPCN = 8;
+    uint32 ONEMPKPHDAL = 9;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 929
+// Name: KEJPKPKPGLD
+message DungeonCandidateTeamReplyInviteRsp {
+    int32 retcode = 14;
+    bool is_trans_point = 6;
+}
+

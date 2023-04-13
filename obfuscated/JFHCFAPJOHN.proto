@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GEKCCHCJMPC.proto";
+
+// Name: JFHCFAPJOHN
+message JFHCFAPJOHN {
+    GEKCCHCJMPC NOPNDHBENMH = 3;
+    bool JBJBKIMEOOD = 15;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FIBFPHIAJHG.proto";
+
+// CmdId: 4077
+// Name: MECIFMHPFCN
+message MECIFMHPFCN {
+    uint32 AOOCBPDDMKC = 13;
+    FIBFPHIAJHG GNDOPDADBHK = 6;
+}
+

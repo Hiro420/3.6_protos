@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1075
+// Name: ODLKDIPGMOC
+message CanUseSkillNotify {
+    bool is_can_use_skill = 11;
+}
+

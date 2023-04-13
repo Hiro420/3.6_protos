@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4149
+// Name: FGEMJEBIEBF
+message CardProductRewardNotify {
+    uint32 hcoin = 8; // MLKHDJPCJLG
+    uint32 remain_days = 1; // OKKCPKEGAJF
+    string product_id = 12;
+}
+

@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ChangeEnergyReason.proto";
+import "ChangeHpReason.proto";
+import "PropChangeReason.proto";
+
+// CmdId: 1241
+// Name: CFFMDGNCJDD
+message EntityFightPropChangeReasonNotify {
+    ChangeEnergyReason change_energy_reason = 10;
+    repeated uint32 param_list = 5;
+    float prop_delta = 4;
+    ChangeHpReason change_hp_reason = 7;
+    PropChangeReason reason = 11;
+    uint32 entity_id = 12;
+    uint32 prop_type = 1;
+}
+

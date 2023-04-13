@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8867
+// Name: ANCNBCHBNIL
+message ANCNBCHBNIL {
+    uint32 PNLBJABJLFC = 2;
+    int32 EEDMFEOGLFN = 14;
+}
+

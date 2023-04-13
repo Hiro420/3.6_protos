@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 169
+// Name: IOFEFMEPAFP
+message IOFEFMEPAFP {
+    uint32 NBGEIMFNGAM = 9;
+    int32 EEDMFEOGLFN = 6;
+    uint32 EIBBPACAANG = 2;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5065
+// Name: BKCFFEBAJBA
+message BKCFFEBAJBA {
+    uint32 GFBMNPDIDFI = 7;
+}
+

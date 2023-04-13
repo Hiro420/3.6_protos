@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FIBFPHIAJHG.proto";
+
+// CmdId: 4024
+// Name: FCLOOKLKLCE
+message FCLOOKLKLCE {
+    repeated FIBFPHIAJHG EMECGGAFLNG = 15;
+}
+

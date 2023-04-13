@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FireworksLaunchParamType.proto";
+
+// Name: IOEPCLGOKPD
+message FireworksLaunchParam {
+    int32 value = 3;
+    FireworksLaunchParamType type = 5;
+}
+

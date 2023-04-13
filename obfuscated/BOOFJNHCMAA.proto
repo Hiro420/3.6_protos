@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FNPHPMFDJKF.proto";
+import "GDMHGEKNPGN.proto";
+import "GMIMOGNEPNK.proto";
+import "LIAGAGLLAGM.proto";
+
+// Name: BOOFJNHCMAA
+message BOOFJNHCMAA {
+    uint32 IHJHBOGKMLA = 6;
+    FNPHPMFDJKF MMDFFFDMJJK = 10;
+    uint32 CIFOEADMBCB = 5;
+    repeated uint32 GNDFCBMMDOM = 1;
+    uint32 MFOBEEJLPNO = 15;
+    GDMHGEKNPGN MFABFMFFAFJ = 4;
+    bool NJDFEOJNODN = 14;
+    uint64 DKFHDCGJEJK = 3;
+    GMIMOGNEPNK BNKEADPKOIN = 12;
+    LIAGAGLLAGM AAPEIKAJEOM = 11;
+}
+

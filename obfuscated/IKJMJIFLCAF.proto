@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7450
+// Name: IKJMJIFLCAF
+message IKJMJIFLCAF {
+    uint32 GJLFMAOLNCC = 1;
+    uint32 LNNOPIDBJDH = 11;
+}
+

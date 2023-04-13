@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MEEKLHEGAKK
+message MEEKLHEGAKK {
+    uint32 GKDDBKPKIKH = 5;
+    bool EFKIEIDNLOF = 12;
+    float PPGNKKBFCBI = 8;
+}
+

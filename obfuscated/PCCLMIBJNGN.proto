@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3234
+// Name: PCCLMIBJNGN
+message PCCLMIBJNGN {
+    repeated uint32 OCCCGINNPPE = 3;
+    uint32 FGEIEPJKHDL = 7;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FHMCMLOIGJB.proto";
+
+// CmdId: 1683
+// Name: BFEGBKILMIB
+message BFEGBKILMIB {
+    map<uint64, FHMCMLOIGJB> MJDCPJBLBNB = 11;
+    uint32 ELGJMFCDHFK = 12;
+    repeated uint32 KOEOGHNEFJN = 9;
+    int32 EEDMFEOGLFN = 5;
+}
+

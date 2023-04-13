@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ONINAMINFAL
+message ONINAMINFAL {
+    uint32 OBHPNGPDLOM = 1;
+    uint32 AJBLMLDNING = 2;
+}
+

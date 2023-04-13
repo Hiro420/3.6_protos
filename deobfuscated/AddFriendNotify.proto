@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FriendBrief.proto";
+
+// CmdId: 4077
+// Name: MECIFMHPFCN
+message AddFriendNotify {
+    uint32 target_uid = 13;
+    FriendBrief target_friend_brief = 6;
+}
+

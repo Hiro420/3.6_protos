@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HCBHHEKABOD.proto";
+
+// CmdId: 8997
+// Name: LFKKACBLNFF
+message LFKKACBLNFF {
+    uint32 LCDBHJCBKJG = 13;
+    repeated HCBHHEKABOD LKEGHGLBPKN = 4;
+    uint32 JJGGAPDDOLN = 15;
+    uint32 LADPDBLGKLP = 10;
+    uint32 PNLBJABJLFC = 12;
+    uint32 GAILDAHOMAG = 6;
+}
+

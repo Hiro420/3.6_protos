@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2859
+// Name: PLDKKACDBPJ
+message CancelCityReputationRequestRsp {
+    uint32 request_id = 6;
+    int32 retcode = 8;
+    uint32 city_id = 14;
+}
+

@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8943
+// Name: BBDEIOEDMOF
+message BBDEIOEDMOF {
+    // Name: OKKBHJNLCFB
+    message OKKBHJNLCFB {
+        oneof OFDMLDLAIEN {
+            uint32 CMJAMALBKIH = 6;
+            uint64 EIAMMAKLBNB = 11;
+        }
+    }
+
+    repeated uint32 DKPIELFICDI = 10;
+    repeated OKKBHJNLCFB JJKENELGOFO = 3;
+    uint32 PLLAPJNHNII = 12;
+    uint32 AEKCLGDGLKF = 1;
+}
+

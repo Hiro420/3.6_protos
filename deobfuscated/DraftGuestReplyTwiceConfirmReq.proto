@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5459
+// Name: PPIENGDHNGO
+message DraftGuestReplyTwiceConfirmReq {
+    uint32 draft_id = 14;
+    bool is_agree = 5;
+}
+

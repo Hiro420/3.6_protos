@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BIHOOGKDIGP.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: OHEONJCMMOF
+message OHEONJCMMOF {
+    uint32 EFCJDFABMGK = 1;
+    uint32 KHGBOJGNBIM = 8;
+    uint32 FGEIEPJKHDL = 9;
+    repeated BIHOOGKDIGP MFMLMGCINJB = 11;
+    KKFEDHALJFH KLGIEIGDCJA = 13;
+}
+

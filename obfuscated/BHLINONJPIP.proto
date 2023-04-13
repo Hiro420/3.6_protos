@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4715
+// Name: BHLINONJPIP
+message BHLINONJPIP {
+    uint32 FGEIEPJKHDL = 12;
+}
+

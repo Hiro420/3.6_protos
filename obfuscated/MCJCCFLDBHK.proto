@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8165
+// Name: MCJCCFLDBHK
+message MCJCCFLDBHK {
+    uint64 OAIIFOIFFNN = 2;
+    uint32 FCJPKOCJACN = 4;
+    uint32 IHJHBOGKMLA = 15;
+    repeated uint64 BFKDPINEHJD = 3;
+}
+

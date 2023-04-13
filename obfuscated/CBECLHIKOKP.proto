@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JGBHEKPGJOJ.proto";
+
+// CmdId: 872
+// Name: CBECLHIKOKP
+message CBECLHIKOKP {
+    JGBHEKPGJOJ IFGIGMGJDGE = 1;
+    uint32 DMBFPFFMFCM = 12;
+}
+

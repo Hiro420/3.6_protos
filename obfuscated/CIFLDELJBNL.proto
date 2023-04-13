@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GEKCCHCJMPC.proto";
+import "LFEBJABCAOL.proto";
+
+// CmdId: 3437
+// Name: CIFLDELJBNL
+message CIFLDELJBNL {
+    repeated LFEBJABCAOL HJBHGKAPNPC = 3;
+    repeated GEKCCHCJMPC GAIGJBMAEGL = 10;
+    repeated uint32 POMAOHHBBCI = 6;
+}
+

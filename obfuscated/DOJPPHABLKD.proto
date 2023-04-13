@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 6176
+// Name: DOJPPHABLKD
+message DOJPPHABLKD {
+    uint32 FGEIEPJKHDL = 5;
+    uint32 KEOAIKGJLNH = 1;
+}
+

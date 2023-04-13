@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NNEEBMPDMML.proto";
+
+// CmdId: 5365
+// Name: FBEOAMCGJKF
+message FBEOAMCGJKF {
+    uint32 PKDJIGJDEJE = 7;
+    uint32 FKFCLJJLLAP = 15;
+    map<uint32, uint32> JHHLACEEHHA = 2;
+    uint64 JLIPIBMFIPL = 5;
+    uint32 MGOAOLCGNIJ = 4;
+    repeated NNEEBMPDMML NMKIFLLBAOO = 6;
+}
+

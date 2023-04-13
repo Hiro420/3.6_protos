@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 6244
+// Name: NJMOGCHIHLC
+message NJMOGCHIHLC {
+    string KCMEEEMCCCA = 11;
+}
+

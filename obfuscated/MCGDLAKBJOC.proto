@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AJBAHOJJKLJ.proto";
+
+// CmdId: 107
+// Name: MCGDLAKBJOC
+message MCGDLAKBJOC {
+    repeated AJBAHOJJKLJ EPJAGCOCCJL = 1;
+}
+

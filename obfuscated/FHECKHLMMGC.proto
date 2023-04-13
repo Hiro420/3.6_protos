@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NHACGMJJHEJ.proto";
+
+// CmdId: 5393
+// Name: FHECKHLMMGC
+message FHECKHLMMGC {
+    uint32 OMKJCGFKAAD = 3;
+    NHACGMJJHEJ OHGFKJFGECF = 2;
+}
+

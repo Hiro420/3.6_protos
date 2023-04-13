@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KECEDJBKILI
+message KECEDJBKILI {
+    bool LODOAPOPHCN = 12;
+    uint32 BNHAOPMJHHB = 6;
+    uint32 HALKNPKOOOO = 5;
+    uint32 MIEDMELHOLI = 11;
+    uint32 MAEEFMMLAPD = 2;
+}
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OKPKNAAHJPO
+message OKPKNAAHJPO {
+    repeated double KCDCBFCAGGF = 1;
+}
+

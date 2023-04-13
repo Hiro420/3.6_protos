@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FONAIIICBPA.proto";
+
+// Name: DLECLBJNCBK
+message DLECLBJNCBK {
+    uint32 MEHOKJOPMBN = 8;
+    uint32 KKLLPPPLKMM = 7;
+    repeated FONAIIICBPA FADFKPADNGH = 14;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EJIAFKLBMHP
+message WorldRoutineInfo {
+    uint32 routine_id = 9;
+    uint32 progress = 13;
+    bool is_finished = 15;
+    uint32 finish_progress = 11;
+}
+

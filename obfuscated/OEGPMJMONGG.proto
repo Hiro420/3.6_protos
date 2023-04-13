@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OEGPMJMONGG
+message OEGPMJMONGG {
+    bool DDLJNDKFPHP = 7;
+    uint32 JJGGAPDDOLN = 9;
+    bool LIGDBOAIDJN = 10;
+}
+

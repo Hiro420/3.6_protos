@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 483
+// Name: MFFLCFKINNA
+message MFFLCFKINNA {
+    uint32 MEJDAEOJCFP = 5;
+    int32 EEDMFEOGLFN = 3;
+    uint32 BLILHBOJOCD = 15;
+}
+

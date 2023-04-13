@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IHKFBPJAMOH.proto";
+
+// CmdId: 812
+// Name: AELKPGENHOH
+message AELKPGENHOH {
+    uint32 DMBFPFFMFCM = 12;
+    IHKFBPJAMOH MLBOOBHGIJD = 10;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8342
+// Name: PHPDCNJODNE
+message PHPDCNJODNE {
+    uint32 PGHHOPCMEFC = 13;
+}
+

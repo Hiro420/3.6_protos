@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 439
+// Name: MHHNJNJOFIL
+message MHHNJNJOFIL {
+    uint32 CFFCCIICJLH = 14;
+    uint32 MMBHDIGGJIM = 3;
+}
+

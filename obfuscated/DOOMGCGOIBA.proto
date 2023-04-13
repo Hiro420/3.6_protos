@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GMECAGNDCNE.proto";
+
+// CmdId: 4510
+// Name: DOOMGCGOIBA
+message DOOMGCGOIBA {
+    repeated uint32 JBLGKOFGNPG = 10;
+    map<uint32, uint32> HLGBHMPDMJE = 1;
+    repeated GMECAGNDCNE HJMILLAIMPJ = 14;
+}
+

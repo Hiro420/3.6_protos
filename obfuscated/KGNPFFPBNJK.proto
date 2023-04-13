@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2863
+// Name: KGNPFFPBNJK
+message KGNPFFPBNJK {
+    uint32 KACNNLGDCCO = 7;
+    uint32 HEKHEPFHLDL = 9;
+}
+

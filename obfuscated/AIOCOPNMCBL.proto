@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8796
+// Name: AIOCOPNMCBL
+message AIOCOPNMCBL {
+    uint32 MNFKCBGKGID = 13;
+    uint32 MEJDAEOJCFP = 7;
+    int32 EEDMFEOGLFN = 5;
+    uint32 GEGJDMMMING = 12;
+    bool GBEAJJIBJFA = 10;
+    repeated uint32 NPCGHLDMAMH = 9;
+}
+

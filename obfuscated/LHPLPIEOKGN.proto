@@ -1,0 +1,37 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 215
+// Name: LHPLPIEOKGN
+message LHPLPIEOKGN {
+    // Name: KPPLOGGHIMJ
+    enum KPPLOGGHIMJ {
+        KPPLOGGHIMJ_KEEP_ROTX = 0;
+        KPPLOGGHIMJ_KEEP_ROT_XY = 1;
+    }
+
+    bool DHEJCFIIJJN = 7;
+    bool LJGMCKKIBKD = 1;
+    uint32 DMBFPFFMFCM = 431;
+    uint32 FCCKPEGCEJN = 1335;
+    KPPLOGGHIMJ JJCFPHFJIKC = 3;
+    bool ICFCABODPHC = 10;
+    bool HABGHENOCHA = 13;
+    bool OHBPOGDOBEN = 15;
+    uint32 LCGFBOLPMDJ = 339;
+    repeated string BAHJBBFIBAK = 5;
+    bool MCFCBOJLEEA = 14;
+    bool MHOPMFLJEJB = 1736;
+    float IPCLENFLCLJ = 484;
+    KKFEDHALJFH BJAIBAFFGAP = 6;
+    KKFEDHALJFH BIGFKDFJPDD = 9;
+    float OHCHDGHEJDH = 2;
+    bool FGEILCFGECH = 12;
+    float PIOFKMOEEBP = 11;
+    float JDDGAILHJHH = 8;
+    float FCIFCABFFHJ = 4;
+}
+

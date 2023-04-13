@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LLBFJGELKIB.proto";
+
+// Name: LCMFDAHJIBK
+message LCMFDAHJIBK {
+    uint32 level_id = 2;
+    LLBFJGELKIB CKNPDDAHIPK = 10;
+}
+

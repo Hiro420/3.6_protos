@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GBGGKHAHDPO.proto";
+
+// CmdId: 2337
+// Name: KACHMOBDIJE
+message KACHMOBDIJE {
+    repeated GBGGKHAHDPO CKJJMEIGICG = 12;
+}
+

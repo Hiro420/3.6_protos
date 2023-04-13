@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HLAAMJAKIEJ.proto";
+import "KHKOLNIDAEP.proto";
+
+// CmdId: 256
+// Name: GIGOIBLMDHA
+message GIGOIBLMDHA {
+    KHKOLNIDAEP JLNIFAPGJPK = 13;
+    repeated HLAAMJAKIEJ LNFNIMPJAKF = 6;
+    uint32 KAHKHODLMPL = 15;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CMPOJMGFCFM
+message EffigyChallengeV2LevelData {
+    uint32 ONCDLGPLMIB = 9;
+    uint32 level_id = 3;
+    uint32 ENDDPMODPCG = 14;
+    uint32 PHEIGICNDCJ = 8;
+    uint32 NNJLOECKLOM = 2;
+    bool is_level_open = 4;
+}
+

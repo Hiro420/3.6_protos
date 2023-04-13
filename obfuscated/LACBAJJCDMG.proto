@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EDIEHBNAAJI.proto";
+import "JNNFMHFJCEG.proto";
+
+// Name: LACBAJJCDMG
+message LACBAJJCDMG {
+    repeated JNNFMHFJCEG IIKMPILGCGO = 15;
+    map<uint32, EDIEHBNAAJI> GEILHMOJPAD = 14;
+}
+

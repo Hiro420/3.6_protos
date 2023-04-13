@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GMGHKEODFAD
+message GMGHKEODFAD {
+    uint32 CAJFKFFAECI = 13;
+    uint32 IIMIOKBLHJM = 10;
+    repeated uint32 ONDDFHHMHDM = 4;
+}
+

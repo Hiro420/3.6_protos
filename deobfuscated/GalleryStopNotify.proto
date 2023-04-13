@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5576
+// Name: KAIOAAMLAIM
+message GalleryStopNotify {
+    uint32 gallery_id = 15;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3496
+// Name: NGMLGBCAPIA
+message NGMLGBCAPIA {
+    uint32 DCCPGLHNELF = 2;
+}
+

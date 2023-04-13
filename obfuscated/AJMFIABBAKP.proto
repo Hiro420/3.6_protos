@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NAKACCCBMGO.proto";
+
+// Name: AJMFIABBAKP
+message AJMFIABBAKP {
+    repeated NAKACCCBMGO KACHDNBEAJO = 1;
+    bool MFBLCKKNECK = 11;
+    uint32 KPLLMMOCFBG = 13;
+}
+

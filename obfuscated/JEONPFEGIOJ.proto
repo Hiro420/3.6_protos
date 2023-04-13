@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JEONPFEGIOJ
+message JEONPFEGIOJ {
+    bool FKOBJPCKIFJ = 7;
+    uint32 CBGNJHFJMLP = 9;
+}
+

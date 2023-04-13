@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CFFPCGOPLMN
+message CFFPCGOPLMN {
+    repeated uint32 FDKGJDANPBH = 3;
+    uint32 MFCJNNNFCGF = 2;
+}
+

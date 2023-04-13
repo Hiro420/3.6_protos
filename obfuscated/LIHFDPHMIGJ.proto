@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LIHFDPHMIGJ
+message LIHFDPHMIGJ {
+    uint32 APOLJGALHBH = 1;
+    uint32 LECLOKJIDLP = 2;
+    uint32 PDGPLBGCKCC = 3;
+    uint32 OPFADNLICOA = 4;
+    bool PIGLFJFIHIH = 5;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HGKFODIDPHN
+message HGKFODIDPHN {
+    uint32 EPLAOCBKEBP = 10;
+    uint32 MFCJNNNFCGF = 1;
+}
+

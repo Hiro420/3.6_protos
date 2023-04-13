@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 6008
+// Name: DAEAOLEIKOA
+message DAEAOLEIKOA {
+    repeated uint32 PLNPOIMBDMC = 5;
+}
+

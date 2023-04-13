@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GEIBGHJFKCH.proto";
+
+// Name: JOAGDFOJABP
+message JOAGDFOJABP {
+    GEIBGHJFKCH EAGPEMMOBCA = 1;
+}
+

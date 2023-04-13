@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PIDANILFCHF.proto";
+
+// CmdId: 4316
+// Name: KFHFEKNDOAL
+message KFHFEKNDOAL {
+    int32 EEDMFEOGLFN = 10;
+    uint32 HEKHEPFHLDL = 1;
+    PIDANILFCHF DEJCDJKMGIK = 12;
+}
+

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+import "LJLCOKBCBOG.proto";
+
+// Name: HKLPDBAPNMI
+message HKLPDBAPNMI {
+    string EBLOGJGAOIP = 11;
+    CAOGLKMLEOG IAEKOGMCHED = 2;
+    repeated LJLCOKBCBOG NMKIFLLBAOO = 15;
+    uint32 JDNIEGFHOBN = 4;
+    string FLJJCLIMMJA = 8;
+    uint32 JBMPBFDPKGD = 6;
+}
+

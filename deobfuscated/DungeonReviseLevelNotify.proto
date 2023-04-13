@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 927
+// Name: MCMBEAGPLJA
+message DungeonReviseLevelNotify {
+    uint32 HFGFELKHDDK = 4;
+    uint32 JHNHKIBHLBA = 12;
+    uint32 dungeon_id = 11;
+}
+

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGDamageDetail.proto";
+
+// Name: IKBBEANCFMM
+message GCGMsgNoDamageSkillResult {
+    repeated GCGDamageDetail detail_list = 11;
+    uint32 GKHNAEEAAOA = 12;
+    uint32 CNHCLIBHJFK = 7;
+    uint32 skill_id = 2;
+    uint32 BDAICMLHECC = 14;
+    uint32 HLKMOAAALJF = 4;
+    uint32 OBLPBCDOIAK = 13;
+}
+

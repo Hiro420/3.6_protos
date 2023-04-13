@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DKJFENEJIFH
+message ModifierDurability {
+    float HGJMHAFDFOC = 1;
+    float AFFIDFJHCFM = 2;
+}
+

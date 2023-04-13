@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 6220
+// Name: ECKNBLFINEN
+message ECKNBLFINEN {
+    int32 EEDMFEOGLFN = 1;
+    uint32 PECOGIHGJDC = 11;
+}
+

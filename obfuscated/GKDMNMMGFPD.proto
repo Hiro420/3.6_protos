@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1819
+// Name: GKDMNMMGFPD
+message GKDMNMMGFPD {
+    bool AHLBALEPDGC = 11;
+    uint32 JBMPBFDPKGD = 3;
+    uint32 ICDAIDNAOBK = 8;
+}
+

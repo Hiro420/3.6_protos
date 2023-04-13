@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 21795
+// Name: NKHKFPKDMOK
+message NKHKFPKDMOK {
+    uint32 NEIOJBOAFFG = 7;
+    repeated INPDDALBMBO AJCFMKNEDCI = 15;
+}
+

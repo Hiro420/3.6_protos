@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2101
+// Name: MGFOFHBEEIE
+message MGFOFHBEEIE {
+    uint32 LFOCJEADKPK = 14;
+    int32 EEDMFEOGLFN = 7;
+    uint32 PKDJIGJDEJE = 10;
+}
+

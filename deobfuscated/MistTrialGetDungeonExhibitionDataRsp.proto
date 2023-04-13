@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8086
+// Name: AOKKFEIGDIC
+message MistTrialGetDungeonExhibitionDataRsp {
+    uint32 trial_id = 2;
+    int32 retcode = 12;
+}
+

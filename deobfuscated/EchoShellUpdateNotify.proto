@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8192
+// Name: ANNCMJAEJKA
+message EchoShellUpdateNotify {
+    uint32 shell_id = 11;
+}
+

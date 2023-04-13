@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1541
+// Name: EHEPDPEIEHP
+message GachaOpenWishNotify {
+    uint32 KJPOJHMDBNE = 14;
+    uint32 AOLMBNPLFEO = 2;
+}
+

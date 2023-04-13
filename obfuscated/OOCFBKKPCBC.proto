@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BLBBHMODFBA.proto";
+import "HNNNBEMBNIA.proto";
+
+// CmdId: 76
+// Name: OOCFBKKPCBC
+message OOCFBKKPCBC {
+    repeated BLBBHMODFBA KGLHGFJDOLO = 8;
+    HNNNBEMBNIA IINLGANHKKP = 2;
+}
+

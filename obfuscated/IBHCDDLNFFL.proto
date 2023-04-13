@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: IBHCDDLNFFL
+message IBHCDDLNFFL {
+    uint32 NICMPEHDPBF = 9;
+    bool PAOPNMDAOBE = 6;
+    bool KKOCGOBEJOI = 5;
+    bool OEPHKNKELCI = 3;
+    bool DMJJMKFEDGE = 14;
+}
+

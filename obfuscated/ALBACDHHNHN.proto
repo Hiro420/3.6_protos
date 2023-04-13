@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BCLNCCOHMKK.proto";
+import "GEKCCHCJMPC.proto";
+
+// CmdId: 4186
+// Name: ALBACDHHNHN
+message ALBACDHHNHN {
+    GEKCCHCJMPC MIBIPIGCEOI = 9;
+    uint32 MBBCHCEKKNJ = 1;
+    BCLNCCOHMKK KNBLDJKPEPG = 15;
+}
+

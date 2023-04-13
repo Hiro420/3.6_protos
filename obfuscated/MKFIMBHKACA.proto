@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MKFIMBHKACA
+enum MKFIMBHKACA {
+    MKFIMBHKACA_FISN_ESCAPE_NONE = 0;
+    MKFIMBHKACA_FISH_ESCAPE_SHOCKED = 1;
+    MKFIMBHKACA_FISH_ESCAPE_UNHOOK = 2;
+}
+

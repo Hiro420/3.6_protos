@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2439
+// Name: LFAECKJPJFB
+message LFAECKJPJFB {
+    int32 EEDMFEOGLFN = 11;
+    uint32 MLPILHLBBBG = 15;
+}
+

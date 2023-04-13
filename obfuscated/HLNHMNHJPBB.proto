@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JENPONLBPJB.proto";
+
+// CmdId: 358
+// Name: HLNHMNHJPBB
+message HLNHMNHJPBB {
+    repeated JENPONLBPJB HAMFPBCLFCE = 3;
+}
+

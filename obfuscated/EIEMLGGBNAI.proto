@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FOGGKINBMOI.proto";
+
+// CmdId: 2097
+// Name: EIEMLGGBNAI
+message EIEMLGGBNAI {
+    repeated FOGGKINBMOI NBCGAAKGBNM = 2;
+}
+

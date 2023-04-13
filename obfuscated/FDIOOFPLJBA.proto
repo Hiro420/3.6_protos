@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+import "PIDANILFCHF.proto";
+
+// CmdId: 4336
+// Name: FDIOOFPLJBA
+message FDIOOFPLJBA {
+    bool IIMCJLMMBEA = 6;
+    uint32 FINLEBHLDIC = 15;
+    bool EECPOAEOPKM = 11;
+    KKFEDHALJFH HGFPKFDMHCH = 5;
+    PIDANILFCHF DEJCDJKMGIK = 2;
+    uint32 EIOCPNEFPMC = 10;
+}
+

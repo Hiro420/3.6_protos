@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "POFNPDMFDFB.proto";
+
+// CmdId: 4041
+// Name: KJKEOIMDAKE
+message KJKEOIMDAKE {
+    uint32 AOOCBPDDMKC = 8;
+    POFNPDMFDFB BPKMPNKDPBB = 5;
+}
+

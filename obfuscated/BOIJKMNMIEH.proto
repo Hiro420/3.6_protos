@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MOLENBNLNDP.proto";
+
+// CmdId: 3261
+// Name: BOIJKMNMIEH
+message BOIJKMNMIEH {
+    MOLENBNLNDP GGFKAGAAPLB = 13;
+    int32 EEDMFEOGLFN = 14;
+}
+

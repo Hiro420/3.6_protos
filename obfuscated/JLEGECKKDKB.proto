@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CPMJBNHKIEA.proto";
+import "OOCPHEKKCJH.proto";
+
+// Name: JLEGECKKDKB
+message JLEGECKKDKB {
+    CPMJBNHKIEA OBHPNGPDLOM = 1;
+    OOCPHEKKCJH LOEGJGGMHBL = 2;
+    oneof HPADLNLDALC {
+        float FIHNFJAEPAI = 3;
+        string ONHAFFHMDIC = 4;
+        int32 FCGMNOBICIG = 5;
+        uint32 IPPKNANHOKN = 6;
+    }
+}
+

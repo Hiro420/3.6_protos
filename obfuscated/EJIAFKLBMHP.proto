@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: EJIAFKLBMHP
+message EJIAFKLBMHP {
+    uint32 CHIPLNOGOLN = 9;
+    uint32 MIEDMELHOLI = 13;
+    bool LODOAPOPHCN = 15;
+    uint32 HALKNPKOOOO = 11;
+}
+

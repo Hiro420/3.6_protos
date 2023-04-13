@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3281
+// Name: FIJBHLMGIAN
+message FIJBHLMGIAN {
+    repeated uint32 CAFCAFJOMEI = 6;
+}
+

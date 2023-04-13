@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PCEIONKOFAD
+message PCEIONKOFAD {
+    uint32 EJKKKDLKDMO = 1;
+    uint32 JFAFMJAFPEF = 2;
+}
+

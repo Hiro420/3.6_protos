@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GDJDCCIJJGF.proto";
+
+// CmdId: 8327
+// Name: NMKALJIDENA
+message NMKALJIDENA {
+    GDJDCCIJJGF EJFFKNOKLIC = 13;
+    int32 EEDMFEOGLFN = 5;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: BLOJIAMOIOM
+message BLOJIAMOIOM {
+    KKFEDHALJFH JJJMAFCNEDH = 3;
+}
+

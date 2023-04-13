@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7037
+// Name: CLIBJPLOGDC
+message CLIBJPLOGDC {
+    int32 EEDMFEOGLFN = 14;
+    uint32 BIEJNHMGMON = 13;
+}
+

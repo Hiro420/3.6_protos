@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8982
+// Name: GLBPOJCMBPK
+message GLBPOJCMBPK {
+    int32 EEDMFEOGLFN = 12;
+    uint32 LFCAGIIIEFJ = 4;
+}
+

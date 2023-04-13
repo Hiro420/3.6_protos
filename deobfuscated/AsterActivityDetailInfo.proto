@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AsterLargeDetailInfo.proto";
+import "AsterLittleDetailInfo.proto";
+import "AsterMidDetailInfo.proto";
+import "AsterProgressDetailInfo.proto";
+
+// Name: BPEIHPFCNLN
+message AsterActivityDetailInfo {
+    uint32 content_close_time = 13;
+    AsterProgressDetailInfo aster_progress = 1;
+    AsterLittleDetailInfo aster_little = 12;
+    AsterMidDetailInfo aster_mid = 4;
+    bool is_special_reward_taken = 8;
+    AsterLargeDetailInfo aster_large = 3;
+    bool is_content_closed = 14;
+    uint32 aster_token = 11; // MFJDILDLMGP
+    uint32 aster_credit = 5; // HNJDOJKGDOP
+}
+

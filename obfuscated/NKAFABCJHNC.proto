@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5667
+// Name: NKAFABCJHNC
+message NKAFABCJHNC {
+    map<uint32, uint32> BGBGOMNLGOG = 15;
+    uint32 OOGMKAHMIJH = 14;
+}
+

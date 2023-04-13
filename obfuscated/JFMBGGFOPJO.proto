@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JFMBGGFOPJO
+message JFMBGGFOPJO {
+    string JPIEPAAAKPA = 1;
+    string FFFEIEGGGNJ = 2;
+    uint32 DNLAEDBMDHO = 3;
+    uint32 OJNCGHFDEPB = 4;
+    uint32 IBIPLFGFMGJ = 5;
+    uint32 IHMJCBCAPMJ = 6;
+    bool EENIILNBDPF = 7;
+}
+

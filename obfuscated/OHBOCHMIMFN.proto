@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 841
+// Name: OHBOCHMIMFN
+message OHBOCHMIMFN {
+    repeated uint32 HPEGFPOADAC = 8;
+    uint32 DMBFPFFMFCM = 12;
+}
+

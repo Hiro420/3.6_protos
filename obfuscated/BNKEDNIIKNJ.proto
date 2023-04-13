@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1776
+// Name: BNKEDNIIKNJ
+message BNKEDNIIKNJ {
+    int32 EEDMFEOGLFN = 7;
+    uint64 OAIIFOIFFNN = 2;
+    repeated uint64 CBLFCLJDKAO = 1;
+}
+

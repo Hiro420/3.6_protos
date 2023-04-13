@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HNLOLPHFANA
+message HNLOLPHFANA {
+    uint32 FGGJNOCGHPA = 14;
+    uint32 KHGBOJGNBIM = 6;
+}
+

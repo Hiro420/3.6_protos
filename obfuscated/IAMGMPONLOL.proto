@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HKDJDGLGFOL.proto";
+
+// CmdId: 8440
+// Name: IAMGMPONLOL
+message IAMGMPONLOL {
+    repeated HKDJDGLGFOL LOHOGLIGAHJ = 3;
+    int32 EEDMFEOGLFN = 14;
+}
+

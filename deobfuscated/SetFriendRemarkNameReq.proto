@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4088
+// Name: ECLPOFDBAGI
+message SetFriendRemarkNameReq {
+    uint32 uid = 1;
+    string remark_name = 4;
+}
+

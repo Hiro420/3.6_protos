@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NOKPFHEOIME.proto";
+
+// CmdId: 6392
+// Name: LMCBPKGNHCG
+message LMCBPKGNHCG {
+    repeated NOKPFHEOIME LAAEOAEBIOC = 10;
+}
+

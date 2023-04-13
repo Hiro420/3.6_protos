@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CCLIIIOLMDN.proto";
+import "ECAMCLJMACN.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: HNCPFKLDBIF
+message HNCPFKLDBIF {
+    uint32 EEMILGMLGOH = 1;
+    uint32 KHGBOJGNBIM = 2;
+    uint32 DFBPAHJCPGH = 3;
+    KKFEDHALJFH DBDEEBCMHMM = 4;
+    oneof APJFFKOAGPE {
+        ECAMCLJMACN EKMIGGJPPHK = 6;
+        CCLIIIOLMDN OOJECEBOADB = 7;
+    }
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HDNFJFOBDNE
+message HDNFJFOBDNE {
+    uint32 EPMMPEOMKDM = 12;
+    bool FKOBJPCKIFJ = 10;
+    uint32 JJGGAPDDOLN = 2;
+}
+

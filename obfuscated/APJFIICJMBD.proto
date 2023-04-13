@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: APJFIICJMBD
+message APJFIICJMBD {
+    uint32 BLCEPEMCKEM = 1;
+}
+

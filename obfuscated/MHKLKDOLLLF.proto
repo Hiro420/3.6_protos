@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CPMJBNHKIEA.proto";
+
+// Name: MHKLKDOLLLF
+message MHKLKDOLLLF {
+    CPMJBNHKIEA OBHPNGPDLOM = 12;
+    float AJBLMLDNING = 14;
+}
+

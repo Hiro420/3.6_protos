@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4094
+// Name: HNGNCNLBPEF
+message HNGNCNLBPEF {
+    uint32 AOOCBPDDMKC = 9;
+}
+

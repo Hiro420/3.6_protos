@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BCLNCCOHMKK
+enum BCLNCCOHMKK {
+    BCLNCCOHMKK_NONE = 0;
+    BCLNCCOHMKK_DUNGEON = 1;
+    BCLNCCOHMKK_MP_PLAY = 2;
+    BCLNCCOHMKK_MECHANICUS = 3;
+    BCLNCCOHMKK_GENERAL = 4;
+    BCLNCCOHMKK_GCG = 5;
+}
+

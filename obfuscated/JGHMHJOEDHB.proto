@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CIHBKIMLMLO.proto";
+
+// CmdId: 4065
+// Name: JGHMHJOEDHB
+message JGHMHJOEDHB {
+    int32 EEDMFEOGLFN = 10;
+    CIHBKIMLMLO CLBCECHIELM = 1;
+}
+

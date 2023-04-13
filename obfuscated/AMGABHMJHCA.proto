@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AANGCNPKJIH.proto";
+
+// CmdId: 4867
+// Name: AMGABHMJHCA
+message AMGABHMJHCA {
+    uint32 GHIMNPECNNE = 1;
+    AANGCNPKJIH KNJDOAEJEFK = 13;
+}
+

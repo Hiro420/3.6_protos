@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ILGBKKPPKCL.proto";
+
+// Name: CILAMJDNCIL
+message CILAMJDNCIL {
+    fixed64 MFDOOOMAMKN = 1;
+    ILGBKKPPKCL GBKLLENBIAA = 5;
+    fixed64 BEJLIKCLKPN = 10;
+    uint32 FNFPIGHNBLL = 7;
+}
+

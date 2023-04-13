@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: EIIDPILABCO
+message EIIDPILABCO {
+    uint32 FILHPFFFBOD = 6;
+    uint32 JJGGAPDDOLN = 10;
+    bool FKOBJPCKIFJ = 3;
+}
+

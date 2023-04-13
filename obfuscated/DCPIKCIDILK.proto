@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DCPIKCIDILK
+message DCPIKCIDILK {
+    uint32 BJFIFAHAGNK = 1;
+    repeated uint32 LFDEFHKMINJ = 2;
+    repeated uint32 HPEGFPOADAC = 3;
+}
+

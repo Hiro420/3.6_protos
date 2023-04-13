@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MPIMODDEDND
+enum MPIMODDEDND {
+    MPIMODDEDND_LOG_LEVEL_NONE = 0;
+    MPIMODDEDND_LOG_LEVEL_DEBUG = 1;
+    MPIMODDEDND_LOG_LEVEL_INFO = 2;
+    MPIMODDEDND_LOG_LEVEL_WARNING = 3;
+    MPIMODDEDND_LOG_LEVEL_ERROR = 4;
+}
+

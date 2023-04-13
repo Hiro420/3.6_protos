@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DKJFENEJIFH
+message DKJFENEJIFH {
+    float HGJMHAFDFOC = 1;
+    float AFFIDFJHCFM = 2;
+}
+

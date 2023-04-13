@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 870
+// Name: HBGMHEGICBP
+message LiveEndNotify {
+    uint32 live_id = 4;
+}
+

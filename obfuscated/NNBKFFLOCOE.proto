@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 639
+// Name: NNBKFFLOCOE
+message NNBKFFLOCOE {
+    repeated uint32 FPGACFGKCCK = 11;
+    uint64 CHBILHCABBC = 8;
+    uint32 KEAFCINFLKE = 5;
+    uint32 CIECOAHMPMG = 15;
+    repeated uint32 PHGKJLPHCBI = 3;
+    uint32 ANFDBDFABFL = 4;
+    int32 EEDMFEOGLFN = 12;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AvatarEquipAffixInfo.proto";
+
+// CmdId: 1645
+// Name: ICFBBMJLJLA
+message AvatarEquipAffixStartNotify {
+    AvatarEquipAffixInfo equip_affix_info = 6;
+    uint64 avatar_guid = 7;
+}
+

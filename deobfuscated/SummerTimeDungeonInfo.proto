@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JLPBPJCDOHC
+message SummerTimeDungeonInfo {
+    uint32 NGLCGINHGBJ = 5;
+    uint32 dungeon_id = 8;
+    uint32 IPLPGGHGEDH = 1;
+    uint32 AIHBMHNAANC = 2;
+    uint32 HFPIEECODCM = 6;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ItemParam.proto";
+
+// Name: DIJFLLLNCPM
+message VintageMarketTraderInfo {
+    repeated ItemParam available_item_list = 3;
+    uint32 trader_id = 2;
+}
+

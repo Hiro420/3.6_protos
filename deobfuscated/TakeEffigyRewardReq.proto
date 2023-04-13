@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2113
+// Name: KLBOJNGFBLL
+message TakeEffigyRewardReq {
+    uint32 reward_index = 13;
+}
+

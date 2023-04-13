@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JBIABBAALGA.proto";
+
+// CmdId: 6051
+// Name: OLGGNMNDPHD
+message OLGGNMNDPHD {
+    uint32 GKICINGMGBF = 15;
+    JBIABBAALGA AJHOOKOOCDF = 9;
+    uint32 DNHHONGGDCN = 1;
+}
+

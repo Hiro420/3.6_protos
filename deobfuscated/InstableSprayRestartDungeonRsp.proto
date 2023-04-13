@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 23497
+// Name: GHBOPPMLEEA
+message InstableSprayRestartDungeonRsp {
+    int32 retcode = 11;
+    uint32 level_id = 7;
+}
+

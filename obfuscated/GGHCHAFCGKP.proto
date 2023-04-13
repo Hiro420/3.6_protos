@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AKFKOGCMMAF.proto";
+import "OIEKIGIJIFH.proto";
+
+// Name: GGHCHAFCGKP
+message GGHCHAFCGKP {
+    uint32 DHNBMAABHBC = 11;
+    OIEKIGIJIFH PGJPIPGPECB = 2;
+    AKFKOGCMMAF GEINJBIHLID = 5;
+}
+

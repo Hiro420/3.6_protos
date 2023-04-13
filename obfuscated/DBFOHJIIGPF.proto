@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 576
+// Name: DBFOHJIIGPF
+message DBFOHJIIGPF {
+    repeated uint32 MMMHBACDLPO = 1;
+    uint32 FGEIEPJKHDL = 7;
+}
+

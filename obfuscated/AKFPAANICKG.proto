@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DKFDACEPNAL.proto";
+
+// Name: AKFPAANICKG
+message AKFPAANICKG {
+    repeated DKFDACEPNAL BABKMKKLGMN = 3;
+}
+

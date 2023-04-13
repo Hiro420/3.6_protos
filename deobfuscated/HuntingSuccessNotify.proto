@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HuntingPair.proto";
+
+// CmdId: 4323
+// Name: NEHHLOADCIO
+message HuntingSuccessNotify {
+    HuntingPair hunting_pair = 10;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8561
+// Name: JHKLNBALBMH
+message JHKLNBALBMH {
+    uint32 LFOCJEADKPK = 8;
+    uint32 JBMPBFDPKGD = 9;
+}
+

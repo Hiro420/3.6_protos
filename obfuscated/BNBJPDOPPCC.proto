@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CFEMNBDBBCK.proto";
+import "GINOBGBGIGO.proto";
+import "JFGLKLBDHBF.proto";
+import "OKDOOEMGDLK.proto";
+
+// CmdId: 6316
+// Name: BNBJPDOPPCC
+message BNBJPDOPPCC {
+    OKDOOEMGDLK KFFPLKOPJLE = 9;
+    CFEMNBDBBCK IFAJOJNPLDE = 11;
+    uint64 PJDFHKIKLNM = 4;
+    int32 EEDMFEOGLFN = 10;
+    oneof AEIIGEMKNMM {
+        GINOBGBGIGO IOBHAKJFGPC = 7;
+    }
+    oneof ODAEEKANCDK {
+        JFGLKLBDHBF HEJDBPEKBCO = 2005;
+    }
+}
+

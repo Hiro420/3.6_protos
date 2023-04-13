@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ECLIMDFLBLN.proto";
+
+// CmdId: 8120
+// Name: HHLJCILFCFJ
+message HHLJCILFCFJ {
+    uint32 ECLCBCEPGIH = 7;
+    ECLIMDFLBLN KEPJFKAEJDH = 1;
+}
+

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FJGCKMJIJLB.proto";
+
+// CmdId: 8360
+// Name: EFOFHAJFPDA
+message EFOFHAJFPDA {
+    uint32 HDMDJECGCKC = 14;
+    repeated FJGCKMJIJLB ALNAJMMGHNK = 4;
+    uint32 FJAPBMHAMNK = 10;
+    uint32 JJGGAPDDOLN = 11;
+    uint32 DIKDEBEPBIJ = 3;
+}
+

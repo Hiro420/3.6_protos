@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8260
+// Name: MINCIEAHAPO
+message MINCIEAHAPO {
+    uint32 HDPJCNBFLEB = 13;
+    uint32 HDMDJECGCKC = 14;
+}
+

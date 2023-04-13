@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4207
+// Name: PHBKIOKCEFL
+message SetCodexPushtipsReadRsp {
+    uint32 NACFJFLGNFH = 1;
+    uint32 AOLDDCCIAHH = 2;
+    int32 retcode = 3;
+}
+

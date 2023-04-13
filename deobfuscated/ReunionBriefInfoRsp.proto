@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ReunionBriefInfo.proto";
+
+// CmdId: 5066
+// Name: HPMHCBAJHGA
+message ReunionBriefInfoRsp {
+    ReunionBriefInfo reunion_brief_info = 2;
+    int32 retcode = 4;
+    bool is_activate = 7;
+}
+

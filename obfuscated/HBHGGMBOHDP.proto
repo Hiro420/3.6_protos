@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ALEOBFDPPBP.proto";
+
+// CmdId: 2615
+// Name: HBHGGMBOHDP
+message HBHGGMBOHDP {
+    repeated ALEOBFDPPBP HBNPHOCNMJI = 1;
+}
+

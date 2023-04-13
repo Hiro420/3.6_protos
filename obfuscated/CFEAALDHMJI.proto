@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1816
+// Name: CFEAALDHMJI
+message CFEAALDHMJI {
+    uint32 AOOCBPDDMKC = 12;
+}
+

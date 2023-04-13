@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LJLCOKBCBOG
+message LJLCOKBCBOG {
+    uint32 HJLEBAHLAOL = 1;
+    uint32 KAHKHODLMPL = 2;
+    uint32 PJKPLCFLIOD = 3;
+}
+

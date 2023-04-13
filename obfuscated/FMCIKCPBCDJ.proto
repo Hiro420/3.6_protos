@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FMCIKCPBCDJ
+message FMCIKCPBCDJ {
+    float MNMPCIDDNAD = 8;
+}
+

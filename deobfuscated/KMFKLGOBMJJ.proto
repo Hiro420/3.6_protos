@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: KMFKLGOBMJJ
+message KMFKLGOBMJJ {
+    Vector FGMHEEBAAIO = 8;
+    Vector DCMLDOPJOIO = 9;
+    uint32 entity_id = 4;
+}
+

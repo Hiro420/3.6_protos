@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CMPOJMGFCFM
+message CMPOJMGFCFM {
+    uint32 ONCDLGPLMIB = 9;
+    uint32 HDMDJECGCKC = 3;
+    uint32 ENDDPMODPCG = 14;
+    uint32 PHEIGICNDCJ = 8;
+    uint32 NNJLOECKLOM = 2;
+    bool OIILPCOJEFG = 4;
+}
+

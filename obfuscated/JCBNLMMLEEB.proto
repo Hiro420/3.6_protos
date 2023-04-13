@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: JCBNLMMLEEB
+message JCBNLMMLEEB {
+    KKFEDHALJFH KJALEBGPBJL = 1;
+    KKFEDHALJFH DBDEEBCMHMM = 3;
+    KKFEDHALJFH CPJPIOFFALP = 9;
+    int32 DGBIOOEOHEE = 13;
+    KKFEDHALJFH ECMEOLLAKEE = 2;
+    uint32 DMBFPFFMFCM = 11;
+    int32 CDICOMMPMEM = 7;
+    float GGPCDOCICBF = 6;
+}
+

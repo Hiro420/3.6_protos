@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1390
+// Name: EMLFCPLHMPE
+message EMLFCPLHMPE {
+    map<uint32, uint32> PFGFCAGGFHP = 3;
+    uint32 OMLEMIOPDAC = 15;
+}
+

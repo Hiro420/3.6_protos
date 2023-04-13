@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BAANIDIMAEB
+message BAANIDIMAEB {
+    uint32 GMJNLBGNFEJ = 1;
+    bool OOIAAFMMEJI = 2;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KBPCMOCENDE.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: NKMCNBPFMBJ
+message NKMCNBPFMBJ {
+    KBPCMOCENDE BPKDOPHJPAL = 5;
+    uint32 AMBDCDLBMAN = 1;
+    uint32 MOLCMPFBACG = 14;
+    KKFEDHALJFH DBDEEBCMHMM = 10;
+}
+

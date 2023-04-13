@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3972
+// Name: CHIANHIJGEP
+message CHIANHIJGEP {
+    uint32 CLBLAAFJBCB = 5;
+    uint32 BMMDHCFGJMP = 8;
+    int32 EEDMFEOGLFN = 6;
+}
+

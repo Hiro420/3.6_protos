@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5313
+// Name: NLIDOGHJPCM
+message NLIDOGHJPCM {
+    repeated uint32 NICMPEHDPBF = 12;
+}
+

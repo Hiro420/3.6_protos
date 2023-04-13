@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2055
+// Name: FLKCCEBGKDA
+message FLKCCEBGKDA {
+    uint32 KAJGEMAAIJH = 8;
+    uint32 JDKHCDIKFHD = 1;
+    uint32 PHAKMIAPJGA = 6;
+    uint32 MDNMOJAPBKB = 2;
+}
+

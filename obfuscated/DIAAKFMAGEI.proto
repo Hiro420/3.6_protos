@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NBGPGDKIFEN.proto";
+
+// CmdId: 7414
+// Name: DIAAKFMAGEI
+message DIAAKFMAGEI {
+    repeated NBGPGDKIFEN ADMNCPJKLAM = 7;
+}
+

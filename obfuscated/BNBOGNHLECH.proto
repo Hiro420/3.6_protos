@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 2126
+// Name: BNBOGNHLECH
+message BNBOGNHLECH {
+    uint32 GMJNLBGNFEJ = 6;
+    KKFEDHALJFH DBDEEBCMHMM = 10;
+    int32 KAHKHODLMPL = 15;
+    uint32 ECMMHDFBILH = 9;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8534
+// Name: HCLBPCCIBAL
+message HCLBPCCIBAL {
+    uint32 PKDJIGJDEJE = 2;
+    int32 EEDMFEOGLFN = 11;
+    uint32 LFOCJEADKPK = 1;
+}
+

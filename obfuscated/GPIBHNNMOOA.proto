@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24758
+// Name: GPIBHNNMOOA
+message GPIBHNNMOOA {
+    uint32 BNKMINMKDMP = 15;
+    uint32 HDPJCNBFLEB = 13;
+    bool KHKAMOPPEBE = 10;
+    repeated uint32 HPCEKLCECKB = 4;
+    bool BMHBNKGBKEK = 12;
+    uint32 JJGGAPDDOLN = 14;
+    uint32 HDMDJECGCKC = 3;
+}
+

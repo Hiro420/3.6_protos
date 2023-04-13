@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SalvageEscortSettleInfo.proto";
+
+// CmdId: 8856
+// Name: OLMKGCCALAM
+message SalvageEscortSettleNotify {
+    uint32 gallery_id = 8;
+    SalvageEscortSettleInfo settle_info = 12;
+}
+

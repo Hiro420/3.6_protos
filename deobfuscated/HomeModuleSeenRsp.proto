@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4605
+// Name: ELBAMHIEJLG
+message HomeModuleSeenRsp {
+    repeated uint32 seen_module_id_list = 11;
+    int32 retcode = 8;
+}
+

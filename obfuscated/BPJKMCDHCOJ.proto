@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BPJKMCDHCOJ
+enum BPJKMCDHCOJ {
+    BPJKMCDHCOJ_GALLERY_START_BY_NONE = 0;
+    BPJKMCDHCOJ_GALLERY_START_BY_MATCH = 1;
+    BPJKMCDHCOJ_GALLERY_START_BY_DRAFT = 2;
+}
+

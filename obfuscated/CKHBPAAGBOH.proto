@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2174
+// Name: CKHBPAAGBOH
+message CKHBPAAGBOH {
+    bool IGKBNODFMFH = 9;
+    uint32 ECGHPGPFHMO = 3;
+}
+

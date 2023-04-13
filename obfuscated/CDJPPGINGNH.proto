@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7198
+// Name: CDJPPGINGNH
+message CDJPPGINGNH {
+    uint32 HCGIBBGCFHO = 12;
+    uint32 KBCFLOPLBOI = 5;
+}
+

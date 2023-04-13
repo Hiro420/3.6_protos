@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8262
+// Name: PAJKHOIGBFG
+message PAJKHOIGBFG {
+    uint32 ECLCBCEPGIH = 15;
+    int32 EEDMFEOGLFN = 11;
+}
+

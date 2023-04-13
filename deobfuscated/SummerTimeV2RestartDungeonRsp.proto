@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8166
+// Name: HJCGKJEFBMD
+message SummerTimeV2RestartDungeonRsp {
+    int32 retcode = 10;
+}
+

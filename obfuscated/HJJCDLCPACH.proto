@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KCAIJMFIGIA.proto";
+
+// CmdId: 1416
+// Name: HJJCDLCPACH
+message HJJCDLCPACH {
+    repeated KCAIJMFIGIA IEEPAJEHDIJ = 5;
+    repeated uint32 NDIOKDKOOGJ = 2;
+    int32 EEDMFEOGLFN = 3;
+}
+

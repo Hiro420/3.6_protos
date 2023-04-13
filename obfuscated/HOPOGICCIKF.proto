@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HAOPJHKKJLK.proto";
+
+// CmdId: 8665
+// Name: HOPOGICCIKF
+message HOPOGICCIKF {
+    repeated HAOPJHKKJLK MJCLKLBEPLO = 6;
+    repeated uint32 GDGPEIJHMFM = 2;
+}
+

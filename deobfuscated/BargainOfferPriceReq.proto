@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 439
+// Name: MHHNJNJOFIL
+message BargainOfferPriceReq {
+    uint32 price = 14;
+    uint32 bargain_id = 3;
+}
+

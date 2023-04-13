@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5379
+// Name: DCCMKDBMIOL
+message DCCMKDBMIOL {
+    int32 EEDMFEOGLFN = 15;
+    repeated uint32 MFCJNNNFCGF = 6;
+}
+

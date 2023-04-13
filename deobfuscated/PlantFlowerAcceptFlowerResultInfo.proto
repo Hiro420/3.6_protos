@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CLEECNDCANA
+message PlantFlowerAcceptFlowerResultInfo {
+    map<uint32, uint32> POKCMICNNDP = 9;
+    map<uint32, uint32> EIBDMNCCEAL = 5;
+    uint32 uid = 8;
+}
+

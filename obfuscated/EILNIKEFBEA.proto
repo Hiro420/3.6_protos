@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8311
+// Name: EILNIKEFBEA
+message EILNIKEFBEA {
+    map<uint32, uint32> FDJKMLLKABP = 6;
+}
+

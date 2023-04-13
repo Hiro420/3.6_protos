@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8572
+// Name: GEBHCHEKCBD
+message GEBHCHEKCBD {
+    bool HKHAADBCFDO = 14;
+    uint32 JJGGAPDDOLN = 13;
+    int32 EEDMFEOGLFN = 9;
+}
+

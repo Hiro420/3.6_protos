@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4044
+// Name: HMPANOFIBOG
+message HMPANOFIBOG {
+    int32 EEDMFEOGLFN = 12;
+    repeated string HEAMFECJFDH = 5;
+}
+

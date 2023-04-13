@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 191
+// Name: AJKNMCDMLOI
+message ClientLockGameTimeNotify {
+    bool is_lock = 1;
+}
+

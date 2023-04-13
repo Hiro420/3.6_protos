@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DEGJMBAIDHB.proto";
+
+// CmdId: 697
+// Name: BKACBGIOAIJ
+message BKACBGIOAIJ {
+    DEGJMBAIDHB MLFLBGMBIAB = 11;
+}
+

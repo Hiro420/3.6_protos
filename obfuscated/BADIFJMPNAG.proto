@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BADIFJMPNAG
+message BADIFJMPNAG {
+    uint32 CPACNBBCCND = 13;
+    bool FKOBJPCKIFJ = 15;
+    repeated uint32 DPDILPGMGAN = 11;
+}
+

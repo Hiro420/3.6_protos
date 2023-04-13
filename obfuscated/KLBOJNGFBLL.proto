@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2113
+// Name: KLBOJNGFBLL
+message KLBOJNGFBLL {
+    uint32 FILHECJHLJD = 13;
+}
+

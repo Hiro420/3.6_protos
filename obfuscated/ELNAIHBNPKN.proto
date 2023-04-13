@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8147
+// Name: ELNAIHBNPKN
+message ELNAIHBNPKN {
+    uint32 JOJMLPIOEEI = 4;
+    uint32 PNLBJABJLFC = 13;
+}
+

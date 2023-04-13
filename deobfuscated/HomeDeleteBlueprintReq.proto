@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4737
+// Name: FEKGILBDFCN
+message HomeDeleteBlueprintReq {
+    uint32 slot_id = 12;
+}
+

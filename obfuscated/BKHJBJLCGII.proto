@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1728
+// Name: BKHJBJLCGII
+message BKHJBJLCGII {
+    int32 EEDMFEOGLFN = 10;
+    uint64 FPIIPJJPBOH = 9;
+    uint32 FBMMIALDBKC = 13;
+}
+

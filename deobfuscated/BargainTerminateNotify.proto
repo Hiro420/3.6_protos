@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 450
+// Name: OMKNPDDIFNP
+message BargainTerminateNotify {
+    uint32 bargain_id = 13;
+}
+

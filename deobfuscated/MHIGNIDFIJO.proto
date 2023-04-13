@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7500
+// Name: MHIGNIDFIJO
+message MHIGNIDFIJO {
+    uint32 id = 8;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GFLKMONOFNG.proto";
+
+// CmdId: 2470
+// Name: IPFDOCCCPNL
+message IPFDOCCCPNL {
+    uint32 MLPILHLBBBG = 12;
+    uint32 NOKGLOCNOLN = 15;
+    repeated GFLKMONOFNG ADDLPCFIBEF = 14;
+}
+

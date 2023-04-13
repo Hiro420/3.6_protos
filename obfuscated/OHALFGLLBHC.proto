@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4425
+// Name: OHALFGLLBHC
+message OHALFGLLBHC {
+    uint32 PPHMNEGECDM = 6;
+}
+

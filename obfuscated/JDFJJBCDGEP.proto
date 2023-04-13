@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OBDLPMCIFNG.proto";
+
+// CmdId: 137
+// Name: JDFJJBCDGEP
+message JDFJJBCDGEP {
+    repeated OBDLPMCIFNG OGHIFLCIMHI = 15;
+}
+

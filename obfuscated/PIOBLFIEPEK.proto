@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2061
+// Name: PIOBLFIEPEK
+message PIOBLFIEPEK {
+    uint32 CINIDFALGKI = 2;
+    uint32 AEKCLGDGLKF = 12;
+    uint32 PNLBJABJLFC = 9;
+}
+

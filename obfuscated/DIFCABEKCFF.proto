@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8156
+// Name: DIFCABEKCFF
+message DIFCABEKCFF {
+    bool AJBCCHJCBHB = 6;
+    int32 EEDMFEOGLFN = 14;
+    uint32 KAJGEMAAIJH = 13;
+    bool GBHJHJENFGK = 4;
+    uint64 PJDFHKIKLNM = 2;
+}
+

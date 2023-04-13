@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KPMMLJKDLKH.proto";
+
+// CmdId: 8363
+// Name: DPPNCLMMMMB
+message DPPNCLMMMMB {
+    repeated KPMMLJKDLKH GDPPILBFFBJ = 1;
+}
+

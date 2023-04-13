@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "StoreType.proto";
+import "Vector.proto";
+
+// CmdId: 663
+// Name: PCBLPPLABOH
+message DropItemReq {
+    Vector pos = 14;
+    uint64 guid = 13;
+    uint32 count = 5;
+    StoreType store_type = 9;
+}
+

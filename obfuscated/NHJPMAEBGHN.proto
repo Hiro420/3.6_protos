@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5542
+// Name: NHJPMAEBGHN
+message NHJPMAEBGHN {
+    bool FEPCKFLIKLD = 11;
+    uint32 ECLCBCEPGIH = 12;
+    uint32 EGMCLLMPACM = 10;
+}
+

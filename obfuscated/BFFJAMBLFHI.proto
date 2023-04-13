@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EILBMBFDLDF.proto";
+
+// CmdId: 8869
+// Name: BFFJAMBLFHI
+message BFFJAMBLFHI {
+    EILBMBFDLDF MGIDGNCKPFA = 7;
+}
+

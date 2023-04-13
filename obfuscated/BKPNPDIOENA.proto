@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DCDPDMDHDHD.proto";
+import "IKJLIFMCKLB.proto";
+import "JJLGNKEIECC.proto";
+import "MPAOCFBKIBK.proto";
+
+// Name: BKPNPDIOENA
+message BKPNPDIOENA {
+    MPAOCFBKIBK NOGHJFMFPDA = 11;
+    DCDPDMDHDHD LPEIJOHIFEO = 14;
+    IKJLIFMCKLB HLHNBPAEACE = 4;
+    repeated JJLGNKEIECC CELAPEHKLIJ = 3;
+}
+

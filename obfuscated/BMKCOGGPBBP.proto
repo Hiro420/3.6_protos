@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24937
+// Name: BMKCOGGPBBP
+message BMKCOGGPBBP {
+    uint32 HDMDJECGCKC = 8;
+    int32 EEDMFEOGLFN = 11;
+}
+

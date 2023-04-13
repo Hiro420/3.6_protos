@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LanternRiteFireworksStageInfo.proto";
+
+// Name: CKGPIIMDNMJ
+message LanternRiteFireworksInfo {
+    repeated LanternRiteFireworksStageInfo stage_info_list = 11;
+}
+

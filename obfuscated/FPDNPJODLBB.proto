@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FPDNPJODLBB
+message FPDNPJODLBB {
+    uint64 GEIMLKGLEFJ = 5;
+    uint64 ODKCEKFGOHC = 15;
+}
+

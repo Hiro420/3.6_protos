@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5709
+// Name: DEIEAFAHEDG
+message NormalUidOpNotify {
+    uint32 param_index = 6;
+    repeated uint32 param_uid_list = 10;
+    repeated uint32 param_list = 2;
+    uint32 duration = 7;
+}
+

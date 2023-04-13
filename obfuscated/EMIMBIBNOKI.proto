@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 839
+// Name: EMIMBIBNOKI
+message EMIMBIBNOKI {
+    KKFEDHALJFH EHADCOBANHG = 6;
+    uint32 GKHKBJOKPCK = 12;
+    uint32 DBINCPAJIPB = 8;
+    KKFEDHALJFH DBDEEBCMHMM = 14;
+}
+

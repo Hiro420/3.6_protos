@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DEOCMDJCCPB.proto";
+
+// Name: JPLPKCCKJPE
+message JPLPKCCKJPE {
+    repeated DEOCMDJCCPB HFPDFNFNOML = 15;
+    int32 HCGIBBGCFHO = 7;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NFBBOLGMJHK.proto";
+
+// CmdId: 604
+// Name: EHCLDJBNPPB
+message EHCLDJBNPPB {
+    repeated uint32 DMMLMODIPDG = 14;
+    map<uint32, NFBBOLGMJHK> NDAGFMBKOGO = 10;
+}
+

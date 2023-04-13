@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8479
+// Name: ACCDBHIBKJE
+message ACCDBHIBKJE {
+    bool APMAIPBGMFF = 2;
+    uint32 EDDFCBOLKKN = 4;
+    uint32 EGMCLLMPACM = 13;
+}
+

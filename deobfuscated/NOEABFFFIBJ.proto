@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 23303
+// Name: NOEABFFFIBJ
+message NOEABFFFIBJ {
+    uint32 level_id = 6;
+    bool OBIIGFOOFIK = 5;
+}
+

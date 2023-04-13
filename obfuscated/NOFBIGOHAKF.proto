@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2645
+// Name: NOFBIGOHAKF
+message NOFBIGOHAKF {
+    repeated uint32 LBFAMBIMMMG = 13;
+}
+

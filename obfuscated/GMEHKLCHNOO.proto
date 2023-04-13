@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AEPGHCMCNGG.proto";
+
+// CmdId: 4775
+// Name: GMEHKLCHNOO
+message GMEHKLCHNOO {
+    int32 EEDMFEOGLFN = 1;
+    repeated AEPGHCMCNGG IJCFGOGCPIK = 7;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5565
+// Name: IEGHEIHGAMM
+message IEGHEIHGAMM {
+    uint32 ECLCBCEPGIH = 4;
+    int32 EEDMFEOGLFN = 5;
+}
+

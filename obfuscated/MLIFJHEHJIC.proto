@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CJDBELBDBLI.proto";
+import "KKFEDHALJFH.proto";
+import "PCBLIOLCMAE.proto";
+
+// CmdId: 851
+// Name: MLIFJHEHJIC
+message MLIFJHEHJIC {
+    int32 EEDMFEOGLFN = 13;
+    uint32 DMBFPFFMFCM = 10;
+    KKFEDHALJFH MAKPDIBNPAP = 2;
+    PCBLIOLCMAE IKHIFJNBADN = 8;
+    KKFEDHALJFH DNJIMMEONNI = 5;
+    CJDBELBDBLI FJFAKIJLLEC = 1;
+    uint32 PDEPBDNGIAB = 4;
+    uint32 CBGNJHFJMLP = 15;
+}
+

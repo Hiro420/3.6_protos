@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1589
+// Name: PCNKFCOOMOH
+message PCNKFCOOMOH {
+    uint32 PAHELCJNHAH = 5;
+    uint32 AOLMBNPLFEO = 6;
+    string DGADDANEIBL = 1;
+    uint32 KJPOJHMDBNE = 12;
+    uint32 EJKJHLLCHMC = 2;
+}
+

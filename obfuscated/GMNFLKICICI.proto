@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8931
+// Name: GMNFLKICICI
+message GMNFLKICICI {
+    repeated uint32 FGMJOBHIHAB = 7;
+    uint32 JJGGAPDDOLN = 3;
+    bool HKHAADBCFDO = 8;
+    uint32 KLHDBPNCELN = 2;
+}
+

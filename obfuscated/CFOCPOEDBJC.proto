@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GEKCCHCJMPC.proto";
+import "LJLCOKBCBOG.proto";
+
+// Name: CFOCPOEDBJC
+message CFOCPOEDBJC {
+    repeated LJLCOKBCBOG NMKIFLLBAOO = 14;
+    GEKCCHCJMPC NOPNDHBENMH = 10;
+}
+

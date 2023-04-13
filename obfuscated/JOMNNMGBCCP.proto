@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AIFEAPAMKDD.proto";
+
+// CmdId: 2796
+// Name: JOMNNMGBCCP
+message JOMNNMGBCCP {
+    int32 EEDMFEOGLFN = 5;
+    repeated AIFEAPAMKDD JNFEGFHGOHM = 6;
+}
+

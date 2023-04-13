@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FHIBGDNPPMI
+message PotionAvatarInfo {
+    uint64 avatar_id = 14;
+    bool is_trial = 8;
+}
+

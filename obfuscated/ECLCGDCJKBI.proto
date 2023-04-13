@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2067
+// Name: ECLCGDCJKBI
+message ECLCGDCJKBI {
+    uint32 PNLBJABJLFC = 1;
+    uint32 CINIDFALGKI = 12;
+    int32 EEDMFEOGLFN = 14;
+}
+

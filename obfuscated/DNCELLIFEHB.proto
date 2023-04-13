@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BCHLHMNBPCI.proto";
+import "IJBDFMLMJMF.proto";
+import "INPDDALBMBO.proto";
+
+// CmdId: 113
+// Name: DNCELLIFEHB
+message DNCELLIFEHB {
+    int32 EEDMFEOGLFN = 8;
+    BCHLHMNBPCI DFKHHPAGDGK = 9;
+    repeated IJBDFMLMJMF KGBIAFKOLHJ = 15;
+    repeated INPDDALBMBO MAOGDHFMLBB = 14;
+}
+

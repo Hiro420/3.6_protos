@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CPFLEKBAPNG
+message FungusTrainingMonsterPreviewDetail {
+    uint32 monster_id = 13;
+    repeated uint32 affix_list = 14;
+    uint32 level = 6;
+}
+

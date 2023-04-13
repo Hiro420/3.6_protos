@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5535
+// Name: PBGIAMLDCGI
+message HideAndSeekPlayerCapturedNotify {
+    uint32 ghost_skill_id = 6;
+}
+

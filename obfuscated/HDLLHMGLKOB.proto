@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ONINAMINFAL.proto";
+
+// CmdId: 990
+// Name: HDLLHMGLKOB
+message HDLLHMGLKOB {
+    repeated ONINAMINFAL ALAIGCHGJHL = 14;
+    uint32 FGEIEPJKHDL = 3;
+    uint32 BLILHBOJOCD = 2;
+}
+

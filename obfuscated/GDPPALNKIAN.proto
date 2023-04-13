@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EMNFBILMFFH.proto";
+
+// Name: GDPPALNKIAN
+message GDPPALNKIAN {
+    repeated EMNFBILMFFH COOLNNBMKAC = 6;
+}
+

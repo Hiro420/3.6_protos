@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 5825
+// Name: ONHGECDIBAM
+message ONHGECDIBAM {
+    uint32 JBMPBFDPKGD = 10;
+    repeated uint32 PCLBJKHFMML = 4;
+    KKFEDHALJFH DBDEEBCMHMM = 14;
+}
+

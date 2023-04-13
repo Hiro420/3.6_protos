@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: PAJINPMADLD
+message PAJINPMADLD {
+    bool FPFCJFPALLI = 3;
+    uint32 DMBFPFFMFCM = 4;
+    string PJPMLAKAGCF = 11;
+    float CNLKENIFMKG = 5;
+    bool PMHJPLEMFAD = 12;
+    repeated uint32 OBDCBHCHDFL = 1;
+    float CGJPAHPGHHK = 10;
+    KKFEDHALJFH AJKMDJGMIPG = 7;
+    float FNFBDGDNJCC = 13;
+}
+

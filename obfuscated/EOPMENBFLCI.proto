@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: EOPMENBFLCI
+message EOPMENBFLCI {
+    uint32 KJFPEMKMEAB = 1;
+    KKFEDHALJFH DBDEEBCMHMM = 2;
+}
+

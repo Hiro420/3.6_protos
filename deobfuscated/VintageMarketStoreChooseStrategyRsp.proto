@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 21265
+// Name: KDHECBHECKJ
+message VintageMarketStoreChooseStrategyRsp {
+    int32 retcode = 8;
+    uint32 store_id = 3;
+    repeated uint32 strategy_list = 9;
+}
+

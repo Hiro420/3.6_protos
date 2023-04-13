@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JMIKLAMABOK.proto";
+
+// Name: NBGGEIGICAF
+message NBGGEIGICAF {
+    uint32 AEEAOOIKGHJ = 15;
+    uint32 FBGPNEAAELI = 6;
+    repeated JMIKLAMABOK MPMAMMFEPDL = 7;
+}
+

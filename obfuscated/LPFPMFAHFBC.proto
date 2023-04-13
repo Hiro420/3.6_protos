@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LPFPMFAHFBC
+message LPFPMFAHFBC {
+    uint32 HDOMOJDDHMJ = 1;
+    float LMHLIOHMNGP = 2;
+    int32 KAOCLNOOIHF = 3;
+}
+

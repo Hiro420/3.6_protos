@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BOECFEKFEJL.proto";
+
+// Name: AAGAOBLAFOD
+message AAGAOBLAFOD {
+    uint32 KMGHMPICLEE = 8;
+    BOECFEKFEJL CNDKFAMECDF = 9;
+}
+

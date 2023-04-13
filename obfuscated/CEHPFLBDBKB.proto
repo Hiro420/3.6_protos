@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CEHPFLBDBKB
+message CEHPFLBDBKB {
+    uint32 KPBALBGPILL = 11;
+    uint32 MDEIJIBJGPG = 4;
+}
+

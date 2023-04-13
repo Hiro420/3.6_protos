@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1092
+// Name: MBFICLFHELI
+message MBFICLFHELI {
+    uint32 GPEINDKHNLM = 10;
+    uint32 BDJENJMAANN = 3;
+    uint64 FPIIPJJPBOH = 13;
+}
+

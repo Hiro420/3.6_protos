@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: BCPOFOOJFEL
+message SceneGallerySorushTrialHitmanInfo {
+    uint64 CMDIOKFHHKF = 1;
+}
+

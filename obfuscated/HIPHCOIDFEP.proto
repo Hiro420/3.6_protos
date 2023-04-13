@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5009
+// Name: HIPHCOIDFEP
+message HIPHCOIDFEP {
+    int32 EEDMFEOGLFN = 14;
+}
+

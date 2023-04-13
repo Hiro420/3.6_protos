@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: EBEODFKDGGJ
+message EBEODFKDGGJ {
+    repeated uint32 OMMLDNFAMEM = 12;
+    repeated uint32 DINMKMCHIDJ = 10;
+}
+

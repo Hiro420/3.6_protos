@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 2876
+// Name: JEBBKCGCPPP
+message JEBBKCGCPPP {
+    uint32 HEKHEPFHLDL = 4;
+    int32 EEDMFEOGLFN = 13;
+    uint32 HCGIBBGCFHO = 9;
+    repeated INPDDALBMBO IEEPAJEHDIJ = 10;
+}
+

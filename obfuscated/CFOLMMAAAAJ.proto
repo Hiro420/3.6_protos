@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FOGBFDIKCIL.proto";
+import "OEGPMJMONGG.proto";
+
+// Name: CFOLMMAAAAJ
+message CFOLMMAAAAJ {
+    map<uint32, uint32> AJELLBANENE = 4;
+    repeated FOGBFDIKCIL PPDAPEHFPAN = 3;
+    repeated FOGBFDIKCIL OKBIGBHBHDP = 6;
+    repeated OEGPMJMONGG LJDDKDFAOJI = 13;
+}
+

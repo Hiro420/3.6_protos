@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 4117
+// Name: IJCIIACAMHO
+message IJCIIACAMHO {
+    uint32 AACLOLKFGOA = 2;
+    uint32 HFIBJBDAAHP = 5;
+    repeated INPDDALBMBO IEEPAJEHDIJ = 1;
+    uint32 KIOOCIKFFIG = 10;
+    string JPIEPAAAKPA = 9;
+}
+

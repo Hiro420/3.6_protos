@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OGPFCJJIJNH.proto";
+
+// CmdId: 4697
+// Name: JMBIGNLPDEC
+message JMBIGNLPDEC {
+    int32 EEDMFEOGLFN = 8;
+    OGPFCJJIJNH NFHHOPIJBLN = 14;
+}
+

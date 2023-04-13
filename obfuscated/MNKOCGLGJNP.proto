@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HPABALOPOIG.proto";
+
+// Name: MNKOCGLGJNP
+message MNKOCGLGJNP {
+    int64 HJLEBAHLAOL = 1;
+    repeated HPABALOPOIG AHHFAGMEILO = 2;
+}
+

@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AHMJPHBBHKI.proto";
+import "AMCGPEAFCJI.proto";
+import "BMCLBPGLLAJ.proto";
+import "BOKAFEOCLAA.proto";
+import "DKGOPEKBNNN.proto";
+import "EMLPIPHPEBM.proto";
+import "JKLPFKCFBHM.proto";
+import "KGDJCGBBNBK.proto";
+import "LEOINEGNPCH.proto";
+import "LJGHKOONHHG.proto";
+import "LNEDLNCEKDB.proto";
+import "NMMOKIPHLHN.proto";
+import "OHIOLBMFKNH.proto";
+import "OMHFNEJPLIG.proto";
+import "PCCKJKGKPOA.proto";
+import "PFLIFFDODCJ.proto";
+
+// CmdId: 963
+// Name: ACFCCAJPEOP
+message ACFCCAJPEOP {
+    uint32 NPHNKCIAEGC = 5;
+    uint32 CHNDMCHIOON = 9;
+    map<uint32, BOKAFEOCLAA> DNHDAMKOPFC = 14;
+    map<uint32, BMCLBPGLLAJ> KNMLKNGAFPC = 8;
+    uint32 NIOFCCMPGJA = 13;
+    uint32 IHJHBOGKMLA = 7;
+    repeated DKGOPEKBNNN COLOGOEIPCA = 11;
+    bool HKHAADBCFDO = 2;
+    repeated uint32 EMONGEBAGCJ = 12;
+    uint32 BBMMPMLBGJO = 10;
+    oneof OFDMLDLAIEN {
+        KGDJCGBBNBK LFNFJHJNACC = 1587;
+        LJGHKOONHHG CMPHKJILACP = 1512;
+        OMHFNEJPLIG BJCOFBGGILK = 859;
+        PCCKJKGKPOA LLLOHJOEGEB = 1855;
+        AMCGPEAFCJI GGGHOJHBFAA = 545;
+        OHIOLBMFKNH JBBNPHGLCEI = 2022;
+        LNEDLNCEKDB CCOBDLIJNBB = 1728;
+        AHMJPHBBHKI PGDMPCLHHDH = 1011;
+        NMMOKIPHLHN KAOFJLFIAPK = 1924;
+        LEOINEGNPCH JGONNHBFLPM = 1147;
+        PFLIFFDODCJ JCMFGHPAMEL = 571;
+        EMLPIPHPEBM EMPLNDCDDFH = 1998;
+        JKLPFKCFBHM IDGIIBMHLFJ = 1012;
+    }
+}
+

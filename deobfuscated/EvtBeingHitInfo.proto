@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AttackResult.proto";
+
+// Name: CHCBEEGOBEN
+message EvtBeingHitInfo {
+    uint32 peer_id = 10;
+    AttackResult attack_result = 15;
+    uint32 frame_num = 5;
+}
+

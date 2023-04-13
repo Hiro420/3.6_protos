@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MABLDNEFFCB.proto";
+
+// CmdId: 3205
+// Name: LEHGOANEDOH
+message LEHGOANEDOH {
+    repeated MABLDNEFFCB PFCKLEMEOOL = 10;
+}
+

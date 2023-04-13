@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1826
+// Name: EINDMHKENJA
+message EINDMHKENJA {
+    int32 EEDMFEOGLFN = 2;
+    bool JBJBKIMEOOD = 9;
+    uint32 DLANKMOEDDJ = 3;
+    uint32 KAHKHODLMPL = 13;
+}
+

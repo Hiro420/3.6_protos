@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 901
+// Name: GCLPINLGBJH
+message DungeonRestartResultNotify {
+    bool is_add_accpet = 12;
+}
+

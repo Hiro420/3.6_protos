@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CEELJPLNFKF.proto";
+
+// CmdId: 24527
+// Name: IFLFCDPABPB
+message IFLFCDPABPB {
+    repeated CEELJPLNFKF KIFHECBDOOE = 8;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HNPGMPNHPFG.proto";
+
+// CmdId: 9090
+// Name: HMKHCMNELAL
+message HMKHCMNELAL {
+    map<uint32, HNPGMPNHPFG> ONOMFIEKBDB = 15;
+}
+

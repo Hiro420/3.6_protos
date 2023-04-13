@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 2899
+// Name: CFBEJOHNPIM
+message CFBEJOHNPIM {
+    repeated uint32 ENOAOLKABFJ = 5;
+    uint32 HEKHEPFHLDL = 2;
+    repeated INPDDALBMBO IEEPAJEHDIJ = 7;
+    int32 EEDMFEOGLFN = 6;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 23435
+// Name: DKKHNGCHJHL
+message WindSeedType1Notify {
+    bytes payload = 12;
+    uint32 config_id = 7;
+}
+

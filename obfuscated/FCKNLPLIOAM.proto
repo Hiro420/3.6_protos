@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BJGMHMHDCGE.proto";
+
+// CmdId: 833
+// Name: FCKNLPLIOAM
+message FCKNLPLIOAM {
+    uint32 PNLGKNFEFGC = 6;
+    BJGMHMHDCGE LHNOKEOAJBP = 3;
+}
+

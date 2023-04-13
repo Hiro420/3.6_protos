@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OGNJMODKJPC
+message GCGOperationReboot {
+    repeated uint32 cost_card_guid_list = 10;
+    repeated uint32 dice_index_list = 2;
+}
+

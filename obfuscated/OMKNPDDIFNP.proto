@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 450
+// Name: OMKNPDDIFNP
+message OMKNPDDIFNP {
+    uint32 MMBHDIGGJIM = 13;
+}
+

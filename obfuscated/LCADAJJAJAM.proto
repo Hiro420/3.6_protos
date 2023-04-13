@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LCADAJJAJAM
+message LCADAJJAJAM {
+    uint32 EAJJEAADLEP = 14;
+    string OMLNDJKINHN = 3;
+    int32 EEDMFEOGLFN = 10;
+    uint32 MCONFDEOONA = 13;
+    uint32 MKPEHMMACIB = 8;
+}
+

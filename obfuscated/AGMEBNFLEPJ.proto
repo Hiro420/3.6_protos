@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2296
+// Name: AGMEBNFLEPJ
+message AGMEBNFLEPJ {
+    repeated uint32 KINFJNPHEMA = 13;
+    repeated uint32 CGKECCAIIED = 5;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1056
+// Name: HOLIILCCLHP
+message BigTalentPointConvertRsp {
+    int32 retcode = 8;
+    uint64 avatar_guid = 5;
+}
+

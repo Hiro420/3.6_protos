@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EPIODKDCPKL.proto";
+
+// CmdId: 5375
+// Name: MIICNJBEKFM
+message MIICNJBEKFM {
+    uint32 EDEPJBIHFEB = 3;
+    uint32 MPDLHJGFMFK = 4;
+    uint32 GIAMAGCEFII = 6;
+    uint32 PKDJIGJDEJE = 10;
+    bool HKHAADBCFDO = 12;
+    uint32 MGOAOLCGNIJ = 2;
+    uint64 DHOPKBBIOPG = 9;
+    repeated EPIODKDCPKL NJGECMMGLOI = 14;
+}
+

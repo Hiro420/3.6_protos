@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FNFOEMFBKFF.proto";
+import "GMGHKEODFAD.proto";
+import "KPLGIKMFFHI.proto";
+
+// Name: DDOKGPGCJNK
+message DDOKGPGCJNK {
+    uint32 OKMBNDOEFND = 10;
+    bool NFGGMBMCOGG = 3;
+    repeated KPLGIKMFFHI DMNGDENAHGN = 4;
+    uint64 BNLEHBOMGCC = 15;
+    GMGHKEODFAD JEPOLLNOLII = 14;
+    map<uint32, uint32> EINPJAFBMIG = 5;
+    repeated FNFOEMFBKFF CABACONDLMK = 13;
+    uint32 PGAAFEALHLK = 9;
+    uint32 NJNBCLGFCIN = 12;
+    repeated int32 KFGHMMAGGHK = 8;
+    bool LODOAPOPHCN = 11;
+    uint32 OHBALLHKMLM = 7;
+}
+

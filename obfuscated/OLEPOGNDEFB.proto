@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OLEPOGNDEFB
+message OLEPOGNDEFB {
+    string JPIEPAAAKPA = 1;
+    string FFFEIEGGGNJ = 2;
+    uint32 LFOCJEADKPK = 3;
+}
+

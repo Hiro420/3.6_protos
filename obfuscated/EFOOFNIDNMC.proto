@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 633
+// Name: EFOOFNIDNMC
+message EFOOFNIDNMC {
+    KKFEDHALJFH EPCFLDJKNJH = 6;
+    repeated uint32 LFNLHAABJAM = 12;
+}
+

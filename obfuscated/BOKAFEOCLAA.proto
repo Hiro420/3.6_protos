@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BOKAFEOCLAA
+message BOKAFEOCLAA {
+    repeated uint32 HNDHDFCCGNE = 1;
+}
+

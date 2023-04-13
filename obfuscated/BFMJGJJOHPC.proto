@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2290
+// Name: BFMJGJJOHPC
+message BFMJGJJOHPC {
+    repeated uint32 NJGECMMGLOI = 6;
+}
+

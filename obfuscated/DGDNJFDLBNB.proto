@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DGDNJFDLBNB
+enum DGDNJFDLBNB {
+    DGDNJFDLBNB_INTER_OP_FINISH = 0;
+    DGDNJFDLBNB_INTER_OP_START = 1;
+}
+

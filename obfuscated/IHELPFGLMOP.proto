@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: IHELPFGLMOP
+message IHELPFGLMOP {
+    uint32 DBDFAHLBHLN = 8;
+    uint32 ELIEBOMLPDN = 2;
+    bool FKOBJPCKIFJ = 5;
+    uint32 PPHMNEGECDM = 9;
+}
+

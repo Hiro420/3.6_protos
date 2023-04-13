@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8283
+// Name: BBNHHOBEHIN
+message BBNHHOBEHIN {
+    uint32 BAKNPCGIKBO = 7;
+    uint32 JOPJKOGODAM = 1;
+    repeated uint32 FAAOILLELHJ = 2;
+    int32 EEDMFEOGLFN = 3;
+}
+

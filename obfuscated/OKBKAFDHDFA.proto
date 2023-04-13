@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OKBKAFDHDFA
+message OKBKAFDHDFA {
+    uint32 LGGANMGEBFB = 1;
+    uint32 AAGPAKHKGFO = 2;
+    uint64 EEMILGMLGOH = 3;
+    uint32 HBKHIIDMJFP = 4;
+    uint32 DICOPPHCLEO = 5;
+    bool CLHEBAAPNEO = 6;
+    bool GHPBDOFGBDK = 7;
+    repeated uint32 LFBEJKAFPCB = 8;
+    repeated uint32 LJAEIDNMKBF = 9;
+}
+

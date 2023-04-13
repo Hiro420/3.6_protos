@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// Name: FHLIEAJPABN
+message FHLIEAJPABN {
+    repeated INPDDALBMBO OFEFKIMCOCC = 2;
+    uint32 CDEKEGMBCHL = 12;
+}
+

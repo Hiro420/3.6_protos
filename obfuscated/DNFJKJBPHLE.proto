@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NLAAPIDMOCD.proto";
+
+// Name: DNFJKJBPHLE
+message DNFJKJBPHLE {
+    uint32 DMBFPFFMFCM = 1;
+    NLAAPIDMOCD JDBAEBBIDJF = 2;
+    uint32 BIHMFOCDMKP = 3;
+    uint32 BPJENGBJHHF = 4;
+    bool LBCOAGJCMEK = 5;
+}
+

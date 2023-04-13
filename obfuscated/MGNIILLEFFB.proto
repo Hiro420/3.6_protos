@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5586
+// Name: MGNIILLEFFB
+message MGNIILLEFFB {
+    uint32 DPKCLCKNEOF = 13;
+    uint32 BLILHBOJOCD = 11;
+    uint32 CDJPPMFEPHL = 6;
+    uint32 GPGPMFDFCMN = 14;
+}
+

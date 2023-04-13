@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "RogueEffectRecord.proto";
+
+// CmdId: 8729
+// Name: EGKMBIHKJOB
+message RoguelikeEffectDataNotify {
+    repeated RogueEffectRecord curse_list = 8;
+    repeated RogueEffectRecord card_list = 2;
+}
+

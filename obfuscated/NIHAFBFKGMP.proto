@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5368
+// Name: NIHAFBFKGMP
+message NIHAFBFKGMP {
+    int32 EEDMFEOGLFN = 2;
+    uint32 KABFEHLJFKF = 7;
+    uint32 EHPIOILFBIN = 13;
+}
+

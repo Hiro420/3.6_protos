@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4428
+// Name: MNKBGNBGOCE
+message MNKBGNBGOCE {
+    uint32 DOJCPEGFHEK = 9;
+    uint32 PPHMNEGECDM = 2;
+    uint32 ELIEBOMLPDN = 8;
+}
+

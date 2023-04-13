@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GJIIPOEKHAA
+message FleurFairChapterInfo {
+    uint32 chapter_id = 2;
+    uint32 open_time = 11;
+}
+

@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BCLNCCOHMKK.proto";
+
+// CmdId: 4192
+// Name: APIPBBJHNFE
+message APIPBBJHNFE {
+    // Name: LHJPPCIIDKM
+    enum LHJPPCIIDKM {
+        LHJPPCIIDKM_SUCC = 0;
+        LHJPPCIIDKM_TARGET_SCENE_CANNOT_ENTER = 1;
+        LHJPPCIIDKM_SELF_MP_UNAVAILABLE = 2;
+        LHJPPCIIDKM_OTHER_DATA_VERSION_NOT_LATEST = 3;
+        LHJPPCIIDKM_DATA_VERSION_NOT_LATEST = 4;
+    }
+
+    BCLNCCOHMKK KNBLDJKPEPG = 1;
+    uint32 AOOCBPDDMKC = 6;
+    LHJPPCIIDKM CNDKFAMECDF = 14;
+}
+

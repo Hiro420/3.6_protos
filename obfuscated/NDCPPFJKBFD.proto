@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FKONGMBBBAN.proto";
+import "NMHLLNINEFA.proto";
+
+// Name: NDCPPFJKBFD
+message NDCPPFJKBFD {
+    uint32 CDHJDPNCOKA = 1;
+    repeated FKONGMBBBAN BLICHCBAFHD = 2;
+    NMHLLNINEFA OOMDMCOEKGM = 3;
+}
+

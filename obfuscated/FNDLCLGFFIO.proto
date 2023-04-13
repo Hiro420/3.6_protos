@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20841
+// Name: FNDLCLGFFIO
+message FNDLCLGFFIO {
+    bool JCPGOPJELGF = 14;
+}
+

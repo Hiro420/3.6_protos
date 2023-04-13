@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 804
+// Name: CDNLKOIGGDG
+message CDNLKOIGGDG {
+    uint32 PHOGMHFOKMN = 4;
+    uint32 PNLGKNFEFGC = 3;
+}
+

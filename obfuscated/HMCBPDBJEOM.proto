@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HMCBPDBJEOM
+message HMCBPDBJEOM {
+    uint32 NJPEANGOAMC = 7;
+    bool LODOAPOPHCN = 10;
+    bool FKOBJPCKIFJ = 12;
+    uint32 ACAPFNOLMKE = 15;
+}
+

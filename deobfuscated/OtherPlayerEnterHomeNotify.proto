@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4876
+// Name: EPNIBIGFPOK
+message OtherPlayerEnterHomeNotify {
+    // Name: PFLMKOGOKAI
+    enum Reason {
+        INVALID = 0;
+        ENTER = 1;
+        LEAVE = 2;
+    }
+
+    string nickname = 10;
+    Reason reason = 3;
+}
+

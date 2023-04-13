@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 895
+// Name: LHOBJJPEFGM
+message LHOBJJPEFGM {
+    uint32 DBINCPAJIPB = 11;
+    uint32 DMBFPFFMFCM = 13;
+    int32 EEDMFEOGLFN = 6;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GBLHDOOKNCK
+message GBLHDOOKNCK {
+    int32 OPDKJIKKLOL = 1;
+    int32 OCFKEJNGBFH = 2;
+}
+

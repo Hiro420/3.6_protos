@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DGOABKCAGHB.proto";
+import "JALNEBPGBAJ.proto";
+
+// CmdId: 996
+// Name: NJOCOAEINCL
+message NJOCOAEINCL {
+    repeated JALNEBPGBAJ EJOMGEOFDJP = 7;
+    uint32 DGCJNEBKNHO = 2;
+    uint32 BLILHBOJOCD = 8;
+    int32 EEDMFEOGLFN = 5;
+    repeated DGOABKCAGHB LIPHMOCEKBG = 9;
+}
+

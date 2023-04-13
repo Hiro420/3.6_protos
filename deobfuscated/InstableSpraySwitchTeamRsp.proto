@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 20469
+// Name: OEIFAIJFCEP
+message InstableSpraySwitchTeamRsp {
+    uint32 level_id = 8;
+    int32 retcode = 4;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 263
+// Name: FCILOLPMHPE
+message FCILOLPMHPE {
+    bool FBIKHHNCOKJ = 13;
+    KKFEDHALJFH EHADCOBANHG = 6;
+}
+

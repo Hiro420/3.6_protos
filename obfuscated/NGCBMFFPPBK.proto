@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CFHDBJENNAP.proto";
+import "FIEOBJIFPCA.proto";
+import "HGDBFKLPLMK.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: NGCBMFFPPBK
+message NGCBMFFPPBK {
+    CFHDBJENNAP ILIFOANEFOF = 2;
+    int64 PBGIFFMIILN = 8;
+    HGDBFKLPLMK GONCOICLPDI = 11;
+    KKFEDHALJFH KFFBIJEMGFD = 1;
+    int32 FLMCOFJILGL = 6;
+    FIEOBJIFPCA AJEJCPFOKAB = 13;
+}
+

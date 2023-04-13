@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KGFCFBBHNII
+message AddNoGachaAvatarCardTransferItem {
+    uint32 count = 1;
+    bool is_new = 15;
+    uint32 item_id = 5;
+}
+

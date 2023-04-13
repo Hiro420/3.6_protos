@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 295
+// Name: ONKAKAHPGHO
+message ONKAKAHPGHO {
+    uint32 DMBFPFFMFCM = 8;
+}
+

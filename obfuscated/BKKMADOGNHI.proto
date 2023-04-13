@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MIKMHOPIOEH.proto";
+
+// CmdId: 5390
+// Name: BKKMADOGNHI
+message BKKMADOGNHI {
+    MIKMHOPIOEH BHGHPABHALB = 9;
+}
+

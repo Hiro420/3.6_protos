@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24928
+// Name: IDNIDNOCAOO
+message IDNIDNOCAOO {
+    uint32 AHPNPGLFPDL = 2;
+    uint32 JBONFLIGABG = 14;
+    uint32 HDMDJECGCKC = 15;
+}
+

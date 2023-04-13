@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CBCOHJNHCND.proto";
+
+// CmdId: 2150
+// Name: DOBNAPMLACB
+message DOBNAPMLACB {
+    repeated CBCOHJNHCND FFGILMDJLKF = 14;
+    int32 EEDMFEOGLFN = 5;
+}
+

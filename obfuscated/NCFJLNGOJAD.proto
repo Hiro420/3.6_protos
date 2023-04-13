@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DPENHJMNKFO.proto";
+
+// CmdId: 112
+// Name: NCFJLNGOJAD
+message NCFJLNGOJAD {
+    DPENHJMNKFO GADEPMGAMCO = 13;
+    uint32 LIJJDBCMPAL = 4;
+}
+

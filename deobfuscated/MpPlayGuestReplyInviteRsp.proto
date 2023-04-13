@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1812
+// Name: GAMPLDEBIJM
+message MpPlayGuestReplyInviteRsp {
+    int32 retcode = 3;
+    uint32 mp_play_id = 10;
+}
+

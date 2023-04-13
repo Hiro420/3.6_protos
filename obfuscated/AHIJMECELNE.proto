@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3417
+// Name: AHIJMECELNE
+message AHIJMECELNE {
+    uint32 IHEPIKIDEAB = 5;
+    int32 EEDMFEOGLFN = 13;
+}
+

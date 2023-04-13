@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MatchType.proto";
+
+// CmdId: 4199
+// Name: HANOAJKNHPA
+message PlayerCancelMatchReq {
+    MatchType match_type = 6;
+}
+

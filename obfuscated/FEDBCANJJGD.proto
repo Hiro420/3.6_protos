@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HOOINALOANB.proto";
+import "NPALPPLEFFC.proto";
+
+// CmdId: 6213
+// Name: FEDBCANJJGD
+message FEDBCANJJGD {
+    HOOINALOANB DCDMAOGBELF = 2;
+    NPALPPLEFFC IGIANMBNHAO = 9;
+    repeated uint32 HDOPDNEEIGP = 12;
+}
+

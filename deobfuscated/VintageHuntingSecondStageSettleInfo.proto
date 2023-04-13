@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DNNJLBJHILA
+message VintageHuntingSecondStageSettleInfo {
+    uint32 capture_animal_num = 9;
+    map<uint32, uint32> animal_count_map = 11;
+    uint32 total_num = 2;
+}
+

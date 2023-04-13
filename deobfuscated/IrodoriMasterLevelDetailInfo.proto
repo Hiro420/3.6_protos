@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LBNDFFCAGIF
+message IrodoriMasterLevelDetailInfo {
+    uint32 min_finish_time = 2;
+    bool is_have_try = 11;
+    bool is_finish = 10;
+    uint32 diffculty = 14;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 3916
+// Name: DCCPJAHHMHC
+message MechanicusOpenNotify {
+    uint32 mechanicus_id = 14;
+}
+

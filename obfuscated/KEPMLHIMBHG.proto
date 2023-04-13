@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+
+// Name: KEPMLHIMBHG
+message KEPMLHIMBHG {
+    uint32 FNFPIGHNBLL = 2;
+    string FLJJCLIMMJA = 6;
+    CAOGLKMLEOG IAEKOGMCHED = 13;
+    string HFJHMECOIJI = 1;
+    string FDMCFBMDDLH = 4;
+}
+

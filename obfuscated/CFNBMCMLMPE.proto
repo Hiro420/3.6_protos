@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FOGOFNJIKON.proto";
+
+// CmdId: 5075
+// Name: CFNBMCMLMPE
+message CFNBMCMLMPE {
+    FOGOFNJIKON CAKHPNNGABF = 2;
+    int32 EEDMFEOGLFN = 9;
+}
+

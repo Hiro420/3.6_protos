@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8095
+// Name: NEDABGEDHJO
+message CrystalLinkRestartDungeonRsp {
+    int32 retcode = 11;
+}
+

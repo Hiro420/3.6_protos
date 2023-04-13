@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KPLGIKMFFHI
+message KPLGIKMFFHI {
+    uint32 MEJDAEOJCFP = 1;
+    uint32 DCEKPNFNAOB = 3;
+    uint32 MFABFMFFAFJ = 2;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EGDJCLPGOJC.proto";
+
+// CmdId: 1695
+// Name: EJLLFPAADDN
+message EJLLFPAADDN {
+    map<uint64, EGDJCLPGOJC> MJMMNICILDD = 4;
+}
+

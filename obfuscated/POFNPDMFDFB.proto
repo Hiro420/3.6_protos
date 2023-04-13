@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: POFNPDMFDFB
+enum POFNPDMFDFB {
+    POFNPDMFDFB_DEAL_ADD_FRIEND_REJECT = 0;
+    POFNPDMFDFB_DEAL_ADD_FRIEND_ACCEPT = 1;
+}
+

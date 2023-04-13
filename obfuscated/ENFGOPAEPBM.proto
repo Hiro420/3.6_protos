@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EGMOPPAHAMP.proto";
+
+// CmdId: 8393
+// Name: ENFGOPAEPBM
+message ENFGOPAEPBM {
+    repeated EGMOPPAHAMP HPNOAHOLKOF = 6;
+    uint32 GCGPEOOKLHP = 8;
+    map<uint32, uint32> DKBPGAGEGPL = 12;
+    EGMOPPAHAMP ALJBPHELEAE = 15;
+    uint32 BMPJMCOMPCA = 11;
+    map<uint32, uint32> AGCNLMLPFKE = 4;
+}
+

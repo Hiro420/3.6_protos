@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MFJBPEPMJOH.proto";
+
+// CmdId: 1797
+// Name: HPAKJFDBBOJ
+message HPAKJFDBBOJ {
+    map<uint32, MFJBPEPMJOH> NHJIJJGHJHC = 7;
+    repeated uint64 CJEOOJJJMDM = 9;
+}
+

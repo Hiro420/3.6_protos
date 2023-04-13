@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5582
+// Name: CCEHPMIELPE
+message CCEHPMIELPE {
+    uint32 MDNMOJAPBKB = 4;
+    uint32 ECLCBCEPGIH = 15;
+}
+

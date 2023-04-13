@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GOHGODJALDD
+enum GOHGODJALDD {
+    GOHGODJALDD_ATTACH = 0;
+    GOHGODJALDD_DETACH = 1;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8868
+// Name: PBOEDPIMPEA
+message PBOEDPIMPEA {
+    uint32 LFOCJEADKPK = 7;
+    int32 EEDMFEOGLFN = 6;
+}
+

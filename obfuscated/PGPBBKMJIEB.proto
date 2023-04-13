@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HGFJKBCKJFE.proto";
+import "INPDDALBMBO.proto";
+import "KLODNOOCDPE.proto";
+
+// Name: PGPBBKMJIEB
+message PGPBBKMJIEB {
+    bool MFBLCKKNECK = 12;
+    repeated uint32 FANCDPPOIGF = 10;
+    KLODNOOCDPE MGEMFCJNAFI = 13;
+    repeated uint32 FDDPLJAJCJF = 7;
+    repeated HGFJKBCKJFE BDHBIIAMBIL = 9;
+    KLODNOOCDPE BKACLBHGLNE = 15;
+    repeated INPDDALBMBO LDBAGOIPJPC = 8;
+    repeated uint32 JPFBCGKIAJL = 4;
+}
+

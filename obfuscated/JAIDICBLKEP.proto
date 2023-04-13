@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AFOALEMHCMM.proto";
+import "LIHFDPHMIGJ.proto";
+
+// CmdId: 1296
+// Name: JAIDICBLKEP
+message JAIDICBLKEP {
+    repeated LIHFDPHMIGJ KNEDKLODAND = 13;
+    uint32 HJDCMHNDEKE = 3;
+    string NGLLHBELBPB = 10;
+    AFOALEMHCMM NIMEAPHOOIK = 15;
+    uint32 DMBFPFFMFCM = 5;
+    uint32 ABIIBMGJNKM = 8;
+    uint32 JLAJOCMEDGG = 2;
+}
+

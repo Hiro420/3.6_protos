@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BKGNOBPMPHD
+message BKGNOBPMPHD {
+    uint32 CANGDGHGIIF = 10;
+    uint32 FEBNFKEKJIF = 2;
+    uint32 KNKAGODLFEH = 12;
+    uint32 MDNMOJAPBKB = 15;
+}
+

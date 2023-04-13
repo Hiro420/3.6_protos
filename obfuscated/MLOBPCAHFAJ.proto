@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HFEKCMGDEAI.proto";
+
+// CmdId: 304
+// Name: MLOBPCAHFAJ
+message MLOBPCAHFAJ {
+    map<uint32, HFEKCMGDEAI> CCCGKLLFNJI = 9;
+}
+

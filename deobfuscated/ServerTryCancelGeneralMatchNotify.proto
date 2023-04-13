@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4175
+// Name: EACOAPHAKOH
+message ServerTryCancelGeneralMatchNotify {
+    uint32 match_id = 5;
+}
+

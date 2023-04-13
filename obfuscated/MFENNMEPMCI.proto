@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INCOBHPDNFA.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: MFENNMEPMCI
+message MFENNMEPMCI {
+    KKFEDHALJFH DBDEEBCMHMM = 14;
+    KKFEDHALJFH EHADCOBANHG = 5;
+    uint32 KHGBOJGNBIM = 4;
+    uint32 EEMILGMLGOH = 9;
+    repeated INCOBHPDNFA MFMLMGCINJB = 6;
+}
+

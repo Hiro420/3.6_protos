@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OKDOOEMGDLK.proto";
+
+// CmdId: 6322
+// Name: HMPGIICKHMD
+message HMPGIICKHMD {
+    int32 EEDMFEOGLFN = 9;
+    OKDOOEMGDLK KFFPLKOPJLE = 2;
+    uint64 PJDFHKIKLNM = 11;
+    bool HCPNAKKHMCK = 1;
+}
+

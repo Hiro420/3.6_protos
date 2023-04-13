@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EJAIGOIJOFM.proto";
+
+// CmdId: 1046
+// Name: IINMOIBOOAB
+message IINMOIBOOAB {
+    repeated EJAIGOIJOFM PFCKLEMEOOL = 9;
+}
+

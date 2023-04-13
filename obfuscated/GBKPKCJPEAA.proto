@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3062
+// Name: GBKPKCJPEAA
+message GBKPKCJPEAA {
+    uint32 LNDLCHHFFEA = 13;
+    uint32 OLGJHFAHKNA = 6;
+    uint32 FGEIEPJKHDL = 1;
+}
+

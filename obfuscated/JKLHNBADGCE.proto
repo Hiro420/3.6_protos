@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HJABBOGMGEL.proto";
+
+// CmdId: 7068
+// Name: JKLHNBADGCE
+message JKLHNBADGCE {
+    bool GGGLINEIFCC = 2;
+    HJABBOGMGEL OAIKAEKJICF = 13;
+}
+

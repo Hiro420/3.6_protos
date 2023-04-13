@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PHALMEICHMB.proto";
+
+// Name: AHGKMMHDLNC
+message AHGKMMHDLNC {
+    repeated PHALMEICHMB DLPEGIMPGFH = 3;
+    uint32 JJGGAPDDOLN = 5;
+    bool FKOBJPCKIFJ = 7;
+}
+

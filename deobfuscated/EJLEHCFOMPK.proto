@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 21504
+// Name: EJLEHCFOMPK
+message EJLEHCFOMPK {
+    uint64 ugc_guid = 14;
+    int32 retcode = 5;
+    uint32 music_basic_id = 12;
+}
+

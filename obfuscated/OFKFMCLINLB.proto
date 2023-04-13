@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1818
+// Name: OFKFMCLINLB
+message OFKFMCLINLB {
+    uint32 ICDAIDNAOBK = 4;
+    bool JALOBAFFAFN = 11;
+}
+

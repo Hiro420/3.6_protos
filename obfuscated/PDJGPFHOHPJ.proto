@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1967
+// Name: PDJGPFHOHPJ
+message PDJGPFHOHPJ {
+    map<uint32, int32> KINJAIJMLPM = 12;
+    uint32 ILIMMJMCGOA = 5;
+    uint32 HJLEBAHLAOL = 15;
+    map<uint32, int32> JFNGFEFMHMM = 11;
+    uint32 FHNJFGMHNEB = 1;
+}
+

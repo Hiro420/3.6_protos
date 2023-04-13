@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OBCKFOADHHK.proto";
+
+// Name: CNGJBCGMEMK
+message CNGJBCGMEMK {
+    map<uint32, OBCKFOADHHK> MFIPEOHACIO = 10;
+    uint32 JFAFMJAFPEF = 11;
+}
+

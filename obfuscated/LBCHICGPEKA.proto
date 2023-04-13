@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LBCHICGPEKA
+message LBCHICGPEKA {
+    uint32 EEPIFMDOOHM = 11;
+    uint32 MDNMOJAPBKB = 2;
+    uint32 KFACNCAIMAM = 12;
+}
+

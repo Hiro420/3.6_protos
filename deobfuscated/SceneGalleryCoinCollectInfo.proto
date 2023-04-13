@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DFOAIKFHIOB
+message SceneGalleryCoinCollectInfo {
+    uint32 DKAPCHHJPCM = 9;
+    uint32 EEBBADCOGNG = 3;
+}
+

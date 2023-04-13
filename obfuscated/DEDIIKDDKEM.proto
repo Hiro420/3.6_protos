@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CMELEBGINMN.proto";
+
+// CmdId: 127
+// Name: DEDIIKDDKEM
+message DEDIIKDDKEM {
+    bytes CKGOGJCKNOF = 11;
+    uint32 HJLEBAHLAOL = 12;
+    CMELEBGINMN KEKHBOCNIEJ = 8;
+    uint32 NCAHLFOHMEA = 2;
+}
+

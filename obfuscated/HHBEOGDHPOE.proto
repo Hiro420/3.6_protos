@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HHBEOGDHPOE
+message HHBEOGDHPOE {
+    // Name: KMFLDPIJABG
+    enum KMFLDPIJABG {
+        KMFLDPIJABG_LEVEL = 0;
+        KMFLDPIJABG_QUEST = 1;
+    }
+
+    uint32 GKCJMLGNMCL = 7;
+    KMFLDPIJABG IBAMPNEKFPC = 4;
+    oneof AABFAKKCGJL {
+        uint32 LANNIFHAGJI = 8;
+        uint32 HCGIBBGCFHO = 12;
+    }
+}
+

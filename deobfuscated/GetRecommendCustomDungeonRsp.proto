@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OtherCustomDungeonBrief.proto";
+
+// CmdId: 6248
+// Name: HMDPFFCIFCD
+message GetRecommendCustomDungeonRsp {
+    int32 retcode = 11;
+    repeated OtherCustomDungeonBrief custom_dungeon_list = 3;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5489
+// Name: EPHAEALIPIJ
+message EPHAEALIPIJ {
+    uint32 MFOOMFBLNMK = 8;
+}
+

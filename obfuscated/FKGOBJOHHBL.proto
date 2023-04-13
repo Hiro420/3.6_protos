@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FKGOBJOHHBL
+message FKGOBJOHHBL {
+    bool MDPDECFIPAN = 11;
+    uint32 MCLGPJGPNJD = 1;
+    uint32 KPAOGOLFPCB = 10;
+    bool DJFAOPBHEAL = 4;
+    bool OPBALHEMOEE = 3;
+}
+

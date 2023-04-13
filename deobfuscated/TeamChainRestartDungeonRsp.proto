@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 21962
+// Name: ODJNBPIOAOK
+message TeamChainRestartDungeonRsp {
+    int32 retcode = 4;
+}
+

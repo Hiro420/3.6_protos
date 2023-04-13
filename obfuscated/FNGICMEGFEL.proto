@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1663
+// Name: FNGICMEGFEL
+message FNGICMEGFEL {
+    uint32 EPLAOCBKEBP = 12;
+    uint64 FPIIPJJPBOH = 10;
+}
+

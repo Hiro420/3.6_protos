@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DMLOGFGNFCA.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: KKJAKFLICEJ
+message KKJAKFLICEJ {
+    uint32 HCGIBBGCFHO = 5;
+    KKFEDHALJFH DBDEEBCMHMM = 6;
+    KKFEDHALJFH EHADCOBANHG = 7;
+    uint32 FGEIEPJKHDL = 10;
+    uint32 PECOGIHGJDC = 11;
+    uint32 HIKNDBDDLPA = 12;
+    oneof HKJMNHAJJBI {
+        uint32 FPMNNICBLJG = 1;
+        uint32 KJFPEMKMEAB = 2;
+        uint32 CBGNJHFJMLP = 3;
+        uint32 GMJNLBGNFEJ = 4;
+    }
+    oneof CPEAGMFAGEK {
+        DMLOGFGNFCA ACEBEJHEFNO = 13;
+    }
+}
+

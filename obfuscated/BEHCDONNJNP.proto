@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CFOCPOEDBJC.proto";
+import "HFPGMAKDKLF.proto";
+import "LJLCOKBCBOG.proto";
+
+// CmdId: 21749
+// Name: BEHCDONNJNP
+message BEHCDONNJNP {
+    HFPGMAKDKLF CNDKFAMECDF = 4;
+    uint32 KMGHMPICLEE = 15;
+    repeated LJLCOKBCBOG HPCEKLCECKB = 3;
+    repeated CFOCPOEDBJC EANNAIMKIOB = 2;
+    bool GBHJHJENFGK = 1;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 3285
+// Name: NFEMBPCMDLK
+message UnlockTransPointReq {
+    uint32 point_id = 9;
+    uint32 scene_id = 15;
+}
+

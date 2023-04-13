@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HHHABMICCBP
+message HHHABMICCBP {
+    uint32 JJGGAPDDOLN = 11;
+    uint32 HDMDJECGCKC = 3;
+    bool LODOAPOPHCN = 14;
+    bool FKOBJPCKIFJ = 9;
+}
+

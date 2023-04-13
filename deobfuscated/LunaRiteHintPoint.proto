@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LunaRiteHintPointType.proto";
+import "Vector.proto";
+
+// Name: NKMCNBPFMBJ
+message LunaRiteHintPoint {
+    LunaRiteHintPointType type = 5;
+    uint32 index = 1;
+    uint32 area_id = 14;
+    Vector pos = 10;
+}
+

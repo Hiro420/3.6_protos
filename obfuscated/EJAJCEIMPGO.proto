@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KGFCFBBHNII.proto";
+
+// CmdId: 1764
+// Name: EJAJCEIMPGO
+message EJAJCEIMPGO {
+    uint32 CNDKFAMECDF = 15;
+    repeated KGFCFBBHNII FBGCPIFOONC = 12;
+    uint32 JDADDHJIBLE = 5;
+    uint32 GMJNLBGNFEJ = 2;
+    uint32 MFCJNNNFCGF = 4;
+    uint32 DJLDIADKNCF = 14;
+    bool PKKJOHNPMAB = 3;
+}
+

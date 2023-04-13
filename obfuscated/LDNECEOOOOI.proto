@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BEHGLPOBCPO.proto";
+
+// Name: LDNECEOOOOI
+message LDNECEOOOOI {
+    map<uint32, BEHGLPOBCPO> IEJKDEODNLN = 13;
+    map<uint32, uint32> FLKJMCLKOBB = 4;
+    repeated uint32 HANLLAGDDMN = 10;
+}
+

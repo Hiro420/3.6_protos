@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HCBHHEKABOD.proto";
+
+// CmdId: 8317
+// Name: OOMIPNMLMFN
+message OOMIPNMLMFN {
+    uint32 GAILDAHOMAG = 8;
+    int32 EEDMFEOGLFN = 1;
+    uint32 PNLBJABJLFC = 9;
+    repeated HCBHHEKABOD LKEGHGLBPKN = 2;
+    uint32 LADPDBLGKLP = 14;
+    uint32 JJGGAPDDOLN = 15;
+}
+

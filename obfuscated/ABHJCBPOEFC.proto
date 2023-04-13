@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8250
+// Name: ABHJCBPOEFC
+message ABHJCBPOEFC {
+    uint32 LFOCJEADKPK = 14;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1613
+// Name: HAGAEOHPAKD
+message HAGAEOHPAKD {
+    int32 IKGNEAHBGOJ = 11;
+    string AMCINKLPCBC = 12;
+}
+

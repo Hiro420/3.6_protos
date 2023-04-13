@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PLKEBHIPGAB
+enum PLKEBHIPGAB {
+    PLKEBHIPGAB_MATERIAL_DELETE_RETURN_BAG = 0;
+    PLKEBHIPGAB_MATERIAL_DELETE_RETURN_SEED = 1;
+}
+

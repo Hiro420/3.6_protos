@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BMPEBBNDFKL
+message BMPEBBNDFKL {
+    uint32 FMNHNACBJIN = 1;
+    uint32 GKJDJFMFEMH = 2;
+}
+

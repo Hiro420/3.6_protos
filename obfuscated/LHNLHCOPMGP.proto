@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BPJKMCDHCOJ.proto";
+
+// Name: LHNLHCOPMGP
+message LHNLHCOPMGP {
+    uint32 GPGPMFDFCMN = 13;
+    uint32 DPKCLCKNEOF = 6;
+    BPJKMCDHCOJ GGLMJKGICBA = 9;
+    uint32 CDJPPMFEPHL = 12;
+    uint32 FKCCBPJENFJ = 5;
+    uint32 BLILHBOJOCD = 3;
+}
+

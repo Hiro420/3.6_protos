@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: IJBDFMLMJMF
+message IJBDFMLMJMF {
+    uint32 BIBEPDEFKDP = 1;
+    uint32 MCBAKLHGKOG = 2;
+    uint32 CIBCKFAJLEF = 5;
+    uint32 GOMEGAHKEMD = 15;
+}
+

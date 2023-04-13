@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PPPPFCNAIDN.proto";
+
+// CmdId: 843
+// Name: EMNIKEJHFDC
+message EMNIKEJHFDC {
+    repeated PPPPFCNAIDN GALMJBNKPGJ = 14;
+}
+

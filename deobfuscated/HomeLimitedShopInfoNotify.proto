@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeLimitedShopInfo.proto";
+
+// CmdId: 4825
+// Name: JCKDHCAPEIA
+message HomeLimitedShopInfoNotify {
+    HomeLimitedShopInfo shop_info = 9;
+}
+

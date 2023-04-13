@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1175
+// Name: FLHNPKJFAKG
+message FLHNPKJFAKG {
+    repeated uint32 FMNEMCFMLLF = 4;
+}
+

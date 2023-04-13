@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SealBattleType.proto";
+
+// CmdId: 252
+// Name: AMDDNIGKMJG
+message SealBattleBeginNotify {
+    uint32 NILJHJLDIPH = 13;
+    uint32 seal_entity_id = 15;
+    SealBattleType battle_type = 9;
+    uint32 BLCDBPALGPL = 3;
+}
+

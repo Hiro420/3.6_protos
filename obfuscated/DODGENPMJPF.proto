@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BIFCMPAIENC.proto";
+
+// CmdId: 997
+// Name: DODGENPMJPF
+message DODGENPMJPF {
+    BIFCMPAIENC CNDKFAMECDF = 15;
+    uint32 JMNAJHPFCMM = 11;
+}
+

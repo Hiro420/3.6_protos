@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 299
+// Name: GKBGCPGCPAE
+message GetScenePointRsp {
+    uint32 scene_id = 3;
+    repeated uint32 notInteractDungeonEntryList = 9; // JECOFNNDAJP
+    repeated uint32 toBeExploreDungeonEntryList = 14; // ELNACLNNKIO
+    uint32 belong_uid = 4; 
+    repeated uint32 hide_point_list = 11; // GNNBFLNNODN
+    repeated uint32 locked_point_list = 2; // OLIIBIKADBB
+    repeated uint32 notExploredDungeonEntryList = 1; // CBNONONIPKH
+    repeated uint32 unlockAreaList = 7; // MLBGHEBJAOH
+    bool BJLCFHHIGJD = 10;
+    repeated uint32 unhide_point_list = 13; // BHLFAJLFEGC
+    repeated uint32 groupUnlimitPointList = 8; // MNOLEGHOAOB
+    int32 retcode = 6;
+    repeated uint32 unlocked_point_list = 12;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AGCCGMMBBBL.proto";
+import "NJDPLIMDEEN.proto";
+
+// CmdId: 7023
+// Name: EDEMNOENLJO
+message EDEMNOENLJO {
+    repeated AGCCGMMBBBL CLBHIKIDNIG = 13;
+    repeated uint32 OPEMLNOMGMF = 5;
+    repeated NJDPLIMDEEN MMMLFGAAOCE = 4;
+}
+

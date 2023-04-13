@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 950
+// Name: LDNDCBIJLBK
+message LDNDCBIJLBK {
+    uint32 IHJHBOGKMLA = 12;
+    uint32 JMNAJHPFCMM = 6;
+    uint32 PEIJIABIGCN = 14;
+}
+

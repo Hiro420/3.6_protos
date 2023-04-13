@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HFPGMAKDKLF.proto";
+
+// CmdId: 24786
+// Name: OAELCOKBFKH
+message OAELCOKBFKH {
+    HFPGMAKDKLF CNDKFAMECDF = 7;
+    uint32 HDMDJECGCKC = 8;
+    bool GBHJHJENFGK = 13;
+    uint32 JCFJLLKLHFO = 10;
+    uint32 MDNMOJAPBKB = 5;
+    uint32 CCIKKABKAPE = 1;
+    uint32 MFJBNDHNNMO = 2;
+    uint32 ECLCBCEPGIH = 15;
+    uint32 IFECDFBGBAA = 14;
+    bool HKHAADBCFDO = 3;
+}
+

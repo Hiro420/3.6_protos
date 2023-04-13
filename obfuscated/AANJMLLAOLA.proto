@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 134
+// Name: AANJMLLAOLA
+message AANJMLLAOLA {
+    // Name: HIIPJHPPCOE
+    enum HIIPJHPPCOE {
+        HIIPJHPPCOE_DEFAULT = 0;
+        HIIPJHPPCOE_CLEAR = 1;
+        HIIPJHPPCOE_DISTANCE = 2;
+        HIIPJHPPCOE_FINISH = 3;
+    }
+
+    uint32 HHEDJIFLJGG = 4;
+    bool PBDLJNOKLDJ = 11;
+    HIIPJHPPCOE CNDKFAMECDF = 8;
+}
+

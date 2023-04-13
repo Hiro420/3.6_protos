@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BJGMHMHDCGE.proto";
+
+// CmdId: 883
+// Name: BDHMGDBGLCA
+message BDHMGDBGLCA {
+    uint32 PNLGKNFEFGC = 14;
+    uint32 CGDANDKDOFO = 1;
+    BJGMHMHDCGE IOHBIABMEOC = 10;
+}
+

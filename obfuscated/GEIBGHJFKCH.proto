@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CPMJBNHKIEA.proto";
+import "JLEGECKKDKB.proto";
+
+// Name: GEIBGHJFKCH
+message GEIBGHJFKCH {
+    CPMJBNHKIEA LGAFLFAJCJD = 1;
+    CPMJBNHKIEA GNEABGKLJKJ = 2;
+    repeated JLEGECKKDKB KMGGPLOCMCJ = 3;
+    uint32 KDLINMLAMDC = 4;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IrodoriChessMapData.proto";
+
+// Name: BBOCNPLHGAM
+message IrodoriChessLevelData {
+    IrodoriChessMapData OEMKKEEKONG = 9;
+    uint32 level_id = 8;
+    IrodoriChessMapData JCCNLMMCENC = 15;
+    uint32 open_time = 6;
+}
+

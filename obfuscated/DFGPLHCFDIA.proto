@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DFGPLHCFDIA
+message DFGPLHCFDIA {
+    uint32 JNBEDFOKMPM = 9;
+    int32 OAOONMHKDHI = 6;
+    uint32 HEGAFPDPKFE = 3;
+    uint32 CLGHMJHALKB = 4;
+    uint32 GFAPKLBLADP = 15;
+}
+

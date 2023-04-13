@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 6221
+// Name: BBINENEFGJC
+message BBINENEFGJC {
+    repeated uint32 GNDFCBMMDOM = 12;
+    uint64 DKFHDCGJEJK = 6;
+}
+

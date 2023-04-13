@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PMGGIBMHJEJ.proto";
+
+// CmdId: 978
+// Name: MMLHGEBMPLF
+message MMLHGEBMPLF {
+    PMGGIBMHJEJ ADHLENHFNJG = 1;
+    bool KFDENBODOJL = 11;
+}
+

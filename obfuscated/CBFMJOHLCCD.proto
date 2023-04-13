@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EOOKEMINBGN.proto";
+
+// CmdId: 5196
+// Name: CBFMJOHLCCD
+message CBFMJOHLCCD {
+    int32 EEDMFEOGLFN = 7;
+    repeated EOOKEMINBGN ECHONKEBMDG = 5;
+}
+

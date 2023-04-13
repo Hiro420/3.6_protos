@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: DOHNFLCDCJP
+message DOHNFLCDCJP {
+    KKFEDHALJFH EHADCOBANHG = 1;
+    uint32 LCIFKKCHPCI = 9;
+    uint32 JFAFMJAFPEF = 10;
+    KKFEDHALJFH DBDEEBCMHMM = 2;
+    uint32 FGEIEPJKHDL = 15;
+}
+

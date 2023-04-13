@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MPLIKJPIIPG
+message MPLIKJPIIPG {
+    uint32 KGEIMHOAJAD = 11;
+    bool HEICDPIINEL = 5;
+}
+

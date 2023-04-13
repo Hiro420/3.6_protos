@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GachaItem.proto";
+
+// CmdId: 1576
+// Name: BIMBGHFINGO
+message DoGachaRsp {
+    bool HFEKPDOKLDK = 823; // HFEKPDOKLDK
+    uint32 tenCostItemId = 7; // AOLMBNPLFEO
+    uint32 dailyGachaTimes = 5; // KDFPKENAIOJ
+    bool PKOIBFIOLAO = 651; // PKOIBFIOLAO
+    uint32 gachaTimes = 8; // DKCIEKFPMCG
+    repeated GachaItem gacha_item_list = 4;
+    int32 retcode = 10;
+    uint32 gachaScheduleId = 9; // EJKJHLLCHMC
+    uint32 costItemId = 1; // JICLMBKMGCG
+    uint32 wishMaxProgress = 845; // PELOHDIKFAM
+    uint32 gachaType = 14; // FBIDPNFLBJL
+    uint32 tenCostItemNum = 3; // EAGFIDHCDPD
+    uint32 wishProgress = 15; // BIPHOPJBNHC
+    uint32 newGachaRandom = 2; // KJPOJHMDBNE
+    uint32 wishItemId = 12; // KKDFKKEMEBA
+    uint32 curScheduleDailyGachaTimes = 965; // PKPENDLDPKI
+    uint32 leftGachaTimes = 11; // FIHHLGMNIDM
+    uint32 costItemNum = 6; // OKKJEHDBIHK
+    uint32 gachaTimesLimit = 13; // FBILBJNNIKE
+}
+

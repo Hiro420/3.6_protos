@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ReunionSignInInfo.proto";
+
+// CmdId: 5076
+// Name: NDLOBKKGODC
+message GetReunionSignInInfoRsp {
+    int32 retcode = 12;
+    ReunionSignInInfo sign_in_info = 10;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 3416
+// Name: HLHDHBEFNIJ
+message RefreshEntityAuthNotify {
+    repeated uint32 entity_id_list = 11;
+}
+

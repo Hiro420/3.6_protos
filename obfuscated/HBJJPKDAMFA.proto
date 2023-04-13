@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 681
+// Name: HBJJPKDAMFA
+message HBJJPKDAMFA {
+    uint64 BMAKFKKAFOG = 10;
+    uint64 EJCLMNDCGDP = 14;
+    map<uint32, uint32> MBBINFCHPGP = 11;
+}
+

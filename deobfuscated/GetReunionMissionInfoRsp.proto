@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ReunionMissionInfo.proto";
+
+// CmdId: 5073
+// Name: OKJHIHCODGB
+message GetReunionMissionInfoRsp {
+    ReunionMissionInfo mission_info = 8;
+    int32 retcode = 1;
+}
+

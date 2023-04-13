@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AGFFIOMCMJK.proto";
+
+// CmdId: 2590
+// Name: CNGMBOODNAC
+message CNGMBOODNAC {
+    repeated uint32 EKEIBNDJOCA = 1;
+    repeated AGFFIOMCMJK AEKJPOFIHFK = 10;
+}
+

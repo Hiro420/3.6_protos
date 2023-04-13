@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 188
+// Name: COFPPCENDKD
+message COFPPCENDKD {
+    uint32 EIFPCLGOALG = 1;
+}
+

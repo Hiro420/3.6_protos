@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8126
+// Name: EBBJOPBNHDB
+message PotionRestartDungeonRsp {
+    int32 retcode = 12;
+}
+

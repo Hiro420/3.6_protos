@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8095
+// Name: NEDABGEDHJO
+message NEDABGEDHJO {
+    int32 EEDMFEOGLFN = 11;
+}
+

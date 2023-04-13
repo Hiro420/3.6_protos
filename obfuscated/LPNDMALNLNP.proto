@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LPNDMALNLNP
+message LPNDMALNLNP {
+    uint32 HNAPNHCNEKJ = 7;
+}
+

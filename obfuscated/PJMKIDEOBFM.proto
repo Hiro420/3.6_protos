@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5385
+// Name: PJMKIDEOBFM
+message PJMKIDEOBFM {
+    repeated uint32 HLBLDDOLLBA = 6;
+    uint32 JBMPBFDPKGD = 13;
+}
+

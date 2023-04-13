@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2741
+// Name: DPNNEFOLOFD
+message DPNNEFOLOFD {
+    uint32 KALKPMMFPBF = 2;
+    repeated uint32 MOJJCLHMHCC = 8;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5716
+// Name: LMMGPLEGNFE
+message LMMGPLEGNFE {
+    uint32 AMBDCDLBMAN = 2;
+}
+

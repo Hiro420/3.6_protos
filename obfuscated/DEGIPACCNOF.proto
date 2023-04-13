@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1842
+// Name: DEGIPACCNOF
+message DEGIPACCNOF {
+    bool NCJOJKOHDPE = 15;
+}
+

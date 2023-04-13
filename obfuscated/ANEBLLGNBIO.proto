@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 22295
+// Name: ANEBLLGNBIO
+message ANEBLLGNBIO {
+    bool HKHAADBCFDO = 12;
+    int32 EEDMFEOGLFN = 10;
+}
+

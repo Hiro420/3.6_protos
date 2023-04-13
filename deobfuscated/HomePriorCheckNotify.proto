@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4501
+// Name: EJCDPKLEJEP
+message HomePriorCheckNotify {
+    fixed32 end_time = 4;
+}
+

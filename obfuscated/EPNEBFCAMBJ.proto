@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PEHLILGOPKN.proto";
+
+// CmdId: 399
+// Name: EPNEBFCAMBJ
+message EPNEBFCAMBJ {
+    uint32 FKFFFBMPPBC = 10;
+    PEHLILGOPKN CGAFJIIPALB = 12;
+    uint32 DMBFPFFMFCM = 14;
+    bool EHECGJIGFDL = 13;
+}
+

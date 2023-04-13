@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+import "PIDANILFCHF.proto";
+
+// CmdId: 4345
+// Name: CKGLOBELCOC
+message CKGLOBELCOC {
+    uint32 EIOCPNEFPMC = 10;
+    KKFEDHALJFH LONDFEOCBMM = 4;
+    PIDANILFCHF DEJCDJKMGIK = 15;
+    bool IIMCJLMMBEA = 1;
+}
+

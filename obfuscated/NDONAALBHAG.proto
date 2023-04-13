@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20576
+// Name: NDONAALBHAG
+message NDONAALBHAG {
+    int32 EEDMFEOGLFN = 13;
+}
+

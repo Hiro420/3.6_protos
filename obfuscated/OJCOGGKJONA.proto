@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8687
+// Name: OJCOGGKJONA
+message OJCOGGKJONA {
+    uint32 EMKCFAOFHNA = 9;
+    uint32 JJGGAPDDOLN = 8;
+    uint32 EIKHKJJBOBL = 13;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PFNLMPFONPN.proto";
+
+// CmdId: 6082
+// Name: DDKCAPKPPNI
+message DDKCAPKPPNI {
+    PFNLMPFONPN PBLELJGBPKJ = 11;
+}
+

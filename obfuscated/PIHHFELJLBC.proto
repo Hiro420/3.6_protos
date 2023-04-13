@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 572
+// Name: PIHHFELJLBC
+message PIHHFELJLBC {
+    uint32 CFOPBIKDMGI = 9;
+    int32 EEDMFEOGLFN = 15;
+}
+

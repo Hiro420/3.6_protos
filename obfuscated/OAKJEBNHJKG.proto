@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NBGPGDKIFEN.proto";
+
+// CmdId: 7281
+// Name: OAKJEBNHJKG
+message OAKJEBNHJKG {
+    NBGPGDKIFEN EBEIDCHKPPD = 3;
+}
+

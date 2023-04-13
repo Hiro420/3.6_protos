@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LEODFLGAMBL.proto";
+
+// CmdId: 5347
+// Name: MOHONANDFPN
+message MOHONANDFPN {
+    repeated LEODFLGAMBL DEBBENAOJPB = 6;
+}
+

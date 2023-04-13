@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8579
+// Name: ECJGNLPFACF
+message WinterCampGiveFriendItemRsp {
+    repeated uint32 limit_item_id_list = 9;
+    int32 retcode = 7;
+}
+

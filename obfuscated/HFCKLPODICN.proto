@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HFCKLPODICN
+enum HFCKLPODICN {
+    HFCKLPODICN_WIDGET_CREATOR_TYPE_NONE = 0;
+    HFCKLPODICN_WIDGET_CREATOR_TYPE_RETRACT = 1;
+    HFCKLPODICN_WIDGET_CREATOR_TYPE_RETRACT_AND_CREATE = 2;
+}
+

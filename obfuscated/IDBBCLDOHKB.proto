@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2042
+// Name: IDBBCLDOHKB
+message IDBBCLDOHKB {
+    uint32 BLILHBOJOCD = 5;
+    uint32 LAOBIDKNELB = 6;
+    uint32 JOPJKOGODAM = 4;
+    int32 EEDMFEOGLFN = 11;
+    repeated uint32 FAAOILLELHJ = 12;
+}
+

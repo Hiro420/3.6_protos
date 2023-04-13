@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GINOBGBGIGO.proto";
+import "JFGLKLBDHBF.proto";
+import "OKDOOEMGDLK.proto";
+
+// CmdId: 6345
+// Name: GAGHHOCGHKD
+message GAGHHOCGHKD {
+    OKDOOEMGDLK KFFPLKOPJLE = 12;
+    uint32 LFOCJEADKPK = 2;
+    oneof AEIIGEMKNMM {
+        GINOBGBGIGO IOBHAKJFGPC = 11;
+    }
+    oneof ODAEEKANCDK {
+        JFGLKLBDHBF HEJDBPEKBCO = 555;
+    }
+}
+

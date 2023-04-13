@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5459
+// Name: PPIENGDHNGO
+message PPIENGDHNGO {
+    uint32 MFOOMFBLNMK = 14;
+    bool AHLBALEPDGC = 5;
+}
+

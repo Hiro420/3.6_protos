@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 22742
+// Name: HLCKFFIFGPF
+message HLCKFFIFGPF {
+    uint32 ECMAHANBAAH = 6;
+    int32 EEDMFEOGLFN = 1;
+    uint32 LKANJDEJDDI = 4;
+}
+

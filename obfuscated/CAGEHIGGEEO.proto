@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: CAGEHIGGEEO
+message CAGEHIGGEEO {
+    uint32 PGOCJMIFLCK = 1;
+    uint32 EJAOGEAEKOH = 15;
+    int32 DGBIOOEOHEE = 12;
+    uint32 DMBFPFFMFCM = 13;
+    KKFEDHALJFH OGKJOMCKPDK = 7;
+}
+

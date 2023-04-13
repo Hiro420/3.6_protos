@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JAJEHOIAKLD.proto";
+import "JFMBGGFOPJO.proto";
+import "OLEPOGNDEFB.proto";
+import "OOHOEKGOKIO.proto";
+
+// CmdId: 4109
+// Name: AMMOLOMBCCH
+message AMMOLOMBCCH {
+    JAJEHOIAKLD MLDAGJNBBIP = 9;
+    JFMBGGFOPJO JBLGPCOKNIB = 5;
+    OLEPOGNDEFB BCMLOFBBKCD = 2;
+    OOHOEKGOKIO EKEKKFHKBME = 8;
+}
+

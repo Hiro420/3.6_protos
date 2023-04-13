@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2099
+// Name: NCLAPAOLOLH
+message NCLAPAOLOLH {
+    uint32 LAOBIDKNELB = 14;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 293
+// Name: IGBFEJEONIE
+message IGBFEJEONIE {
+    uint32 BAEPMMGCLLE = 13;
+    KKFEDHALJFH IODNOLBNJFD = 4;
+    int32 EEDMFEOGLFN = 10;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PAMMJHFBDPG.proto";
+
+// CmdId: 1646
+// Name: MJFGNJJDJDN
+message MJFGNJJDJDN {
+    repeated PAMMJHFBDPG LAKOJENFHEJ = 7;
+    bool MEKDFOLFMLA = 4;
+}
+

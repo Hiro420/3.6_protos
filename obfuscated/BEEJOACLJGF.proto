@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FKJLFENEPOJ.proto";
+
+// CmdId: 2896
+// Name: BEEJOACLJGF
+message BEEJOACLJGF {
+    int32 EEDMFEOGLFN = 3;
+    uint32 HEKHEPFHLDL = 12;
+    FKJLFENEPOJ GGPHNNFCOCF = 1;
+}
+

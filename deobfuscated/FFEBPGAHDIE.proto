@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 21778
+// Name: FFEBPGAHDIE
+message FFEBPGAHDIE {
+    int32 retcode = 2;
+}
+

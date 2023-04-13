@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PJIPFEBDAFF.proto";
+
+// Name: FALEIHAMGBK
+message FALEIHAMGBK {
+    repeated PJIPFEBDAFF IHKCEOAKDFG = 8;
+    uint32 PBGIFFMIILN = 10;
+}
+

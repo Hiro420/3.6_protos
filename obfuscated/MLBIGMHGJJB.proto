@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AKPPCGEACLE.proto";
+import "FEFAEBDNOFD.proto";
+import "HBIDFNBNHHF.proto";
+import "JNCLNIFHAEF.proto";
+import "JODIOENNDOF.proto";
+import "KEPMLHIMBHG.proto";
+import "KPEEEJLJLCI.proto";
+import "MMACGCFHLKE.proto";
+import "ODPPGGEINKB.proto";
+import "OFOIBICFDCF.proto";
+
+// Name: MLBIGMHGJJB
+message MLBIGMHGJJB {
+    JNCLNIFHAEF BECPKOBJKKF = 4;
+    repeated AKPPCGEACLE JGFGPJCHMCB = 625;
+    repeated JODIOENNDOF BJMHOKNGLIB = 971;
+    repeated ODPPGGEINKB JJFBOMICIED = 7;
+    uint32 IJIJCEOFJFI = 12;
+    uint32 GDIFDLBCPLK = 1;
+    uint32 DCANKEBLMNC = 9;
+    repeated FEFAEBDNOFD JKDFKNPEFDD = 1773;
+    uint32 CDDPINAKOLH = 11;
+    repeated uint32 ELMGBHLLJOE = 3;
+    KPEEEJLJLCI ADHJFIFJFJD = 10;
+    repeated FEFAEBDNOFD NMKIFLLBAOO = 5;
+    uint32 BNKMINMKDMP = 2;
+    repeated KEPMLHIMBHG MIKNBMHFEIO = 6;
+    MMACGCFHLKE GBKLLENBIAA = 13;
+    repeated uint32 JDOBGMPHLFB = 1263;
+    repeated OFOIBICFDCF JPGPIBNBFKC = 460;
+    uint32 FNFPIGHNBLL = 14;
+    repeated HBIDFNBNHHF CIIGLEABCJE = 15;
+}
+

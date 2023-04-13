@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8586
+// Name: GEOJJNICOPJ
+message WinterCampTriathlonRestartReq {
+    uint32 gallery_id = 6;
+}
+

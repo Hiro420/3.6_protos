@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GFDMALDLDJM
+message GFDMALDLDJM {
+    uint32 NJHPFPPGMHP = 4;
+    map<uint32, uint32> JGMBMKEHMPB = 15;
+    uint32 FOLBDGFAJHK = 14;
+    uint32 GPJDOAEHFGN = 8;
+}
+

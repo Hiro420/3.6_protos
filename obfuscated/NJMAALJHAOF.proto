@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4022
+// Name: NJMAALJHAOF
+message NJMAALJHAOF {
+    string FLJJCLIMMJA = 11;
+    uint32 JBMPBFDPKGD = 3;
+}
+

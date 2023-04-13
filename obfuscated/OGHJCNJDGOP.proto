@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DHGBKMMCECM.proto";
+import "PEHLILGOPKN.proto";
+
+// Name: OGHJCNJDGOP
+message OGHJCNJDGOP {
+    DHGBKMMCECM AFHGPHJPFAE = 2;
+    PEHLILGOPKN CGAFJIIPALB = 10;
+    bytes HGLHIGGFFIA = 7;
+}
+

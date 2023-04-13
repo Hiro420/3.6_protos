@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GDMLOGBJIGP.proto";
+
+// CmdId: 5100
+// Name: HLJAMFHGDMO
+message HLJAMFHGDMO {
+    uint32 FILHECJHLJD = 7;
+    uint32 MAEEFMMLAPD = 10;
+    int32 EEDMFEOGLFN = 5;
+    GDMLOGBJIGP ODFBBFHPAIM = 12;
+}
+

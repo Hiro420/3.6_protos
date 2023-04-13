@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EKPPHANLAGM.proto";
+import "ICKOIGGMFOK.proto";
+
+// Name: KDCAMFJFOIB
+message KDCAMFJFOIB {
+    bool FJABJOMKANJ = 6;
+    repeated uint32 EPJAPKIPHKN = 9;
+    repeated ICKOIGGMFOK PLLAKOGCEAF = 8;
+    repeated uint32 KELDDECINAF = 5;
+    repeated EKPPHANLAGM CDPLNKGGFIL = 12;
+    bool MFBLCKKNECK = 7;
+}
+

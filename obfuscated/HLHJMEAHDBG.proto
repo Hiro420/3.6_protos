@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KIAHPIKPLMH.proto";
+
+// CmdId: 7020
+// Name: HLHJMEAHDBG
+message HLHJMEAHDBG {
+    uint32 AMEJLPJCENL = 10;
+    KIAHPIKPLMH CIIKDLCIMEJ = 3;
+    int32 EEDMFEOGLFN = 4;
+    uint32 HDMDJECGCKC = 5;
+    repeated uint32 DKMOFJKMINH = 2;
+    repeated uint32 IEKDCIFFABE = 11;
+}
+

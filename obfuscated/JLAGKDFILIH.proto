@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5086
+// Name: JLAGKDFILIH
+message JLAGKDFILIH {
+    uint32 OFBGMCBHHJJ = 9;
+    uint32 OLEBJHOKNAH = 12;
+    int32 EEDMFEOGLFN = 14;
+}
+

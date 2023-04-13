@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKJAKFLICEJ.proto";
+
+// CmdId: 463
+// Name: PAADNAFBNIB
+message PAADNAFBNIB {
+    KKJAKFLICEJ JCJOHOJDHND = 2;
+    uint32 MEJDAEOJCFP = 5;
+    uint32 OHBALLHKMLM = 11;
+    bool NLALLNOLKML = 1;
+}
+

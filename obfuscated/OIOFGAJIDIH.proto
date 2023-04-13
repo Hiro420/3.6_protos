@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HKLPDBAPNMI.proto";
+import "LJLCOKBCBOG.proto";
+
+// CmdId: 6598
+// Name: OIOFGAJIDIH
+message OIOFGAJIDIH {
+    uint32 FCIFCABFFHJ = 13;
+    uint32 BEJLIKCLKPN = 5;
+    repeated HKLPDBAPNMI EANNAIMKIOB = 15;
+    repeated LJLCOKBCBOG HPCEKLCECKB = 11;
+    bool HENFMNOKAGA = 14;
+    uint32 FALIEFLKLCF = 12;
+    uint32 MGOAOLCGNIJ = 1;
+    repeated uint32 CDDCELPIEGB = 3;
+    bool FIJLBOBHPDN = 7;
+}
+

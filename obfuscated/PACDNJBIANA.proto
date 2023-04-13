@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1803
+// Name: PACDNJBIANA
+message PACDNJBIANA {
+    uint32 JFAFMJAFPEF = 9;
+}
+

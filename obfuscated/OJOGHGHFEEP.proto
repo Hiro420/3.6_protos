@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BPDPHKJNGFI.proto";
+
+// Name: OJOGHGHFEEP
+message OJOGHGHFEEP {
+    uint32 ELIEBOMLPDN = 1;
+    uint32 FCIFCABFFHJ = 2;
+    repeated uint32 DOENFEBOKMK = 3;
+    uint32 CJDOJOFLAMM = 4;
+    uint32 DILMPOBNGPN = 5;
+    uint32 MIEDMELHOLI = 6;
+    oneof CEOENIBCCPI {
+        BPDPHKJNGFI OLLEKCHMJND = 21;
+    }
+}
+

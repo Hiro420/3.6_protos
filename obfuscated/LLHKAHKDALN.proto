@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LPGAFDIGHDF.proto";
+
+// Name: LLHKAHKDALN
+message LLHKAHKDALN {
+    bool DEMDKMDDPMN = 6;
+    repeated uint32 IMBLJPHBNPB = 13;
+    map<uint32, uint32> JDBDDFJCFMK = 9;
+    bool APFHDAJLGLN = 7;
+    uint32 BLCEPEMCKEM = 1;
+    uint32 HCGIBBGCFHO = 12;
+    oneof OFDMLDLAIEN {
+        LPGAFDIGHDF NMCGIODKPLC = 1777;
+    }
+}
+

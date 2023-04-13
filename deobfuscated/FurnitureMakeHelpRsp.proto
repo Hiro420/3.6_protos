@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FurnitureMakeHelpData.proto";
+
+// CmdId: 4567
+// Name: EDBKNPNNLMH
+message FurnitureMakeHelpRsp {
+    int32 retcode = 13;
+    repeated FurnitureMakeHelpData help_data_list = 14;
+}
+

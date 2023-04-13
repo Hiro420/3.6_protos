@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FCINIPEMLPE.proto";
+
+// CmdId: 4806
+// Name: BIIGHBNLEOI
+message BIIGHBNLEOI {
+    uint32 PPHOPICALDH = 9;
+    string GNKOKFIAMFN = 4;
+    uint32 EDDFCBOLKKN = 6;
+    FCINIPEMLPE CACPEANKLNK = 13;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LPJODIDIFIL
+enum LPJODIDIFIL {
+    LPJODIDIFIL_BATTLE_PASS_UNLOCK_INVALID = 0;
+    LPJODIDIFIL_BATTLE_PASS_UNLOCK_FREE = 1;
+    LPJODIDIFIL_BATTLE_PASS_UNLOCK_PAID = 2;
+}
+

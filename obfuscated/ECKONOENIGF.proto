@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MFDDAHPDKOD.proto";
+
+// CmdId: 1263
+// Name: ECKONOENIGF
+message ECKONOENIGF {
+    float FGKBBAEEDNP = 13;
+    float FPMJFLPIOAM = 6;
+    uint32 HINMLENBAFO = 7;
+    MFDDAHPDKOD CNDKFAMECDF = 3;
+}
+

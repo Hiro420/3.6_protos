@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FIBFPHIAJHG.proto";
+
+// CmdId: 4096
+// Name: MEEFPHGBHDK
+message MEEFPHGBHDK {
+    repeated FIBFPHIAJHG ODDPOGPIAMF = 9;
+    repeated FIBFPHIAJHG BMEBLKDFCBG = 8;
+    int32 EEDMFEOGLFN = 5;
+}
+

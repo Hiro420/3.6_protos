@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8648
+// Name: HLMGLPKCHGE
+message HLMGLPKCHGE {
+    int32 EEDMFEOGLFN = 14;
+    uint32 HJLEBAHLAOL = 5;
+}
+

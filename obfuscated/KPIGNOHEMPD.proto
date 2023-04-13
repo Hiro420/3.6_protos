@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2171
+// Name: KPIGNOHEMPD
+message KPIGNOHEMPD {
+    uint32 ECMMHDFBILH = 3;
+    int32 EEDMFEOGLFN = 10;
+    uint32 GMJNLBGNFEJ = 12;
+}
+

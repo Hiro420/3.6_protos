@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 943
+// Name: FGPAKHMHGDN
+message FGPAKHMHGDN {
+    bool AALDEBEDLON = 7;
+}
+

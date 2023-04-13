@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BJACKBJGDPJ.proto";
+import "NKMCNBPFMBJ.proto";
+
+// CmdId: 8822
+// Name: JBGDFBKCNFH
+message JBGDFBKCNFH {
+    repeated NKMCNBPFMBJ NLCFOCCFPDG = 11;
+    uint32 MOLCMPFBACG = 7;
+    BJACKBJGDPJ MCPOGCFBGNF = 12;
+    int32 EEDMFEOGLFN = 13;
+}
+

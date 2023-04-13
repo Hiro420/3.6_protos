@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8141
+// Name: AALBIADOICE
+message AALBIADOICE {
+    repeated uint32 BOPDBMCMJPH = 13;
+    uint32 PNLBJABJLFC = 3;
+}
+

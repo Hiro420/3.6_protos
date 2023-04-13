@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BMPLONCEFFO.proto";
+import "CPEBANBOLHC.proto";
+import "NOOFJAGIGGO.proto";
+
+// Name: BHFMHLDBBID
+message BHFMHLDBBID {
+    BMPLONCEFFO PBJKLENGGCL = 9;
+    CPEBANBOLHC NBOPGIKNEDF = 3;
+    NOOFJAGIGGO JEDMMPLFPHA = 5;
+}
+

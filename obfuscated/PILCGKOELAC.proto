@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2063
+// Name: PILCGKOELAC
+message PILCGKOELAC {
+    uint32 JBMPBFDPKGD = 5;
+    uint32 IPEFBBNMAKJ = 7;
+}
+

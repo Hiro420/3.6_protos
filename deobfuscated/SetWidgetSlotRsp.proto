@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "WidgetSlotOp.proto";
+import "WidgetSlotTag.proto";
+
+// CmdId: 4296
+// Name: HDJLOAEAPLC
+message SetWidgetSlotRsp {
+    uint32 material_id = 12;
+    WidgetSlotOp op = 15;
+    int32 retcode = 2;
+    repeated WidgetSlotTag tag_list = 14;
+}
+

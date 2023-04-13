@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4064
+// Name: PPLMPOEMAAO
+message PPLMPOEMAAO {
+    repeated uint32 FMNAELFNBMC = 15;
+    int32 EEDMFEOGLFN = 9;
+    uint32 JBMPBFDPKGD = 2;
+}
+

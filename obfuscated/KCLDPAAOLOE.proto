@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KCLDPAAOLOE
+message KCLDPAAOLOE {
+    bool BCKJALNOGKD = 3;
+    uint32 GFNMGEGMMOP = 5;
+    repeated uint32 KMKDDIFOCIH = 14;
+}
+

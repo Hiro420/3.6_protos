@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 335
+// Name: FPBBGCJGPON
+message FPBBGCJGPON {
+    bool DLONJCBCFJI = 1;
+    uint32 JMHFBMHOEOA = 3;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IOCHFIJHLDK.proto";
+
+// CmdId: 8073
+// Name: KCFIMDHNONF
+message KCFIMDHNONF {
+    int32 EEDMFEOGLFN = 9;
+    repeated IOCHFIJHLDK NGMEOMDAPBB = 3;
+    uint32 LFOCJEADKPK = 8;
+}
+

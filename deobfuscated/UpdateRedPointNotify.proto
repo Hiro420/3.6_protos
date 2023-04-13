@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "RedPointData.proto";
+
+// CmdId: 39
+// Name: GFOBEJIPOED
+message UpdateRedPointNotify {
+    repeated RedPointData red_point_list = 3;
+}
+

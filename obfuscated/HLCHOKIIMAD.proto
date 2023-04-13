@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MJNHGKMPCBM.proto";
+
+// Name: HLCHOKIIMAD
+message HLCHOKIIMAD {
+    repeated uint32 APBPIKOGONJ = 7;
+    uint32 FNFPIGHNBLL = 2;
+    repeated MJNHGKMPCBM EDGEAPPCNJL = 8;
+}
+

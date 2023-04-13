@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeBlueprintSearchInfo.proto";
+
+// CmdId: 4697
+// Name: JMBIGNLPDEC
+message HomeSearchBlueprintRsp {
+    int32 retcode = 8;
+    HomeBlueprintSearchInfo search_info = 14;
+}
+

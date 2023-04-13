@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JBIABBAALGA
+enum JBIABBAALGA {
+    JBIABBAALGA_NONE = 0;
+    JBIABBAALGA_E_SKILL_SHARED = 1;
+}
+

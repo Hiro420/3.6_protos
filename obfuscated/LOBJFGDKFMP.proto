@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JACLEOIAGLK.proto";
+
+// CmdId: 5572
+// Name: LOBJFGDKFMP
+message LOBJFGDKFMP {
+    int32 EEDMFEOGLFN = 9;
+    repeated JACLEOIAGLK MEGIGGPCOLJ = 14;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2909
+// Name: AMPEPAJDMFH
+message AMPEPAJDMFH {
+    uint32 BLCEPEMCKEM = 11;
+    uint32 PKDJIGJDEJE = 9;
+    uint32 AMEJLPJCENL = 3;
+}
+

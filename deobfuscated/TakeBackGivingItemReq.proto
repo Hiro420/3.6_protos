@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 111
+// Name: LEIKEGJEGAP
+message TakeBackGivingItemReq {
+    uint32 giving_id = 9;
+}
+

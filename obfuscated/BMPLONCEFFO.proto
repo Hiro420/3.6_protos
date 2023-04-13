@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MENLENKDBJH.proto";
+
+// Name: BMPLONCEFFO
+message BMPLONCEFFO {
+    repeated MENLENKDBJH CBMFGIBNLAB = 6;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ENGBKEBLFFD.proto";
+
+// Name: EOHHMLMKABI
+message EOHHMLMKABI {
+    repeated ENGBKEBLFFD JPAPAPPGODM = 5;
+    repeated uint32 COGIIPOBNCN = 15;
+    repeated uint32 KLBGALDPIJK = 4;
+    repeated uint32 HBGNHHJEENH = 12;
+    repeated uint32 EOICLHOPHNL = 11;
+}
+

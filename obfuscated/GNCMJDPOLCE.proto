@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GNCMJDPOLCE
+message GNCMJDPOLCE {
+    // Name: PPHCOKFGLOL
+    enum PPHCOKFGLOL {
+        PPHCOKFGLOL_INVALID = 0;
+        PPHCOKFGLOL_RUNNING = 1;
+        PPHCOKFGLOL_FINISHED = 2;
+    }
+
+    map<uint32, int32> JFNGFEFMHMM = 5;
+    uint32 HJLEBAHLAOL = 12;
+    uint32 FHNJFGMHNEB = 10;
+    repeated uint32 NDCGDOIPKNJ = 8;
+    map<uint32, uint32> FNHJMNBKIGK = 11;
+    map<uint32, int32> KINJAIJMLPM = 2;
+    PPHCOKFGLOL JEOKINJEAJB = 4;
+}
+

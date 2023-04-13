@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 3408
+// Name: BBAEFJPLEPN
+message BBAEFJPLEPN {
+    repeated uint32 scene_tag_id_list = 7;
+    uint32 IDGBKGGNBFD = 11;
+}
+

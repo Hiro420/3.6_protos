@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8424
+// Name: LEDKBLPLFGB
+message LEDKBLPLFGB {
+    int32 EEDMFEOGLFN = 13;
+    uint32 EHPIOILFBIN = 15;
+    uint32 HDMDJECGCKC = 9;
+    bool LOEACBGBDKG = 1;
+}
+

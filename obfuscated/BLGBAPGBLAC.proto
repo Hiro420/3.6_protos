@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8139
+// Name: BLGBAPGBLAC
+message BLGBAPGBLAC {
+    int32 EEDMFEOGLFN = 13;
+    uint32 JJGGAPDDOLN = 8;
+    uint32 LCLFGCABJLL = 1;
+}
+

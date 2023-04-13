@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: EODBPMNMPEJ
+message EODBPMNMPEJ {
+    uint32 HDPJCNBFLEB = 12;
+}
+

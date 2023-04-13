@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KHKOLNIDAEP.proto";
+
+// CmdId: 241
+// Name: EBBFDEDKBNO
+message EBBFDEDKBNO {
+    KHKOLNIDAEP HCGMNBIDLFE = 3;
+    uint32 KAHKHODLMPL = 5;
+    repeated uint32 LNFNIMPJAKF = 4;
+}
+

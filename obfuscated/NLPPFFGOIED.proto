@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NEFLDLBMEOI.proto";
+
+// CmdId: 5765
+// Name: NLPPFFGOIED
+message NLPPFFGOIED {
+    NEFLDLBMEOI JKPBDDHGJPB = 7;
+}
+

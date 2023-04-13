@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: AEPGHCMCNGG
+message AEPGHCMCNGG {
+    uint32 DNNKALHEPAJ = 15;
+    repeated uint32 PCLBJKHFMML = 5;
+}
+

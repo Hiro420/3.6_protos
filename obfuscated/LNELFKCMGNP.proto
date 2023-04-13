@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7879
+// Name: LNELFKCMGNP
+message LNELFKCMGNP {
+    uint32 HGCINBLHFLN = 5;
+    uint32 BIEJNHMGMON = 14;
+}
+

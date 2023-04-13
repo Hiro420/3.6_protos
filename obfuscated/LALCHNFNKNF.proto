@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EODBPMNMPEJ.proto";
+import "KOAFDCGEPAH.proto";
+
+// CmdId: 5590
+// Name: LALCHNFNKNF
+message LALCHNFNKNF {
+    uint32 JFAFMJAFPEF = 11;
+    uint32 ECLCBCEPGIH = 10;
+    uint32 DILMPOBNGPN = 9;
+    uint32 BJEOCHCOHMH = 5;
+    uint32 PLIPJKLBFAF = 7;
+    oneof OFDMLDLAIEN {
+        KOAFDCGEPAH JMEBKKPONEP = 2;
+        EODBPMNMPEJ OMKDFPOJGHC = 8;
+    }
+}
+

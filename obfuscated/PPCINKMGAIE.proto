@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PPCINKMGAIE
+message PPCINKMGAIE {
+    uint32 FKFBGLNNIPA = 1;
+    repeated uint32 GFPILCGFLIP = 2;
+    uint32 EAEFJHOEDAD = 3;
+}
+

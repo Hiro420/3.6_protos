@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1717
+// Name: KMCIHDKBABI
+message KMCIHDKBABI {
+    uint32 FGEIEPJKHDL = 13;
+    uint32 MOLCMPFBACG = 6;
+}
+

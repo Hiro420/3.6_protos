@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8677
+// Name: LNGLOPJLLNH
+message LNGLOPJLLNH {
+    map<uint32, uint32> GBGOAJFMENF = 5;
+    bool JIDKLDHLJCF = 13;
+    uint32 EHPIOILFBIN = 12;
+    bool AIDFMEHGLNF = 3;
+}
+

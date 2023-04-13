@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+import "LJEKGNLHFBO.proto";
+import "OBFFNAGDGMJ.proto";
+
+// CmdId: 3222
+// Name: CDIJDIKAMLC
+message CDIJDIKAMLC {
+    bool EBMNNMLGDFM = 13;
+    uint32 BMCPCINJEAI = 5;
+    uint32 JEJEJCACLMD = 1;
+    uint32 DAJKMINBALI = 14;
+    KKFEDHALJFH HBHLNDEEHDC = 7;
+    bool EMOONDLNHJK = 6;
+    int32 AMDIIDMCBND = 9;
+    uint32 KLHMJNPKGJP = 4;
+    oneof LFMGCJMMNED {
+        float AJLDPNJHIMN = 1292;
+        KKFEDHALJFH MIPMIBMAPNL = 362;
+        OBFFNAGDGMJ JFENPDLLENI = 208;
+        LJEKGNLHFBO JFAFHJNOMBI = 886;
+    }
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LGLPAMOMGHI.proto";
+
+// Name: JPAKFKCGEAN
+message JPAKFKCGEAN {
+    repeated uint32 HLBLDDOLLBA = 2;
+    repeated LGLPAMOMGHI AOAKGOPBGIH = 10;
+}
+

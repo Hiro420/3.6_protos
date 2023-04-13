@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2276
+// Name: NCPPBEPJKGI
+message NCPPBEPJKGI {
+    uint32 OOOENCCPLGD = 4;
+    repeated uint32 MBEEMKLMCFB = 12;
+    uint32 CIDACENNPBB = 11;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ECIBJPBMCPH
+message ECIBJPBMCPH {
+    bool JCJGLEDFBGG = 1;
+    uint32 HBKHIIDMJFP = 2;
+    uint32 OPFADNLICOA = 3;
+    bool HJGEEAAKCGP = 4;
+    int32 CMPDFIGDABB = 5;
+}
+

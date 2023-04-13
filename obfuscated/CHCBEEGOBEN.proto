@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NGGFPHHAEOH.proto";
+
+// Name: CHCBEEGOBEN
+message CHCBEEGOBEN {
+    uint32 IPAAGPMLFCI = 10;
+    NGGFPHHAEOH ACAEPDLBPMM = 15;
+    uint32 EAIDCDKLGKE = 5;
+}
+

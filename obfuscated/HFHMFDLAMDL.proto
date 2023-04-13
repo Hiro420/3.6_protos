@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HFHMFDLAMDL
+message HFHMFDLAMDL {
+    uint32 MIEDMELHOLI = 11;
+    string OBHPNGPDLOM = 5;
+    repeated uint32 DOENFEBOKMK = 6;
+    uint32 EILHNKCACDM = 7;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2251
+// Name: HHHOIHFIJDN
+message PushTipsReadFinishReq {
+    uint32 push_tips_id = 13;
+}
+

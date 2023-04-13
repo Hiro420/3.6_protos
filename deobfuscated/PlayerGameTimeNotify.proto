@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 159
+// Name: PEAFHFCBPFF
+message PlayerGameTimeNotify {
+    uint32 uid = 15;
+    uint32 game_time = 3;
+    bool is_home = 14;
+}
+

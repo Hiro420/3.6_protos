@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 23287
+// Name: BMLFFNKJLAK
+message MuqadasPotionCaptureWeaknessRsp {
+    int32 retcode = 7;
+}
+

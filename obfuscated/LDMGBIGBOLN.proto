@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LDMGBIGBOLN
+message LDMGBIGBOLN {
+    fixed32 HJFJMAEKNGD = 9;
+    uint32 GBBFEOLGIPA = 13;
+    uint32 ELNCBCIJMJJ = 10;
+}
+

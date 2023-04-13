@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 24182
+// Name: EJEMJIOGCOF
+message BrickBreakerQuitRsp {
+    int32 retcode = 1;
+}
+

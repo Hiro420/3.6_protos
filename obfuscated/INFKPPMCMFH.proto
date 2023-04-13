@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 6060
+// Name: INFKPPMCMFH
+message INFKPPMCMFH {
+    bool FPIDBNFKDFL = 6;
+    uint32 DNHHONGGDCN = 14;
+}
+

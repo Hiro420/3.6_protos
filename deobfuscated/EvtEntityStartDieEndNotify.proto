@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ForwardType.proto";
+
+// CmdId: 399
+// Name: EPNEBFCAMBJ
+message EvtEntityStartDieEndNotify {
+    uint32 die_state_flag = 10;
+    ForwardType forward_type = 12;
+    uint32 entity_id = 14;
+    bool immediately = 13;
+}
+

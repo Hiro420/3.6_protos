@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8536
+// Name: DLADJEHJDPB
+message BartenderCancelLevelRsp {
+    uint32 level_id = 2;
+    int32 retcode = 6;
+}
+

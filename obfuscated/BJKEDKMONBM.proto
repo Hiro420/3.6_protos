@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 683
+// Name: BJKEDKMONBM
+message BJKEDKMONBM {
+    uint32 NBOGOGNNBKI = 14;
+    uint32 EHMBOELABHH = 4;
+    uint64 FPIIPJJPBOH = 11;
+}
+

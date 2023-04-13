@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DJHMOLBEJAA.proto";
+import "GGHCHAFCGKP.proto";
+import "MCHJIPMJGJP.proto";
+
+// CmdId: 291
+// Name: PDMODFFJAGA
+message PDMODFFJAGA {
+    repeated DJHMOLBEJAA DAEAEKJOPCM = 12;
+    uint32 PFECPOCMJMH = 4;
+    MCHJIPMJGJP PLCOFCCAMOI = 9;
+    GGHCHAFCGKP PFAEFHMNGOE = 7;
+    uint32 IHEPIKIDEAB = 8;
+}
+

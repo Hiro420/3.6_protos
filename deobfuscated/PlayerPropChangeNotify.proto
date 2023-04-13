@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 142
+// Name: AEIAGGMHFIO
+message PlayerPropChangeNotify {
+    uint32 prop_type = 13;
+    uint32 prop_delta = 2;
+}
+

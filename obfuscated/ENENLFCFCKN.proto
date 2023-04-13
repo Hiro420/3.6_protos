@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2115
+// Name: ENENLFCFCKN
+message ENENLFCFCKN {
+    uint32 PNLBJABJLFC = 8;
+    uint32 CJKCIMCEPFD = 6;
+}
+

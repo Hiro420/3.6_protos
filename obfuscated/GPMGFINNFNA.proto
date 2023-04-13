@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AFOALEMHCMM.proto";
+import "BMCLBPGLLAJ.proto";
+
+// CmdId: 959
+// Name: GPMGFINNFNA
+message GPMGFINNFNA {
+    uint32 KKKKNCLAKFG = 6;
+    uint32 IHJHBOGKMLA = 13;
+    map<uint32, BMCLBPGLLAJ> KNMLKNGAFPC = 2;
+    uint32 KHNEIFCOPFL = 11;
+    uint32 DHIFNAIOHEM = 1;
+    AFOALEMHCMM NIMEAPHOOIK = 4;
+    oneof HKJMNHAJJBI {
+        uint32 FPMNNICBLJG = 14;
+        uint32 CBGNJHFJMLP = 9;
+    }
+}
+

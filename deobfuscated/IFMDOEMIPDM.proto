@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 21525
+// Name: IFMDOEMIPDM
+message IFMDOEMIPDM {
+    uint32 gallery_id = 5;
+}
+

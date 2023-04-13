@@ -1,0 +1,76 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AAFJPKBFECB.proto";
+import "AAIPFEKBIGD.proto";
+import "ADDCBCDDJIL.proto";
+import "AMABAPDIMGK.proto";
+import "APJFIICJMBD.proto";
+import "BAANIDIMAEB.proto";
+import "BJGMHMHDCGE.proto";
+import "BPMBJDCDKEL.proto";
+import "CJACJEAEACK.proto";
+import "COGBGNFGPGI.proto";
+import "DCPIKCIDILK.proto";
+import "EFNFEPKAAOA.proto";
+import "EMEGCNJLBOD.proto";
+import "EOMJMDNEMOO.proto";
+import "FKONGMBBBAN.proto";
+import "IHKFBPJAMOH.proto";
+import "JDMJNJAJHGI.proto";
+import "JGBHEKPGJOJ.proto";
+import "JMNGHMOAGEP.proto";
+import "OFGJAIBKPKJ.proto";
+import "OJOGHGHFEEP.proto";
+import "OKBKAFDHDFA.proto";
+import "PCHOAFIIIDE.proto";
+import "PLAEKPJCLFB.proto";
+import "PPCINKMGAIE.proto";
+
+// Name: CAHMGNJLGHD
+message CAHMGNJLGHD {
+    uint32 CBGNJHFJMLP = 1;
+    uint32 PKDJIGJDEJE = 2;
+    uint32 AMEJLPJCENL = 3;
+    uint32 HBKHIIDMJFP = 4;
+    EOMJMDNEMOO KBOIKFADDDB = 5;
+    uint32 PMIAMNDHPEE = 6;
+    uint32 JBENIHKPHHD = 7;
+    bool PKPBEJBDMOH = 8;
+    uint32 CAMMDIMJEMH = 9;
+    bool ODIOFFLGKBE = 10;
+    uint32 OOEHDFIIMJJ = 11;
+    uint32 PDONAFJFGMI = 21;
+    uint32 CBGIIEEOJIG = 22;
+    EFNFEPKAAOA CIFBJNLGHBH = 23;
+    repeated uint32 ADAJFFBEOBJ = 24;
+    uint32 MFOOMFBLNMK = 25;
+    uint32 FAFJNFFGJPK = 26;
+    OJOGHGHFEEP KAHNHACNFPB = 100;
+    oneof EOBACNJEEGP {
+        FKONGMBBBAN NLIKAKNEHKO = 12;
+        BAANIDIMAEB OIJCAHKCLLH = 13;
+        PLAEKPJCLFB GJGBACFKFHN = 14;
+        OKBKAFDHDFA ELBEJPINDNJ = 15;
+        BPMBJDCDKEL HNKHNGPABDA = 17;
+        JDMJNJAJHGI LMEGJDADPPP = 18;
+        OFGJAIBKPKJ EPHELKOKNBA = 19;
+        COGBGNFGPGI KIGDHIONIFG = 20;
+        JGBHEKPGJOJ LGMNEALGCCO = 41;
+        DCPIKCIDILK LBGDJDDNKEN = 42;
+        IHKFBPJAMOH NPIBPGIDCMC = 43;
+        APJFIICJMBD MKKJEOFBNPJ = 44;
+        AMABAPDIMGK ENLNCIBBCJH = 45;
+        AAIPFEKBIGD MJFMDNEAIEP = 46;
+        EMEGCNJLBOD JHLIMJNBKFL = 47;
+        CJACJEAEACK IFCMILNOEFH = 48;
+        PPCINKMGAIE CAMDMHKKGGG = 59;
+        BJGMHMHDCGE LHNOKEOAJBP = 60;
+        AAFJPKBFECB AGNGHONFIHG = 61;
+        PCHOAFIIIDE AEODLIBCFMM = 62;
+        ADDCBCDDJIL CCKJLIGLOBI = 63;
+        JMNGHMOAGEP CBKPHDFKLAL = 64;
+    }
+}
+

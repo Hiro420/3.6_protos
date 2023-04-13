@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LGCPMALEONL
+message LGCPMALEONL {
+    uint32 EMKCFAOFHNA = 3;
+    uint32 FJLHCPEOPBD = 5;
+    bool HKHAADBCFDO = 7;
+    uint32 LAOBIDKNELB = 1;
+}
+

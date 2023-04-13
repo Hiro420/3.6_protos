@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BNDIMNDIAMK.proto";
+import "CKOKLOOFHLJ.proto";
+import "MCLJHOMLDCC.proto";
+
+// CmdId: 7993
+// Name: PKMOJBOIHAD
+message PKMOJBOIHAD {
+    repeated CKOKLOOFHLJ IBCDPLBANMK = 5;
+    uint32 EPKPEEEHOFB = 11;
+    uint32 FNFPIGHNBLL = 12;
+    repeated BNDIMNDIAMK EJPOGEFJPIJ = 8;
+    repeated MCLJHOMLDCC MIOPKJBFLDL = 1;
+}
+

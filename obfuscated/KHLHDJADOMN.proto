@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3194
+// Name: KHLHDJADOMN
+message KHLHDJADOMN {
+    uint32 DMBFPFFMFCM = 6;
+    uint32 GICFAHBBEAG = 11;
+}
+

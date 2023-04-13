@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PAHNOFJPPJG.proto";
+
+// Name: IOEPCLGOKPD
+message IOEPCLGOKPD {
+    int32 AJBLMLDNING = 3;
+    PAHNOFJPPJG BPKDOPHJPAL = 5;
+}
+

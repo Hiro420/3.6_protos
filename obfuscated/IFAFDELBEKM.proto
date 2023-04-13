@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5592
+// Name: IFAFDELBEKM
+message IFAFDELBEKM {
+    uint32 NJFLCDNPMPE = 2;
+    uint32 ICPLDONIHID = 10;
+    uint32 ECLCBCEPGIH = 3;
+}
+

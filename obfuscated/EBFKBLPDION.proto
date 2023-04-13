@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FHKECNDGHCG.proto";
+
+// CmdId: 4777
+// Name: EBFKBLPDION
+message EBFKBLPDION {
+    FHKECNDGHCG LGKHLFKHNBF = 1;
+}
+

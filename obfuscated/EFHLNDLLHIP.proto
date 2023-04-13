@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: EFHLNDLLHIP
+message EFHLNDLLHIP {
+    uint32 MIEDMELHOLI = 6;
+    uint32 LANNIFHAGJI = 14;
+    bool FKOBJPCKIFJ = 13;
+    uint32 JGIPOEKBNNN = 2;
+    uint32 JMFNJEGCGAO = 7;
+}
+

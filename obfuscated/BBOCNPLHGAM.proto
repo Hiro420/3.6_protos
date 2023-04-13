@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KGEBMHPKFMN.proto";
+
+// Name: BBOCNPLHGAM
+message BBOCNPLHGAM {
+    KGEBMHPKFMN OEMKKEEKONG = 9;
+    uint32 HDMDJECGCKC = 8;
+    KGEBMHPKFMN JCCNLMMCENC = 15;
+    uint32 JGIPOEKBNNN = 6;
+}
+

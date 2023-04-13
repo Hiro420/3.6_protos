@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CFEMNBDBBCK.proto";
+import "HIPHDMMKJFG.proto";
+import "OKDOOEMGDLK.proto";
+
+// CmdId: 6309
+// Name: KLFKKLCPDKL
+message KLFKKLCPDKL {
+    HIPHDMMKJFG OOBKKOIGEOC = 15;
+    OKDOOEMGDLK KFFPLKOPJLE = 1;
+    uint32 LFOCJEADKPK = 11;
+    CFEMNBDBBCK IFAJOJNPLDE = 6;
+    uint64 PJDFHKIKLNM = 3;
+    bool OGHLBDGDNBF = 4;
+}
+

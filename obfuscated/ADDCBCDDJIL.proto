@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ADDCBCDDJIL
+message ADDCBCDDJIL {
+    repeated uint32 DOGJNNKNOCI = 1;
+}
+

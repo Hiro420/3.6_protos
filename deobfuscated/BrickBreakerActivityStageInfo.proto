@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OEGPMJMONGG
+message BrickBreakerActivityStageInfo {
+    bool DDLJNDKFPHP = 7;
+    uint32 stage_id = 9;
+    bool LIGDBOAIDJN = 10;
+}
+

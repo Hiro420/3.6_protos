@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4845
+// Name: MLAGPADBHDI
+message MLAGPADBHDI {
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CJACJEAEACK
+message CJACJEAEACK {
+    uint32 MFEBFFKLLPC = 1;
+    uint32 DCGAFOLKFIB = 2;
+}
+

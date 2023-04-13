@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ReunionWatcherInfo.proto";
+
+// CmdId: 5081
+// Name: GOIFNMPJFAL
+message UpdateReunionWatcherNotify {
+    ReunionWatcherInfo watcher_info = 6;
+    uint32 mission_id = 15;
+}
+

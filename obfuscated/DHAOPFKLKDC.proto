@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DHAOPFKLKDC
+message DHAOPFKLKDC {
+    uint32 HCGIBBGCFHO = 9;
+    uint32 CAPDPNKCHEG = 15;
+    uint32 FPMNNICBLJG = 5;
+}
+

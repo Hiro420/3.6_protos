@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JCOOOHKFJDC
+message JCOOOHKFJDC {
+    uint32 JFAFMJAFPEF = 14;
+    uint32 JOPGJGDHIFD = 15;
+    uint32 ICPLDONIHID = 7;
+}
+

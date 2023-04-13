@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FIPDDEKMPLK
+message FIPDDEKMPLK {
+    uint32 JGDBBHBDFML = 1;
+    uint32 CAPDPNKCHEG = 2;
+}
+

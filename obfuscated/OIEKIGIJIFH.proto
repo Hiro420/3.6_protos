@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AACFCFOGCMC.proto";
+import "GEIBGHJFKCH.proto";
+import "IMAGPOMIMAG.proto";
+import "JLEGECKKDKB.proto";
+
+// Name: OIEKIGIJIFH
+message OIEKIGIJIFH {
+    bool LDKGDKODFOI = 1;
+    repeated JLEGECKKDKB FPILPLAMDMN = 2;
+    repeated GEIBGHJFKCH FILHOCHHFKK = 3;
+    repeated IMAGPOMIMAG FEDKEAOMCAI = 4;
+    repeated AACFCFOGCMC HCCGNPMMKKF = 5;
+    repeated JLEGECKKDKB CIJOLGLJLAN = 6;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1733
+// Name: DGFKLHLAFEN
+message DelBackupAvatarTeamRsp {
+    uint32 backup_avatar_team_id = 13;
+    int32 retcode = 10;
+}
+

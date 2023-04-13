@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 8506
+// Name: GLEMOHFHHBI
+message GLEMOHFHHBI {
+    bool GKJIEEGOBAN = 8;
+    uint32 LIPDKBFCAKO = 1;
+    KKFEDHALJFH EPCFLDJKNJH = 10;
+}
+

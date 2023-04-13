@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CIDPEEOGOFC
+message GCGToken {
+    uint32 value = 15;
+    uint32 key = 9;
+}
+

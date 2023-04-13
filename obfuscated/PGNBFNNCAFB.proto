@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EDELLOCMJAG.proto";
+
+// CmdId: 3363
+// Name: PGNBFNNCAFB
+message PGNBFNNCAFB {
+    repeated EDELLOCMJAG CADKPKNEKKD = 10;
+}
+

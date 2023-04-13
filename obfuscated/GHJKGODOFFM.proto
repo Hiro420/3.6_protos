@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8646
+// Name: GHJKGODOFFM
+message GHJKGODOFFM {
+    uint32 AMBDCDLBMAN = 2;
+    uint32 MOLCMPFBACG = 12;
+    uint32 HCCCOHOAOOK = 9;
+    int32 EEDMFEOGLFN = 8;
+    repeated uint32 AHDCPCAEOCE = 14;
+}
+

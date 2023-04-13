@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KJILDIJGJEN.proto";
+import "NPALPPLEFFC.proto";
+
+// CmdId: 6216
+// Name: NOLHMPAAHCB
+message NOLHMPAAHCB {
+    map<uint32, uint32> NKPCHNPADJE = 8;
+    KJILDIJGJEN NOHFJDIGECI = 15;
+    NPALPPLEFFC IGIANMBNHAO = 11;
+    int32 EEDMFEOGLFN = 4;
+}
+

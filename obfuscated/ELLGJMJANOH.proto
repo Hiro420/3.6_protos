@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5320
+// Name: ELLGJMJANOH
+message ELLGJMJANOH {
+    repeated uint32 MKJHCLJINAD = 15;
+    repeated uint32 CIEGPECOMCF = 1;
+    uint32 JBMPBFDPKGD = 11;
+}
+

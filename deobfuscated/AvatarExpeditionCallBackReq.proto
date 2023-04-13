@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1736
+// Name: LIPKPFIMKEG
+message AvatarExpeditionCallBackReq {
+    repeated uint64 avatar_guid = 1;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20143
+// Name: MDBHGIIOPKI
+message MDBHGIIOPKI {
+    uint32 LFCAGIIIEFJ = 7;
+    uint32 KHPFCPNBLKI = 5;
+    bool PBDLJNOKLDJ = 13;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GEHIKODGKMC.proto";
+
+// Name: BIHOOGKDIGP
+message BIHOOGKDIGP {
+    GEHIKODGKMC AOBCAFCDAGK = 14;
+    uint32 LLGHDIMCDAG = 11;
+    repeated uint32 LGJNHFPGEGA = 7;
+    fixed32 JFAFMJAFPEF = 6;
+    uint32 MAIEPKDDLJF = 13;
+}
+

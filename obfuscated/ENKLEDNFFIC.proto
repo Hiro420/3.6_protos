@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 244
+// Name: ENKLEDNFFIC
+message ENKLEDNFFIC {
+    uint32 PNILGCAHKOD = 9;
+    bool DJPHNINHIGD = 13;
+}
+

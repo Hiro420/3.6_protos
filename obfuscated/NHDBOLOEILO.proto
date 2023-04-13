@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4049
+// Name: NHDBOLOEILO
+message NHDBOLOEILO {
+    int32 EEDMFEOGLFN = 4;
+    uint32 JBMPBFDPKGD = 15;
+    string AMBLNLJKLDC = 14;
+    bool BLHMHDAJMML = 11;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CEBEGOKNPHM
+enum CEBEGOKNPHM {
+    CEBEGOKNPHM_MP_SETTING_NO_ENTER = 0;
+    CEBEGOKNPHM_MP_SETTING_ENTER_FREELY = 1;
+    CEBEGOKNPHM_MP_SETTING_ENTER_AFTER_APPLY = 2;
+}
+

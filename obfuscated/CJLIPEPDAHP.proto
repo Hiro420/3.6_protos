@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CDGOMMCMJAP.proto";
+
+// CmdId: 989
+// Name: CJLIPEPDAHP
+message CJLIPEPDAHP {
+    uint32 BLILHBOJOCD = 12;
+    uint32 IHJHBOGKMLA = 14;
+    CDGOMMCMJAP KFDOLNBCJLK = 6;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7107
+// Name: BDPPKOHGFGE
+message BDPPKOHGFGE {
+    int32 EEDMFEOGLFN = 1;
+    uint32 AEOHFCHELEO = 10;
+}
+

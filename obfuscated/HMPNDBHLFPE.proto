@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AFOALEMHCMM.proto";
+import "LIHFDPHMIGJ.proto";
+
+// CmdId: 1272
+// Name: HMPNDBHLFPE
+message HMPNDBHLFPE {
+    uint32 HJDCMHNDEKE = 5;
+    repeated LIHFDPHMIGJ KNEDKLODAND = 1;
+    uint64 FPIIPJJPBOH = 9;
+    uint32 ABIIBMGJNKM = 10;
+    AFOALEMHCMM NIMEAPHOOIK = 15;
+    uint32 JLAJOCMEDGG = 12;
+    string NGLLHBELBPB = 2;
+}
+

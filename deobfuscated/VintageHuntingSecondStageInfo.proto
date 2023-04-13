@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LPCIOFANBMP
+message VintageHuntingSecondStageInfo {
+    uint32 total_num = 15;
+    uint32 capture_animal_num = 12;
+    uint32 left_num = 2;
+}
+

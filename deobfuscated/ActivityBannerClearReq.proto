@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2053
+// Name: HEHBPMJFELC
+message ActivityBannerClearReq {
+    uint32 activity_id = 13;
+    uint32 schedule_id = 8;
+}
+

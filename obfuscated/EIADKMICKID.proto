@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PHKDBEICLGJ.proto";
+
+// Name: EIADKMICKID
+message EIADKMICKID {
+    repeated uint32 DIFMBKKBINK = 1;
+    map<uint32, uint32> FFCOACCPOHL = 10;
+    PHKDBEICLGJ BPKDOPHJPAL = 8;
+    repeated bool CNKANKJLNOE = 6;
+}
+

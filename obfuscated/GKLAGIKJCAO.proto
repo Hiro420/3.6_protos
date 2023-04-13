@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 319
+// Name: GKLAGIKJCAO
+message GKLAGIKJCAO {
+    uint32 DOKPOLHDEPI = 1;
+    uint32 OPFCEOHOBMH = 10;
+}
+

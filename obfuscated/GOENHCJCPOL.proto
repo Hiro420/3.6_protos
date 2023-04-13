@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 203
+// Name: GOENHCJCPOL
+message GOENHCJCPOL {
+    int32 EEDMFEOGLFN = 14;
+    uint32 FAEMKENJOKO = 8;
+}
+

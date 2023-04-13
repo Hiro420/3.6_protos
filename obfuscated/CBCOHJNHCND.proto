@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+
+// Name: CBCOHJNHCND
+message CBCOHJNHCND {
+    string AMBLNLJKLDC = 6;
+    string DAKAMJMLMNA = 14;
+    string EBLOGJGAOIP = 13;
+    uint32 JBMPBFDPKGD = 11;
+    uint32 IPEFBBNMAKJ = 4;
+    uint32 MFCJNNNFCGF = 8;
+    uint32 AMBDCDLBMAN = 3;
+    CAOGLKMLEOG IAEKOGMCHED = 5;
+    bool KFGGEALJFMB = 7;
+}
+

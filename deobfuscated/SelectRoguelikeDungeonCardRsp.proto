@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8423
+// Name: DPELCNHJHDF
+message SelectRoguelikeDungeonCardRsp {
+    int32 retcode = 7;
+    uint32 card_id = 12;
+}
+

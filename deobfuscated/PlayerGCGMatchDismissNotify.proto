@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MatchReason.proto";
+
+// CmdId: 4193
+// Name: GFBABCMFPOH
+message PlayerGCGMatchDismissNotify {
+    uint32 match_id = 6;
+    MatchReason reason = 7;
+    repeated uint32 uid_list = 12;
+}
+

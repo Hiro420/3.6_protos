@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8674
+// Name: NPOLMCJJCKP
+message TriggerRoguelikeCurseNotify {
+    uint32 CEECGMGGGED = 4;
+    uint32 OCBPDFLBFPK = 1;
+    bool is_trigger_curse = 13;
+    repeated uint32 effect_param_list = 5;
+}
+

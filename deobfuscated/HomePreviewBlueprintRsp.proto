@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HomeSceneArrangementInfo.proto";
+
+// CmdId: 4590
+// Name: FEGMIBFFPAB
+message HomePreviewBlueprintRsp {
+    string share_code = 14;
+    HomeSceneArrangementInfo scene_arrangement_info = 6;
+    int32 retcode = 12;
+}
+

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JFGLKLBDHBF.proto";
+import "OKDOOEMGDLK.proto";
+
+// CmdId: 6349
+// Name: NICLPBFFHAA
+message NICLPBFFHAA {
+    uint64 PJDFHKIKLNM = 5;
+    int32 EEDMFEOGLFN = 10;
+    OKDOOEMGDLK KFFPLKOPJLE = 2;
+    oneof ODAEEKANCDK {
+        JFGLKLBDHBF HEJDBPEKBCO = 1;
+    }
+}
+

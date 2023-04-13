@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HCBPECOJPEI.proto";
+
+// CmdId: 118
+// Name: AKGLNBEFBAE
+message AKGLNBEFBAE {
+    // Name: NIAIEPJFONE
+    enum NIAIEPJFONE {
+        NIAIEPJFONE_OP_TYPE_NONE = 0;
+        NIAIEPJFONE_OP_TYPE_RELOGIN = 1;
+        NIAIEPJFONE_OP_TYPE_MP_RELOGIN = 2;
+    }
+
+    string KJJAIPPKFCI = 8;
+    uint32 IKFKPMCIONN = 6;
+    string ABOHBHJHFNL = 9;
+    HCBPECOJPEI DDDAOMOFIEL = 7;
+    bool JDOAPPBMLBD = 3;
+    string CLDKNBOLOEN = 5;
+    NIAIEPJFONE OMKEFCKPOMK = 1;
+    uint32 KEILPNCNHBH = 2;
+    string JPBIIKAEFLA = 14;
+}
+

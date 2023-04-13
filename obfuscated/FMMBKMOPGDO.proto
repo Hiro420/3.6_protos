@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OAOOLKPAOFH.proto";
+
+// CmdId: 181
+// Name: FMMBKMOPGDO
+message FMMBKMOPGDO {
+    uint32 OIIBJEANAME = 7;
+    repeated OAOOLKPAOFH NMDPOBBHEEH = 5;
+}
+

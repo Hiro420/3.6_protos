@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BCLNCCOHMKK.proto";
+
+// CmdId: 4167
+// Name: FPLLGKLDBDH
+message FPLLGKLDBDH {
+    uint32 NAMPEEDGBPE = 11;
+    uint32 AEEJJKLPHDP = 6;
+    uint32 IHJHBOGKMLA = 9;
+    uint32 ICDAIDNAOBK = 7;
+    BCLNCCOHMKK KNBLDJKPEPG = 14;
+    uint32 GAEKCLLKOMM = 5;
+    repeated uint32 ABCFJMBIDKF = 2;
+    uint32 BFPBOJOIACJ = 13;
+    uint32 APIJKPINGON = 8;
+}
+

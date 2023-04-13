@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KOKAKAIJKDI.proto";
+
+// CmdId: 318
+// Name: JADJLNMNODG
+message JADJLNMNODG {
+    repeated KOKAKAIJKDI HAMFPBCLFCE = 10;
+}
+

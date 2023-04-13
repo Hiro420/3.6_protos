@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7176
+// Name: FAGHNCIAALG
+message GCGDSDeleteDeckRsp {
+    int32 retcode = 5;
+    uint32 deck_id = 7;
+}
+

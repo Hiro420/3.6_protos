@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PIDANILFCHF.proto";
+
+// CmdId: 4326
+// Name: ABOAHDLKLFL
+message ABOAHDLKLFL {
+    int32 EEDMFEOGLFN = 12;
+    PIDANILFCHF DEJCDJKMGIK = 10;
+    uint32 HEKHEPFHLDL = 11;
+}
+

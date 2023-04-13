@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 21089
+// Name: LLELAFKLNBK
+message BrickBreakerTwiceStartRsp {
+    int32 retcode = 9;
+}
+

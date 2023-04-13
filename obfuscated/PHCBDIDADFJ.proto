@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HDNDEDIEKCJ.proto";
+import "KPMMLJKDLKH.proto";
+
+// CmdId: 8255
+// Name: PHCBDIDADFJ
+message PHCBDIDADFJ {
+    repeated uint64 BGJOLHNFECB = 11;
+    repeated uint64 BFKDPINEHJD = 6;
+    uint32 JFDFMBIIDND = 8;
+    map<uint32, HDNDEDIEKCJ> PFPHDIAJFLM = 9;
+    repeated uint32 EHBBKKLHOBD = 12;
+    repeated KPMMLJKDLKH GDPPILBFFBJ = 10;
+    bool NFIMKMGPMHB = 1;
+    uint32 GFEHMGJGGEO = 2;
+    uint32 JJGGAPDDOLN = 7;
+    uint32 CIECOAHMPMG = 5;
+    bool EGANBLLANCC = 874;
+    uint32 OLNMADAFEMH = 3;
+    float FFNODIODHMO = 15;
+    uint32 IHJHBOGKMLA = 14;
+    uint32 IPDPBFFPPBG = 71;
+    uint32 AMPOCLOKPFA = 327;
+}
+

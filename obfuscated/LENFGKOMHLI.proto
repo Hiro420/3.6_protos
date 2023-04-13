@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LDPIOEFDNDN.proto";
+import "NOBKFICGCHL.proto";
+
+// CmdId: 7975
+// Name: LENFGKOMHLI
+message LENFGKOMHLI {
+    repeated uint32 KIHAKELEBGH = 12;
+    repeated LDPIOEFDNDN DAKGEPCFILI = 13;
+    repeated uint32 CGEGIOFOAHL = 3;
+    repeated NOBKFICGCHL NMKIFLLBAOO = 9;
+    uint32 NCODMAJCPIP = 14;
+    repeated uint32 ALNNDGJDBPO = 8;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GEKCCHCJMPC.proto";
+
+// CmdId: 92
+// Name: ACBHFLGOADD
+message ACBHFLGOADD {
+    repeated GEKCCHCJMPC GAIGJBMAEGL = 15;
+    int32 EEDMFEOGLFN = 4;
+    uint32 KAHKHODLMPL = 10;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4073
+// Name: KMMICFCAEMN
+message KMMICFCAEMN {
+    uint32 AOOCBPDDMKC = 7;
+    uint32 DNBBIBNJCGP = 4;
+    int32 EEDMFEOGLFN = 11;
+}
+

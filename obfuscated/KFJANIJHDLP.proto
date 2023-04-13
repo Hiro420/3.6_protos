@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EDAGPFHFMBA.proto";
+
+// Name: KFJANIJHDLP
+message KFJANIJHDLP {
+    bool GIPFGDKKLBG = 8;
+    repeated EDAGPFHFMBA OEGJGEGMDOP = 14;
+    uint32 DFABLHPDPIN = 7;
+    uint32 GFNMGEGMMOP = 9;
+    bool MFBLCKKNECK = 3;
+    uint32 MEHOKJOPMBN = 11;
+    uint32 MDIPNDNFPEJ = 12;
+}
+

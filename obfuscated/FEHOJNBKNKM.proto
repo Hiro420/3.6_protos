@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HKLHNDGEAPG.proto";
+
+// Name: FEHOJNBKNKM
+message FEHOJNBKNKM {
+    bool GBHJHJENFGK = 6;
+    HKLHNDGEAPG KEPJFKAEJDH = 9;
+}
+

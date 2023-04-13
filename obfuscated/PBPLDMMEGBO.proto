@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PBPLDMMEGBO
+message PBPLDMMEGBO {
+    // Name: OPFLKOJMOIG
+    enum OPFLKOJMOIG {
+        OPFLKOJMOIG_INVALID = 0;
+        OPFLKOJMOIG_UNFINISHED = 1;
+        OPFLKOJMOIG_FINISHED = 2;
+        OPFLKOJMOIG_REWARD_TAKEN = 3;
+    }
+
+    uint32 IOLKEPCMIAN = 4;
+    uint32 GLBIOMGMKHM = 9;
+    OPFLKOJMOIG JEOKINJEAJB = 2;
+    uint32 HJLEBAHLAOL = 10;
+    uint32 FJLHCPEOPBD = 3;
+}
+

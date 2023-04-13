@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: AHMJPHBBHKI
+message AHMJPHBBHKI {
+    uint32 JJGGAPDDOLN = 9;
+    repeated uint32 HPCEKLCECKB = 14;
+    uint32 HDMDJECGCKC = 2;
+    uint32 BNKMINMKDMP = 4;
+    bool GBHJHJENFGK = 15;
+    uint32 HDPJCNBFLEB = 1;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4442
+// Name: NIEBMAHPKCD
+message ScenePlayGuestReplyNotify {
+    uint32 guest_uid = 13;
+    bool is_agree = 5;
+    uint32 play_id = 7;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1685
+// Name: GALLHCNNOGL
+message GALLHCNNOGL {
+    repeated uint64 DMCKCADOELM = 10;
+    uint64 OAIIFOIFFNN = 2;
+}
+

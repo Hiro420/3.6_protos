@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 271
+// Name: BNAHADPMBIJ
+message BNAHADPMBIJ {
+    uint32 GADEPMGAMCO = 9;
+    repeated int32 MBEEMKLMCFB = 13;
+    uint32 DICOPPHCLEO = 7;
+    uint32 ABIIBMGJNKM = 3;
+}
+

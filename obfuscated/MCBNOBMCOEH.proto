@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 253
+// Name: MCBNOBMCOEH
+message MCBNOBMCOEH {
+    uint32 HBKHIIDMJFP = 8;
+    KKFEDHALJFH EPCFLDJKNJH = 3;
+}
+

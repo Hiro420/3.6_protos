@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HAPLHBDEFAO.proto";
+
+// Name: COGBGNFGPGI
+message COGBGNFGPGI {
+    uint32 BMFFLINBAOJ = 1;
+    uint32 BJFIFAHAGNK = 2;
+    repeated uint32 LFDEFHKMINJ = 3;
+    repeated uint32 HPEGFPOADAC = 4;
+    map<uint32, HAPLHBDEFAO> ENIKEIPHLJN = 5;
+}
+

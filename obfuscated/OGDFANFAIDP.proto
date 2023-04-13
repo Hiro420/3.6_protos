@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FHMCMLOIGJB.proto";
+
+// CmdId: 1768
+// Name: OGDFANFAIDP
+message OGDFANFAIDP {
+    map<uint64, FHMCMLOIGJB> MJDCPJBLBNB = 15;
+    int32 EEDMFEOGLFN = 1;
+}
+

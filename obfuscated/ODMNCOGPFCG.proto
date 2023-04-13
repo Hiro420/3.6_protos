@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2112
+// Name: ODMNCOGPFCG
+message ODMNCOGPFCG {
+    uint32 PNLBJABJLFC = 13;
+    uint32 MAEEFMMLAPD = 4;
+}
+

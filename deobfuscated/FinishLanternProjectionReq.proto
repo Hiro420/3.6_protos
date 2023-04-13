@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8958
+// Name: JHPGPCBHJIB
+message FinishLanternProjectionReq {
+    uint32 finish_time = 3;
+    uint32 level_id = 15;
+}
+

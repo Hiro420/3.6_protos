@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HAPLHBDEFAO.proto";
+
+// Name: DGOABKCAGHB
+message DGOABKCAGHB {
+    uint32 JFAFMJAFPEF = 3;
+    uint32 IHJHBOGKMLA = 6;
+    uint32 DILMPOBNGPN = 11;
+    HAPLHBDEFAO DEFJLHPFNAJ = 10;
+    uint32 HKBNEBOAMDI = 2;
+    bool NOBKNCIPHOE = 1;
+    uint32 NBLOOGCGMEE = 15;
+    uint32 HJFJMAEKNGD = 9;
+    uint32 MGMCKOOBFBJ = 13;
+}
+

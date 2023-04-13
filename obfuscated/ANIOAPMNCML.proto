@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "COKLELGGFLH.proto";
+import "JEOEDBOGIAG.proto";
+
+// CmdId: 682
+// Name: ANIOAPMNCML
+message ANIOAPMNCML {
+    uint64 FPIIPJJPBOH = 14;
+    JEOEDBOGIAG KCGKNOIHAMN = 9;
+    COKLELGGFLH FLMHPACNIOK = 1;
+    uint32 EBBPBADLHKE = 5;
+    uint64 GDFEOCNFKJC = 15;
+    uint32 GMJNLBGNFEJ = 11;
+}
+

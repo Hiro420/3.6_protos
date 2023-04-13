@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HPOLMCEHFAC.proto";
+
+// CmdId: 490
+// Name: EEHKLPMFHGC
+message EEHKLPMFHGC {
+    repeated HPOLMCEHFAC NAGFEAHFHHK = 4;
+}
+

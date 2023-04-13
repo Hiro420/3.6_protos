@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5006
+// Name: IIHMACNLDCN
+message IIHMACNLDCN {
+    uint32 FGFEAACHHME = 2;
+    uint32 LMHJHHFEHOL = 11;
+    uint32 AOOCBPDDMKC = 4;
+}
+

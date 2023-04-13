@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OIEKIGIJIFH.proto";
+
+// Name: NEKLBLMLJNC
+message NEKLBLMLJNC {
+    uint32 DMBFPFFMFCM = 1;
+    uint32 JMNAJHPFCMM = 2;
+    uint32 CAMMDIMJEMH = 3;
+    uint32 JJHBAFEKCBJ = 5;
+    OIEKIGIJIFH EONNMOEJLJH = 6;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: NOKPFHEOIME
+message CataLogGlobalWatcherFinishedData {
+    uint32 catalog_type = 3;
+    repeated uint32 finished_global_watcher_list = 9;
+}
+

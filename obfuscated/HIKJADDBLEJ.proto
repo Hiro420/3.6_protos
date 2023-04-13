@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4056
+// Name: HIKJADDBLEJ
+message HIKJADDBLEJ {
+    uint32 AOOCBPDDMKC = 3;
+    int32 EEDMFEOGLFN = 13;
+    uint32 KAHKHODLMPL = 15;
+}
+

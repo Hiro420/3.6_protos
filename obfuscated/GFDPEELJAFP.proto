@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GFDPEELJAFP
+message GFDPEELJAFP {
+    uint32 BEJLIKCLKPN = 2;
+    uint32 PNLBJABJLFC = 7;
+    uint32 JFAFMJAFPEF = 11;
+    uint32 LFOCJEADKPK = 4;
+    bool FKOBJPCKIFJ = 6;
+}
+

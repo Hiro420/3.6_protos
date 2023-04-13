@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4632
+// Name: OEFHBCCGOAH
+message OEFHBCCGOAH {
+    uint32 AOOCBPDDMKC = 3;
+    bool MAOHPNEAMED = 2;
+}
+

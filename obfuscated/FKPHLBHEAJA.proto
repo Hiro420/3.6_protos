@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 247
+// Name: FKPHLBHEAJA
+message FKPHLBHEAJA {
+    uint32 AOOCBPDDMKC = 4;
+}
+

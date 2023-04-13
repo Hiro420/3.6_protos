@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ChannelerSlabChallengeStage.proto";
+import "ChannellerSlabBuffInfo.proto";
+import "ChannellerSlabLoopDungeonStageInfo.proto";
+
+// Name: CALILMNFCND
+message ChannelerSlabActivityDetailInfo {
+    ChannellerSlabBuffInfo buff_info = 8;
+    ChannellerSlabLoopDungeonStageInfo loop_dungeon_stage_info = 12;
+    repeated ChannelerSlabChallengeStage stage_list = 14;
+    uint32 play_end_time = 11;
+}
+

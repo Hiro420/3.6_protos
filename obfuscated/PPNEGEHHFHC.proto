@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BIAIAGAANOL.proto";
+import "FIEOBJIFPCA.proto";
+import "KKFEDHALJFH.proto";
+
+// CmdId: 2390
+// Name: PPNEGEHHFHC
+message PPNEGEHHFHC {
+    // Name: GFGAGCEANNG
+    enum GFGAGCEANNG {
+        GFGAGCEANNG_OPTION_NONE = 0;
+        GFGAGCEANNG_OPTION_NORMAL = 1;
+        GFGAGCEANNG_OPTION_FIRST_CAN_GO = 2;
+    }
+
+    KKFEDHALJFH DCKCKOFKBFO = 7;
+    BIAIAGAANOL DEGDGKODPOH = 10;
+    repeated KKFEDHALJFH PEDBHDDHFLB = 2;
+    int32 ECKFNDOIIGN = 15;
+    FIEOBJIFPCA FOJHBGHIMDG = 3;
+    uint32 FGEIEPJKHDL = 9;
+    GFGAGCEANNG CFANEPHDNPH = 14;
+    FIEOBJIFPCA LCOAPOJGMKL = 6;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: LOBAFOGBMIA
+message LOBAFOGBMIA {
+    uint32 EEMILGMLGOH = 6;
+    KKFEDHALJFH KLGIEIGDCJA = 1;
+    repeated int32 IDIMMOLONLA = 11;
+}
+

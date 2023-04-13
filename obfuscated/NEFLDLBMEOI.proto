@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EDGEOCMAKEP.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: NEFLDLBMEOI
+message NEFLDLBMEOI {
+    bool DEIJHGODOBG = 10;
+    uint32 OGBDFDJKDGF = 14;
+    KKFEDHALJFH KFFBIJEMGFD = 7;
+    EDGEOCMAKEP PKFPGJJLJKE = 11;
+    uint32 FOMGCFBHDIJ = 12;
+    bool GDMMGMOMMKP = 3;
+    uint32 FGEIEPJKHDL = 5;
+}
+

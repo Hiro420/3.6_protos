@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OKDOOEMGDLK.proto";
+
+// CmdId: 6325
+// Name: AAEIMMOLJAF
+message AAEIMMOLJAF {
+    uint64 PJDFHKIKLNM = 14;
+    OKDOOEMGDLK KFFPLKOPJLE = 7;
+}
+

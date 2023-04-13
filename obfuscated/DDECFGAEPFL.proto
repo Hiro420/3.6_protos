@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EDELLOCMJAG.proto";
+
+// CmdId: 3483
+// Name: DDECFGAEPFL
+message DDECFGAEPFL {
+    // Name: NABGOBNLACJ
+    enum NABGOBNLACJ {
+        NABGOBNLACJ_ADD = 0;
+        NABGOBNLACJ_MOD = 1;
+        NABGOBNLACJ_DEL = 2;
+        NABGOBNLACJ_GET = 3;
+    }
+
+    EDELLOCMJAG BIKAOHHPLHO = 15;
+    EDELLOCMJAG EAAPOALKLFH = 11;
+    NABGOBNLACJ EPLOGDKMJBN = 7;
+}
+

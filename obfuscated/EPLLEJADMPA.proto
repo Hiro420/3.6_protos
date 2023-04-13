@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5330
+// Name: EPLLEJADMPA
+message EPLLEJADMPA {
+    uint32 JBMPBFDPKGD = 2;
+    bool PNBCBNCCLBL = 3;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KMEPMNFPJFH.proto";
+
+// Name: IHCFDBEPNMD
+message IHCFDBEPNMD {
+    repeated KMEPMNFPJFH GCEHHLLEDBD = 1;
+    uint32 CGPHMCDGCIA = 2;
+    uint32 NLNIEFBGDCD = 3;
+    float MKPEMLMFKIA = 4;
+}
+

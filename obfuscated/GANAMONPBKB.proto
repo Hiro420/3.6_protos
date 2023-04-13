@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2110
+// Name: GANAMONPBKB
+message GANAMONPBKB {
+    repeated uint32 HCELEHBLMAI = 1;
+    uint32 PNLBJABJLFC = 2;
+}
+

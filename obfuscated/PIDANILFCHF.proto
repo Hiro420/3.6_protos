@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PIDANILFCHF
+message PIDANILFCHF {
+    uint32 BMFFLINBAOJ = 8;
+    uint32 KALKPMMFPBF = 6;
+}
+

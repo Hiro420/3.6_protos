@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8750
+// Name: MECALNNAOKO
+message MECALNNAOKO {
+    repeated uint32 BBBCAFBPEIH = 10;
+}
+

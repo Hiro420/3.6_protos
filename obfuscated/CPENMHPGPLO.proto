@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 6086
+// Name: CPENMHPGPLO
+message CPENMHPGPLO {
+    int32 EEDMFEOGLFN = 8;
+}
+

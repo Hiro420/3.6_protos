@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OKNINCMBNLI
+enum OKNINCMBNLI {
+    OKNINCMBNLI_MOVING_PLATFORM_NONE = 0;
+    OKNINCMBNLI_MOVING_PLATFORM_USE_CONFIG = 1;
+    OKNINCMBNLI_MOVING_PLATFORM_ABILITY = 2;
+    OKNINCMBNLI_MOVING_PLATFORM_ROUTE = 3;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: ELGBEHJIAIA
+message CoopCg {
+    uint32 id = 1;
+    bool is_unlock = 7;
+}
+

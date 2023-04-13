@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 441
+// Name: DABGGEPNIEP
+message DABGGEPNIEP {
+    uint32 GHGPMHHKIEK = 7;
+    int32 EEDMFEOGLFN = 2;
+}
+

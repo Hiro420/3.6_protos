@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Uint32Pair.proto";
+
+// CmdId: 8741
+// Name: EILMBOBIDGI
+message ActivityDisableTransferPointInteractionNotify {
+    bool is_disable = 6;
+    Uint32Pair scene_point_pair = 2;
+}
+

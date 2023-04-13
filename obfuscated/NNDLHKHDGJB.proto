@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FNFOEMFBKFF.proto";
+
+// CmdId: 440
+// Name: NNDLHKHDGJB
+message NNDLHKHDGJB {
+    uint32 OHBALLHKMLM = 11;
+    repeated FNFOEMFBKFF CABACONDLMK = 13;
+}
+

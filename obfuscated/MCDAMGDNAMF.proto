@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5575
+// Name: MCDAMGDNAMF
+message MCDAMGDNAMF {
+    bool KFAPFLGDKCA = 11;
+    uint32 NJFLCDNPMPE = 4;
+    uint32 ECLCBCEPGIH = 14;
+}
+

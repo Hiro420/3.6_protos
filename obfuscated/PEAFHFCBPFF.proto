@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 159
+// Name: PEAFHFCBPFF
+message PEAFHFCBPFF {
+    uint32 JBMPBFDPKGD = 15;
+    uint32 GMILACLMPBM = 3;
+    bool BJONKPOCMLL = 14;
+}
+

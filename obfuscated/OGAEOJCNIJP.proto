@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8853
+// Name: OGAEOJCNIJP
+message OGAEOJCNIJP {
+    uint32 MOLCMPFBACG = 4;
+    uint32 AMBDCDLBMAN = 3;
+}
+

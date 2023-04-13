@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1602
+// Name: GLDBIGJJKPE
+message GLDBIGJJKPE {
+    uint64 FPIIPJJPBOH = 11;
+    uint32 FBMMIALDBKC = 15;
+}
+

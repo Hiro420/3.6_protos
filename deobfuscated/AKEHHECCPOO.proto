@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4809
+// Name: AKEHHECCPOO
+message AKEHHECCPOO {
+    string share_code = 4;
+}
+

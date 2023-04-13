@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 24776
+// Name: HPEMAPPDFAH
+message DuelHeartSelectDifficultyReq {
+    uint32 difficulty = 7;
+}
+

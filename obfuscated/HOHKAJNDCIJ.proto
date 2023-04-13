@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 445
+// Name: HOHKAJNDCIJ
+message HOHKAJNDCIJ {
+    uint32 KPAOGOLFPCB = 4;
+    uint32 NNGAKPMFPOO = 5;
+}
+

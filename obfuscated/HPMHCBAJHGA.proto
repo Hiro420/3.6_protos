@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OKHLKNPBBHN.proto";
+
+// CmdId: 5066
+// Name: HPMHCBAJHGA
+message HPMHCBAJHGA {
+    OKHLKNPBBHN BPFJOLBAONG = 2;
+    int32 EEDMFEOGLFN = 4;
+    bool JEFDKALEEJP = 7;
+}
+

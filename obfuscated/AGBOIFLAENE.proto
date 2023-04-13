@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: AGBOIFLAENE
+message AGBOIFLAENE {
+    KKFEDHALJFH KFFBIJEMGFD = 1;
+    KKFEDHALJFH ONLIOJAEJEB = 2;
+    KKFEDHALJFH EHALDKAOHJN = 3;
+    KKFEDHALJFH JFBJLENNAAE = 4;
+    KKFEDHALJFH AJEJCPFOKAB = 5;
+}
+

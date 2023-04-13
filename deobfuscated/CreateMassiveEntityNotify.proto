@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ServerMassiveEntity.proto";
+
+// CmdId: 318
+// Name: JADJLNMNODG
+message CreateMassiveEntityNotify {
+    repeated ServerMassiveEntity massive_entity_list = 10;
+}
+

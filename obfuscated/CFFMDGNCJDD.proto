@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ELGOIMEMBFO.proto";
+import "MFDDAHPDKOD.proto";
+import "MJOHNMGPPEN.proto";
+
+// CmdId: 1241
+// Name: CFFMDGNCJDD
+message CFFMDGNCJDD {
+    ELGOIMEMBFO ILKDINAHMGL = 10;
+    repeated uint32 MBEEMKLMCFB = 5;
+    float GDFHDALHDKF = 4;
+    MJOHNMGPPEN MNEHNBJPNCO = 7;
+    MFDDAHPDKOD CNDKFAMECDF = 11;
+    uint32 DMBFPFFMFCM = 12;
+    uint32 HINMLENBAFO = 1;
+}
+

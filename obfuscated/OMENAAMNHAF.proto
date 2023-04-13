@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 195
+// Name: OMENAAMNHAF
+message OMENAAMNHAF {
+    map<uint32, uint32> CBPDPIOMLNN = 11;
+}
+

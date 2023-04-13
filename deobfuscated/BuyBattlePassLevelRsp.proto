@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2625
+// Name: AKCACDJBBJM
+message BuyBattlePassLevelRsp {
+    int32 retcode = 2;
+    uint32 buy_level = 1;
+}
+

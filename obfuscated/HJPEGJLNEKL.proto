@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2033
+// Name: HJPEGJLNEKL
+message HJPEGJLNEKL {
+    int32 EEDMFEOGLFN = 12;
+    uint32 CINIDFALGKI = 15;
+    uint32 PNLBJABJLFC = 6;
+}
+

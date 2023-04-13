@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// Name: OOHOEKGOKIO
+message OOHOEKGOKIO {
+    // Name: IIOFMJEGPIJ
+    message IIOFMJEGPIJ {
+        repeated INPDDALBMBO DBFMOJJPECJ = 1;
+        repeated INPDDALBMBO KBNBCBBMIAO = 2;
+    }
+
+    string JPIEPAAAKPA = 1;
+    string FFFEIEGGGNJ = 2;
+    uint32 DNLAEDBMDHO = 3;
+    uint32 DILLHPIDIOF = 4;
+    uint32 OGIIALOELPN = 5;
+    uint32 MKMAIDBBFJP = 6;
+    uint32 JAKFJNJPNOF = 7;
+    oneof BOKJEADIHPJ {
+        IIOFMJEGPIJ DBOGOIGKHJH = 101;
+    }
+}
+

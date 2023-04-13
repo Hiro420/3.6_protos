@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1836
+// Name: KDCFGNKNGGB
+message KDCFGNKNGGB {
+    bool NCJOJKOHDPE = 10;
+    int32 EEDMFEOGLFN = 12;
+}
+

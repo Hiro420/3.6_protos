@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HCBPECOJPEI.proto";
+
+// CmdId: 136
+// Name: GFGCMBGAMGO
+message GFGCMBGAMGO {
+    HCBPECOJPEI DFAJKLEOLEF = 14;
+    string GINJGPHCAKG = 12;
+    int32 EEDMFEOGLFN = 15;
+}
+

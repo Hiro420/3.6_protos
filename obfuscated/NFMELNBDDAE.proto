@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KHBDDBHLOCA.proto";
+
+// CmdId: 939
+// Name: NFMELNBDDAE
+message NFMELNBDDAE {
+    uint32 PKDJIGJDEJE = 4;
+    repeated KHBDDBHLOCA KKPGBKGMAEN = 11;
+}
+

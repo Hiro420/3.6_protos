@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 915
+// Name: GIJPAOFHLHB
+message GIJPAOFHLHB {
+    int32 EEDMFEOGLFN = 10;
+    uint32 DMGDBIHNDHE = 3;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5441
+// Name: PBDACOIIJCI
+message PBDACOIIJCI {
+    uint32 MFOOMFBLNMK = 4;
+    bool AHLBALEPDGC = 6;
+    int32 EEDMFEOGLFN = 5;
+}
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: IPOEHNLGMHH
+message IPOEHNLGMHH {
+    uint32 MDNMOJAPBKB = 11;
+}
+

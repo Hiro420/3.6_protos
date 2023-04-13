@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "DungeonEntryBlockReason.proto";
+
+// Name: MOLENBNLNDP
+message DungeonEntryCond {
+    DungeonEntryBlockReason cond_reason = 2;
+    uint32 param1 = 12;
+}
+

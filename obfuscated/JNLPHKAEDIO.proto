@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JNLPHKAEDIO
+message JNLPHKAEDIO {
+    uint32 JFAFMJAFPEF = 12;
+    uint32 GGBHEOELCMF = 13;
+    uint32 BEJLIKCLKPN = 11;
+}
+

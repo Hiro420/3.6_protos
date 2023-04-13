@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+import "PIDANILFCHF.proto";
+
+// CmdId: 4322
+// Name: HCNJNLNNNCM
+message HCNJNLNNNCM {
+    KKFEDHALJFH LONDFEOCBMM = 8;
+    uint32 FINLEBHLDIC = 6;
+    PIDANILFCHF DEJCDJKMGIK = 3;
+    uint32 LMNJIGDAMNE = 2;
+}
+

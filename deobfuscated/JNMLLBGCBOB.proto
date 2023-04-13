@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CKMJBOGJFMB.proto";
+
+// Name: JNMLLBGCBOB
+message JNMLLBGCBOB {
+    repeated CKMJBOGJFMB level_info_list = 4;
+}
+

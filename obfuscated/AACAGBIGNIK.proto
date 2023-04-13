@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8649
+// Name: AACAGBIGNIK
+message AACAGBIGNIK {
+    repeated uint32 NMKIFLLBAOO = 15;
+    bool HFEAHJGCEHP = 11;
+}
+

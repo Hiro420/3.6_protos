@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 20841
+// Name: FNDLCLGFFIO
+message LanV3BoatGameTransferFinishNotify {
+    bool is_reenter = 14;
+}
+

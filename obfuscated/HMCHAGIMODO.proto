@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4788
+// Name: HMCHAGIMODO
+message HMCHAGIMODO {
+    uint32 AEDKDLGMHLJ = 4;
+    uint32 MFCJNNNFCGF = 1;
+}
+

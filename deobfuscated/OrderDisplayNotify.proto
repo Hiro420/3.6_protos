@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4126
+// Name: NMJIDCKCBHG
+message OrderDisplayNotify {
+    uint32 order_id = 8;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8650
+// Name: FEGOKDNDBCO
+message FEGOKDNDBCO {
+    int32 EEDMFEOGLFN = 9;
+    bool LOEACBGBDKG = 13;
+    uint32 EHPIOILFBIN = 6;
+    uint32 HDMDJECGCKC = 3;
+}
+

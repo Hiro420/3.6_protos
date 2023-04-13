@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FHADDMLLMPJ
+message FHADDMLLMPJ {
+    uint32 target_entity_id = 10;
+}
+

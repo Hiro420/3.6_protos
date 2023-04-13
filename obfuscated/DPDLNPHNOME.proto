@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LIHFDPHMIGJ.proto";
+
+// CmdId: 334
+// Name: DPDLNPHNOME
+message DPDLNPHNOME {
+    // Name: JEMLILGEABH
+    enum JEMLILGEABH {
+        JEMLILGEABH_ADD_SERVER_BUFF = 0;
+        JEMLILGEABH_DEL_SERVER_BUFF = 1;
+    }
+
+    repeated uint64 CBLFCLJDKAO = 6;
+    bool GHCGFIJPAIG = 7;
+    repeated LIHFDPHMIGJ KNEDKLODAND = 9;
+    JEMLILGEABH LEFELJKONBA = 15;
+    repeated uint32 LGJNHFPGEGA = 13;
+}
+

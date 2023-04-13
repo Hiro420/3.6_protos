@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HFCKLPODICN.proto";
+import "HPEAEINKHOM.proto";
+
+// Name: LNBOOJAPOBI
+message LNBOOJAPOBI {
+    HPEAEINKHOM MNIOIFIIFKI = 12;
+    HFCKLPODICN OMKEFCKPOMK = 5;
+    uint32 DMBFPFFMFCM = 8;
+}
+

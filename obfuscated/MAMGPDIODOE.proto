@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 645
+// Name: MAMGPDIODOE
+message MAMGPDIODOE {
+    uint32 FGKBBAEEDNP = 9;
+    int32 EEDMFEOGLFN = 13;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4081
+// Name: CMCLJJPIFEO
+message CMCLJJPIFEO {
+    uint32 AOOCBPDDMKC = 12;
+    int32 EEDMFEOGLFN = 4;
+}
+

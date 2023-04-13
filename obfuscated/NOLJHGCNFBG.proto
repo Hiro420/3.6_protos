@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GFDPEELJAFP.proto";
+
+// CmdId: 2182
+// Name: NOLJHGCNFBG
+message NOLJHGCNFBG {
+    repeated GFDPEELJAFP MPEKKLIIICP = 9;
+    uint32 PNILJLDIAGJ = 1;
+    int32 EEDMFEOGLFN = 15;
+}
+

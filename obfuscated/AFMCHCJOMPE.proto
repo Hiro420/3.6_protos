@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8339
+// Name: AFMCHCJOMPE
+message AFMCHCJOMPE {
+    repeated uint32 PDEOCFFDMLH = 3;
+}
+

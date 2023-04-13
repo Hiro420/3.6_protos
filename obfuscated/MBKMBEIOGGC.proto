@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+
+// CmdId: 4082
+// Name: MBKMBEIOGGC
+message MBKMBEIOGGC {
+    CAOGLKMLEOG IAEKOGMCHED = 6;
+    int32 EEDMFEOGLFN = 13;
+    uint32 MFCJNNNFCGF = 1;
+}
+

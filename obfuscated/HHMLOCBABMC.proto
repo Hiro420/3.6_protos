@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 2396
+// Name: HHMLOCBABMC
+message HHMLOCBABMC {
+    // Name: AMHEPLPEHOG
+    enum AMHEPLPEHOG {
+        AMHEPLPEHOG_STATUS_FAIL = 0;
+        AMHEPLPEHOG_STATUS_SUCC = 1;
+        AMHEPLPEHOG_STATUS_PARTIAL = 2;
+    }
+
+    AMHEPLPEHOG OPBBKDKLEGC = 5;
+    int32 ECKFNDOIIGN = 3;
+    repeated KKFEDHALJFH EJDDDAIFPHF = 1;
+    int32 EEDMFEOGLFN = 10;
+}
+

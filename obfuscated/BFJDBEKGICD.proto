@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 596
+// Name: BFJDBEKGICD
+message BFJDBEKGICD {
+    uint32 DMBFPFFMFCM = 5;
+    uint32 ANGPPCMBCON = 3;
+    int32 EEDMFEOGLFN = 12;
+    uint32 OMLFCPHFDGL = 8;
+}
+

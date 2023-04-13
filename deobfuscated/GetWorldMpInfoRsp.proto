@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 3353
+// Name: LAMDJJOGEDA
+message GetWorldMpInfoRsp {
+    int32 retcode = 13;
+    bool is_in_mp_mode = 9;
+    uint32 quit_mp_valid_time = 11;
+}
+

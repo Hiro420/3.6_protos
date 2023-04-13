@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5543
+// Name: MDHPLAGPINN
+message MDHPLAGPINN {
+    uint32 end_time = 7;
+    uint32 gallery_id = 2;
+}
+

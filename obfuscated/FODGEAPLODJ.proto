@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FODGEAPLODJ
+enum FODGEAPLODJ {
+    FODGEAPLODJ_INVALID = 0;
+    FODGEAPLODJ_UNABLE_TO_BEGIN = 1;
+    FODGEAPLODJ_BEGIN = 2;
+    FODGEAPLODJ_END = 3;
+}
+

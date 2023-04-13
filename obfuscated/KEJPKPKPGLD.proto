@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 929
+// Name: KEJPKPKPGLD
+message KEJPKPKPGLD {
+    int32 EEDMFEOGLFN = 14;
+    bool JENOBHPEEGI = 6;
+}
+

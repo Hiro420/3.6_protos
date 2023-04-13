@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: MEDHAFCLIHB
+message MEDHAFCLIHB {
+    uint32 PKDJIGJDEJE = 9;
+    uint32 AMEJLPJCENL = 13;
+    bool GFIOPLGMDPJ = 5;
+    KKFEDHALJFH DICABNGMDAH = 4;
+}
+

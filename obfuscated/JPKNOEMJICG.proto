@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DGJFFNNBPND.proto";
+import "KKFEDHALJFH.proto";
+
+// CmdId: 2301
+// Name: JPKNOEMJICG
+message JPKNOEMJICG {
+    // Name: HMNKHDMCEKN
+    enum HMNKHDMCEKN {
+        HMNKHDMCEKN_STATUS_FAIL = 0;
+        HMNKHDMCEKN_STATUS_SUCC = 1;
+        HMNKHDMCEKN_STATUS_PARTIAL = 2;
+    }
+
+    repeated DGJFFNNBPND HPLEHEAMEEC = 2;
+    repeated DGJFFNNBPND KLGDHOIPMAF = 3;
+    repeated KKFEDHALJFH EJDDDAIFPHF = 10;
+    repeated KKFEDHALJFH AOIKBPNEEPO = 6;
+    HMNKHDMCEKN OPBBKDKLEGC = 4;
+    int32 ECKFNDOIIGN = 12;
+    int32 EEDMFEOGLFN = 5;
+}
+

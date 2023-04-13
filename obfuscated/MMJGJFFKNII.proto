@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JNDALNPMINN.proto";
+
+// CmdId: 4181
+// Name: MMJGJFFKNII
+message MMJGJFFKNII {
+    repeated uint32 FOIBMIAMHGF = 10;
+    uint32 BFPBOJOIACJ = 13;
+    JNDALNPMINN CNDKFAMECDF = 6;
+}
+

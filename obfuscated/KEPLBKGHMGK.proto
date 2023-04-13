@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CJGELELGMNO.proto";
+
+// CmdId: 4123
+// Name: KEPLBKGHMGK
+message KEPLBKGHMGK {
+    uint32 DHBOMFLIFAJ = 2;
+    repeated CJGELELGMNO CPFCBBIFBPK = 15;
+}
+

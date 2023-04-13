@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FFNJNOEBCFC.proto";
+
+// CmdId: 2082
+// Name: OLCOEPJPFIL
+message OLCOEPJPFIL {
+    FFNJNOEBCFC BHGHPABHALB = 15;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8631
+// Name: FNDBHKAEEBB
+message FNDBHKAEEBB {
+    uint32 EDDFCBOLKKN = 1;
+    uint32 EGMCLLMPACM = 15;
+    int32 EEDMFEOGLFN = 14;
+    bool APMAIPBGMFF = 3;
+}
+

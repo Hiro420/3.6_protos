@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 209
+// Name: AEDBACJCGMB
+message BackMyWorldRsp {
+    int32 retcode = 2;
+}
+

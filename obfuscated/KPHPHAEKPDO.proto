@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GPOPPJGGLKN.proto";
+import "HPEAEINKHOM.proto";
+import "IMOGNGLFLFK.proto";
+import "LLPGGJMMOHK.proto";
+import "LNBOOJAPOBI.proto";
+
+// CmdId: 4273
+// Name: KPHPHAEKPDO
+message KPHPHAEKPDO {
+    bool GPAEJDBAELH = 1846;
+    oneof AABFAKKCGJL {
+        HPEAEINKHOM MNIOIFIIFKI = 1807;
+        GPOPPJGGLKN BJNOPPGAOHJ = 1828;
+        LNBOOJAPOBI AOMLGNILHIG = 1560;
+        LLPGGJMMOHK FHFCPDOMGIB = 1431;
+        IMOGNGLFLFK ANHPFDJCDGN = 1961;
+    }
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8973
+// Name: KGGPJOOPDAI
+message KGGPJOOPDAI {
+    int32 EEDMFEOGLFN = 10;
+}
+

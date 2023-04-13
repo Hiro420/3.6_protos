@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DFKIFLPKDBK.proto";
+import "KCFFMHEOAKP.proto";
+import "MPLGIPBGDAG.proto";
+import "POAGBFGEKKB.proto";
+
+// Name: PACIIOONPBH
+message PACIIOONPBH {
+    POAGBFGEKKB PBJKLENGGCL = 4;
+    bool MFBLCKKNECK = 8;
+    DFKIFLPKDBK CLNLDCACCEE = 15;
+    KCFFMHEOAKP HNBDKJNKFHB = 9;
+    MPLGIPBGDAG OKKEDJMNNHL = 13;
+}
+

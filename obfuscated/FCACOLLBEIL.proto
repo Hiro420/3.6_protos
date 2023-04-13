@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FIBFPHIAJHG.proto";
+
+// CmdId: 4028
+// Name: FCACOLLBEIL
+message FCACOLLBEIL {
+    repeated FIBFPHIAJHG IAALAMFFDJD = 11;
+    int32 EEDMFEOGLFN = 5;
+}
+

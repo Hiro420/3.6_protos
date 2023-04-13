@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MotionInfo.proto";
+
+// CmdId: 278
+// Name: HADOGPNKCLM
+message SceneEntityMoveNotify {
+    MotionInfo motion_info = 3;
+    uint32 reliable_seq = 1;
+    uint32 scene_time = 14;
+    uint32 entity_id = 15;
+}
+

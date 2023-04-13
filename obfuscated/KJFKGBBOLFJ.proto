@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DHIACDOHOHA.proto";
+
+// CmdId: 2456
+// Name: KJFKGBBOLFJ
+message KJFKGBBOLFJ {
+    uint32 MLPILHLBBBG = 14;
+    repeated DHIACDOHOHA NBPBJHGOBCG = 5;
+}
+

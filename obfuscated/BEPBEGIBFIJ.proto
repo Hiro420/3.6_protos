@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 163
+// Name: BEPBEGIBFIJ
+message BEPBEGIBFIJ {
+    uint32 GOPGHOAKHJP = 11;
+    int32 EEDMFEOGLFN = 3;
+    uint32 LHMNHNAPDPI = 12;
+}
+

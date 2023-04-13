@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OMEEHDGICHO.proto";
+
+// Name: POOLBEFCIIE
+message POOLBEFCIIE {
+    uint32 JGIPOEKBNNN = 4;
+    bool NCACAHINDCJ = 13;
+    map<uint32, OMEEHDGICHO> MIHCHAEEDJO = 15;
+    uint32 JJGGAPDDOLN = 9;
+    uint32 DAEKACIKOLE = 2;
+    bool FKOBJPCKIFJ = 6;
+}
+

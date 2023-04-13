@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "UgcMusicBriefInfo.proto";
+
+// CmdId: 6324
+// Name: HIDEKBNDDIP
+message HIDEKBNDDIP {
+    repeated UgcMusicBriefInfo JIDGICBBLBG = 9;
+    repeated UgcMusicBriefInfo AKDNFEAGLCO = 5;
+}
+

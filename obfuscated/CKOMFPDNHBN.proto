@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MEGDKCPJCHP.proto";
+
+// CmdId: 8806
+// Name: CKOMFPDNHBN
+message CKOMFPDNHBN {
+    int32 EEDMFEOGLFN = 1;
+    repeated MEGDKCPJCHP JNOINMHCCFD = 4;
+    uint32 LFOCJEADKPK = 13;
+}
+

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: EDIIGNKNLHN
+message EDIIGNKNLHN {
+    int32 HJLEBAHLAOL = 1;
+    uint32 AMEJLPJCENL = 2;
+    KKFEDHALJFH KFFBIJEMGFD = 3;
+    KKFEDHALJFH AJEJCPFOKAB = 4;
+    KKFEDHALJFH NIIKELEOLBD = 5;
+    KKFEDHALJFH FBHBDKEJFDO = 6;
+    KKFEDHALJFH NMNNPGLPBIN = 7;
+}
+

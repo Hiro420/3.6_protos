@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+
+// Name: IOGDNKFIGHK
+message IOGDNKFIGHK {
+    string HFJHMECOIJI = 7;
+    string FDMCFBMDDLH = 14;
+    repeated uint32 ELMGBHLLJOE = 6;
+    uint32 JBMPBFDPKGD = 12;
+    map<uint32, uint32> CCDLKAIFPHJ = 3;
+    CAOGLKMLEOG IAEKOGMCHED = 2;
+    string FLJJCLIMMJA = 11;
+    uint32 FNFPIGHNBLL = 15;
+}
+

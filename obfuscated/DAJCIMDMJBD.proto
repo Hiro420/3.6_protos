@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GPMAKNFCCKM.proto";
+import "IPKPGFHHFFA.proto";
+
+// CmdId: 4362
+// Name: DAJCIMDMJBD
+message DAJCIMDMJBD {
+    bool DJPHNINHIGD = 2;
+    uint32 NCHIIILDKNA = 6;
+    uint32 ELIEBOMLPDN = 12;
+    repeated GPMAKNFCCKM GDBAIEFLINI = 1;
+    repeated IPKPGFHHFFA IPGAADPPIBA = 10;
+    uint32 PPHMNEGECDM = 13;
+}
+

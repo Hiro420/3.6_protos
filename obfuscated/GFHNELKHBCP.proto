@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4045
+// Name: GFHNELKHBCP
+message GFHNELKHBCP {
+    int32 EEDMFEOGLFN = 1;
+    repeated uint32 FMNAELFNBMC = 5;
+}
+

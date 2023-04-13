@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JMMPKPIHNMB
+enum JMMPKPIHNMB {
+    JMMPKPIHNMB_NONE = 0;
+    JMMPKPIHNMB_LAYOUT = 1;
+}
+

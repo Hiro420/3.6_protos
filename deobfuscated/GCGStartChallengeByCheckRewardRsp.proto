@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGLevelType.proto";
+
+// CmdId: 7020
+// Name: HLHJMEAHDBG
+message GCGStartChallengeByCheckRewardRsp {
+    uint32 config_id = 10;
+    GCGLevelType level_type = 3;
+    int32 retcode = 4;
+    uint32 level_id = 5;
+    repeated uint32 DKMOFJKMINH = 2;
+    repeated uint32 IEKDCIFFABE = 11;
+}
+

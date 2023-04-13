@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FEEHAOJCNCG.proto";
+
+// Name: EMLPIPHPEBM
+message EMLPIPHPEBM {
+    uint32 NNJAJGCHJKE = 1;
+    uint32 FJBKBMHJMMM = 9;
+    FEEHAOJCNCG CNDKFAMECDF = 13;
+    bool GBHJHJENFGK = 3;
+    uint32 BKECHEIMCGP = 5;
+}
+

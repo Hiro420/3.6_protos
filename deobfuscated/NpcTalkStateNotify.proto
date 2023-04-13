@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 449
+// Name: GGMODBOEOIL
+message NpcTalkStateNotify {
+    bool is_ban = 15;
+}
+

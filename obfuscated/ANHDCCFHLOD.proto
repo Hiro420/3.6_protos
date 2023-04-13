@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IMOCPNKHOFP.proto";
+
+// Name: ANHDCCFHLOD
+message ANHDCCFHLOD {
+    IMOCPNKHOFP MFABFMFFAFJ = 5;
+    uint32 JEBGOHBEBBJ = 1;
+    bool OJOBEMKMALK = 10;
+    uint32 MIEDMELHOLI = 8;
+}
+

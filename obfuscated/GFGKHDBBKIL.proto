@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2916
+// Name: GFGKHDBBKIL
+message GFGKHDBBKIL {
+    int32 EEDMFEOGLFN = 10;
+    uint32 BLCEPEMCKEM = 4;
+}
+

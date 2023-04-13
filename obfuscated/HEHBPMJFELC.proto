@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2053
+// Name: HEHBPMJFELC
+message HEHBPMJFELC {
+    uint32 PNLBJABJLFC = 13;
+    uint32 LFOCJEADKPK = 8;
+}
+

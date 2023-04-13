@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5345
+// Name: NMAGLFPGECM
+message NMAGLFPGECM {
+    uint32 JBMPBFDPKGD = 9;
+    uint32 MFCJNNNFCGF = 8;
+    uint32 EPLAOCBKEBP = 5;
+}
+

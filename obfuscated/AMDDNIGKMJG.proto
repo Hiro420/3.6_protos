@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GLGKDKCGEKF.proto";
+
+// CmdId: 252
+// Name: AMDDNIGKMJG
+message AMDDNIGKMJG {
+    uint32 NILJHJLDIPH = 13;
+    uint32 PNILGCAHKOD = 15;
+    GLGKDKCGEKF PJMHINOCIKE = 9;
+    uint32 BLCDBPALGPL = 3;
+}
+

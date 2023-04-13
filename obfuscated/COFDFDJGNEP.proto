@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ONINAMINFAL.proto";
+
+// Name: COFDFDJGNEP
+message COFDFDJGNEP {
+    uint32 LIHIMGBNIFL = 4;
+    repeated ONINAMINFAL AJICMDLBFLK = 7;
+}
+

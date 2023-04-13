@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 23127
+// Name: AFIPONEFADI
+message DuelHeartRestartDungeonRsp {
+    int32 retcode = 7;
+}
+

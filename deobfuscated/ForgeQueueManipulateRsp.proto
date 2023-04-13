@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ForgeQueueManipulateType.proto";
+import "ItemParam.proto";
+
+// CmdId: 673
+// Name: MJAFJIOFNFE
+message ForgeQueueManipulateRsp {
+    int32 retcode = 2;
+    repeated ItemParam MDJJBOAANKF = 1;
+    repeated ItemParam BNCLNGJLJIA = 15;
+    ForgeQueueManipulateType manipulate_type = 6;
+    repeated ItemParam LEANPAODEGK = 8;
+}
+

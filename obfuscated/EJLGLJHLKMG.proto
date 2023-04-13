@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3959
+// Name: EJLGLJHLKMG
+message EJLGLJHLKMG {
+    uint32 OGIJIILIIPF = 12;
+}
+

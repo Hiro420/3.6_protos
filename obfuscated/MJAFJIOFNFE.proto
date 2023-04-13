@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EOMPENELAEF.proto";
+import "INPDDALBMBO.proto";
+
+// CmdId: 673
+// Name: MJAFJIOFNFE
+message MJAFJIOFNFE {
+    int32 EEDMFEOGLFN = 2;
+    repeated INPDDALBMBO MDJJBOAANKF = 1;
+    repeated INPDDALBMBO BNCLNGJLJIA = 15;
+    EOMPENELAEF ICHOHMNIMJD = 6;
+    repeated INPDDALBMBO LEANPAODEGK = 8;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3203
+// Name: FHHIKGOMKPK
+message FHHIKGOMKPK {
+    uint32 FGEIEPJKHDL = 4;
+    uint32 AMEJLPJCENL = 9;
+    uint32 PKDJIGJDEJE = 7;
+}
+

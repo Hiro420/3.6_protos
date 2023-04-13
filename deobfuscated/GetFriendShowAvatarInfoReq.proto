@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4015
+// Name: CFPHGJPKKHP
+message GetFriendShowAvatarInfoReq {
+    uint32 uid = 13;
+}
+

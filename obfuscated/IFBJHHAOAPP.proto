@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: IFBJHHAOAPP
+message IFBJHHAOAPP {
+    uint32 JBMPBFDPKGD = 1;
+    repeated uint32 HLBLDDOLLBA = 2;
+    repeated uint32 EFONHDGDMHF = 3;
+}
+

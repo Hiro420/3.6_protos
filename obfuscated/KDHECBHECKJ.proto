@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 21265
+// Name: KDHECBHECKJ
+message KDHECBHECKJ {
+    int32 EEDMFEOGLFN = 8;
+    uint32 LKANJDEJDDI = 3;
+    repeated uint32 JDAMJDBKIJD = 9;
+}
+

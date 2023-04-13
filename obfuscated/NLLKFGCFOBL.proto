@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "COONHFJFEHG.proto";
+import "JLNOLCOKGJD.proto";
+import "PNGOGFIBMGO.proto";
+
+// Name: NLLKFGCFOBL
+message NLLKFGCFOBL {
+    uint32 KCFIDPKINLC = 1;
+    JLNOLCOKGJD HAKPBCPEOLE = 4;
+    repeated PNGOGFIBMGO IEEPAJEHDIJ = 7;
+    uint32 PMCMIPEIOGH = 8;
+    uint32 PHELLJODGAN = 9;
+    uint32 KKFFEOJPOFM = 10;
+    bool MJHNILOFLGB = 11;
+    bool CGKIDMMLEKF = 12;
+    uint32 AMEJLPJCENL = 13;
+    repeated string DOGJNNKNOCI = 14;
+    COONHFJFEHG PKONGCNKFPH = 15;
+}
+

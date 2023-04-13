@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HCBPECOJPEI
+message HCBPECOJPEI {
+    uint32 KEOAIKGJLNH = 1;
+    bool MBFAHOFFCBC = 2;
+    string BDODCANLNFG = 3;
+    string IADDFNCFNLG = 4;
+    string DBJCGBNCHPK = 5;
+    string KENIPFKMKKE = 6;
+    string CMGMKNHDFIK = 7;
+}
+

@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ENLKHNPEPCL.proto";
+import "IHONIMHMIGN.proto";
+import "JNLPHKAEDIO.proto";
+import "LPJODIDIFIL.proto";
+
+// Name: IGIIEHFMKKN
+message IGIIEHFMKKN {
+    bool NJCGHBKBKDO = 2;
+    uint32 HCGIBBGCFHO = 4;
+    bool LCPFDLLEDNM = 13;
+    repeated IHONIMHMIGN NENDNGMKFMH = 9;
+    ENLKHNPEPCL HBDPHNLEIAG = 10;
+    uint32 JFAFMJAFPEF = 15;
+    uint32 FOENJPJJGBA = 12;
+    LPJODIDIFIL IHFHAKNFPKH = 6;
+    uint32 PHECELJJFCK = 7;
+    uint32 GAMMCGFEAIH = 14;
+    JNLPHKAEDIO MBFKKGEEDJH = 3;
+    uint32 LFOCJEADKPK = 8;
+    uint32 BEJLIKCLKPN = 5;
+}
+

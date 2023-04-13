@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8236
+// Name: BCNIMOKNOOJ
+message BCNIMOKNOOJ {
+    uint32 IHJHBOGKMLA = 14;
+    uint32 FCJPKOCJACN = 5;
+}
+

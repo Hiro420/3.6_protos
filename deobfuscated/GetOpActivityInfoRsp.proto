@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "OpActivityInfo.proto";
+
+// CmdId: 5196
+// Name: CBFMJOHLCCD
+message GetOpActivityInfoRsp {
+    int32 retcode = 7;
+    repeated OpActivityInfo op_activity_info_list = 5;
+}
+

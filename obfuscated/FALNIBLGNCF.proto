@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OKDOOEMGDLK.proto";
+
+// CmdId: 6342
+// Name: FALNIBLGNCF
+message FALNIBLGNCF {
+    OKDOOEMGDLK KFFPLKOPJLE = 6;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20946
+// Name: EDMCDCINNDL
+message EDMCDCINNDL {
+    uint32 HDMDJECGCKC = 7;
+    int32 EEDMFEOGLFN = 14;
+    uint32 EEHJGCIJFPD = 9;
+}
+

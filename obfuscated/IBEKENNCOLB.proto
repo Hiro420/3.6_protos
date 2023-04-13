@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JPAKFKCGEAN.proto";
+
+// CmdId: 8409
+// Name: IBEKENNCOLB
+message IBEKENNCOLB {
+    uint32 PNLBJABJLFC = 11;
+    uint32 JOPJKOGODAM = 9;
+    uint32 JJGGAPDDOLN = 6;
+    repeated JPAKFKCGEAN OLJJOJBJGBI = 7;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8579
+// Name: ECJGNLPFACF
+message ECJGNLPFACF {
+    repeated uint32 HLCHBHAECMB = 9;
+    int32 EEDMFEOGLFN = 7;
+}
+

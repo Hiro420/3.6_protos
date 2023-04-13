@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OPFOGLAHFNE.proto";
+
+// Name: GMECAGNDCNE
+message GMECAGNDCNE {
+    uint32 EEMILGMLGOH = 11;
+    repeated OPFOGLAHFNE MCFGAFLGFPI = 12;
+}
+

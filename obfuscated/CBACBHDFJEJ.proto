@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BNMGOAGIHMM.proto";
+
+// Name: CBACBHDFJEJ
+message CBACBHDFJEJ {
+    repeated BNMGOAGIHMM AENNLDNKDPI = 1;
+}
+

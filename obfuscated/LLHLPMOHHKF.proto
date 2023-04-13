@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8030
+// Name: LLHLPMOHHKF
+message LLHLPMOHHKF {
+    repeated uint32 ENAIONLINHB = 7;
+}
+

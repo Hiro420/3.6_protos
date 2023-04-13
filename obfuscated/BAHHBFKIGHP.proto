@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PEHLILGOPKN.proto";
+
+// CmdId: 356
+// Name: BAHHBFKIGHP
+message BAHHBFKIGHP {
+    PEHLILGOPKN CGAFJIIPALB = 2;
+    uint32 DMBFPFFMFCM = 13;
+}
+

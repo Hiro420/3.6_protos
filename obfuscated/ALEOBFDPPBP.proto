@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IHONIMHMIGN.proto";
+
+// Name: ALEOBFDPPBP
+message ALEOBFDPPBP {
+    IHONIMHMIGN LMNGGDPKEKF = 10;
+    uint32 MIKNKAKEFHE = 12;
+}
+

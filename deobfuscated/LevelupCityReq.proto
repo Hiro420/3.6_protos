@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 237
+// Name: FMMDGBFOCNN
+message LevelupCityReq {
+    uint32 item_num = 13;
+    uint32 area_id = 3;
+    uint32 scene_id = 5;
+}
+

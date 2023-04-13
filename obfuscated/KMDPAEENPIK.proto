@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 700
+// Name: KMDPAEENPIK
+message KMDPAEENPIK {
+    int32 EEDMFEOGLFN = 8;
+}
+

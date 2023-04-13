@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8615
+// Name: FOACMIDMKCF
+message ActivityHaveRecvGiftNotify {
+    uint32 schedule_id = 6;
+}
+

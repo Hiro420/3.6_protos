@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MABLDNEFFCB
+message PlayerWorldSceneInfo {
+    repeated uint32 scene_tag_id_list = 3;
+    uint32 scene_id = 6;
+    bool is_locked = 4;
+}
+

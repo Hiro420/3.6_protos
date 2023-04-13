@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 1163
+// Name: MHPFILLGJOJ
+message MHPFILLGJOJ {
+    // Name: POCPFABKJCL
+    message POCPFABKJCL {
+        uint32 LBNHONNMMGG = 7;
+    }
+
+    // Name: NBNLPGEFDEC
+    message NBNLPGEFDEC {
+        KKFEDHALJFH HHKLIDNCFBG = 8;
+        uint32 JGDLMEEEBIM = 10;
+        uint32 ALLPEAAMOLB = 3;
+    }
+
+    // Name: CLAKGGEPCLD
+    message CLAKGGEPCLD {
+        uint32 MOLCMPFBACG = 3;
+        uint32 HAOGJLHNDBM = 2;
+        bytes BDBGNNBPMLH = 1;
+    }
+
+    oneof ACNODMCPCCI {
+        POCPFABKJCL OKHPFHAJFDE = 12;
+        NBNLPGEFDEC GAFBPIDAMFB = 11;
+        CLAKGGEPCLD AFEJEAHIHGA = 2;
+    }
+}
+

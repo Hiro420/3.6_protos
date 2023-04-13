@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8531
+// Name: GCAAKGBBFNK
+message GCAAKGBBFNK {
+    uint32 PAIGJDPAJIM = 9;
+}
+

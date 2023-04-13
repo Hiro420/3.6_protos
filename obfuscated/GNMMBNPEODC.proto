@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JMLDAKCKIMF.proto";
+
+// Name: GNMMBNPEODC
+message GNMMBNPEODC {
+    repeated JMLDAKCKIMF DOOAGLJJFIE = 13;
+}
+

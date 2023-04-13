@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8096
+// Name: ECKCANDJMHM
+message ECKCANDJMHM {
+    bool DEPBDNBFAOF = 10;
+    uint32 CPBCEGLHDBN = 12;
+}
+

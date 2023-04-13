@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2090
+// Name: IKGEDMDANAK
+message TreasureMapRegionActiveNotify {
+    uint32 active_region_index = 13;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DKLAAEICIII.proto";
+
+// Name: EIJPLHGOBPC
+message EIJPLHGOBPC {
+    bool ACDJAAHCMNO = 1;
+    bool LCJDIJCIGEF = 11;
+    uint32 HAOBBFOOGFC = 12;
+    repeated DKLAAEICIII PMDOOKDEDEP = 9;
+}
+

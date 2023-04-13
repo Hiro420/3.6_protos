@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OAJKPEBHHCH
+message GravenInnocenceRaceLevelInfo {
+    uint32 max_score = 10;
+    bool is_open = 13;
+    uint32 level_id = 14;
+}
+

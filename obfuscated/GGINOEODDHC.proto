@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4034
+// Name: GGINOEODDHC
+message GGINOEODDHC {
+    uint32 JBMPBFDPKGD = 7;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DNPOCMJCINI.proto";
+
+// CmdId: 218
+// Name: LOJLNEMABDP
+message LOJLNEMABDP {
+    repeated DNPOCMJCINI GAIGJBMAEGL = 9;
+}
+

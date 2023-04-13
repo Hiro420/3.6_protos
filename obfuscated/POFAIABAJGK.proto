@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KAGFENNNCEA.proto";
+
+// Name: POFAIABAJGK
+message POFAIABAJGK {
+    uint32 DIOMMEDEGJI = 3;
+    uint32 KCHAMIMJKKK = 14;
+    KAGFENNNCEA ODCPDKBPANB = 9;
+    bool NJGKBGOPNKD = 1;
+}
+

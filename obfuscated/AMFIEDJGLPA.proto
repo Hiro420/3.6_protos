@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 23014
+// Name: AMFIEDJGLPA
+message AMFIEDJGLPA {
+    int32 EEDMFEOGLFN = 3;
+}
+

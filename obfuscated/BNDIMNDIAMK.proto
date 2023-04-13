@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CKOKLOOFHLJ.proto";
+
+// Name: BNDIMNDIAMK
+message BNDIMNDIAMK {
+    CKOKLOOFHLJ GLPGCBMMPCC = 8;
+    bool MNMLGKMEHCA = 3;
+    uint32 LIHIMGBNIFL = 1;
+}
+

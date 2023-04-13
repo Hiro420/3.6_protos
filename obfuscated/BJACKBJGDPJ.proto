@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BJACKBJGDPJ
+enum BJACKBJGDPJ {
+    BJACKBJGDPJ_LUNA_RITE_HINT_STATUS_DEFAULT = 0;
+    BJACKBJGDPJ_LUNA_RITE_HINT_STATUS_NO_COUNT = 1;
+    BJACKBJGDPJ_LUNA_RITE_HINT_STATUS_FINISH = 2;
+}
+

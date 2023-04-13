@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BADIFJMPNAG.proto";
+import "DBHBCEGMAHL.proto";
+import "JBPKDDGKMPP.proto";
+import "NOALPAGGDAB.proto";
+
+// Name: FKJLFENEPOJ
+message FKJLFENEPOJ {
+    uint32 ILDIJLDGECG = 9;
+    DBHBCEGMAHL FNJOMMFGIBL = 4;
+    uint32 HJFJMAEKNGD = 11;
+    JBPKDDGKMPP PNELHAIMLHM = 1;
+    repeated uint32 IMBLJPHBNPB = 12;
+    uint32 KBCFLOPLBOI = 5;
+    uint32 HCGIBBGCFHO = 14;
+    NOALPAGGDAB FJBBIJIGOJJ = 8;
+    BADIFJMPNAG BKACLBHGLNE = 13;
+}
+

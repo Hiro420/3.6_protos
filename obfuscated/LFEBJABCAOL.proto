@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NOABONHBAJJ.proto";
+
+// Name: LFEBJABCAOL
+message LFEBJABCAOL {
+    repeated NOABONHBAJJ MADHOCEALIB = 15;
+    uint32 JBMPBFDPKGD = 12;
+}
+

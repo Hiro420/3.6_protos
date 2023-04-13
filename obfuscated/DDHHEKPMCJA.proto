@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24406
+// Name: DDHHEKPMCJA
+message DDHHEKPMCJA {
+    int32 EEDMFEOGLFN = 6;
+}
+

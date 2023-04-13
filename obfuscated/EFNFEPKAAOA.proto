@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CBIFHKIFHEE.proto";
+import "HGDBFKLPLMK.proto";
+import "KKFEDHALJFH.proto";
+import "OKNINCMBNLI.proto";
+
+// Name: EFNFEPKAAOA
+message EFNFEPKAAOA {
+    uint32 DKPDMBEKJKP = 1;
+    int32 BBFIIIEMDFN = 2;
+    uint32 EHEEIKJBAHM = 3;
+    uint32 LBFEANOIHJG = 4;
+    KKFEDHALJFH CHMADPDJMIF = 7;
+    bool EECPOAEOPKM = 8;
+    HGDBFKLPLMK MIHDAEJFCGA = 9;
+    uint32 EOAHFFIKDGM = 10;
+    KKFEDHALJFH CFGCPAMDPEG = 11;
+    HGDBFKLPLMK MHEFFBABKDC = 12;
+    OKNINCMBNLI FFFEAHDGPGF = 13;
+    bool FPIDBNFKDFL = 14;
+    CBIFHKIFHEE AHAFCNFMNNO = 15;
+    uint32 BLILHBOJOCD = 16;
+}
+

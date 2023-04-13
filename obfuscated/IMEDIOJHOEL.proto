@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GEKCCHCJMPC.proto";
+
+// Name: IMEDIOJHOEL
+message IMEDIOJHOEL {
+    uint32 NNJAJGCHJKE = 4;
+    uint32 JBMPBFDPKGD = 10;
+    GEKCCHCJMPC NOPNDHBENMH = 13;
+    uint32 OFMMAHCMOFN = 2;
+    uint32 PDOCNGMGJAG = 7;
+}
+

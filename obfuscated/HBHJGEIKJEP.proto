@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 21035
+// Name: HBHJGEIKJEP
+message HBHJGEIKJEP {
+    uint32 ECLCBCEPGIH = 9;
+    uint32 EOICKCAFEIG = 10;
+    int32 EEDMFEOGLFN = 8;
+    uint32 JJGGAPDDOLN = 4;
+}
+

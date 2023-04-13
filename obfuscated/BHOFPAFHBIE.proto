@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PNCGEFDNHHF.proto";
+
+// Name: BHOFPAFHBIE
+message BHOFPAFHBIE {
+    int32 EEDMFEOGLFN = 1;
+    repeated PNCGEFDNHHF KALCEHLNPJB = 2;
+    bytes DOFFIELLMIK = 5;
+    bytes LMGFCBADKLN = 6;
+    bool NIGMKDOLNBP = 7;
+}
+

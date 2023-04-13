@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 949
+// Name: NLLGPPBKJJJ
+message NLLGPPBKJJJ {
+    uint32 FGEIEPJKHDL = 6;
+}
+

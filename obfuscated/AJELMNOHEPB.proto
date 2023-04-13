@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1639
+// Name: AJELMNOHEPB
+message AJELMNOHEPB {
+    uint64 OAIIFOIFFNN = 14;
+    uint32 IKGNEAHBGOJ = 4;
+    repeated uint64 DMCKCADOELM = 6;
+}
+

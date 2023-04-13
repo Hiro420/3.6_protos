@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4271
+// Name: GHCKNNAIEKO
+message WidgetReportRsp {
+    uint32 material_id = 15;
+    int32 retcode = 8;
+}
+

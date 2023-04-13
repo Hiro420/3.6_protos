@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8351
+// Name: HGHHBFJOHEF
+message LunaRiteHintPointReq {
+    uint32 area_id = 10;
+}
+

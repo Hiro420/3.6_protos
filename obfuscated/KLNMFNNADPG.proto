@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BIAIAGAANOL.proto";
+import "FIEOBJIFPCA.proto";
+import "KKFEDHALJFH.proto";
+
+// CmdId: 2324
+// Name: KLNMFNNADPG
+message KLNMFNNADPG {
+    KKFEDHALJFH PEDBHDDHFLB = 14;
+    uint32 FGEIEPJKHDL = 13;
+    FIEOBJIFPCA FOJHBGHIMDG = 15;
+    BIAIAGAANOL DEGDGKODPOH = 10;
+    int32 JBMPBFDPKGD = 9;
+    FIEOBJIFPCA LCOAPOJGMKL = 8;
+    int32 ECKFNDOIIGN = 12;
+    KKFEDHALJFH DCKCKOFKBFO = 4;
+}
+

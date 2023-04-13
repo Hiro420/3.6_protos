@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DGIFDKNNFLL.proto";
+
+// CmdId: 2030
+// Name: EEGMMGOBAGB
+message EEGMMGOBAGB {
+    DGIFDKNNFLL BHGHPABHALB = 1;
+}
+

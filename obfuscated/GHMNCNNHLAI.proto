@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 123
+// Name: GHMNCNNHLAI
+message GHMNCNNHLAI {
+    bool MIFLMLLENAO = 6;
+    uint32 GMILACLMPBM = 5;
+    uint32 GEIMLKGLEFJ = 14;
+}
+

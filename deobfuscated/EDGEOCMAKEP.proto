@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EDGEOCMAKEP
+enum EDGEOCMAKEP {
+    EDGEOCMAKEP_NONE = 0;
+    EDGEOCMAKEP_TRANSCULENT = 1;
+}
+

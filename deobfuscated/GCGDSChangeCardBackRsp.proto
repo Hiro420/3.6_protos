@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7367
+// Name: OMDLPLDHBHC
+message GCGDSChangeCardBackRsp {
+    int32 retcode = 9;
+    uint32 deck_id = 11;
+    uint32 card_back_id = 2;
+}
+

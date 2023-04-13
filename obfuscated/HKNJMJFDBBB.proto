@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GECIFFJAPJD.proto";
+
+// Name: HKNJMJFDBBB
+message HKNJMJFDBBB {
+    uint32 OPPFLHPJBFL = 9;
+    uint32 MDNMOJAPBKB = 4;
+    uint32 PBGIFFMIILN = 11;
+    GECIFFJAPJD NOPNDHBENMH = 2;
+}
+

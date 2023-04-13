@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4644
+// Name: FGOLIGGOLFH
+message HomeExchangeWoodRsp {
+    uint32 wood_id = 5;
+    int32 retcode = 8;
+    uint32 NMNCDDNAKLK = 12;
+    uint32 KLNKMDGAOJI = 9;
+}
+

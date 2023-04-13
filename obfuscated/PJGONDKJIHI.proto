@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4018
+// Name: PJGONDKJIHI
+message PJGONDKJIHI {
+    repeated uint32 INANBDADCAA = 13;
+    bool FIPEBADOCEE = 8;
+}
+

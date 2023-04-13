@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2063
+// Name: PILCGKOELAC
+message BlessingRecvFriendPicNotify {
+    uint32 uid = 5;
+    uint32 pic_id = 7;
+}
+

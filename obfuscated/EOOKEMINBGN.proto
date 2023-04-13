@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IKECAOJEKPH.proto";
+
+// Name: EOOKEMINBGN
+message EOOKEMINBGN {
+    uint32 JFAFMJAFPEF = 2;
+    bool FHONIBNLJII = 6;
+    uint32 BEJLIKCLKPN = 12;
+    uint32 LFOCJEADKPK = 9;
+    uint32 PNLBJABJLFC = 11;
+    oneof OFDMLDLAIEN {
+        IKECAOJEKPH PKIFCLAGAMN = 5;
+    }
+}
+

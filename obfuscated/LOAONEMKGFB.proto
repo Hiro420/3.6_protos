@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 982
+// Name: LOAONEMKGFB
+message LOAONEMKGFB {
+    uint32 GCKDCJIODOJ = 1;
+    uint32 LAOBIDKNELB = 3;
+    repeated uint32 FOIBMIAMHGF = 9;
+    repeated uint32 MBEEMKLMCFB = 6;
+    uint32 EMKCFAOFHNA = 13;
+    uint32 PKDJIGJDEJE = 2;
+}
+

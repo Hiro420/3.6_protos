@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PLKEBHIPGAB.proto";
+
+// CmdId: 664
+// Name: BOFCLLGHIDM
+message BOFCLLGHIDM {
+    PLKEBHIPGAB BPKDOPHJPAL = 10;
+}
+

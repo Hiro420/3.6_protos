@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 3972
+// Name: CHIANHIJGEP
+message MechanicusUnlockGearRsp {
+    uint32 gear_id = 5;
+    uint32 mechanicus_id = 8;
+    int32 retcode = 6;
+}
+

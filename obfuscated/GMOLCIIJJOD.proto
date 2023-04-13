@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7118
+// Name: GMOLCIIJJOD
+message GMOLCIIJJOD {
+    uint32 BIEJNHMGMON = 1;
+    string KOIICOMMADP = 8;
+    repeated uint32 NMKIFLLBAOO = 13;
+    repeated uint32 OFOBMLDHDPL = 9;
+}
+

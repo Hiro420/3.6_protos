@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1738
+// Name: GIICPGMGBHC
+message GIICPGMGBHC {
+    uint32 NICMPEHDPBF = 8;
+    int32 EEDMFEOGLFN = 3;
+    uint64 NHEJCFNOGBH = 7;
+}
+

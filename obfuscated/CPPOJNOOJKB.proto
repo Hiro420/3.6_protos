@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OGHJCNJDGOP.proto";
+
+// CmdId: 345
+// Name: CPPOJNOOJKB
+message CPPOJNOOJKB {
+    repeated OGHJCNJDGOP LCFHJCEJOAO = 13;
+}
+

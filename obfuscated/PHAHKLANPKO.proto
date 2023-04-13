@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AJJHDKCAIAA.proto";
+
+// CmdId: 4074
+// Name: PHAHKLANPKO
+message PHAHKLANPKO {
+    string NILFDLEHNBE = 5;
+    uint32 OMDAPFPNKGF = 11;
+    uint32 AOOCBPDDMKC = 14;
+    string IHGEHAHMHAH = 10;
+    AJJHDKCAIAA CNDKFAMECDF = 1;
+}
+

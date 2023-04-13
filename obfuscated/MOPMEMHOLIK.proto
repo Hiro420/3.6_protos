@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 190
+// Name: MOPMEMHOLIK
+message MOPMEMHOLIK {
+    uint32 KDIHPMJOCPG = 7;
+    string HKNHLNJCCLP = 5;
+    uint32 OEDHPFMKEIJ = 3;
+    string JBFBNKBOAAO = 12;
+    uint32 JGDGPILDCHJ = 576;
+    string FLJJCLIMMJA = 8;
+    string ALOLGBDKGBD = 15;
+    string KIIHGMPJKDJ = 6;
+    string CLBCECHIELM = 713;
+    string FDMCFBMDDLH = 1;
+    uint32 IEPOFPNOOKD = 176;
+    uint32 KGEIMHOAJAD = 4;
+    uint32 JBMPBFDPKGD = 14;
+    bool MHHMMOLNDAK = 13;
+    string OOABKBBNBKL = 963;
+    uint32 IFCEGFAIFKG = 970;
+    uint32 CIJNPHDIOND = 2;
+    string AAEIDEMEKFF = 9;
+    uint32 CJHEEAGCFJG = 10;
+    string IDMEOEHPCGF = 11;
+    string DGALEKIHPAK = 831;
+}
+

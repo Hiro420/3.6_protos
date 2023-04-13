@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+import "LMDMGGJHBKI.proto";
+
+// Name: ICDELFCCFKG
+message ICDELFCCFKG {
+    repeated KKFEDHALJFH EHDAGIBHLAF = 12;
+    repeated LMDMGGJHBKI AMFHEEOHAIG = 10;
+}
+

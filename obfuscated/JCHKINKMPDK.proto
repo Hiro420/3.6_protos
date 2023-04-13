@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JCHKINKMPDK
+enum JCHKINKMPDK {
+    JCHKINKMPDK_NONE = 0;
+    JCHKINKMPDK_NORMAL = 1;
+    JCHKINKMPDK_CONDENSE = 2;
+    JCHKINKMPDK_REUNION_PRIVILEGE = 3;
+    JCHKINKMPDK_OP_ACTIVITY = 4;
+    JCHKINKMPDK_MATERIAL = 5;
+}
+

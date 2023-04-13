@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2094
+// Name: PJHILCHKKNF
+message PJHILCHKKNF {
+    uint32 LFOCJEADKPK = 10;
+    uint32 JOPJKOGODAM = 2;
+    int32 EEDMFEOGLFN = 6;
+    uint32 PNLGKNFEFGC = 9;
+}
+

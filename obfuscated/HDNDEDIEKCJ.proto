@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KBMBFAGBEII.proto";
+
+// Name: HDNDEDIEKCJ
+message HDNDEDIEKCJ {
+    uint32 NFBAIOMHCIB = 5;
+    uint32 IHJHBOGKMLA = 14;
+    uint32 CJGFLACFCDB = 13;
+    uint32 FCJPKOCJACN = 12;
+    KBMBFAGBEII MFABFMFFAFJ = 4;
+}
+

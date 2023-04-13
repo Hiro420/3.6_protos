@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 335
+// Name: FPBBGCJGPON
+message AvatarEnterElementViewNotify {
+    bool is_triggerd = 1;
+    uint32 avatar_entity_id = 3;
+}
+

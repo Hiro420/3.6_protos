@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JBIABBAALGA.proto";
+import "MJLCBFDOPBF.proto";
+
+// CmdId: 5944
+// Name: NDPCABCJAPA
+message NDPCABCJAPA {
+    int32 EEDMFEOGLFN = 15;
+    uint32 GKICINGMGBF = 5;
+    MJLCBFDOPBF NLJKBNHEJLF = 14;
+    uint32 DNHHONGGDCN = 9;
+    JBIABBAALGA AJHOOKOOCDF = 8;
+}
+

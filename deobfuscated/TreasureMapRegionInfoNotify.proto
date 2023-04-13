@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "TreasureMapRegionInfo.proto";
+
+// CmdId: 2117
+// Name: IBCJOBLIEGP
+message TreasureMapRegionInfoNotify {
+    TreasureMapRegionInfo region_info = 1;
+}
+

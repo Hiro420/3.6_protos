@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IHOGDGIBMEC.proto";
+
+// Name: JAMJCMJGCCH
+message JAMJCMJGCCH {
+    uint32 MDNMOJAPBKB = 1;
+    repeated IHOGDGIBMEC ABAKAILLGOM = 3;
+}
+

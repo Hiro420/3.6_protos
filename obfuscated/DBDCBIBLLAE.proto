@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DBDCBIBLLAE
+message DBDCBIBLLAE {
+    map<uint32, uint32> DIPIGPIOOOO = 10;
+}
+

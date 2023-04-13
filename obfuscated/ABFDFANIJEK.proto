@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8292
+// Name: ABFDFANIJEK
+message ABFDFANIJEK {
+    uint32 KAJGEMAAIJH = 2;
+    uint64 PJDFHKIKLNM = 11;
+    bool CNJHECGFPKA = 10;
+}
+

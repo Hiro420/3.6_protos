@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FriendBrief.proto";
+
+// CmdId: 4028
+// Name: FCACOLLBEIL
+message GetPlayerBlacklistRsp {
+    repeated FriendBrief blacklist = 11;
+    int32 retcode = 5;
+}
+

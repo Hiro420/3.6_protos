@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LPFPMFAHFBC.proto";
+
+// CmdId: 3424
+// Name: GMCOAPLLLOG
+message GMCOAPLLLOG {
+    uint32 DMBFPFFMFCM = 7;
+    LPFPMFAHFBC CIDEFPDINPO = 6;
+}
+

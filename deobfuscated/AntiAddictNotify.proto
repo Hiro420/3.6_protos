@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 193
+// Name: PLLBADBHJJB
+message AntiAddictNotify {
+    string level = 1;
+    int32 msg_type = 5;
+    string msg = 12;
+}
+

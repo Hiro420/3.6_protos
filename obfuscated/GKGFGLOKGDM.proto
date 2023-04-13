@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8270
+// Name: GKGFGLOKGDM
+message GKGFGLOKGDM {
+    bool HFEAHJGCEHP = 3;
+    repeated uint32 NMKIFLLBAOO = 6;
+    int32 EEDMFEOGLFN = 14;
+}
+

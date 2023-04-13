@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 994
+// Name: HBLHJCEKECI
+message HBLHJCEKECI {
+    uint32 AJBLMLDNING = 2;
+    uint32 EMKCFAOFHNA = 9;
+    uint32 BNANNGAGHKF = 4;
+}
+

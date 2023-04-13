@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LMILHIAIFIJ.proto";
+
+// CmdId: 7747
+// Name: LNCHADCLDFO
+message LNCHADCLDFO {
+    uint32 HJFJMAEKNGD = 7;
+    repeated LMILHIAIFIJ DLPEGIMPGFH = 13;
+    bool EFDGLPNCGLM = 6;
+}
+

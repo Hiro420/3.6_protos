@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2295
+// Name: KIPKHNIMECI
+message KIPKHNIMECI {
+    repeated uint32 HPGFKKDLGCN = 5;
+}
+

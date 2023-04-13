@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BHMLNJCILMM.proto";
+
+// CmdId: 918
+// Name: PILGJINNHNA
+message PILGJINNHNA {
+    repeated BHMLNJCILMM MCDMFFMJDGD = 15;
+    int32 EEDMFEOGLFN = 6;
+}
+

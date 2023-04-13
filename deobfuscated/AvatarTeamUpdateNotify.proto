@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AvatarTeam.proto";
+
+// CmdId: 1797
+// Name: HPAKJFDBBOJ
+message AvatarTeamUpdateNotify {
+    map<uint32, AvatarTeam> avatar_team_map = 7;
+    repeated uint64 temp_avatar_guid_list = 9;
+}
+

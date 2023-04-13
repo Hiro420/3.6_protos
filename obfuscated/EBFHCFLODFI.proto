@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: EBFHCFLODFI
+message EBFHCFLODFI {
+    uint32 CAPDPNKCHEG = 3;
+    uint64 EEMILGMLGOH = 14;
+}
+

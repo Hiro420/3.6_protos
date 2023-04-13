@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AMLFADMPJED.proto";
+
+// CmdId: 357
+// Name: BOKDCFPDBFM
+message BOKDCFPDBFM {
+    repeated uint32 MMILBANCJIM = 7;
+    repeated AMLFADMPJED PFCKLEMEOOL = 3;
+}
+

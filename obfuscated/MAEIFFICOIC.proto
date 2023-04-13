@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8465
+// Name: MAEIFFICOIC
+message MAEIFFICOIC {
+    uint32 GFNMGEGMMOP = 1;
+}
+

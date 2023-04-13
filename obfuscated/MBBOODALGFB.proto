@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 167
+// Name: MBBOODALGFB
+message MBBOODALGFB {
+    int32 EEDMFEOGLFN = 9;
+}
+

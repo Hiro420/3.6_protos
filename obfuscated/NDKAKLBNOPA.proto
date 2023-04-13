@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EOOKEMINBGN.proto";
+
+// CmdId: 5189
+// Name: NDKAKLBNOPA
+message NDKAKLBNOPA {
+    repeated EOOKEMINBGN ECHONKEBMDG = 6;
+}
+

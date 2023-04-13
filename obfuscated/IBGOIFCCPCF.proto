@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: IBGOIFCCPCF
+message IBGOIFCCPCF {
+    uint32 DMBFPFFMFCM = 7;
+    uint32 CLABNJFIPGC = 3;
+    int32 GEMPAEBNICA = 1;
+}
+

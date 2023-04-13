@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FOGGKINBMOI
+message FOGGKINBMOI {
+    string MLDDOLJCDAM = 9;
+    bool MPBAFKNJODJ = 2;
+    string HEAKAFCFBHM = 10;
+    uint32 OMEJDCDMJKH = 12;
+    uint32 AMEJLPJCENL = 13;
+    string DLKKCKHJJAC = 5;
+    uint32 BEJLIKCLKPN = 14;
+    uint32 GBNNHNDNCPP = 15;
+    uint32 JFAFMJAFPEF = 3;
+}
+

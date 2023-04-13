@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PIPBKPPGDHE.proto";
+
+// CmdId: 6248
+// Name: HMDPFFCIFCD
+message HMDPFFCIFCD {
+    int32 EEDMFEOGLFN = 11;
+    repeated PIPBKPPGDHE BDJPPAMNFAE = 3;
+}
+

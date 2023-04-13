@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JGPAGHCFBOP
+message JGPAGHCFBOP {
+    repeated uint32 CJNPMGOCGGJ = 10;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BMMIIMLDFOG
+message BMMIIMLDFOG {
+    uint32 MCONFDEOONA = 3;
+    uint32 MKPEHMMACIB = 15;
+    uint32 EAJJEAADLEP = 4;
+}
+

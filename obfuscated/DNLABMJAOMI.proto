@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IJBDFMLMJMF.proto";
+
+// CmdId: 129
+// Name: DNLABMJAOMI
+message DNLABMJAOMI {
+    repeated IJBDFMLMJMF KGBIAFKOLHJ = 14;
+    repeated uint32 BOOANPANKGJ = 2;
+    int32 EEDMFEOGLFN = 1;
+}
+

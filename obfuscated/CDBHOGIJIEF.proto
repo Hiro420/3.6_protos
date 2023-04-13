@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+import "PEHLILGOPKN.proto";
+
+// CmdId: 351
+// Name: CDBHOGIJIEF
+message CDBHOGIJIEF {
+    bool BPBFKLKHLBF = 8;
+    uint32 DMBFPFFMFCM = 2;
+    bool NFBFOBPLJIO = 4;
+    bool JIEAFLOFIDP = 11;
+    bool CBILFPIHDLD = 13;
+    bool DJBCKOHEPIN = 1;
+    bool BONKCNJNKHC = 9;
+    bool PJOMNBJGCGO = 12;
+    bool KNGIHBNEEBA = 7;
+    PEHLILGOPKN CGAFJIIPALB = 15;
+    KKFEDHALJFH KPDOFNEIDFP = 10;
+    bool DDMCNCCKAFP = 14;
+    bool NAABHFBGGEA = 5;
+}
+

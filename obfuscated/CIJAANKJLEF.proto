@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 116
+// Name: CIJAANKJLEF
+message CIJAANKJLEF {
+    // Name: CEMGHMFDNGO
+    enum CEMGHMFDNGO {
+        CEMGHMFDNGO_DISCONNECT = 0;
+        CEMGHMFDNGO_CLIENT_REQ = 1;
+        CEMGHMFDNGO_TIMEOUT = 2;
+        CEMGHMFDNGO_ADMIN_REQ = 3;
+        CEMGHMFDNGO_SERVER_CLOSE = 4;
+        CEMGHMFDNGO_GM_CLEAR = 5;
+        CEMGHMFDNGO_PLAYER_TRANSFER = 6;
+        CEMGHMFDNGO_CLIENT_CHECKSUM_INVALID = 7;
+        CEMGHMFDNGO_MUIP_MOVE_SAVE_WAIT = 8;
+    }
+
+    CEMGHMFDNGO CNDKFAMECDF = 4;
+}
+

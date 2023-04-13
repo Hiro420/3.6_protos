@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ELGOIMEMBFO
+enum ELGOIMEMBFO {
+    ELGOIMEMBFO_CHANGE_ENERGY_NONE = 0;
+    ELGOIMEMBFO_CHANGE_ENERGY_SKILL_START = 1;
+}
+

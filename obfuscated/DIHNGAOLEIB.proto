@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EAPMIPANCBB.proto";
+
+// CmdId: 8514
+// Name: DIHNGAOLEIB
+message DIHNGAOLEIB {
+    uint32 ECLCBCEPGIH = 14;
+    EAPMIPANCBB KEPJFKAEJDH = 4;
+    uint32 JJGGAPDDOLN = 1;
+    bool GBHJHJENFGK = 7;
+}
+

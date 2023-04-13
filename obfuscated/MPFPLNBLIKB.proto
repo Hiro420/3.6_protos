@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NCJJFDLFCEE.proto";
+import "OBHMBIAPBIK.proto";
+import "PFEKDHGCBPP.proto";
+
+// CmdId: 2492
+// Name: MPFPLNBLIKB
+message MPFPLNBLIKB {
+    uint32 DPKOCIDIHEI = 10;
+    bool PFNBNGMOLFC = 4;
+    map<uint32, uint32> OAFKGDGFFEO = 1;
+    uint32 AJKNPOGBLDG = 6;
+    bool DEMDKMDDPMN = 11;
+    uint32 EDGJPPKNHJE = 5;
+    int32 EEDMFEOGLFN = 13;
+    uint32 PHCNCLHJFBM = 8;
+    uint32 KPJMJMPPPGK = 12;
+    uint32 NKMMGNAGOOA = 15;
+    PFEKDHGCBPP DFLHBFFDFDA = 1890;
+    repeated OBHMBIAPBIK DFFHJODBJGL = 2;
+    PFEKDHGCBPP IOIOJAEBHNB = 7;
+    map<uint32, uint32> OJGBCIONMOL = 3;
+    uint32 GMMJNDFMHAM = 9;
+    uint32 MDANKJCGMIN = 1783;
+    NCJJFDLFCEE BKLFBEEIPDE = 14;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HAOPJHKKJLK.proto";
+
+// CmdId: 8927
+// Name: DPGPIGLIIMK
+message DPGPIGLIIMK {
+    uint32 KJHIELEECFE = 4;
+    repeated HAOPJHKKJLK IJCBFLGOJIB = 14;
+    uint32 DAFLPOLAOLI = 10;
+    bool KIAMOCEDKPG = 11;
+}
+

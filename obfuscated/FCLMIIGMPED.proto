@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: FCLMIIGMPED
+message FCLMIIGMPED {
+    bool AKDHMDINPHC = 13;
+    uint32 IBGBBECCHGF = 11;
+    uint32 IGINBLLKCPJ = 10;
+    KKFEDHALJFH HAEBCIJHIEC = 5;
+    bool KODNMGNPCCE = 9;
+    uint32 DPPENDNMMOE = 4;
+    uint32 FGEIEPJKHDL = 8;
+    uint32 DILMPOBNGPN = 14;
+    uint32 CNNBINPCDGF = 7;
+}
+

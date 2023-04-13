@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+
+// Name: GECIFFJAPJD
+message GECIFFJAPJD {
+    uint32 JBMPBFDPKGD = 10;
+    uint32 EEBAGDIEGNI = 14;
+    CAOGLKMLEOG IAEKOGMCHED = 6;
+    string FDMCFBMDDLH = 1;
+    string EBLOGJGAOIP = 9;
+    string FLJJCLIMMJA = 11;
+}
+

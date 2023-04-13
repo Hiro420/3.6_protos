@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OPFOGLAHFNE
+message OPFOGLAHFNE {
+    int32 DDAOPBKCJHI = 1;
+    uint32 AMEJLPJCENL = 2;
+    string NFMIBNLKOJC = 3;
+}
+

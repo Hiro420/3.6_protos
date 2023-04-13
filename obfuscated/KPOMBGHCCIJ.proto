@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OHEONJCMMOF.proto";
+
+// CmdId: 4604
+// Name: KPOMBGHCCIJ
+message KPOMBGHCCIJ {
+    int32 EEDMFEOGLFN = 4;
+    repeated OHEONJCMMOF CIIGLEABCJE = 9;
+}
+

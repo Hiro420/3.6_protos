@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GGFHCGIAFOI
+enum GGFHCGIAFOI {
+    GGFHCGIAFOI_CLIENT_RECONNNECT_NONE = 0;
+    GGFHCGIAFOI_CLIENT_RECONNNECT_QUIT_MP = 1;
+}
+

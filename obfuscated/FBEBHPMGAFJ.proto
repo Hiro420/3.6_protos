@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7926
+// Name: FBEBHPMGAFJ
+message FBEBHPMGAFJ {
+    uint32 HDMDJECGCKC = 13;
+    uint32 LLDFMFMLKOP = 1;
+}
+

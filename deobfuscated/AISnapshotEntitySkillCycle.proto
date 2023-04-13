@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: IBHCDDLNFFL
+message AISnapshotEntitySkillCycle {
+    uint32 skill_id = 9;
+    bool PAOPNMDAOBE = 6;
+    bool KKOCGOBEJOI = 5;
+    bool OEPHKNKELCI = 3;
+    bool DMJJMKFEDGE = 14;
+}
+

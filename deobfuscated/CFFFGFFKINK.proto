@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CFFFGFFKINK
+message CFFFGFFKINK {
+    uint32 ELKJELLMMAD = 15;
+    uint32 level_id = 13;
+    bool is_open = 14;
+    uint32 min_finish_time = 7;
+}
+

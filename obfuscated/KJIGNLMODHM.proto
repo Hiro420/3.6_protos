@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GHMDEHIIAJD.proto";
+import "KGEALKMFDMM.proto";
+import "KKFEDHALJFH.proto";
+import "MCNFHNMIDGK.proto";
+import "OIEKIGIJIFH.proto";
+import "OJIGKDCPAJL.proto";
+
+// Name: KJIGNLMODHM
+message KJIGNLMODHM {
+    OIEKIGIJIFH EONNMOEJLJH = 1;
+    OJIGKDCPAJL MGBDEONNAFO = 2;
+    MCNFHNMIDGK BFGNFLJONNG = 3;
+    KKFEDHALJFH CEMCNFMAOGE = 4;
+    repeated GHMDEHIIAJD CCHPNFOGNHI = 5;
+    KGEALKMFDMM GHKDPPLGNOD = 6;
+}
+

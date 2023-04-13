@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GBHPBGNKCEE.proto";
+
+// Name: GPCCMCBLGJK
+message GPCCMCBLGJK {
+    bool FKOBJPCKIFJ = 1;
+    string IHGEHAHMHAH = 2;
+    uint32 HAHHMFDAMPI = 3;
+    GBHPBGNKCEE AHMIHKNAPHI = 4;
+    uint32 JFAFOJHFBJB = 5;
+}
+

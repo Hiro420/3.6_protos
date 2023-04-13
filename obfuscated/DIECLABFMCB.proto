@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4040
+// Name: DIECLABFMCB
+message DIECLABFMCB {
+    repeated uint32 FMNAELFNBMC = 11;
+}
+

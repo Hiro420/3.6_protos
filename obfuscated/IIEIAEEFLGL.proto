@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2122
+// Name: IIEIAEEFLGL
+message IIEIAEEFLGL {
+    int32 EEDMFEOGLFN = 9;
+    uint32 PNLBJABJLFC = 7;
+    uint32 OLEBJHOKNAH = 10;
+}
+

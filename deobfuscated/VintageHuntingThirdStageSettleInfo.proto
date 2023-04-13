@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DLJDELOBGMF
+message VintageHuntingThirdStageSettleInfo {
+    uint32 left_time = 7;
+    bool is_success = 2;
+}
+

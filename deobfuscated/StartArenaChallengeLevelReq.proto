@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2125
+// Name: KGKOFKIOHBH
+message StartArenaChallengeLevelReq {
+    uint32 FCLFLMPGIKN = 9;
+    uint32 gadget_entity_id = 5;
+    uint32 GELFIDPMHLJ = 13;
+}
+

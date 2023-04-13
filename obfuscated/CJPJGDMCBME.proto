@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5341
+// Name: CJPJGDMCBME
+message CJPJGDMCBME {
+    map<uint32, uint32> NAHMIEGPAGG = 14;
+}
+

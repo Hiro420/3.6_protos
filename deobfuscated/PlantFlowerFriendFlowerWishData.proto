@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ProfilePicture.proto";
+
+// Name: JKFGLOLKOKP
+message PlantFlowerFriendFlowerWishData {
+    string nickname = 14;
+    uint32 uid = 13;
+    map<uint32, uint32> flower_num_map = 12;
+    ProfilePicture profile_picture = 9;
+}
+

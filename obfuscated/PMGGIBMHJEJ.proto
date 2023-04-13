@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PMGGIBMHJEJ
+enum PMGGIBMHJEJ {
+    PMGGIBMHJEJ_DIE_OPT_NONE = 0;
+    PMGGIBMHJEJ_DIE_OPT_REPLAY = 1;
+    PMGGIBMHJEJ_DIE_OPT_CANCEL = 2;
+    PMGGIBMHJEJ_DIE_OPT_REVIVE = 3;
+}
+

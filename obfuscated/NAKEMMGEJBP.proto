@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 246
+// Name: NAKEMMGEJBP
+message NAKEMMGEJBP {
+    uint32 BLILHBOJOCD = 9;
+    uint32 FGEIEPJKHDL = 6;
+}
+

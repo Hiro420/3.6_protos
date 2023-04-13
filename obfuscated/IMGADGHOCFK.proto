@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2892
+// Name: IMGADGHOCFK
+message IMGADGHOCFK {
+    uint32 KACNNLGDCCO = 11;
+    uint32 HEKHEPFHLDL = 8;
+    int32 EEDMFEOGLFN = 14;
+}
+

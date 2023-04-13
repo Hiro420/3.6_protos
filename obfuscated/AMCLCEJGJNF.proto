@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HCFBDIGKKNN.proto";
+
+// CmdId: 6022
+// Name: AMCLCEJGJNF
+message AMCLCEJGJNF {
+    HCFBDIGKKNN BJDKKOKHJKI = 14;
+}
+

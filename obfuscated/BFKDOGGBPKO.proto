@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8084
+// Name: BFKDOGGBPKO
+message BFKDOGGBPKO {
+    int32 EEDMFEOGLFN = 2;
+}
+

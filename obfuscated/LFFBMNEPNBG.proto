@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DGDNJFDLBNB.proto";
+import "JJNNDFMMKMA.proto";
+
+// CmdId: 5222
+// Name: LFFBMNEPNBG
+message LFFBMNEPNBG {
+    uint32 CBGNJHFJMLP = 13;
+    DGDNJFDLBNB OMKEFCKPOMK = 7;
+    uint32 PNLGKNFEFGC = 12;
+    JJNNDFMMKMA IKHIFJNBADN = 11;
+    int32 EEDMFEOGLFN = 6;
+}
+

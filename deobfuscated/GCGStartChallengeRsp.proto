@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGLevelType.proto";
+
+// CmdId: 7763
+// Name: NNAAFMMAGIF
+message GCGStartChallengeRsp {
+    GCGLevelType level_type = 13;
+    uint32 level_id = 4;
+    uint32 config_id = 7;
+    int32 retcode = 8;
+}
+

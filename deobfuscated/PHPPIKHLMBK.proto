@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PHPPIKHLMBK
+message PHPPIKHLMBK {
+    repeated uint32 JNNABCBJFIF = 2;
+    repeated uint32 MNNPHOJCILP = 13;
+}
+

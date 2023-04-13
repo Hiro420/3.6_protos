@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 21230
+// Name: MGEPGOKKALB
+message MGEPGOKKALB {
+    repeated uint32 LKIFNJAKHGH = 6;
+    repeated uint32 MBPOCFFFMNC = 14;
+}
+

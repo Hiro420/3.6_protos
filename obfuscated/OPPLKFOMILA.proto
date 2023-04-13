@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FHPBGAOJEJH.proto";
+
+// Name: OPPLKFOMILA
+message OPPLKFOMILA {
+    uint32 JFJBGMFGIKA = 8;
+    FHPBGAOJEJH MFABFMFFAFJ = 6;
+}
+

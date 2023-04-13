@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KPADLGJMKOH.proto";
+import "PEHLILGOPKN.proto";
+
+// CmdId: 396
+// Name: IOKHKCLAMIO
+message IOKHKCLAMIO {
+    PEHLILGOPKN CGAFJIIPALB = 15;
+    KPADLGJMKOH KCOCEGDBOII = 11;
+}
+

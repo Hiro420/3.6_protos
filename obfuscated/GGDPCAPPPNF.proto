@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GGDPCAPPPNF
+message GGDPCAPPPNF {
+    uint32 BBHCCLEDCJM = 1;
+    oneof BIGNLMEOCHM {
+        int32 FCINJAOOBBA = 2;
+        float DFKGNMIFEIO = 3;
+        bool MIFJPMGFCDA = 4;
+    }
+}
+

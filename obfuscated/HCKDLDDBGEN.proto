@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CFHDJPBPBJD.proto";
+import "NADLILFDAMD.proto";
+
+// CmdId: 212
+// Name: HCKDLDDBGEN
+message HCKDLDDBGEN {
+    uint32 FGEIEPJKHDL = 14;
+    repeated CFHDJPBPBJD PNMFABKEOFA = 3;
+    repeated NADLILFDAMD KEMIJGONJFA = 7;
+}
+

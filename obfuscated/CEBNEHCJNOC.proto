@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FDFGOMALABC.proto";
+
+// CmdId: 2161
+// Name: CEBNEHCJNOC
+message CEBNEHCJNOC {
+    FDFGOMALABC BHGHPABHALB = 11;
+}
+

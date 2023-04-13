@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1911
+// Name: ALBAFICCGIB
+message ALBAFICCGIB {
+    uint32 MEJDAEOJCFP = 11;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CLELFIEDKDC.proto";
+
+// Name: DKAEABLIHPL
+message DKAEABLIHPL {
+    map<uint32, CLELFIEDKDC> NAHJJJMNCEP = 5;
+    uint32 MCECMNNFKDC = 3;
+}
+

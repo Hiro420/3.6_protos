@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BBEMLEOGGGN
+enum BBEMLEOGGGN {
+    BBEMLEOGGGN_NONE = 0;
+    BBEMLEOGGGN_INIT = 1;
+    BBEMLEOGGGN_BUILDING = 2;
+    BBEMLEOGGGN_BUILT = 3;
+}
+

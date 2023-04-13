@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8761
+// Name: LMPKBIBCGNA
+message LMPKBIBCGNA {
+    uint32 MIKDHOOEKOI = 5;
+    uint32 HJLEBAHLAOL = 13;
+}
+

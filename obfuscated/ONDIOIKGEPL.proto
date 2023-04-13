@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5767
+// Name: ONDIOIKGEPL
+message ONDIOIKGEPL {
+    uint32 OGBDFDJKDGF = 14;
+}
+

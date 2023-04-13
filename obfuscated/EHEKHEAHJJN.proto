@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: EHEKHEAHJJN
+message EHEKHEAHJJN {
+    uint32 FOMGCFBHDIJ = 1;
+    uint32 CNNBINPCDGF = 2;
+    bool OIKKNOIFDJJ = 3;
+    KKFEDHALJFH EFKIGMBBGAC = 13;
+    repeated KKFEDHALJFH GNNLIENGLDB = 9;
+}
+

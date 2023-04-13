@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ALCABPLHONH.proto";
+
+// Name: NJAMABMAGCC
+message NJAMABMAGCC {
+    ALCABPLHONH PPJFDBCBGGD = 2;
+    uint64 KBCFLOPLBOI = 11;
+    string DKDKNFJDEOD = 9;
+    uint32 OCBCKIIJNFD = 5;
+    uint32 KJEBPOOEKJG = 3;
+    uint32 HCGIBBGCFHO = 15;
+    bool ADPABPPHHCC = 12;
+    uint32 DHJNNKOAPEA = 1;
+}
+

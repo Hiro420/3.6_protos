@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8112
+// Name: DAADLBJHMNF
+message DAADLBJHMNF {
+    int32 EEDMFEOGLFN = 2;
+    uint32 ECLCBCEPGIH = 14;
+}
+

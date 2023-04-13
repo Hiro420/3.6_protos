@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "HuntingPair.proto";
+
+// CmdId: 4309
+// Name: FCKKBJLFDIA
+message TakeHuntingOfferReq {
+    uint32 city_id = 3;
+    HuntingPair hunting_pair = 12;
+}
+

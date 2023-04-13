@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PlayProduct.proto";
+import "ShopCardProduct.proto";
+import "ShopConcertProduct.proto";
+import "ShopMcoinProduct.proto";
+
+// CmdId: 4109
+// Name: AMMOLOMBCCH
+message RechargeReq {
+    ShopConcertProduct concert_product = 9;
+    ShopMcoinProduct mcoin_product = 5;
+    PlayProduct play_product = 2;
+    ShopCardProduct card_product = 8;
+}
+

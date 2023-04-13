@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8739
+// Name: CDPNINHBBHF
+message CDPNINHBBHF {
+    uint32 GOLEIJEKOGL = 12;
+    uint32 MFCJNNNFCGF = 14;
+    uint32 GNAMHBEINMA = 11;
+}
+

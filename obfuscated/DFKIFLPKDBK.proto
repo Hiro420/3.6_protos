@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CFBKCJCMFEP.proto";
+
+// Name: DFKIFLPKDBK
+message DFKIFLPKDBK {
+    uint32 KEHJFDNKILP = 1;
+    repeated CFBKCJCMFEP LJDDKDFAOJI = 7;
+    repeated uint32 KDNNMABPMGE = 10;
+}
+

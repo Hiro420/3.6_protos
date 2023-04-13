@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 4120
+// Name: PGFAKNBIEFO
+message PGFAKNBIEFO {
+    uint32 EIHIJIMMHEN = 14;
+    int32 EEDMFEOGLFN = 1;
+    repeated INPDDALBMBO GELOKAHIHFC = 12;
+}
+

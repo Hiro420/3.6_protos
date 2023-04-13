@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 21829
+// Name: FBKJHEPOMCM
+message FBKJHEPOMCM {
+    uint32 HDMDJECGCKC = 5;
+    bool DDOIAOEGKDJ = 15;
+    int32 EEDMFEOGLFN = 6;
+}
+

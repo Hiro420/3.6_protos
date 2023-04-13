@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GJCKIPADNIM
+message GJCKIPADNIM {
+    uint32 CBGNJHFJMLP = 10;
+    repeated uint32 KJKMGCHCIFF = 15;
+}
+

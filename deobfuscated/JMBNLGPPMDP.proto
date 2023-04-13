@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 24764
+// Name: JMBNLGPPMDP
+message JMBNLGPPMDP {
+    bool is_save_score = 1;
+    uint64 ugc_guid = 9;
+    uint32 music_basic_id = 14;
+}
+

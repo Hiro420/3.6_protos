@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 677
+// Name: KANJNJOOJNO
+message KANJNJOOJNO {
+    uint64 BMAKFKKAFOG = 7;
+}
+

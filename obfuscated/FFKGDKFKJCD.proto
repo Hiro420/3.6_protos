@@ -1,0 +1,34 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DCNDAKHPMHA.proto";
+import "FPDNPJODLBB.proto";
+import "GFNHIBJPLLH.proto";
+import "HJAGJIPJEOH.proto";
+import "LMHDABKFMGE.proto";
+
+// Name: FFKGDKFKJCD
+message FFKGDKFKJCD {
+    // Name: ACIFCBGMPPK
+    enum ACIFCBGMPPK {
+        ACIFCBGMPPK_NONE = 0;
+        ACIFCBGMPPK_CREATE_CONNECT = 1;
+        ACIFCBGMPPK_START_GAME = 2;
+        ACIFCBGMPPK_PING = 3;
+        ACIFCBGMPPK_FINISH_GAME = 4;
+        ACIFCBGMPPK_SNAP_SHOT = 5;
+        ACIFCBGMPPK_ACTION = 6;
+    }
+
+    int32 EEDMFEOGLFN = 13;
+    ACIFCBGMPPK KJOHCLBPLAA = 7;
+    oneof KOHEHPDOFLH {
+        HJAGJIPJEOH IHKHHBAIHJM = 3;
+        FPDNPJODLBB JGDMMIJLJKB = 6;
+        DCNDAKHPMHA NPAKFCLBCDK = 1;
+        GFNHIBJPLLH GPKBKLBNFFD = 9;
+        LMHDABKFMGE PJKEFDINGDF = 2;
+    }
+}
+

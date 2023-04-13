@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5046
+// Name: JBJMMPEKFJA
+message JBJMMPEKFJA {
+    int32 EEDMFEOGLFN = 7;
+    uint32 FPPOLJABNCG = 9;
+}
+

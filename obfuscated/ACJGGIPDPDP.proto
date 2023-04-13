@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1998
+// Name: ACJGGIPDPDP
+message ACJGGIPDPDP {
+    uint32 BBOHBNNJEMC = 8;
+    bool DLIMEGDKJFC = 5;
+}
+

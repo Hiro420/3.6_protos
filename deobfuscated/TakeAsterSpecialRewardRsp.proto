@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2050
+// Name: KJGLHKCALBL
+message TakeAsterSpecialRewardRsp {
+    uint32 schedule_id = 14;
+    int32 retcode = 10;
+}
+

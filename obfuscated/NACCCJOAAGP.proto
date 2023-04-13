@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EDELLOCMJAG.proto";
+
+// CmdId: 3050
+// Name: NACCCJOAAGP
+message NACCCJOAAGP {
+    int32 EEDMFEOGLFN = 2;
+    repeated EDELLOCMJAG CADKPKNEKKD = 3;
+}
+

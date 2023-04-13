@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 227
+// Name: DCPCGJCCOJL
+message DCPCGJCCOJL {
+    // Name: GONLGHGGMDM
+    enum GONLGHGGMDM {
+        GONLGHGGMDM_PLAY_SOUND_NONE = 0;
+        GONLGHGGMDM_PLAY_SOUND_START = 1;
+        GONLGHGGMDM_PLAY_SOUND_STOP = 2;
+    }
+
+    string LDJAPFPIBPI = 11;
+    KKFEDHALJFH JDAJBNALPFI = 7;
+    GONLGHGGMDM ELIEBOMLPDN = 15;
+}
+

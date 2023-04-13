@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Vector.proto";
+
+// Name: LJEMEAEFOFN
+message AbilityBornType {
+    Vector move_dir = 11;
+    Vector pos = 7;
+    Vector rot = 10;
+}
+

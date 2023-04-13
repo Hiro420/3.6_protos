@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 23014
+// Name: AMFIEDJGLPA
+message AMFIEDJGLPA {
+    int32 retcode = 3;
+}
+

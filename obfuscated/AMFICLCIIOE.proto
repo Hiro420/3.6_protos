@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8993
+// Name: AMFICLCIIOE
+message AMFICLCIIOE {
+    uint32 JOPJKOGODAM = 14;
+    uint32 BAKNPCGIKBO = 15;
+    repeated uint32 FAAOILLELHJ = 5;
+}
+

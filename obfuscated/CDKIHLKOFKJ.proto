@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CLAKHODOFDM.proto";
+
+// CmdId: 875
+// Name: CDKIHLKOFKJ
+message CDKIHLKOFKJ {
+    uint32 AMOKMNBGJKN = 14;
+    uint32 NDOJLJFOMNO = 11;
+    CLAKHODOFDM OMKEFCKPOMK = 4;
+    uint32 PNLGKNFEFGC = 2;
+}
+

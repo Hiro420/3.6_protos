@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EPGGBJENFMN.proto";
+import "MOJEBEBKDAF.proto";
+
+// Name: POAGBFGEKKB
+message POAGBFGEKKB {
+    repeated EPGGBJENFMN LJDDKDFAOJI = 10;
+    repeated MOJEBEBKDAF BGGHFJLMPJH = 4;
+}
+

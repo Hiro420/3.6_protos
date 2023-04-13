@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1112
+// Name: PMHDPEOJPNM
+message PMHDPEOJPNM {
+    // Name: CFLHPGFIDBE
+    enum CFLHPGFIDBE {
+        CFLHPGFIDBE_INVALUE = 0;
+        CFLHPGFIDBE_ADD = 1;
+        CFLHPGFIDBE_SET = 2;
+    }
+
+    uint32 DMBFPFFMFCM = 15;
+    float NMCMJHEIMAL = 6;
+    uint32 IHALDKMCIHJ = 14;
+    float AJBLMLDNING = 5;
+    CFLHPGFIDBE FFLIAOFLALM = 2;
+}
+

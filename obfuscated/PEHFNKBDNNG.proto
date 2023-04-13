@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CMBHMIBGEAF.proto";
+
+// CmdId: 4115
+// Name: PEHFNKBDNNG
+message PEHFNKBDNNG {
+    uint32 AACLOLKFGOA = 15;
+    repeated CMBHMIBGEAF LBCFOFJEHDB = 11;
+}
+

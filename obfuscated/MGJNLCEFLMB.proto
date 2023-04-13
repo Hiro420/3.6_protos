@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8239
+// Name: MGJNLCEFLMB
+message MGJNLCEFLMB {
+    int32 EEDMFEOGLFN = 13;
+    uint32 LFOCJEADKPK = 1;
+    repeated uint32 DLBOIOJEDMI = 3;
+}
+

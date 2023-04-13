@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "TowerMonthlyBrief.proto";
+import "TowerMonthlyCombatRecord.proto";
+
+// Name: MEMFEIDLPMA
+message TowerMonthlyDetail {
+    TowerMonthlyBrief monthly_brief = 14;
+    TowerMonthlyCombatRecord monthly_combat_record = 4;
+}
+

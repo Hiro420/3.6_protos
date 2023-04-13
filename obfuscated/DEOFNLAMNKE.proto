@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EIADKMICKID.proto";
+
+// CmdId: 4202
+// Name: DEOFNLAMNKE
+message DEOFNLAMNKE {
+    uint32 IAELPGINMBN = 15;
+    repeated EIADKMICKID PPPFNNGFCIH = 13;
+    repeated uint32 JOFJGPECLLJ = 14;
+    uint32 PDEMHIKAFGI = 7;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8615
+// Name: FOACMIDMKCF
+message FOACMIDMKCF {
+    uint32 LFOCJEADKPK = 6;
+}
+

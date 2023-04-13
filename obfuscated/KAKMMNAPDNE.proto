@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2009
+// Name: KAKMMNAPDNE
+message KAKMMNAPDNE {
+    uint32 JOPJKOGODAM = 4;
+    uint32 LAOBIDKNELB = 1;
+    repeated uint32 FAAOILLELHJ = 15;
+}
+

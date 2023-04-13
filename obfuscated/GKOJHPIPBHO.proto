@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AFOALEMHCMM.proto";
+
+// CmdId: 279
+// Name: GKOJHPIPBHO
+message GKOJHPIPBHO {
+    AFOALEMHCMM NIMEAPHOOIK = 15;
+    uint32 KKKKNCLAKFG = 10;
+    oneof HKJMNHAJJBI {
+        uint32 FPMNNICBLJG = 2;
+        uint32 CBGNJHFJMLP = 7;
+    }
+}
+

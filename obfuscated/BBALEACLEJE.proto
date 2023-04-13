@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HLAAMJAKIEJ.proto";
+
+// CmdId: 1703
+// Name: BBALEACLEJE
+message BBALEACLEJE {
+    HLAAMJAKIEJ LENNFMJLBOH = 13;
+}
+

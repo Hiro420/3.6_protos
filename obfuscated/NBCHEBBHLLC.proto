@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 699
+// Name: NBCHEBBHLLC
+message NBCHEBBHLLC {
+    uint64 GDFEOCNFKJC = 8;
+    uint64 FPIIPJJPBOH = 9;
+    int32 EEDMFEOGLFN = 15;
+}
+

@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MKKHEKAJHKN.proto";
+
+// Name: ICNPCNKGFEI
+message ICNPCNKGFEI {
+    repeated uint32 MKJHCLJINAD = 1;
+    uint32 HHLEPAKOHAK = 11;
+    uint32 HKMHCKDOJCL = 4;
+    uint32 PIHIMOCPPFO = 6;
+    uint32 FJKJJLAIBMF = 12;
+    float AIEPLBFLBPD = 9;
+    uint32 DILMPOBNGPN = 2;
+    uint32 GOMIFKCFNKJ = 15;
+    uint32 LAOBIDKNELB = 10;
+    MKKHEKAJHKN MFABFMFFAFJ = 13;
+}
+

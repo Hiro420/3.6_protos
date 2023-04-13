@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CIDPEEOGOFC
+message CIDPEEOGOFC {
+    uint32 AJBLMLDNING = 15;
+    uint32 OBHPNGPDLOM = 9;
+}
+

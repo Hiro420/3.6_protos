@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ABBABGECCOD.proto";
+
+// Name: BIAEHIPFJNC
+message BIAEHIPFJNC {
+    uint32 FNFPIGHNBLL = 9;
+    ABBABGECCOD CNDKFAMECDF = 12;
+    uint32 LIHIMGBNIFL = 15;
+}
+

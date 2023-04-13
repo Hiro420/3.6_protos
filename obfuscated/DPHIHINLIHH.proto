@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DPHIHINLIHH
+message DPHIHINLIHH {
+    uint32 MDNMOJAPBKB = 13;
+    uint32 FJAPBMHAMNK = 15;
+    uint32 HDMDJECGCKC = 7;
+    uint32 DIKDEBEPBIJ = 10;
+}
+

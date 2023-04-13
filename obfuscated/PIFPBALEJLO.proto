@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2167
+// Name: PIFPBALEJLO
+message PIFPBALEJLO {
+    repeated uint32 EOMBKKHDLLN = 8;
+}
+

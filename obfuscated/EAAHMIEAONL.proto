@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+import "KPEEEJLJLCI.proto";
+import "PFIOBDOEOJE.proto";
+
+// CmdId: 7504
+// Name: EAAHMIEAONL
+message EAAHMIEAONL {
+    uint32 IJIJCEOFJFI = 10;
+    bool DJPHNINHIGD = 7;
+    repeated INPDDALBMBO OFEFKIMCOCC = 15;
+    KPEEEJLJLCI ADHJFIFJFJD = 2;
+    repeated uint32 FPDJBAGOOJG = 12;
+    repeated uint32 JDOBGMPHLFB = 11;
+    PFIOBDOEOJE CNDKFAMECDF = 1;
+    uint32 HEAIGJBBEIP = 5;
+}
+

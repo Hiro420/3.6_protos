@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 194
+// Name: LADACODDNGA
+message LADACODDNGA {
+    string HFJHMECOIJI = 3;
+}
+

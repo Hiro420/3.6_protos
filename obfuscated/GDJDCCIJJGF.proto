@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DPHIHINLIHH.proto";
+
+// Name: GDJDCCIJJGF
+message GDJDCCIJJGF {
+    uint32 JJGGAPDDOLN = 3;
+    bool FKOBJPCKIFJ = 6;
+    repeated uint32 DEELPLBOLEP = 8;
+    repeated uint32 EODPDLEMFAF = 10;
+    repeated DPHIHINLIHH CLBHIKIDNIG = 13;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8015
+// Name: LOFMGIDPBIK
+message LOFMGIDPBIK {
+    uint32 IHJHBOGKMLA = 12;
+    int32 EEDMFEOGLFN = 14;
+    uint32 FCJPKOCJACN = 1;
+}
+

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DJGOABOOOHI.proto";
+import "JGPAGHCFBOP.proto";
+
+// Name: NINBHPBDBNP
+message NINBHPBDBNP {
+    uint32 LCLFGCABJLL = 1;
+    bool IBNEJGFDCEI = 11;
+    oneof ENBEMCPACED {
+        JGPAGHCFBOP DNMLOJDACKH = 4;
+        DJGOABOOOHI PPOOJBHDLNP = 5;
+        uint32 IAOJCNPJMPC = 6;
+    }
+}
+

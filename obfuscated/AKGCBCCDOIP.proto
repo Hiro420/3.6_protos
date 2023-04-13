@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GEKCCHCJMPC.proto";
+
+// CmdId: 4649
+// Name: AKGCBCCDOIP
+message AKGCBCCDOIP {
+    int32 EEDMFEOGLFN = 6;
+    repeated GEKCCHCJMPC GAIGJBMAEGL = 14;
+}
+

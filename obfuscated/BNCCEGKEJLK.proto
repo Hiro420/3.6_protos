@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OPPLKFOMILA.proto";
+
+// CmdId: 8802
+// Name: BNCCEGKEJLK
+message BNCCEGKEJLK {
+    uint32 PNLBJABJLFC = 7;
+    repeated OPPLKFOMILA KBDGBFKIIED = 5;
+    uint32 LFOCJEADKPK = 4;
+}
+

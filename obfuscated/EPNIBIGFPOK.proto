@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4876
+// Name: EPNIBIGFPOK
+message EPNIBIGFPOK {
+    // Name: PFLMKOGOKAI
+    enum PFLMKOGOKAI {
+        PFLMKOGOKAI_INVALID = 0;
+        PFLMKOGOKAI_ENTER = 1;
+        PFLMKOGOKAI_LEAVE = 2;
+    }
+
+    string EBLOGJGAOIP = 10;
+    PFLMKOGOKAI CNDKFAMECDF = 3;
+}
+

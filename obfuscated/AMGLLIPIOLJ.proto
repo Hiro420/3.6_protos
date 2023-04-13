@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3989
+// Name: AMGLLIPIOLJ
+message AMGLLIPIOLJ {
+    uint32 BMMDHCFGJMP = 7;
+    uint32 JBBHGILHMEL = 4;
+}
+

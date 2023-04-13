@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 6086
+// Name: CPENMHPGPLO
+message LaunchFireworksRsp {
+    int32 retcode = 8;
+}
+

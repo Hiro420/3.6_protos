@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OBDLPMCIFNG
+message OBDLPMCIFNG {
+    bool FGFJEGGIBCN = 2;
+    bool LODOAPOPHCN = 13;
+    uint32 KOKODJKCIEN = 3;
+    map<uint32, uint32> OOLCIBCPJEK = 9;
+    uint32 EIBBPACAANG = 7;
+    uint32 PKDJIGJDEJE = 8;
+    uint32 AMEJLPJCENL = 14;
+}
+

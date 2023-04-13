@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JAOECAEBGJO.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: MCNFHNMIDGK
+message MCNFHNMIDGK {
+    bool IFEJOKIJKHE = 1;
+    KKFEDHALJFH CEMCNFMAOGE = 2;
+    map<uint32, uint32> BCEODKFCELE = 3;
+    JAOECAEBGJO FMGGMKMFGLE = 4;
+    map<uint32, uint32> PNIACEGONGI = 5;
+    map<uint32, uint32> KLMGDDMCEIA = 6;
+    uint32 EADHHILENEO = 7;
+    bool IGINBLKLKCF = 8;
+}
+

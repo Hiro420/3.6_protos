@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7865
+// Name: NKFLEOEPOKD
+message NKFLEOEPOKD {
+    uint32 ABAOGMOGFMI = 2;
+    uint32 EHPIOILFBIN = 4;
+}
+

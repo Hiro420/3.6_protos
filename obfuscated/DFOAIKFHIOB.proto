@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DFOAIKFHIOB
+message DFOAIKFHIOB {
+    uint32 DKAPCHHJPCM = 9;
+    uint32 EEBBADCOGNG = 3;
+}
+

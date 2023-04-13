@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7107
+// Name: BDPPKOHGFGE
+message GCGApplyInviteBattleRsp {
+    int32 retcode = 1;
+    uint32 punish_end_time = 10;
+}
+

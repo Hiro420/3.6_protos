@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JCFPNEILBEO.proto";
+import "KKFEDHALJFH.proto";
+
+// CmdId: 616
+// Name: IBLPBENLBJI
+message IBLPBENLBJI {
+    repeated JCFPNEILBEO IEEPAJEHDIJ = 12;
+    KKFEDHALJFH EPCFLDJKNJH = 9;
+    repeated JCFPNEILBEO MOEKAOBLHIJ = 15;
+    uint32 MEJDAEOJCFP = 6;
+    bool OCIEEDOLGDB = 3;
+    bool ENCLFHLBLLA = 8;
+    bool JPDJLIPKABJ = 13;
+    uint32 CNDKFAMECDF = 11;
+}
+

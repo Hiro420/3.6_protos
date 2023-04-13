@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 51
+// Name: IAIJFDMCGJI
+message IAIJFDMCGJI {
+    uint32 KAHKHODLMPL = 10;
+}
+

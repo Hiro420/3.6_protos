@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BHMPJCHCBKN.proto";
+
+// CmdId: 4543
+// Name: ONHGONEFGDM
+message ONHGONEFGDM {
+    int32 EEDMFEOGLFN = 12;
+    BHMPJCHCBKN DIPFFFDKFIG = 3;
+}
+

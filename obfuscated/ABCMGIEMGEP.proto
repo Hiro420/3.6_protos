@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1076
+// Name: ABCMGIEMGEP
+message ABCMGIEMGEP {
+    uint64 FPIIPJJPBOH = 14;
+    repeated uint32 DHOMBEMCDBJ = 9;
+    repeated uint32 BJAHGHKMLDC = 11;
+    uint32 GGGEHDAJMOC = 5;
+    map<uint32, uint32> JJFELOPEDOM = 1;
+    map<uint32, uint32> PDKANDNEGHK = 2;
+    uint32 OGAANBBGHFN = 6;
+    uint32 DMBFPFFMFCM = 15;
+}
+

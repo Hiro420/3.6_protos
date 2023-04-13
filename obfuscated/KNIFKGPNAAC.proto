@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BJPCCGMMMPF.proto";
+import "FCLMIIGMPED.proto";
+
+// Name: KNIFKGPNAAC
+message KNIFKGPNAAC {
+    repeated FCLMIIGMPED OBBNCICIPJL = 6;
+    uint32 PFKKHHMHCMD = 1;
+    bool EKDCMFAHBBL = 4;
+    repeated BJPCCGMMMPF DAJICBGDFGJ = 11;
+    uint32 MEHOKJOPMBN = 13;
+    uint32 JOEIFCBMJEF = 15;
+    uint32 HMKJINBANGI = 3;
+    uint32 KKLLPPPLKMM = 7;
+    uint32 OPDGECDFNDK = 8;
+}
+

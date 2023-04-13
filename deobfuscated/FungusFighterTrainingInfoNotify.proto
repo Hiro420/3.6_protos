@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5581
+// Name: MHCLLFDBFAC
+message FungusFighterTrainingInfoNotify {
+    uint32 OMILDIGCPAJ = 9;
+    uint32 NOIAIMOONIB = 5;
+    uint32 GLCGHJKHFEI = 15;
+    uint32 buff_id = 6;
+    uint32 CNODBENOPKK = 3;
+    uint32 MBCGPKHEHPP = 11;
+    uint32 CNOCKIIKIKI = 14;
+}
+

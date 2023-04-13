@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SalvageEscortGallerySettleInfo.proto";
+
+// Name: IEMOAMPLPGH
+message SalvageEscortSettleInfo {
+    bool is_new_record = 6;
+    SalvageEscortGallerySettleInfo settle_info = 13;
+}
+

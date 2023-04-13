@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CMBHMIBGEAF
+message CMBHMIBGEAF {
+    string JPIEPAAAKPA = 9;
+    string FFFEIEGGGNJ = 12;
+}
+

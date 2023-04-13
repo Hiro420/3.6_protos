@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1825
+// Name: JBCLIDOMFGE
+message JBCLIDOMFGE {
+    uint32 ICDAIDNAOBK = 2;
+    bool PKLIAIGBAHN = 15;
+}
+

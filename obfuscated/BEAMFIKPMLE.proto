@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HDOMFAKCLHG.proto";
+
+// Name: BEAMFIKPMLE
+message BEAMFIKPMLE {
+    repeated HDOMFAKCLHG BABKMKKLGMN = 4;
+}
+

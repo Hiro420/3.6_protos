@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GLCHGFNJFBA
+message HachiStageInfo {
+    uint32 stage_id = 2;
+    bool is_open = 7;
+    uint32 open_time = 13;
+    bool is_finished = 4;
+}
+

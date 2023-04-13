@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GLMNKJIOKFF.proto";
+
+// CmdId: 1922
+// Name: ACFFIBPINDH
+message ACFFIBPINDH {
+    bool EKKMNKHNJCP = 8;
+    int32 EEDMFEOGLFN = 9;
+    repeated GLMNKJIOKFF IJKIMPJGFGC = 2;
+}
+

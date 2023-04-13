@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DPENHJMNKFO
+enum DPENHJMNKFO {
+    DPENHJMNKFO_EVENT_TRIGGER_NONE = 0;
+    DPENHJMNKFO_EVENT_TRIGGER_ENTER_FORCE = 1;
+}
+

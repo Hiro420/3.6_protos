@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JKCIENNAJJO.proto";
+import "MBJHALEKELO.proto";
+
+// Name: AOKCLJGIMAD
+message AOKCLJGIMAD {
+    repeated uint32 JMAGMEOAICO = 10;
+    repeated MBJHALEKELO ACMHJAPHJAL = 15;
+    JKCIENNAJJO GDJEJEJABPK = 3;
+    JKCIENNAJJO FGIHAJHGCBI = 11;
+}
+

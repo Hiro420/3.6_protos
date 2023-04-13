@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "UnionCmd.proto";
+
+// CmdId: 75
+// Name: HOFJCCFFMBO
+message UnionCmdNotify {
+    repeated UnionCmd cmd_list = 2;
+}
+

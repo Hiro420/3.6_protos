@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGGameBriefData.proto";
+
+// CmdId: 7433
+// Name: IKJBDPHEAAD
+message IKJBDPHEAAD {
+    GCGGameBriefData CMBDEKMPLCB = 8;
+}
+

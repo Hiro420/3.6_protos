@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JOFBOBHLMJA.proto";
+
+// CmdId: 3103
+// Name: AEOICKOILCK
+message AEOICKOILCK {
+    JOFBOBHLMJA PLJBJJEMGEH = 13;
+    uint32 KGEIMHOAJAD = 5;
+}
+

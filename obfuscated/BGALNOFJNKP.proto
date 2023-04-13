@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BGALNOFJNKP
+message BGALNOFJNKP {
+    bool JGIPDCDOLOG = 4;
+    uint32 JJGGAPDDOLN = 1;
+    repeated uint32 JKFJOCLODIN = 5;
+    uint32 HDPJCNBFLEB = 3;
+    uint32 BKDBFPMPMKA = 8;
+}
+

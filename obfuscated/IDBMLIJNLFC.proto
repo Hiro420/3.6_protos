@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BPOHGBMCHOP.proto";
+
+// CmdId: 22172
+// Name: IDBMLIJNLFC
+message IDBMLIJNLFC {
+    uint32 HDMDJECGCKC = 11;
+    repeated BPOHGBMCHOP DJBJOIJPKGP = 13;
+    bool HKHAADBCFDO = 12;
+    bool LCEINMHIGIC = 1;
+}
+

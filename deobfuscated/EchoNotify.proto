@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 86
+// Name: OGEKEHAKECF
+message EchoNotify {
+    uint32 seq_id = 4;
+    string content = 5;
+}
+

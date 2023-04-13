@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FHBHGHNJODK
+message GCGSkillPreviewTokenInfo {
+    uint32 PFPJPOEDPON = 15;
+    uint32 MEKGLJAFFHC = 4;
+    uint32 BKHAKDNDMIO = 2;
+}
+

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GachaInfo.proto";
+
+// CmdId: 1596
+// Name: BIKLLFLGCCA
+message GetGachaInfoRsp {
+    repeated GachaInfo gacha_info_list = 9;
+    int32 retcode = 7;
+    uint32 gachaRandom = 4; // PAHELCJNHAH
+    bool HFEKPDOKLDK = 15;
+    bool PKOIBFIOLAO = 6;
+    uint32 dailyGachaTimes = 2; // PKPENDLDPKI
+}
+

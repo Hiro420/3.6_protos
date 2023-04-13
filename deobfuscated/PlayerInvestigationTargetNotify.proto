@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "InvestigationTarget.proto";
+
+// CmdId: 1927
+// Name: LKMFLLAFCCF
+message PlayerInvestigationTargetNotify {
+    repeated InvestigationTarget investigation_target_list = 6;
+}
+

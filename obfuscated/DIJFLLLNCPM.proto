@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// Name: DIJFLLLNCPM
+message DIJFLLLNCPM {
+    repeated INPDDALBMBO EMNFJJHKBFA = 3;
+    uint32 NEIOJBOAFFG = 2;
+}
+

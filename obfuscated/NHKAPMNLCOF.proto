@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4660
+// Name: NHKAPMNLCOF
+message NHKAPMNLCOF {
+    uint32 IAJGALONLCK = 2;
+}
+

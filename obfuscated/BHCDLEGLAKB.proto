@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4439
+// Name: BHCDLEGLAKB
+message BHCDLEGLAKB {
+    repeated uint32 MBEEMKLMCFB = 8;
+    uint32 DPBGGDPMLLD = 7;
+    uint32 PPHMNEGECDM = 10;
+    int32 EEDMFEOGLFN = 5;
+    bool PKLIAIGBAHN = 13;
+}
+

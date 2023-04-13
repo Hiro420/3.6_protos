@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FKONGMBBBAN.proto";
+import "MPBJOANOMOJ.proto";
+
+// CmdId: 689
+// Name: KAMNCMHFHKA
+message KAMNCMHFHKA {
+    repeated FKONGMBBBAN IEEPAJEHDIJ = 4;
+    MPBJOANOMOJ OBDBKNBAJIF = 3;
+}
+

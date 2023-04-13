@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PCABGJIBAOE.proto";
+
+// Name: CEELJPLNFKF
+message CEELJPLNFKF {
+    repeated PCABGJIBAOE AOAKGOPBGIH = 15;
+    repeated uint32 KBBKBMLJBOJ = 8;
+}
+

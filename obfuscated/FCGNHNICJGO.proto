@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FCGNHNICJGO
+message FCGNHNICJGO {
+    uint32 FNFPIGHNBLL = 13;
+    uint32 NDHFGHBJELJ = 4;
+}
+

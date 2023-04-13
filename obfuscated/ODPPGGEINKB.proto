@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ODPPGGEINKB
+message ODPPGGEINKB {
+    repeated uint32 HLBLDDOLLBA = 15;
+    uint32 LIHIMGBNIFL = 6;
+}
+

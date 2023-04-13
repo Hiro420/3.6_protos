@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 935
+// Name: IEFAELAKCAL
+message IEFAELAKCAL {
+    repeated uint32 IJLJKONANGB = 4;
+}
+

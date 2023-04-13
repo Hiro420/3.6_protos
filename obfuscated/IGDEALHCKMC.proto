@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JOFBOBHLMJA.proto";
+
+// CmdId: 5042
+// Name: IGDEALHCKMC
+message IGDEALHCKMC {
+    int32 EEDMFEOGLFN = 13;
+    repeated JOFBOBHLMJA PLJBJJEMGEH = 5;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ODPFLNHGMEI
+message ODPFLNHGMEI {
+    uint64 MFCJNNNFCGF = 10;
+    bool DPGCAEOPGKM = 3;
+}
+

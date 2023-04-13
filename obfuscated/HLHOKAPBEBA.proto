@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LCMFDAHJIBK.proto";
+
+// Name: HLHOKAPBEBA
+message HLHOKAPBEBA {
+    repeated LCMFDAHJIBK JAAFEFLDPLF = 2;
+}
+

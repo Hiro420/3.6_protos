@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AJJFFHBHBAO.proto";
+import "DLJDELOBGMF.proto";
+import "DNNJLBJHILA.proto";
+
+// CmdId: 24566
+// Name: GFEGGLGCPIB
+message GFEGGLGCPIB {
+    bool GBHJHJENFGK = 2;
+    uint32 JJGGAPDDOLN = 15;
+    uint32 CIGKIGPIBJO = 13;
+    uint32 CCCLEOMNEBM = 11;
+    bool LDNPAAECJMP = 3;
+    oneof MKDKKDLDJFI {
+        AJJFFHBHBAO KLODAAEBKMG = 9;
+        DNNJLBJHILA AGJPIFLGJBK = 8;
+        DLJDELOBGMF NMFINDNAEBG = 10;
+    }
+}
+

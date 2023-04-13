@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8513
+// Name: EFPHPEGLJGN
+message BartenderFinishLevelRsp {
+    uint32 level_id = 11;
+    int32 retcode = 9;
+}
+

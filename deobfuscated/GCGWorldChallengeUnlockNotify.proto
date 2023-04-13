@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7766
+// Name: LCKKLLBIMKF
+message GCGWorldChallengeUnlockNotify {
+    repeated uint32 unlock_id_list = 9;
+}
+

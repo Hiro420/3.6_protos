@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EBADLMHHFPL.proto";
+import "GMIMOGNEPNK.proto";
+
+// CmdId: 6217
+// Name: DDNIDJFDJNO
+message DDNIDJFDJNO {
+    GMIMOGNEPNK BNKEADPKOIN = 6;
+    bool HLNJBCLNPJE = 14;
+    EBADLMHHFPL GKKKOGOILBB = 4;
+}
+

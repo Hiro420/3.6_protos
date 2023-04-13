@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FFDCKFPNAHP
+message FFDCKFPNAHP {
+    uint64 DGEKLLGECPO = 1;
+    uint64 AHDADOBAGMC = 2;
+    uint64 BHPAJDMCDOO = 3;
+    uint64 MFDNNFPNIGN = 4;
+    uint64 CKAHBPJENDL = 5;
+}
+

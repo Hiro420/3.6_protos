@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ICONCJCFCIG.proto";
+
+// Name: LFHOGOOOLJC
+message LFHOGOOOLJC {
+    uint32 NOAABNLIFJP = 5;
+    map<uint32, uint32> OALCDIMMOGA = 8;
+    repeated uint32 PMBNCGPDCBP = 1;
+    repeated ICONCJCFCIG PGMKEPLCNMB = 2;
+    map<uint32, uint32> FDJKMLLKABP = 15;
+    uint32 EFHNJHBNBFJ = 4;
+}
+

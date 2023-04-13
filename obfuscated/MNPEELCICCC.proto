@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GPCCMCBLGJK.proto";
+
+// CmdId: 4007
+// Name: MNPEELCICCC
+message MNPEELCICCC {
+    GPCCMCBLGJK BHGHPABHALB = 6;
+}
+

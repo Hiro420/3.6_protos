@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MJNHGKMPCBM.proto";
+
+// Name: EDHEBJGBOAN
+message EDHEBJGBOAN {
+    repeated MJNHGKMPCBM EDGEAPPCNJL = 15;
+    uint32 FNFPIGHNBLL = 3;
+    uint32 GJALACKIOIE = 11;
+}
+

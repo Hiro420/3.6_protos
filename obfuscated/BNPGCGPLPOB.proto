@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FHMCMLOIGJB.proto";
+
+// CmdId: 1672
+// Name: BNPGCGPLPOB
+message BNPGCGPLPOB {
+    int32 EEDMFEOGLFN = 11;
+    map<uint64, FHMCMLOIGJB> MJDCPJBLBNB = 2;
+}
+

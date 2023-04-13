@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 46
+// Name: NMIMOKPBFOI
+message NMIMOKPBFOI {
+    bool KEDCJAJFIEK = 11;
+    oneof CMOLGHCCDFO {
+        uint32 AOOCBPDDMKC = 4;
+        string FLJJCLIMMJA = 3;
+        string FDMCFBMDDLH = 14;
+    }
+}
+

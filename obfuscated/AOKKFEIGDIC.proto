@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8086
+// Name: AOKKFEIGDIC
+message AOKKFEIGDIC {
+    uint32 PLLAPJNHNII = 2;
+    int32 EEDMFEOGLFN = 12;
+}
+

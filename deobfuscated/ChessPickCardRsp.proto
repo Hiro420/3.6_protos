@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5368
+// Name: NIHAFBFKGMP
+message ChessPickCardRsp {
+    int32 retcode = 2;
+    uint32 card_index = 7;
+    uint32 card_id = 13;
+}
+

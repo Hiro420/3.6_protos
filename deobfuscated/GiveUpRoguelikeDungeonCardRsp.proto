@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8563
+// Name: MLLGAPAALPB
+message GiveUpRoguelikeDungeonCardRsp {
+    int32 retcode = 13;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "POFNPDMFDFB.proto";
+
+// CmdId: 4072
+// Name: KOFDKPBCFJE
+message KOFDKPBCFJE {
+    POFNPDMFDFB BPKMPNKDPBB = 7;
+    int32 EEDMFEOGLFN = 8;
+    uint32 AOOCBPDDMKC = 1;
+}
+

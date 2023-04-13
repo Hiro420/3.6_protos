@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "POIEKHBPNJL.proto";
+
+// Name: IACJKAKPGDL
+message IACJKAKPGDL {
+    bool FKOBJPCKIFJ = 1;
+    repeated POIEKHBPNJL BABKMKKLGMN = 2;
+    uint32 JJGGAPDDOLN = 15;
+}
+

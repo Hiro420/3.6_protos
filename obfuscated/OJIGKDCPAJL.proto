@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OJIGKDCPAJL
+message OJIGKDCPAJL {
+    map<string, uint32> NMNGAOOBACE = 1;
+    uint32 CBBIKKDBAIK = 2;
+    bool FAPHPOBIGCG = 3;
+}
+

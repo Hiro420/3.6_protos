@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7035
+// Name: FDCMPHIBAKC
+message FDCMPHIBAKC {
+    uint32 BHPHOGJAADH = 10;
+    uint32 EHPIOILFBIN = 6;
+}
+

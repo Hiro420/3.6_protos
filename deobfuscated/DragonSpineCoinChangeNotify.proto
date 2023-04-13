@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2151
+// Name: MOFAIACOJPN
+message DragonSpineCoinChangeNotify {
+    uint32 schedule_id = 6;
+    uint32 LGLLMPAPONN = 4;
+    uint32 FKEHKLEBJOD = 2;
+    uint32 NILJOOOPIFO = 5;
+}
+

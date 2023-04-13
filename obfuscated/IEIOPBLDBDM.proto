@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3129
+// Name: IEIOPBLDBDM
+message IEIOPBLDBDM {
+    uint32 DFCGFPKCGAF = 4;
+}
+

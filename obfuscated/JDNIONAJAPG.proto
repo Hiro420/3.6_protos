@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FNDNBGMCLDN.proto";
+import "IPICMDDHCHD.proto";
+import "JEFLHCMKIFB.proto";
+
+// CmdId: 4292
+// Name: JDNIONAJAPG
+message JDNIONAJAPG {
+    int32 EEDMFEOGLFN = 5;
+    uint32 DNHHONGGDCN = 2;
+    oneof AABFAKKCGJL {
+        JEFLHCMKIFB LGFMCJJIBOL = 6;
+        IPICMDDHCHD DDFLLFBHDON = 13;
+        FNDNBGMCLDN PKBJAJJANDG = 224702;
+    }
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2005
+// Name: JINFBPEOBDM
+message JINFBPEOBDM {
+    int32 EEDMFEOGLFN = 10;
+    uint32 LFOCJEADKPK = 6;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 894
+// Name: EBLKPECLKJD
+message EBLKPECLKJD {
+    map<uint32, uint32> DGMEKMOPIPD = 13;
+}
+

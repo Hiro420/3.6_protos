@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MPBJOANOMOJ
+enum MPBJOANOMOJ {
+    MPBJOANOMOJ_STORE_NONE = 0;
+    MPBJOANOMOJ_STORE_PACK = 1;
+    MPBJOANOMOJ_STORE_DEPOT = 2;
+}
+

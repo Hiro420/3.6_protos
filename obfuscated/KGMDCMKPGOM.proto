@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PEMNFGBNJBG.proto";
+
+// CmdId: 8967
+// Name: KGMDCMKPGOM
+message KGMDCMKPGOM {
+    uint32 GPGPMFDFCMN = 14;
+    repeated PEMNFGBNJBG CEAJFPMKPJK = 15;
+    uint32 HDPJCNBFLEB = 13;
+    uint32 IHJHBOGKMLA = 3;
+    uint32 BKDBFPMPMKA = 5;
+    uint32 JJGGAPDDOLN = 4;
+    uint32 KKJMDCAINKD = 10;
+    repeated uint32 GGBGBBGFCBH = 11;
+    repeated uint32 GOPALHMFHDE = 1;
+    uint32 OMPLBJFIEKN = 8;
+}
+

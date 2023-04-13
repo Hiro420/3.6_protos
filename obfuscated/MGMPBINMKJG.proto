@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KGGBKEKLNDP.proto";
+
+// CmdId: 4597
+// Name: MGMPBINMKJG
+message MGMPBINMKJG {
+    int32 EEDMFEOGLFN = 4;
+    KGGBKEKLNDP BGAGPLDCOKL = 14;
+}
+

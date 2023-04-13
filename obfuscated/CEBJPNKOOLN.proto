@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2007
+// Name: CEBJPNKOOLN
+message CEBJPNKOOLN {
+    uint32 PNLGKNFEFGC = 11;
+    uint32 JOPJKOGODAM = 7;
+    uint32 LFOCJEADKPK = 2;
+}
+

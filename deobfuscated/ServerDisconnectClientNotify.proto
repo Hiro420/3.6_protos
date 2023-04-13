@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 168
+// Name: COCJKAPJLDM
+message ServerDisconnectClientNotify {
+    uint32 data = 9;
+}
+

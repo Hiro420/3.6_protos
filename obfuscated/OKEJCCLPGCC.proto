@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PABEKLDMOOJ.proto";
+
+// CmdId: 2056
+// Name: OKEJCCLPGCC
+message OKEJCCLPGCC {
+    repeated PABEKLDMOOJ ACMHJAPHJAL = 6;
+    int32 EEDMFEOGLFN = 12;
+}
+

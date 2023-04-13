@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PINICBEFNME.proto";
+
+// CmdId: 435
+// Name: OKMLFKDCPMD
+message OKMLFKDCPMD {
+    repeated PINICBEFNME KPNPALHBOGI = 4;
+}
+

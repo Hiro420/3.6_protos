@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KEBACJLDGHN
+message KEBACJLDGHN {
+    repeated uint32 MKJHCLJINAD = 3;
+    uint32 GPNGDFNFFJO = 11;
+    uint32 JBMPBFDPKGD = 8;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CHLBGNJMBFM.proto";
+
+// Name: GFAELBEOMOL
+message GFAELBEOMOL {
+    map<uint32, CHLBGNJMBFM> COEKDGOMIFD = 9;
+}
+

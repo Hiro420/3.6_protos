@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 294
+// Name: PGPHKCGFFIK
+message PGPHKCGFFIK {
+    uint32 FGEIEPJKHDL = 8;
+    uint32 BLILHBOJOCD = 14;
+    int32 EEDMFEOGLFN = 1;
+}
+

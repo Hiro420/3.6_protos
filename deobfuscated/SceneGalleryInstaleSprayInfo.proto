@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SceneGalleryInstableSprayBuffInfo.proto";
+
+// Name: JAMJCMJGCCH
+message SceneGalleryInstaleSprayInfo {
+    uint32 score = 1;
+    repeated SceneGalleryInstableSprayBuffInfo buff_info_list = 3;
+}
+

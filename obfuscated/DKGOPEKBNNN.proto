@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GEKCCHCJMPC.proto";
+import "LJLCOKBCBOG.proto";
+
+// Name: DKGOPEKBNNN
+message DKGOPEKBNNN {
+    GEKCCHCJMPC NOPNDHBENMH = 9;
+    repeated LJLCOKBCBOG NMKIFLLBAOO = 11;
+}
+

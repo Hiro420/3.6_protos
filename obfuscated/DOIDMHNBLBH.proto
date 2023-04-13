@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BHMPJCHCBKN.proto";
+
+// CmdId: 4836
+// Name: DOIDMHNBLBH
+message DOIDMHNBLBH {
+    BHMPJCHCBKN DIPFFFDKFIG = 12;
+}
+

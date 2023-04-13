@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 150
+// Name: IMAKIKFJHOM
+message IMAKIKFJHOM {
+    uint32 AIBLNBAFJOL = 13;
+    uint32 LAOCODHAPCN = 1;
+    uint32 EHPKNEPMOAO = 6;
+    uint32 ONEMPKPHDAL = 7;
+}
+

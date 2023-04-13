@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3992
+// Name: ONLHKPHEIHA
+message ONLHKPHEIHA {
+    uint32 CLBLAAFJBCB = 10;
+    uint32 BMMDHCFGJMP = 5;
+}
+

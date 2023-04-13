@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 619
+// Name: BHEPNMICMKA
+message BHEPNMICMKA {
+    int32 EEDMFEOGLFN = 12;
+    uint64 IKPOCLBPBMD = 1;
+    bool BPAKACCOBAK = 14;
+}
+

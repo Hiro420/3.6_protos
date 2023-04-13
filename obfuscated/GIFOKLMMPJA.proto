@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8577
+// Name: GIFOKLMMPJA
+message GIFOKLMMPJA {
+    uint32 ECLCBCEPGIH = 15;
+    uint32 HDMDJECGCKC = 6;
+}
+

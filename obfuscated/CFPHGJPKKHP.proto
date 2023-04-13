@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4015
+// Name: CFPHGJPKKHP
+message CFPHGJPKKHP {
+    uint32 JBMPBFDPKGD = 13;
+}
+

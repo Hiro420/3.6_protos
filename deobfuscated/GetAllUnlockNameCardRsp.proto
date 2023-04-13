@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4050
+// Name: PGPJPNEGENN
+message GetAllUnlockNameCardRsp {
+    repeated uint32 name_card_list = 15;
+    int32 retcode = 3;
+}
+

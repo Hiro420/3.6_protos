@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ALCABPLHONH.proto";
+
+// CmdId: 4825
+// Name: JCKDHCAPEIA
+message JCKDHCAPEIA {
+    ALCABPLHONH GEGLLHBOPMK = 9;
+}
+

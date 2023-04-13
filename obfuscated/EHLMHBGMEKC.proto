@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4039
+// Name: EHLMHBGMEKC
+message EHLMHBGMEKC {
+    int32 EEDMFEOGLFN = 13;
+    uint32 ABFJMJHJLPP = 7;
+}
+

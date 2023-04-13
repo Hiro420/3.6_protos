@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LAEELAKKFLC.proto";
+
+// CmdId: 6192
+// Name: PLFOMMBGEIF
+message PLFOMMBGEIF {
+    int32 EEDMFEOGLFN = 10;
+    LAEELAKKFLC EHGPHGFJKED = 12;
+    int32 ECKFNDOIIGN = 4;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KCAIJMFIGIA.proto";
+import "PBOFCEEINNH.proto";
+
+// Name: PNGOGFIBMGO
+message PNGOGFIBMGO {
+    KCAIJMFIGIA HGKDNBMJAKL = 1;
+    PBOFCEEINNH PJPDKMCINHL = 2;
+}
+

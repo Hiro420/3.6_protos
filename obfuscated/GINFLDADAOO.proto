@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GINFLDADAOO
+message GINFLDADAOO {
+    // Name: CLMHLFCKFLK
+    enum CLMHLFCKFLK {
+        CLMHLFCKFLK_UNSTARTED = 0;
+        CLMHLFCKFLK_STARTED = 1;
+        CLMHLFCKFLK_FINISHED = 2;
+    }
+
+    uint32 HJLEBAHLAOL = 15;
+    CLMHLFCKFLK MFABFMFFAFJ = 4;
+    uint32 FHNJFGMHNEB = 8;
+}
+

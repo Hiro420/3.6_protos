@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BJHMMPKDAGJ.proto";
+import "IGIIEHFMKKN.proto";
+
+// CmdId: 2609
+// Name: KHDJKFCMPKM
+message KHDJKFCMPKM {
+    repeated BJHMMPKDAGJ CNBFDGCHHJK = 12;
+    IGIIEHFMKKN CDPJEAAHEEP = 14;
+    bool JNJJIFMKJMD = 11;
+}
+

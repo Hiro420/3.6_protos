@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 23245
+// Name: DECAIBABCPP
+message DECAIBABCPP {
+    uint32 HDMDJECGCKC = 12;
+    uint32 NCHIIILDKNA = 13;
+    bool GBHJHJENFGK = 9;
+    bool PBDLJNOKLDJ = 3;
+    uint32 DIKDEBEPBIJ = 11;
+}
+

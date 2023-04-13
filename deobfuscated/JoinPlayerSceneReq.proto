@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 247
+// Name: FKPHLBHEAJA
+message JoinPlayerSceneReq {
+    uint32 target_uid = 4;
+}
+

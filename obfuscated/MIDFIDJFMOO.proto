@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MIDFIDJFMOO
+message MIDFIDJFMOO {
+    uint32 EGMCLLMPACM = 3;
+    uint32 MBCGPKHEHPP = 4;
+    uint32 CNODBENOPKK = 11;
+    uint32 CNOCKIIKIKI = 8;
+    uint32 NOIAIMOONIB = 1;
+    uint32 GLCGHJKHFEI = 10;
+    uint32 OMILDIGCPAJ = 14;
+}
+

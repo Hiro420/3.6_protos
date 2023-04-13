@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GJIIPOEKHAA.proto";
+import "HCOIKDMFANG.proto";
+import "PKBOCMLKJDJ.proto";
+
+// Name: DPEOBAEHBHM
+message DPEOBAEHBHM {
+    uint32 DFLDHDMCPPD = 8;
+    map<uint32, PKBOCMLKJDJ> NPKMAJPFCDM = 3;
+    uint32 LLLDAJLGPHL = 15;
+    map<uint32, HCOIKDMFANG> HEJDIADAPKN = 14;
+    bool MFBLCKKNECK = 7;
+    uint32 DFABLHPDPIN = 9;
+    repeated GJIIPOEKHAA MFPIMAJOHNI = 4;
+    bool NKIEFAGHDFJ = 11;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 22877
+// Name: CMGBHAALJIJ
+message CMGBHAALJIJ {
+    repeated uint32 JNLFELKMPPM = 12;
+    repeated uint32 NFJHJMKEAEH = 6;
+    uint32 level_id = 9;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CHCBEEGOBEN.proto";
+import "PEHLILGOPKN.proto";
+
+// CmdId: 390
+// Name: ONHPIKEFGMA
+message ONHPIKEFGMA {
+    CHCBEEGOBEN JMNEKCPCOIJ = 14;
+    PEHLILGOPKN CGAFJIIPALB = 9;
+}
+

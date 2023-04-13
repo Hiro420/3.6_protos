@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FIEOBJIFPCA
+message FIEOBJIFPCA {
+    int32 OPDKJIKKLOL = 1;
+    int32 OCFKEJNGBFH = 2;
+    int32 DCGIPNFEMNK = 3;
+}
+

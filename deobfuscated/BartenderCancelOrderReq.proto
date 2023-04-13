@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8014
+// Name: LHENIEHBMFB
+message BartenderCancelOrderReq {
+    uint32 quest_id = 8;
+}
+

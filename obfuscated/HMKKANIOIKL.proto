@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CGBMNFJOEMP.proto";
+import "HNLOLPHFANA.proto";
+import "JEACAGKGEGF.proto";
+import "PHLABMFOJJA.proto";
+
+// CmdId: 4812
+// Name: HMKKANIOIKL
+message HMKKANIOIKL {
+    int32 EEDMFEOGLFN = 10;
+    repeated JEACAGKGEGF KGBCAJABLEH = 13;
+    repeated HNLOLPHFANA PLEGFBELGCC = 14;
+    PHLABMFOJJA FAOBIMACLPC = 8;
+    repeated CGBMNFJOEMP KBLDLLCGPBK = 2;
+}
+

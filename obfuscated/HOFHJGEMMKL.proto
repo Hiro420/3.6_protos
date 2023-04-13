@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FIEDHLLPOKA.proto";
+import "MAJFAAEEPGI.proto";
+import "PAJEAPHKFFI.proto";
+
+// Name: HOFHJGEMMKL
+message HOFHJGEMMKL {
+    repeated MAJFAAEEPGI OPIPDMMOODJ = 12;
+    repeated uint32 DCDBLIMKPED = 6;
+    repeated FIEDHLLPOKA JIDNEKGOGHH = 13;
+    uint32 JOJMLPIOEEI = 4;
+    repeated PAJEAPHKFFI PIKLPFIFAKE = 14;
+}
+

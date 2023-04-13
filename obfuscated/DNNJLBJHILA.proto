@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DNNJLBJHILA
+message DNNJLBJHILA {
+    uint32 AJGLJMEFIBE = 9;
+    map<uint32, uint32> IGEDKPNEGKJ = 11;
+    uint32 IKINEMPBMLM = 2;
+}
+

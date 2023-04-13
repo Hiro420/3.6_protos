@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EEKGPJAAGNH.proto";
+
+// CmdId: 20071
+// Name: JDPJGAHPGFH
+message JDPJGAHPGFH {
+    uint32 HDMDJECGCKC = 2;
+    repeated EEKGPJAAGNH EOFCOHEIPNO = 8;
+    bool ADGAFGPMCJO = 7;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 442
+// Name: GDOPKNJDFAL
+message GDOPKNJDFAL {
+    uint32 OHBALLHKMLM = 12;
+    uint32 ECPFFHACLBJ = 10;
+    uint32 MEJDAEOJCFP = 14;
+    int32 EEDMFEOGLFN = 6;
+}
+

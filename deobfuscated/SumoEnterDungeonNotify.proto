@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SumoDungeonTeam.proto";
+
+// CmdId: 8698
+// Name: OFGOIFFGPCI
+message SumoEnterDungeonNotify {
+    repeated SumoDungeonTeam dungeon_team_list = 7;
+    uint32 activity_id = 10;
+    uint32 LADPDBLGKLP = 1;
+    uint32 stage_id = 12;
+    uint32 LCDBHJCBKJG = 9;
+    uint32 GAILDAHOMAG = 13;
+}
+

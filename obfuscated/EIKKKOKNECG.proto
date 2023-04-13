@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2162
+// Name: EIKKKOKNECG
+message EIKKKOKNECG {
+    uint32 LFOCJEADKPK = 15;
+    int32 EEDMFEOGLFN = 5;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LACBAJJCDMG.proto";
+
+// CmdId: 8520
+// Name: IDILNEBLNKG
+message IDILNEBLNKG {
+    uint32 HDMDJECGCKC = 2;
+    LACBAJJCDMG KEPJFKAEJDH = 5;
+    uint32 ECLCBCEPGIH = 15;
+}
+

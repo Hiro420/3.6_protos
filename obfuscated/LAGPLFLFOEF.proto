@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FIEOBJIFPCA.proto";
+import "HGDBFKLPLMK.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: LAGPLFLFOEF
+message LAGPLFLFOEF {
+    // Name: CFHDBJENNAP
+    enum CFHDBJENNAP {
+        CFHDBJENNAP_OBSTACLE_SHAPE_CAPSULE = 0;
+        CFHDBJENNAP_OBSTACLE_SHAPE_BOX = 1;
+    }
+
+    int32 FLMCOFJILGL = 15;
+    HGDBFKLPLMK GONCOICLPDI = 1;
+    CFHDBJENNAP ILIFOANEFOF = 12;
+    FIEOBJIFPCA AJEJCPFOKAB = 10;
+    KKFEDHALJFH KFFBIJEMGFD = 3;
+}
+

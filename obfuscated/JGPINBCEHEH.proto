@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NNAODHDGKBH.proto";
+
+// Name: JGPINBCEHEH
+message JGPINBCEHEH {
+    uint32 JJGGAPDDOLN = 8;
+    bool AIKOIFECOAE = 4;
+    NNAODHDGKBH DKLAPODPMLA = 14;
+}
+

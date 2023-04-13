@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BGFLLGLOJJP
+enum BGFLLGLOJJP {
+    BGFLLGLOJJP_MARK_TIPS_DUNGEON_ELEMENT_TRIAL = 0;
+}
+

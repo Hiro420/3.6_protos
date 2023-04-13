@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 412
+// Name: KDOLGMAIDIO
+message KDOLGMAIDIO {
+    uint32 FGEIEPJKHDL = 11;
+    uint32 DMBFPFFMFCM = 6;
+    uint32 MEJDAEOJCFP = 2;
+    int32 EEDMFEOGLFN = 7;
+}
+

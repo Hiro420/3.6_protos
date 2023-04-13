@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KDHIILONFMA.proto";
+
+// CmdId: 4551
+// Name: ILKGKNKEFIP
+message ILKGKNKEFIP {
+    repeated KDHIILONFMA IHPBLMDKPFL = 10;
+}
+

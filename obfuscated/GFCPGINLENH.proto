@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 187
+// Name: GFCPGINLENH
+message GFCPGINLENH {
+    uint32 ILLJFIOLOHF = 3;
+    uint32 GMILACLMPBM = 8;
+    uint32 JBMPBFDPKGD = 4;
+}
+

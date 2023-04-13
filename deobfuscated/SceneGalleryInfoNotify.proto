@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SceneGalleryInfo.proto";
+
+// CmdId: 5599
+// Name: EKPFAAFNGJE
+message SceneGalleryInfoNotify {
+    SceneGalleryInfo gallery_info = 15;
+}
+

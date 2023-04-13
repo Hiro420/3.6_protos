@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NHPOLMCOGJM.proto";
+
+// Name: IKBBEANCFMM
+message IKBBEANCFMM {
+    repeated NHPOLMCOGJM COJBBBKOEHJ = 11;
+    uint32 GKHNAEEAAOA = 12;
+    uint32 CNHCLIBHJFK = 7;
+    uint32 NICMPEHDPBF = 2;
+    uint32 BDAICMLHECC = 14;
+    uint32 HLKMOAAALJF = 4;
+    uint32 OBLPBCDOIAK = 13;
+}
+

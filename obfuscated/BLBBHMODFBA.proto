@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BLBBHMODFBA
+message BLBBHMODFBA {
+    oneof AABFAKKCGJL {
+        uint32 KMHGOGLAAKL = 11;
+        float BLPGDIBINNM = 13;
+        string PLFGLAOODCI = 12;
+    }
+}
+

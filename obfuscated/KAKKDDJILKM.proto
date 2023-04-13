@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AEFBDNMFDAP.proto";
+
+// Name: KAKKDDJILKM
+message KAKKDDJILKM {
+    bool GBHJHJENFGK = 8;
+    AEFBDNMFDAP KEPJFKAEJDH = 7;
+}
+

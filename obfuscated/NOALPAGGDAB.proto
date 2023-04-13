@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: NOALPAGGDAB
+message NOALPAGGDAB {
+    // Name: KKBFBDCMCNB
+    message KKBFBDCMCNB {
+        bool BCKJALNOGKD = 13;
+        uint32 KACNNLGDCCO = 14;
+        uint32 MEJDAEOJCFP = 15;
+    }
+
+    bool FKOBJPCKIFJ = 6;
+    repeated KKBFBDCMCNB MAOJIMNLLMH = 14;
+}
+

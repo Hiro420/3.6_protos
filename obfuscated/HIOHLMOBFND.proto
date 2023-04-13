@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HIOHLMOBFND
+message HIOHLMOBFND {
+    uint32 HEKHEPFHLDL = 1;
+    uint32 ACKGCJNFJJI = 9;
+    uint32 HCGIBBGCFHO = 5;
+}
+

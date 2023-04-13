@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FHADDMLLMPJ
+message FHADDMLLMPJ {
+    uint32 DICOPPHCLEO = 10;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 401
+// Name: DHBGNGAMFCK
+message DHBGNGAMFCK {
+    uint32 NPBGKMKIJKF = 10;
+    bool FEHBMLCLALO = 8;
+    string KJKBNOFBAJD = 5;
+    int32 EEDMFEOGLFN = 14;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7735
+// Name: HGBOBJMKKPF
+message HGBOBJMKKPF {
+    uint32 BIEJNHMGMON = 13;
+    int32 EEDMFEOGLFN = 14;
+    uint32 FCKBHBBIMIP = 11;
+}
+

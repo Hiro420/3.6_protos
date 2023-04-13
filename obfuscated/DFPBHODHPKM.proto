@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 130
+// Name: DFPBHODHPKM
+message DFPBHODHPKM {
+    uint32 GMILACLMPBM = 9;
+    uint32 GEIMLKGLEFJ = 1;
+    int32 EEDMFEOGLFN = 12;
+}
+

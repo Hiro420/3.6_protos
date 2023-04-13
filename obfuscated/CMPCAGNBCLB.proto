@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DOHNFLCDCJP.proto";
+
+// CmdId: 4259
+// Name: CMPCAGNBCLB
+message CMPCAGNBCLB {
+    repeated DOHNFLCDCJP EOJIFJJHOAJ = 11;
+    uint32 OEHMGLCMACO = 1;
+}
+

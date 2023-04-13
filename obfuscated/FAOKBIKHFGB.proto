@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FAOKBIKHFGB
+message FAOKBIKHFGB {
+    uint32 HINMLENBAFO = 1;
+    float LEFCHILCGGE = 2;
+}
+

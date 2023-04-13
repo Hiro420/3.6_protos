@@ -1,0 +1,44 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AJMBBHKJNFH.proto";
+import "EGDJCLPGOJC.proto";
+import "FFDCKFPNAHP.proto";
+import "NDCPPFJKBFD.proto";
+import "PAPLIDJPGCN.proto";
+import "PDOJLOOPDDO.proto";
+import "PGHIDDKHGAL.proto";
+import "PHCFOHLGLJN.proto";
+
+// Name: PKDOAJEGHLP
+message PKDOAJEGHLP {
+    uint32 MFCJNNNFCGF = 1;
+    uint64 EEMILGMLGOH = 2;
+    map<uint32, PAPLIDJPGCN> IJIHPHPHEEI = 3;
+    uint32 HJDCMHNDEKE = 4;
+    repeated uint64 BFMENCCNFIC = 5;
+    repeated uint32 DHOMBEMCDBJ = 6;
+    map<uint32, float> MJKONFIDPMK = 7;
+    NDCPPFJKBFD HFJGBNLHIMN = 9;
+    map<uint32, PDOJLOOPDDO> GOEEJEOKMNM = 10;
+    uint32 OGAANBBGHFN = 11;
+    EGDJCLPGOJC MENHBKHHOBL = 12;
+    uint32 GGGEHDAJMOC = 13;
+    repeated uint32 JLGKIHDBLJN = 14;
+    map<uint32, uint32> PDKANDNEGHK = 15;
+    PHCFOHLGLJN JKBDJJDPEGP = 16;
+    map<uint32, uint32> JJFELOPEDOM = 17;
+    bool AJDMNAGDBOL = 18;
+    uint32 BMBJPAMLKAK = 19;
+    repeated uint32 MPOBFAJNOHF = 20;
+    uint32 EKGADLFFBBD = 21;
+    repeated AJMBBHKJNFH IAPCFFAPGPP = 22;
+    uint32 FMHJFHCPPCJ = 23;
+    repeated uint32 OFKBLLKKAHA = 24;
+    uint32 EPLAOCBKEBP = 25;
+    FFDCKFPNAHP IJNPOEINPBI = 26;
+    uint32 FBMMIALDBKC = 27;
+    PGHIDDKHGAL NLNIALFHOBH = 28;
+}
+

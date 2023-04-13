@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EDAGPFHFMBA
+message FindHilichurlDayContentInfo {
+    uint32 start_time = 9;
+}
+

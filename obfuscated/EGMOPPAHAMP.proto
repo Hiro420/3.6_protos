@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FDOECABHIEL.proto";
+
+// Name: EGMOPPAHAMP
+message EGMOPPAHAMP {
+    FDOECABHIEL BMBJPAMLKAK = 9;
+    uint32 EPLAOCBKEBP = 15;
+    uint32 MFCJNNNFCGF = 4;
+}
+

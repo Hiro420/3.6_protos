@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2191
+// Name: KJCIKMJNKDL
+message TakeEffigyFirstPassRewardRsp {
+    uint32 challenge_id = 10;
+    int32 retcode = 3;
+}
+

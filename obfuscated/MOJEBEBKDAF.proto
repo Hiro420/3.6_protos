@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MOJEBEBKDAF
+message MOJEBEBKDAF {
+    uint32 OADDCGKICGK = 2;
+    uint32 EPMMPEOMKDM = 6;
+    uint32 KAHKHODLMPL = 4;
+}
+

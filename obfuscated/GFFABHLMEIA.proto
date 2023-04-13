@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PAPLIDJPGCN.proto";
+
+// CmdId: 172
+// Name: GFFABHLMEIA
+message GFFABHLMEIA {
+    bool NDMBPFPLDGD = 7;
+    uint32 CNNBINPCDGF = 8;
+    uint64 BGKJLDDHKOI = 5;
+    map<uint32, PAPLIDJPGCN> IJIHPHPHEEI = 4;
+    string HFJHMECOIJI = 3;
+}
+

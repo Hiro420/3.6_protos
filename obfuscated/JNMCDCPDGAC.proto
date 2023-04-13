@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GLCHGFNJFBA.proto";
+
+// Name: JNMCDCPDGAC
+message JNMCDCPDGAC {
+    map<uint32, GLCHGFNJFBA> NMJHBFFOPBH = 14;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 21475
+// Name: BCMJEDNDIGM
+message BCMJEDNDIGM {
+    int32 EEDMFEOGLFN = 10;
+}
+

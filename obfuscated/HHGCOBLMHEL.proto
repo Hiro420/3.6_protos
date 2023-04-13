@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AKCLNKNCMFK.proto";
+
+// CmdId: 6249
+// Name: HHGCOBLMHEL
+message HHGCOBLMHEL {
+    int32 EEDMFEOGLFN = 4;
+    repeated AKCLNKNCMFK BCDBPFDOANE = 5;
+    uint32 PECOGIHGJDC = 14;
+}
+

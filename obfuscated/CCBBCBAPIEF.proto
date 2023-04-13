@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8210
+// Name: CCBBCBAPIEF
+message CCBBCBAPIEF {
+    uint32 LFOCJEADKPK = 2;
+}
+

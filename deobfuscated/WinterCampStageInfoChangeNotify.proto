@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "WinterCampStageInfo.proto";
+
+// CmdId: 8966
+// Name: GEGEEILHMJI
+message WinterCampStageInfoChangeNotify {
+    WinterCampStageInfo battle_info = 11;
+    WinterCampStageInfo explore_info = 13;
+}
+

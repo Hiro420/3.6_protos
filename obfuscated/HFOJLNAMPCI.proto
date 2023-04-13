@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IFMNJGPNLBI.proto";
+
+// CmdId: 5609
+// Name: HFOJLNAMPCI
+message HFOJLNAMPCI {
+    repeated IFMNJGPNLBI LDOFPBILINN = 15;
+    uint32 JBMPBFDPKGD = 1;
+}
+

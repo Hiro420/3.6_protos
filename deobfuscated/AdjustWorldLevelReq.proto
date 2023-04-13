@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 138
+// Name: KPFDAAAHFOE
+message AdjustWorldLevelReq {
+    uint32 LJJOOOBJAKM = 13;
+    uint32 GEIJKDPEJKG = 15;
+}
+

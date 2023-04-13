@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HCBPECOJPEI.proto";
+
+// Name: ECJIHDDFOCO
+message ECJIHDDFOCO {
+    string CAEFHPPOBID = 1;
+    uint32 KGBFMPIDNNJ = 2;
+    string EMFPPMABMBB = 3;
+    string HAOGJLHNDBM = 7;
+    string HCJNCKAFCPI = 8;
+    string IIEJAMNBEKD = 9;
+    string BOFFEBPFJAG = 10;
+    string KFFOHFJBFIM = 11;
+    string LIBAFGFBOGE = 12;
+    string CCOMOKDBBIG = 13;
+    uint32 KEILPNCNHBH = 14;
+    string MBHPIFCBLFD = 16;
+    uint32 IKFKPMCIONN = 18;
+    string ADMLFMFFICJ = 19;
+    string JFEFBNHEHFC = 20;
+    HCBPECOJPEI DDDAOMOFIEL = 22;
+    bytes BLIDMDKHGGO = 23;
+    string BLDJGDBDBIO = 24;
+    string JPBIIKAEFLA = 26;
+    string ABOHBHJHFNL = 27;
+    bool NONEJFKEKGL = 28;
+    string KFPMFBGAMEI = 29;
+    string DLDBDFDGFFP = 30;
+    string HMPPHGNHHOG = 31;
+    string BEOJKNNEDFB = 32;
+    string FDDCEDJPPJD = 33;
+    string GINJGPHCAKG = 34;
+    HCBPECOJPEI DFAJKLEOLEF = 35;
+    string AMNPHOBNFAB = 36;
+}
+

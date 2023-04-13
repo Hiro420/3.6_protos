@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 265
+// Name: KAFMIMOBKKE
+message KAFMIMOBKKE {
+    uint32 FGEIEPJKHDL = 1;
+    uint32 LAMAHKLHAED = 2;
+    bool BJLCFHHIGJD = 15;
+}
+

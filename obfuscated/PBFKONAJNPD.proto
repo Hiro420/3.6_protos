@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MNKOCGLGJNP.proto";
+
+// Name: PBFKONAJNPD
+message PBFKONAJNPD {
+    repeated int64 AHEOIGAFGDJ = 15;
+    repeated MNKOCGLGJNP LBNIJIPEDKI = 3;
+    bool AIDFMEHGLNF = 8;
+}
+

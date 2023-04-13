@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 22707
+// Name: BKAMPLBFEJC
+message BKAMPLBFEJC {
+    uint32 NEIOJBOAFFG = 6;
+    int32 EEDMFEOGLFN = 9;
+}
+

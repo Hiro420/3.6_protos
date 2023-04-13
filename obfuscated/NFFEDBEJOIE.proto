@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FKONGMBBBAN.proto";
+import "MPBJOANOMOJ.proto";
+
+// CmdId: 690
+// Name: NFFEDBEJOIE
+message NFFEDBEJOIE {
+    repeated FKONGMBBBAN IEEPAJEHDIJ = 9;
+    uint32 HNOLDILEACO = 11;
+    MPBJOANOMOJ OBDBKNBAJIF = 5;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGLevelType.proto";
+
+// CmdId: 7547
+// Name: LMGOHPBHHFN
+message GCGStartChallengeReq {
+    GCGLevelType level_type = 11;
+    uint32 level_id = 12;
+    uint32 config_id = 9;
+}
+

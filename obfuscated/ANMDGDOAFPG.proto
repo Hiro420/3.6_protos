@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2190
+// Name: ANMDGDOAFPG
+message ANMDGDOAFPG {
+    uint32 LFOCJEADKPK = 7;
+    int32 EEDMFEOGLFN = 14;
+}
+

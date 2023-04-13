@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PJGLAMKGLIE.proto";
+
+// Name: NDOLJFAEGKP
+message NDOLJFAEGKP {
+    uint32 KHNEENKECBK = 7;
+    uint32 CCKKPIDLGEE = 11;
+    repeated uint32 CCLDKFGMOGG = 14;
+    PJGLAMKGLIE NNHBCELBKKG = 5;
+    uint32 FABNMNFMJFG = 12;
+}
+

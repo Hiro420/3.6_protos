@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8263
+// Name: PJHAOMDBHEJ
+message PJHAOMDBHEJ {
+    uint32 EBBCMNKEDDA = 14;
+    int32 EEDMFEOGLFN = 4;
+    uint32 ECLCBCEPGIH = 12;
+}
+

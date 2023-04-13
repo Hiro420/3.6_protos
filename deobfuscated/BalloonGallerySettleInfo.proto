@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GalleryStopReason.proto";
+
+// Name: LABCACEPOHB
+message BalloonGallerySettleInfo {
+    uint32 owner_uid = 9;
+    GalleryStopReason reason = 3;
+    uint32 score = 13;
+    uint32 hit_count = 15;
+}
+

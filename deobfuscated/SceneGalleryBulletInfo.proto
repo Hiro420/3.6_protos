@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: JFEEEGPDDNC
+message SceneGalleryBulletInfo {
+    uint32 end_time = 1;
+    map<uint32, uint32> hit_count_map = 14;
+}
+

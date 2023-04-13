@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 121
+// Name: COLEEIFDJKE
+message COLEEIFDJKE {
+    uint32 MCBAKLHGKOG = 10;
+}
+

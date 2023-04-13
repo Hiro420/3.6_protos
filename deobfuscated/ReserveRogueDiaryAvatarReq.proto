@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "RogueDiaryAvatar.proto";
+
+// CmdId: 8990
+// Name: BKOBKABFOLG
+message ReserveRogueDiaryAvatarReq {
+    repeated RogueDiaryAvatar reserve_avatar_list = 14;
+}
+

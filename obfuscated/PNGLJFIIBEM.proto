@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HAOPJHKKJLK.proto";
+
+// CmdId: 8256
+// Name: PNGLJFIIBEM
+message PNGLJFIIBEM {
+    repeated uint32 HBCPMCJGBFH = 15;
+    int32 EEDMFEOGLFN = 3;
+    repeated HAOPJHKKJLK KNFGFJGFIJA = 8;
+    repeated HAOPJHKKJLK CIDDMNDBKIM = 2;
+}
+

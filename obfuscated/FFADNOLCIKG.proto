@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FFADNOLCIKG
+message FFADNOLCIKG {
+    uint32 JGIPOEKBNNN = 5;
+    uint32 HJLEBAHLAOL = 15;
+    bool LODOAPOPHCN = 11;
+}
+

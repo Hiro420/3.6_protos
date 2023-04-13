@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MailData.proto";
+
+// CmdId: 1499
+// Name: GOLFMOPNENJ
+message GetAllMailResultNotify {
+    uint32 page_index = 7; // CDLABECFBPJ
+    repeated MailData mail_list = 5;
+    bool is_collected = 12;
+    uint32 total_page_count = 8; // GAAHHONLFPA
+    int32 retcode = 2;
+    string transaction = 10;
+}
+

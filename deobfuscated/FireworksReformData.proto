@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FireworksReformParam.proto";
+
+// Name: PFNLMPFONPN
+message FireworksReformData {
+    uint32 id = 8;
+    repeated FireworksReformParam reform_param_list = 4;
+}
+

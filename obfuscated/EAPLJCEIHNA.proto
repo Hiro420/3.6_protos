@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BMPEBBNDFKL.proto";
+import "DHHHNMEKJHP.proto";
+import "GBLHDOOKNCK.proto";
+
+// Name: EAPLJCEIHNA
+message EAPLJCEIHNA {
+    uint32 HJLEBAHLAOL = 1;
+    uint32 AMBDCDLBMAN = 2;
+    bool FPIDBNFKDFL = 3;
+    GBLHDOOKNCK DBDEEBCMHMM = 4;
+    GBLHDOOKNCK CEFBDDIOGOG = 5;
+    int32 CNLKENIFMKG = 6;
+    uint32 LMPGLPOIGHP = 7;
+    uint32 MFABFMFFAFJ = 8;
+    uint32 GKJDJFMFEMH = 9;
+    uint32 IOCKMCENNNM = 10;
+    repeated DHHHNMEKJHP LDPAMODBBCE = 11;
+    int32 NODNHHIMEPO = 12;
+    repeated BMPEBBNDFKL PFCKLEMEOOL = 13;
+    uint32 FDEBKBABMPG = 14;
+    uint32 DKKCJKPMIDI = 15;
+    int32 MKPEHMMACIB = 16;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1686
+// Name: CGPNDMOBAOI
+message CGPNDMOBAOI {
+    uint64 OAIIFOIFFNN = 10;
+    int32 EEDMFEOGLFN = 6;
+    repeated uint64 DMCKCADOELM = 2;
+}
+

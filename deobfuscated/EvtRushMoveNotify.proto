@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "EvtRushMoveInfo.proto";
+import "ForwardType.proto";
+
+// CmdId: 378
+// Name: AEMCOFMKGBP
+message EvtRushMoveNotify {
+    ForwardType forward_type = 2;
+    EvtRushMoveInfo evt_rush_move_info = 12;
+}
+

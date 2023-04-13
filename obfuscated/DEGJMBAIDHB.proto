@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// Name: DEGJMBAIDHB
+message DEGJMBAIDHB {
+    uint32 MAEEFMMLAPD = 1;
+    repeated INPDDALBMBO IEEPAJEHDIJ = 2;
+}
+

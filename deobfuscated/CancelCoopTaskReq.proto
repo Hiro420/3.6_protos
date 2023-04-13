@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1974
+// Name: CIGPGHKJCDH
+message CancelCoopTaskReq {
+    uint32 chapter_id = 3;
+}
+

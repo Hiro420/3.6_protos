@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DBHBCEGMAHL
+message CityReputationQuestInfo {
+    bool is_open = 8;
+    repeated uint32 GOGAJPFNDDD = 4;
+    repeated uint32 JMFHFJELJLK = 9;
+}
+

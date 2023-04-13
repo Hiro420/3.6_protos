@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CFFPCGOPLMN.proto";
+
+// CmdId: 4628
+// Name: HGGGONGOAHF
+message HGGGONGOAHF {
+    int32 EEDMFEOGLFN = 15;
+    CFFPCGOPLMN CJJJCLDEGEB = 8;
+}
+

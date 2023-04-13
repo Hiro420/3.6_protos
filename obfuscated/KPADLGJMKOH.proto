@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GGDPCAPPPNF.proto";
+
+// Name: KPADLGJMKOH
+message KPADLGJMKOH {
+    uint32 DMBFPFFMFCM = 10;
+    bool BAAGHFJNFIG = 11;
+    int32 JALOBHKEKIJ = 13;
+    GGDPCAPPPNF AJBLMLDNING = 15;
+}
+

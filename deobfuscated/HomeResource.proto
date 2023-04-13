@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: LDMGBIGBOLN
+message HomeResource {
+    fixed32 next_refresh_time = 9;
+    uint32 store_limit = 13; // GBBFEOLGIPA
+    uint32 store_value = 10; // ELNCBCIJMJJ
+}
+

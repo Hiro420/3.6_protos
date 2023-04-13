@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: EPIODKDCPKL
+message EPIODKDCPKL {
+    uint32 OLEBJHOKNAH = 3;
+    uint32 FJLHCPEOPBD = 7;
+    bool KBDNLKGJAGJ = 14;
+    uint32 IOLKEPCMIAN = 12;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HNANDMBFCNA.proto";
+import "PEHLILGOPKN.proto";
+
+// CmdId: 359
+// Name: KEMOOLMMMCH
+message KEMOOLMMMCH {
+    HNANDMBFCNA MIIHGIKBDPN = 11;
+    PEHLILGOPKN CGAFJIIPALB = 15;
+}
+

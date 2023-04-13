@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BABEOKMLGED.proto";
+
+// CmdId: 364
+// Name: NICHDLMHIME
+message NICHDLMHIME {
+    map<uint32, BABEOKMLGED> FIACJLAEDKG = 5;
+}
+

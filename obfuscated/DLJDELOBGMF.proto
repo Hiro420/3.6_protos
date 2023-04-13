@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DLJDELOBGMF
+message DLJDELOBGMF {
+    uint32 KLPCIBODOEE = 7;
+    bool HKHAADBCFDO = 2;
+}
+

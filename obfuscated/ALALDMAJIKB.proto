@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8121
+// Name: ALALDMAJIKB
+message ALALDMAJIKB {
+    uint32 BAKNPCGIKBO = 13;
+    uint32 JOPJKOGODAM = 4;
+    repeated uint32 FAAOILLELHJ = 11;
+    int32 EEDMFEOGLFN = 10;
+    uint32 BLILHBOJOCD = 2;
+}
+

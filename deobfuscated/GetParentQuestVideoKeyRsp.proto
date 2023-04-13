@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 426
+// Name: KMIHBBDHIFF
+message GetParentQuestVideoKeyRsp {
+    uint64 video_key = 3;
+    uint32 parent_quest_id = 8;
+    int32 retcode = 10;
+}
+

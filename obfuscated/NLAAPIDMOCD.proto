@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CKBDHMCNIFJ.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: NLAAPIDMOCD
+message NLAAPIDMOCD {
+    KKFEDHALJFH DBDEEBCMHMM = 1;
+    KKFEDHALJFH EHADCOBANHG = 2;
+    KKFEDHALJFH CNLKENIFMKG = 3;
+    CKBDHMCNIFJ MFABFMFFAFJ = 4;
+    repeated KKFEDHALJFH KGLHGFJDOLO = 5;
+    KKFEDHALJFH MOCAEAJIGHF = 6;
+    uint32 ADBAMAENECF = 7;
+    uint32 BIHMFOCDMKP = 8;
+    uint64 AFFEHMNBOGD = 9;
+}
+

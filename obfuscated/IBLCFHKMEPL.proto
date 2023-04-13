@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+
+// Name: IBLCFHKMEPL
+message IBLCFHKMEPL {
+    string EBLOGJGAOIP = 12;
+    uint32 JBMPBFDPKGD = 2;
+    CAOGLKMLEOG IAEKOGMCHED = 14;
+    map<uint32, uint32> LIDEAPKJLGO = 6;
+    string DAKAMJMLMNA = 1;
+    uint32 MFCJNNNFCGF = 4;
+    string AMBLNLJKLDC = 9;
+}
+

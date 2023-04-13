@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HNPGMPNHPFG
+message HNPGMPNHPFG {
+    uint32 LBFEOFMJHED = 15;
+    uint32 AMBDCDLBMAN = 8;
+    uint64 GAMADMMDCPO = 9;
+}
+

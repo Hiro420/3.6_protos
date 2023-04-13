@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CBHAJLMEILM.proto";
+
+// CmdId: 8602
+// Name: FHBKALGPONC
+message FHBKALGPONC {
+    uint32 JOPJKOGODAM = 1;
+    repeated CBHAJLMEILM KIFHECBDOOE = 14;
+    int32 EEDMFEOGLFN = 13;
+    uint32 HDMDJECGCKC = 11;
+}
+

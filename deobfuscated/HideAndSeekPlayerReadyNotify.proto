@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5340
+// Name: HCJEOAOHGDK
+message HideAndSeekPlayerReadyNotify {
+    repeated uint32 uid_list = 6;
+}
+

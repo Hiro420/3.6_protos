@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 983
+// Name: CMFCCIDLGBI
+message DungeonCandidateTeamKickReq {
+    uint32 player_uid = 5;
+}
+

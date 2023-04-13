@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5226
+// Name: OKIOCBFIBFG
+message MiracleRingDropResultNotify {
+    int32 JJMPKOPPOFI = 5;
+    uint32 IMOIJDCCEOP = 13;
+}
+

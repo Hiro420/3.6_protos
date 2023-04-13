@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JMAGIHDGPPP.proto";
+
+// CmdId: 24092
+// Name: EBDCHKFCCEB
+message EBDCHKFCCEB {
+    repeated JMAGIHDGPPP AOAKGOPBGIH = 12;
+}
+

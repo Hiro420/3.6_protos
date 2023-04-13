@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MPLIKJPIIPG.proto";
+
+// CmdId: 5049
+// Name: CBJPMIKGFLK
+message CBJPMIKGFLK {
+    MPLIKJPIIPG AFIHADDHCEI = 9;
+}
+

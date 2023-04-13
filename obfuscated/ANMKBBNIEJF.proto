@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LGEFAHEILCM.proto";
+
+// CmdId: 5336
+// Name: ANMKBBNIEJF
+message ANMKBBNIEJF {
+    repeated LGEFAHEILCM EPAPFNHCDIK = 7;
+    uint32 CLOFHKNMAHB = 6;
+    uint32 IEICKPJNLED = 4;
+}
+

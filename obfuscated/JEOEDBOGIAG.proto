@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OIEKIGIJIFH.proto";
+import "OJIGKDCPAJL.proto";
+
+// Name: JEOEDBOGIAG
+message JEOEDBOGIAG {
+    uint32 DMBFPFFMFCM = 1;
+    uint32 CBGNJHFJMLP = 2;
+    uint32 GMJNLBGNFEJ = 3;
+    uint64 EEMILGMLGOH = 4;
+    uint32 HCGIBBGCFHO = 5;
+    uint32 CMLDJEEBBKI = 6;
+    OIEKIGIJIFH EONNMOEJLJH = 7;
+    map<uint32, uint32> CGDKECAFPNM = 8;
+    OJIGKDCPAJL MGBDEONNAFO = 9;
+}
+

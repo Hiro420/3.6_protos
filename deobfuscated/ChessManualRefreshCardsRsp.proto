@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5344
+// Name: OFJEHEHMPII
+message ChessManualRefreshCardsRsp {
+    int32 retcode = 6;
+}
+

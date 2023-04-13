@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MFDDAHPDKOD.proto";
+
+// CmdId: 1292
+// Name: BCGHJPEKLLD
+message BCGHJPEKLLD {
+    MFDDAHPDKOD CNDKFAMECDF = 14;
+    float FGKBBAEEDNP = 7;
+    uint64 FPIIPJJPBOH = 8;
+    float FPMJFLPIOAM = 12;
+    uint32 HINMLENBAFO = 2;
+}
+

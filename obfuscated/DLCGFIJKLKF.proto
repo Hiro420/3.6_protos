@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8933
+// Name: DLCGFIJKLKF
+message DLCGFIJKLKF {
+    int32 EEDMFEOGLFN = 10;
+    uint32 FILHECJHLJD = 13;
+}
+

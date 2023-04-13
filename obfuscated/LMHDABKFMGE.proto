@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EOKIFGHJBHD.proto";
+
+// Name: LMHDABKFMGE
+message LMHDABKFMGE {
+    EOKIFGHJBHD BIMGMPHAAGE = 1;
+}
+

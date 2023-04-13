@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3479
+// Name: NKAIGOMHPJB
+message NKAIGOMHPJB {
+    uint32 IHEPIKIDEAB = 1;
+}
+

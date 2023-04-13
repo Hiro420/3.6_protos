@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LALFJCCDPOB
+message LALFJCCDPOB {
+    uint32 JFAFMJAFPEF = 10;
+    uint32 DILMPOBNGPN = 15;
+}
+

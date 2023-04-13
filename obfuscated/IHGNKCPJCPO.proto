@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20487
+// Name: IHGNKCPJCPO
+message IHGNKCPJCPO {
+    uint32 IHJHBOGKMLA = 2;
+}
+

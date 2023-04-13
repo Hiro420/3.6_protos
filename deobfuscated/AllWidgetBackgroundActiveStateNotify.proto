@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 6008
+// Name: DAEAOLEIKOA
+message AllWidgetBackgroundActiveStateNotify {
+    repeated uint32 background_active_widget_list = 5;
+}
+

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OOCPHEKKCJH
+enum OOCPHEKKCJH {
+    OOCPHEKKCJH_UNKNOW = 0;
+    OOCPHEKKCJH_FLOAT = 1;
+    OOCPHEKKCJH_INT = 2;
+    OOCPHEKKCJH_BOOL = 3;
+    OOCPHEKKCJH_TRIGGER = 4;
+    OOCPHEKKCJH_STRING = 5;
+    OOCPHEKKCJH_UINT = 6;
+}
+

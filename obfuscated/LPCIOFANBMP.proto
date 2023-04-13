@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LPCIOFANBMP
+message LPCIOFANBMP {
+    uint32 IKINEMPBMLM = 15;
+    uint32 AJGLJMEFIBE = 12;
+    uint32 EGPNIOGGCHF = 2;
+}
+

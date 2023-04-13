@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ICKOIGGMFOK
+message ICKOIGGMFOK {
+    uint32 HJLEBAHLAOL = 8;
+    uint32 MIKDHOOEKOI = 10;
+    bool NCACAHINDCJ = 9;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MPLIKJPIIPG.proto";
+
+// CmdId: 5028
+// Name: LIEEOGAEGEA
+message LIEEOGAEGEA {
+    bool AAIHLACPNGA = 10;
+    uint32 KGEIMHOAJAD = 14;
+    MPLIKJPIIPG AFIHADDHCEI = 2;
+}
+

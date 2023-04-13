@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DGDNJFDLBNB.proto";
+import "JJNNDFMMKMA.proto";
+
+// CmdId: 896
+// Name: NMBFBOFBOHD
+message NMBFBOFBOHD {
+    DGDNJFDLBNB OMKEFCKPOMK = 2;
+    int32 EEDMFEOGLFN = 7;
+    uint32 CBGNJHFJMLP = 8;
+    JJNNDFMMKMA IKHIFJNBADN = 4;
+    uint32 PNLGKNFEFGC = 15;
+}
+

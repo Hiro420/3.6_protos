@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20158
+// Name: LIDDFAKFGLG
+message LIDDFAKFGLG {
+    int32 EEDMFEOGLFN = 14;
+    uint32 MDNMOJAPBKB = 3;
+    bool GBHJHJENFGK = 8;
+    bool HKHAADBCFDO = 6;
+}
+

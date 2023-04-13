@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MatchType.proto";
+
+// CmdId: 4165
+// Name: GIGMEAMFOJF
+message PlayerCancelMatchRsp {
+    MatchType match_type = 15;
+    int32 retcode = 10;
+}
+

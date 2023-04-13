@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GGFHCGIAFOI.proto";
+
+// CmdId: 78
+// Name: EBLBKMMAKNH
+message EBLBKMMAKNH {
+    GGFHCGIAFOI CNDKFAMECDF = 6;
+}
+

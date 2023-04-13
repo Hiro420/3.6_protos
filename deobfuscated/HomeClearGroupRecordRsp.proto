@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4527
+// Name: KIDOKDPNMAF
+message HomeClearGroupRecordRsp {
+    uint32 group_id = 6;
+    int32 retcode = 11;
+}
+

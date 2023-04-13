@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4533
+// Name: PJJKDAGEDFE
+message HomeAvtarAllFinishRewardNotify {
+    repeated uint32 event_id_list = 14;
+}
+

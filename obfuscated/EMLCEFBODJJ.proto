@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DPMPINPGLBI.proto";
+
+// Name: EMLCEFBODJJ
+message EMLCEFBODJJ {
+    repeated DPMPINPGLBI LJDDKDFAOJI = 3;
+}
+

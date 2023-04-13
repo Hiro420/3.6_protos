@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: KHHEAFGCOMJ
+message KHHEAFGCOMJ {
+    uint32 start_time = 12;
+}
+

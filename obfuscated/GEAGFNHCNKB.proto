@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4776
+// Name: GEAGFNHCNKB
+message GEAGFNHCNKB {
+    uint32 EEMILGMLGOH = 5;
+    uint32 LMFBNNHOCFI = 9;
+    uint32 MFCJNNNFCGF = 13;
+}
+

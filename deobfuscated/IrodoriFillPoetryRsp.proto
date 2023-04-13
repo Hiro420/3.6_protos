@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "IrodoriPoetryThemeData.proto";
+
+// CmdId: 8910
+// Name: EAPDFFJGMOE
+message IrodoriFillPoetryRsp {
+    IrodoriPoetryThemeData theme_data = 11;
+    int32 retcode = 3;
+}
+

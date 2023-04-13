@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: NOBKFICGCHL
+message NOBKFICGCHL {
+    uint32 ABAOGMOGFMI = 15;
+    uint32 LNPGJJPLKPP = 12;
+    uint32 EHPIOILFBIN = 1;
+    repeated uint32 BDJJKKAIPLD = 4;
+    uint32 BHPHOGJAADH = 7;
+    repeated uint32 BEHPIJPHPKM = 5;
+}
+

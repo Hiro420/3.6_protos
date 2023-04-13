@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HAPLHBDEFAO
+message HAPLHBDEFAO {
+    uint32 PGCBAFCHDBI = 1;
+    uint32 PDKPPDOOMFE = 2;
+    uint32 NEBDNPKCLJF = 3;
+    uint32 HPNMAPJMLAN = 4;
+}
+

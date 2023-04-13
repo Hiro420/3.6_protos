@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BlossomChestInfo.proto";
+
+// CmdId: 872
+// Name: CBECLHIKOKP
+message BlossomChestInfoNotify {
+    BlossomChestInfo blossom_chest_info = 1;
+    uint32 entity_id = 12;
+}
+

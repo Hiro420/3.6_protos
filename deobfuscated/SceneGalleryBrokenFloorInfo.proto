@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: MCAMPODMLJG
+message SceneGalleryBrokenFloorInfo {
+    uint32 end_time = 7;
+    map<uint32, uint32> fall_count_map = 15;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5040
+// Name: GJDPKMJKHAF
+message GJDPKMJKHAF {
+    uint32 AOOCBPDDMKC = 13;
+    oneof EOBACNJEEGP {
+        string DIOLFKPKKFJ = 10;
+        uint32 KDKGDDHPIKG = 8;
+    }
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 629
+// Name: MINLPCIDJLK
+message MINLPCIDJLK {
+    uint32 MFCJNNNFCGF = 7;
+    uint32 JNBCCPFGOOO = 9;
+    uint32 GLJCEFHAJFK = 8;
+}
+

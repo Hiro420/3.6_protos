@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: FMNPHBGDPIP
+message EntityEnvironmentInfo {
+    uint32 PBFMHLPEEPE = 1;
+    uint32 NJDCDHDPMBE = 2;
+}
+

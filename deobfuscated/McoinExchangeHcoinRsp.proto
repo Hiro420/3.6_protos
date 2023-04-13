@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 624
+// Name: JMPCEHHBLGI
+message McoinExchangeHcoinRsp {
+    int32 retcode = 1;
+    uint32 hcoin = 11; // MLKHDJPCJLG
+    uint32 mcoin_cost = 3; // PBPMGONFBPF
+}
+

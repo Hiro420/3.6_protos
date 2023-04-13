@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LAGPLFLFOEF.proto";
+
+// CmdId: 2389
+// Name: BEDOODLKBLH
+message BEDOODLKBLH {
+    uint32 FGEIEPJKHDL = 2;
+    repeated int32 BMICHLGMOBD = 13;
+    repeated LAGPLFLFOEF AOGFMFHOMNC = 5;
+}
+

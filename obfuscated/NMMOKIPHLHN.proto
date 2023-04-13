@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CJFCCJHOGFA.proto";
+
+// Name: NMMOKIPHLHN
+message NMMOKIPHLHN {
+    repeated uint32 BLIJCEPMNMA = 1;
+    repeated uint32 DMJAIIOOGDA = 15;
+    CJFCCJHOGFA ICKOJOAOADA = 8;
+}
+

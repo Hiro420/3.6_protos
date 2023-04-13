@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2003
+// Name: LADELAPFEJE
+message ReceivedTrialAvatarActivityRewardReq {
+    uint32 trial_avatar_index_id = 7;
+}
+

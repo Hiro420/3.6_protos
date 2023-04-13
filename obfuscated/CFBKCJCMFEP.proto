@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CFBKCJCMFEP
+message CFBKCJCMFEP {
+    bool FKOBJPCKIFJ = 13;
+    uint32 JJGGAPDDOLN = 11;
+}
+

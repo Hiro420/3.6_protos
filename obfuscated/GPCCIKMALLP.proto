@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GPCCIKMALLP
+message GPCCIKMALLP {
+    uint32 KBEEJHNGKIN = 7;
+    repeated uint32 BPGFDJAMANE = 8;
+    uint32 CAPDPNKCHEG = 13;
+    bool GBEAJJIBJFA = 15;
+}
+

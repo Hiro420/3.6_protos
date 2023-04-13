@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JFJIHFAGDKI.proto";
+
+// Name: JOBCGOEPLIM
+message JOBCGOEPLIM {
+    repeated JFJIHFAGDKI JLDGJOPFALG = 1;
+}
+

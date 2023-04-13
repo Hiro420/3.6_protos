@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ABBABGECCOD.proto";
+import "MHMEJPDBJHD.proto";
+
+// Name: HMNIHMNIOKA
+message HMNIHMNIOKA {
+    uint32 DBDEEBCMHMM = 15;
+    repeated uint32 FMPHJBEHMII = 9;
+    ABBABGECCOD CNDKFAMECDF = 13;
+    uint32 FNFPIGHNBLL = 3;
+    MHMEJPDBJHD NOAPBNOHBEG = 14;
+}
+

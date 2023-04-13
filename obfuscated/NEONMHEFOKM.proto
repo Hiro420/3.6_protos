@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2194
+// Name: NEONMHEFOKM
+message NEONMHEFOKM {
+    uint32 FJLHCPEOPBD = 7;
+    uint32 LFOCJEADKPK = 3;
+    uint32 LANNIFHAGJI = 10;
+}
+

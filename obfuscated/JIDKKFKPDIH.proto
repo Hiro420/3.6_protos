@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JIDKKFKPDIH
+message JIDKKFKPDIH {
+    // Name: PMHIABIOPBE
+    enum PMHIABIOPBE {
+        PMHIABIOPBE_INVALID = 0;
+        PMHIABIOPBE_IN_PROGRESS = 1;
+        PMHIABIOPBE_COMPLETE = 2;
+        PMHIABIOPBE_REWARD_TAKEN = 3;
+    }
+
+    uint32 IOLKEPCMIAN = 11;
+    PMHIABIOPBE MFABFMFFAFJ = 8;
+    uint32 HJLEBAHLAOL = 3;
+    uint32 MIEDMELHOLI = 15;
+}
+

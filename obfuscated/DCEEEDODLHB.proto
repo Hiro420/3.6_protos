@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 238
+// Name: DCEEEDODLHB
+message DCEEEDODLHB {
+    uint32 AOOCBPDDMKC = 9;
+}
+

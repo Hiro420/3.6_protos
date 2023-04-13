@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7498
+// Name: JKOODGPGFIC
+message GCGDSChangeCardFaceReq {
+    uint32 face_type = 2;
+    uint32 card_id = 5;
+}
+

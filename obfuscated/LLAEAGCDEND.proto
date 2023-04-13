@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 340
+// Name: LLAEAGCDEND
+message LLAEAGCDEND {
+    repeated uint32 OCCCGINNPPE = 1;
+    uint32 FGEIEPJKHDL = 8;
+}
+

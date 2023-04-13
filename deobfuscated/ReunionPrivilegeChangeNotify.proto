@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ReunionPrivilegeInfo.proto";
+
+// CmdId: 5098
+// Name: LLEACKJHOEG
+message ReunionPrivilegeChangeNotify {
+    ReunionPrivilegeInfo privilege_info = 15;
+}
+

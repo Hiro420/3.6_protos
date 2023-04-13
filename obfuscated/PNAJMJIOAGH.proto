@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5578
+// Name: PNAJMJIOAGH
+message PNAJMJIOAGH {
+    uint32 GAHKBNJEDCB = 4;
+    uint32 ECLCBCEPGIH = 15;
+}
+

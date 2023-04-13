@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 300
+// Name: JOLDFKPIFMF
+message JOLDFKPIFMF {
+    int32 CPEJFNDDHJN = 7;
+    int32 CMNMDFMICGE = 12;
+    int32 FBBNKHDEMJG = 8;
+    string DELNLAEMCDM = 4;
+    uint32 DICOPPHCLEO = 10;
+    uint32 ABIIBMGJNKM = 1;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 23232
+// Name: BOCHPKJIPPD
+message GravenInnocencePhotoFinishReq {
+    uint32 param = 12;
+    uint32 object_id = 1;
+}
+

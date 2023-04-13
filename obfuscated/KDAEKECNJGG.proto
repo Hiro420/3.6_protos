@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ECJIHDDFOCO.proto";
+import "EEDNKCDNPIP.proto";
+import "FKIGODAGGJA.proto";
+
+// Name: KDAEKECNJGG
+message KDAEKECNJGG {
+    int32 EEDMFEOGLFN = 1;
+    string OKHFJOFHFPN = 2;
+    ECJIHDDFOCO OEOPEGAGNJA = 3;
+    bytes DOFFIELLMIK = 11;
+    bytes JIAGLIKJJHP = 12;
+    bytes BNAKILGGOAF = 13;
+    string FPLPGEGEJJM = 14;
+    oneof OFDMLDLAIEN {
+        FKIGODAGGJA DJHOEEPEGMG = 4;
+        EEDNKCDNPIP GCMJCMHKCCB = 5;
+    }
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 916
+// Name: DGNGJHAIIEK
+message DGNGJHAIIEK {
+    uint32 BLILHBOJOCD = 9;
+    bool KFDENBODOJL = 5;
+}
+

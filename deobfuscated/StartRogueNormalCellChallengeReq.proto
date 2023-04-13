@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8732
+// Name: DHAJNMCJGHD
+message StartRogueNormalCellChallengeReq {
+    uint32 dungeon_id = 1;
+    uint32 cell_id = 9;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OHNCHMDLPPM
+message SumoDungeonAvatar {
+    bool is_avlive = 12;
+    uint64 avatar_guid = 2;
+    bool is_trial = 14;
+}
+

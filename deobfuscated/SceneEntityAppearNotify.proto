@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SceneEntityInfo.proto";
+import "VisionType.proto";
+
+// CmdId: 256
+// Name: GIGOIBLMDHA
+message SceneEntityAppearNotify {
+    VisionType appear_type = 13;
+    repeated SceneEntityInfo entity_list = 6;
+    uint32 param = 15;
+}
+

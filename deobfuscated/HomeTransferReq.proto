@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4681
+// Name: FMABBJFJENA
+message HomeTransferReq {
+    bool EIEPKFHNILM = 5;
+    uint32 guid = 1;
+    bool OJAFECKPAJE = 10;
+}
+

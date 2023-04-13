@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 954
+// Name: DNNABLHCJOK
+message DNNABLHCJOK {
+    int32 EEDMFEOGLFN = 1;
+}
+

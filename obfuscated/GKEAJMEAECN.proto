@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BJGMHMHDCGE.proto";
+
+// CmdId: 8029
+// Name: GKEAJMEAECN
+message GKEAJMEAECN {
+    BJGMHMHDCGE IOHBIABMEOC = 14;
+    uint32 DMBFPFFMFCM = 12;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OMEFMODIDAM
+enum OMEFMODIDAM {
+    OMEFMODIDAM_NONE = 0;
+    OMEFMODIDAM_COLLECTABLE = 1;
+    OMEFMODIDAM_COLLECTED = 2;
+    OMEFMODIDAM_FINISHED = 3;
+}
+

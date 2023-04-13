@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+
+// Name: MCMJPIGCMCN
+message MCMJPIGCMCN {
+    uint32 JBMPBFDPKGD = 2;
+    string EBLOGJGAOIP = 13;
+    repeated uint32 LFNLHAABJAM = 12;
+    CAOGLKMLEOG IAEKOGMCHED = 11;
+}
+

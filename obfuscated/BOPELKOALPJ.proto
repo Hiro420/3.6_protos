@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BOPELKOALPJ
+message BOPELKOALPJ {
+    bytes OKEJELLNGBL = 8;
+    uint32 GHMNOBILIAE = 3;
+    uint32 HKLFAPFDLCN = 15;
+}
+

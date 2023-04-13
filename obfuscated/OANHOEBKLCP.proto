@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+
+// Name: OANHOEBKLCP
+message OANHOEBKLCP {
+    CAOGLKMLEOG IAEKOGMCHED = 2;
+    string EBLOGJGAOIP = 14;
+    uint32 BBNFKACLDNA = 4;
+    uint32 JBMPBFDPKGD = 11;
+    string FLJJCLIMMJA = 7;
+    uint32 MDNMOJAPBKB = 13;
+    uint32 KDKGDDHPIKG = 8;
+}
+

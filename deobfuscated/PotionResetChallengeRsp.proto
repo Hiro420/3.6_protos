@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PotionStageData.proto";
+
+// CmdId: 8327
+// Name: NMKALJIDENA
+message PotionResetChallengeRsp {
+    PotionStageData stage_data = 13;
+    int32 retcode = 5;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BIFCMPAIENC
+enum BIFCMPAIENC {
+    BIFCMPAIENC_DUNGEON_CANDIDATE_TPDR_NORMAL = 0;
+    BIFCMPAIENC_DUNGEON_CANDIDATE_TPDR_DIE = 1;
+    BIFCMPAIENC_DUNGEON_CANDIDATE_TPDR_DISCONNECT = 2;
+}
+

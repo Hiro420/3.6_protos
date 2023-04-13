@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IHEBHBFOELG.proto";
+
+// CmdId: 8390
+// Name: FEOHDNPHBJI
+message FEOHDNPHBJI {
+    IHEBHBFOELG KEPJFKAEJDH = 13;
+    uint32 ECLCBCEPGIH = 8;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 6244
+// Name: NJMOGCHIHLC
+message SearchCustomDungeonReq {
+    string dungeon_code = 11;
+}
+

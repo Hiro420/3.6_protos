@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 647
+// Name: GGFMFJKHFOP
+message GGFMFJKHFOP {
+    // Name: EIBIGOBHMLH
+    enum EIBIGOBHMLH {
+        EIBIGOBHMLH_ITEM_EXCEED_LIMIT_MSG_DEFAULT = 0;
+        EIBIGOBHMLH_ITEM_EXCEED_LIMIT_MSG_TEXT = 1;
+        EIBIGOBHMLH_ITEM_EXCEED_LIMIT_MSG_DIALOG = 2;
+        EIBIGOBHMLH_ITEM_EXCEED_LIMIT_MSG_DIALOG_NONBLOCK = 3;
+    }
+
+    EIBIGOBHMLH KEPHCBBHHJA = 8;
+    repeated uint32 IEKDCIFFABE = 7;
+    bool EBJFPPCBIFF = 14;
+    uint32 CNDKFAMECDF = 4;
+    repeated uint32 DKMOFJKMINH = 15;
+}
+

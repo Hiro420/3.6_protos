@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1276
+// Name: NLBPIGMANAH
+message NLBPIGMANAH {
+    map<uint32, float> MJKONFIDPMK = 12;
+    uint32 DMBFPFFMFCM = 3;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JODIOENNDOF.proto";
+
+// CmdId: 7133
+// Name: JCMIBMOKICD
+message JCMIBMOKICD {
+    uint32 DCANKEBLMNC = 2;
+    repeated JODIOENNDOF PBDEELBNIKA = 14;
+}
+

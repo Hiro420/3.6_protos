@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HJINEIJEJIL.proto";
+
+// CmdId: 5831
+// Name: EGHHKBCHAML
+message EGHHKBCHAML {
+    uint32 EOFMGNHMGNK = 15;
+    bool FDBEOKFOFMC = 2;
+    HJINEIJEJIL AENJHPLAOBC = 12;
+}
+

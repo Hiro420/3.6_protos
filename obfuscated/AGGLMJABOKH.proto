@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: AGGLMJABOKH
+message AGGLMJABOKH {
+    // Name: BCDLKPCNHJH
+    enum BCDLKPCNHJH {
+        BCDLKPCNHJH_UNLOCK = 0;
+        BCDLKPCNHJH_LOCK = 1;
+        BCDLKPCNHJH_TAKEN = 2;
+    }
+
+    uint32 HJLEBAHLAOL = 9;
+    BCDLKPCNHJH MFABFMFFAFJ = 14;
+}
+

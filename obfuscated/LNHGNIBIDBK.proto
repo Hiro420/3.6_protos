@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5456
+// Name: LNHGNIBIDBK
+message LNHGNIBIDBK {
+    bool AHLBALEPDGC = 2;
+    uint32 MFOOMFBLNMK = 5;
+}
+

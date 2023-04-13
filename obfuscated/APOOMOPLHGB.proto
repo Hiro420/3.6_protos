@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2623
+// Name: APOOMOPLHGB
+message APOOMOPLHGB {
+    string FFFEIEGGGNJ = 9;
+    int32 EEDMFEOGLFN = 2;
+    uint32 CAJFELIMNOP = 11;
+    string JPIEPAAAKPA = 15;
+    uint32 ENNFMNMNAKB = 3;
+}
+

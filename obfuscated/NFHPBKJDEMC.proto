@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BINOGFMKKJO.proto";
+
+// CmdId: 796
+// Name: NFHPBKJDEMC
+message NFHPBKJDEMC {
+    BINOGFMKKJO BGAGPLDCOKL = 5;
+    int32 EEDMFEOGLFN = 9;
+}
+

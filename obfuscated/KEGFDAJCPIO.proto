@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HCADHBGHFOC.proto";
+
+// CmdId: 7880
+// Name: KEGFDAJCPIO
+message KEGFDAJCPIO {
+    repeated HCADHBGHFOC OCLGNOFNBND = 1;
+    int32 EEDMFEOGLFN = 10;
+}
+

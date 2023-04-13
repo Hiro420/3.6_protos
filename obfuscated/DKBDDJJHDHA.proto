@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ONINAMINFAL.proto";
+
+// Name: DKBDDJJHDHA
+message DKBDDJJHDHA {
+    repeated ONINAMINFAL AJICMDLBFLK = 7;
+    uint32 NICMPEHDPBF = 12;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1924
+// Name: OHBGMLPFMDD
+message OHBGMLPFMDD {
+    uint32 PKDJIGJDEJE = 13;
+    uint32 FGEIEPJKHDL = 15;
+    uint32 IIAJOFIKKPH = 4;
+    uint32 FPMNNICBLJG = 8;
+}
+

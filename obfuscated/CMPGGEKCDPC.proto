@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FJAGNEBFDHH.proto";
+
+// CmdId: 498
+// Name: CMPGGEKCDPC
+message CMPGGEKCDPC {
+    int32 EEDMFEOGLFN = 11;
+    uint32 MMBHDIGGJIM = 6;
+    FJAGNEBFDHH FHDBKMCOKFN = 2;
+}
+

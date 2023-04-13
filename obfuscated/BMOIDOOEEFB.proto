@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1609
+// Name: BMOIDOOEEFB
+message BMOIDOOEEFB {
+    uint64 EEMILGMLGOH = 6;
+}
+

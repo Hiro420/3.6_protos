@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1078
+// Name: PPGGAIJGNKM
+message PPGGAIJGNKM {
+    uint64 FPIIPJJPBOH = 14;
+    uint32 CDMJNDBKKPD = 7;
+    uint32 ANFDBDFABFL = 15;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2910
+// Name: BCBNCBGIEJO
+message BCBNCBGIEJO {
+    uint32 offering_id = 1;
+}
+

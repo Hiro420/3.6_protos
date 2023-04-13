@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: AJJFFHBHBAO
+message AJJFFHBHBAO {
+    uint32 MDNMOJAPBKB = 13;
+    uint32 AAFNJPABDDJ = 2;
+    uint32 CALCAHMEJGN = 7;
+    uint32 BKPLONJEOAF = 10;
+}
+

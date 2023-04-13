@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: MILONFPLDDB
+message MILONFPLDDB {
+    KKFEDHALJFH KLGIEIGDCJA = 2;
+    uint32 EEMILGMLGOH = 9;
+    uint32 DDLDJHCLEGH = 4;
+    bool GCIFBDGHJFM = 1;
+    repeated int32 IDIMMOLONLA = 11;
+}
+

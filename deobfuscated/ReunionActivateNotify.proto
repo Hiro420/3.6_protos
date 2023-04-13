@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ReunionBriefInfo.proto";
+
+// CmdId: 5087
+// Name: PDJOLOBJOFI
+message ReunionActivateNotify {
+    ReunionBriefInfo reunion_brief_info = 11;
+    bool is_activate = 15;
+}
+

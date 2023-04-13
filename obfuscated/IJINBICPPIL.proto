@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5315
+// Name: IJINBICPPIL
+message IJINBICPPIL {
+    int32 EEDMFEOGLFN = 11;
+}
+

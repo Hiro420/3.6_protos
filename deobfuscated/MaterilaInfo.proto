@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: EBFHCFLODFI
+message MaterilaInfo {
+    uint32 count = 3;
+    uint64 guid = 14;
+}
+

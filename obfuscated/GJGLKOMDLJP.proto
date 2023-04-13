@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AANGCNPKJIH.proto";
+
+// CmdId: 4751
+// Name: GJGLKOMDLJP
+message GJGLKOMDLJP {
+    repeated AANGCNPKJIH HABPEEKABIP = 2;
+}
+

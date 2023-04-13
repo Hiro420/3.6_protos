@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BAADGLFOHPI.proto";
+import "LKKKOFHDIBB.proto";
+
+// Name: PDGCLANHIJP
+message PDGCLANHIJP {
+    bool BPAKACCOBAK = 3;
+    oneof OFDMLDLAIEN {
+        BAADGLFOHPI FLMHPACNIOK = 1;
+        LKKKOFHDIBB KCGKNOIHAMN = 2;
+    }
+}
+

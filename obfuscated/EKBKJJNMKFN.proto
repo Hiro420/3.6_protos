@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HDNFJFOBDNE.proto";
+
+// Name: EKBKJJNMKFN
+message EKBKJJNMKFN {
+    repeated HDNFJFOBDNE PIABMJLNENG = 13;
+}
+

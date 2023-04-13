@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1649
+// Name: LFPGAJJEPPA
+message LFPGAJJEPPA {
+    uint64 OAIIFOIFFNN = 11;
+    int32 EEDMFEOGLFN = 1;
+    repeated uint64 DMCKCADOELM = 8;
+}
+

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EOMJMDNEMOO.proto";
+
+// Name: DMLOGFGNFCA
+message DMLOGFGNFCA {
+    // Name: ACFOEFOCAOB
+    message ACFOEFOCAOB {
+        uint32 DDOLCJBNAMJ = 1;
+        bool PKPBEJBDMOH = 2;
+    }
+
+    EOMJMDNEMOO KBOIKFADDDB = 1;
+    ACFOEFOCAOB PABEEHKIFHJ = 2;
+}
+

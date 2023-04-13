@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NLAAPIDMOCD.proto";
+
+// CmdId: 204
+// Name: LPEIIGJFAGA
+message LPEIIGJFAGA {
+    NLAAPIDMOCD MBGMIPDAGDF = 6;
+    uint32 BIHMFOCDMKP = 12;
+    uint32 DMBFPFFMFCM = 5;
+    int32 EEDMFEOGLFN = 7;
+}
+

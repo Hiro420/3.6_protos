@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: GAPHHKJNLCG
+message RoutePointChangeInfo {
+    float target_velocity = 5;
+    uint32 point_index = 7;
+    float wait_time = 15;
+}
+

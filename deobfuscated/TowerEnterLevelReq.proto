@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2459
+// Name: PBGNHCLPLIN
+message TowerEnterLevelReq {
+    uint32 enter_point_id = 13;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4611
+// Name: NCEADPGPAAD
+message NCEADPGPAAD {
+    uint32 AOOCBPDDMKC = 15;
+    int32 EEDMFEOGLFN = 14;
+}
+

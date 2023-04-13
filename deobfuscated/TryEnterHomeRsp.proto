@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4744
+// Name: HNCNJCDKMDL
+message TryEnterHomeRsp {
+    repeated uint32 param_list = 6;
+    uint32 target_uid = 9;
+    int32 retcode = 13;
+}
+

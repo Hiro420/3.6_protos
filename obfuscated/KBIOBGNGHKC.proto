@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7050
+// Name: KBIOBGNGHKC
+message KBIOBGNGHKC {
+    int32 EEDMFEOGLFN = 6;
+    uint32 BHPHOGJAADH = 9;
+    uint32 EHPIOILFBIN = 12;
+}
+

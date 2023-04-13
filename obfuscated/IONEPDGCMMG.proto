@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 448
+// Name: IONEPDGCMMG
+message IONEPDGCMMG {
+    uint32 MMBHDIGGJIM = 15;
+}
+

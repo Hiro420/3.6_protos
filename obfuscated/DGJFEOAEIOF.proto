@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4415
+// Name: DGJFEOAEIOF
+message DGJFEOAEIOF {
+    string MBJNJKPLHEH = 9;
+    uint32 ELIEBOMLPDN = 5;
+    uint32 PPHMNEGECDM = 6;
+    uint32 DMBFPFFMFCM = 14;
+    uint32 EPLOGDKMJBN = 2;
+    repeated uint32 MBEEMKLMCFB = 7;
+    repeated uint32 FOIBMIAMHGF = 8;
+    uint32 BNANNGAGHKF = 1;
+    uint32 GHJJBNMOFLL = 4;
+    repeated uint32 HGMPGGPIBPD = 15;
+}
+

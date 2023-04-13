@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DNFJKJBPHLE.proto";
+
+// CmdId: 3357
+// Name: FDEMGNEIOEH
+message FDEMGNEIOEH {
+    repeated DNFJKJBPHLE DDDIKHPOJOC = 5;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PAPLIDJPGCN.proto";
+
+// CmdId: 1290
+// Name: AMLBFLIFIKP
+message AMLBFLIFIKP {
+    map<uint32, PAPLIDJPGCN> IJIHPHPHEEI = 13;
+    uint32 DMBFPFFMFCM = 2;
+}
+

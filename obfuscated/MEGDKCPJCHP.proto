@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+
+// Name: MEGDKCPJCHP
+message MEGDKCPJCHP {
+    CAOGLKMLEOG IAEKOGMCHED = 4;
+    uint32 JBMPBFDPKGD = 10;
+    string AMBLNLJKLDC = 1;
+    map<uint32, uint32> FHELHIPKFPB = 2;
+    string EBLOGJGAOIP = 14;
+}
+

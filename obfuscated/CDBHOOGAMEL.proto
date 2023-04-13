@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CBIFHKIFHEE.proto";
+
+// CmdId: 3343
+// Name: CDBHOOGAMEL
+message CDBHOOGAMEL {
+    string KJLDEOCLBBG = 12;
+    uint32 CMMFILCDGDP = 3;
+    uint32 IIMIOKBLHJM = 7;
+    CBIFHKIFHEE AHAFCNFMNNO = 5;
+    uint32 DMBFPFFMFCM = 4;
+}
+

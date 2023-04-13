@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BBEMLEOGGGN.proto";
+
+// Name: AMABAPDIMGK
+message AMABAPDIMGK {
+    BBEMLEOGGGN JEOKINJEAJB = 1;
+    repeated uint32 FOIBMIAMHGF = 2;
+    uint32 IKJDILLOKDM = 3;
+    uint32 NPIPINCMKAP = 4;
+}
+

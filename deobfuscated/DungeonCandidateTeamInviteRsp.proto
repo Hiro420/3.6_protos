@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 933
+// Name: IKKEGFKLLKB
+message DungeonCandidateTeamInviteRsp {
+    repeated uint32 invalid_player_uids = 5;
+    int32 retcode = 12;
+}
+

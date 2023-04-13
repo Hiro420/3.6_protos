@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20166
+// Name: BONNIDICNDJ
+message BONNIDICNDJ {
+    uint32 IKPKFOMBPLF = 7;
+}
+

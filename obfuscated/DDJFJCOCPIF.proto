@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BJGMHMHDCGE.proto";
+
+// CmdId: 20581
+// Name: DDJFJCOCPIF
+message DDJFJCOCPIF {
+    uint32 DMBFPFFMFCM = 13;
+    BJGMHMHDCGE IOHBIABMEOC = 7;
+}
+

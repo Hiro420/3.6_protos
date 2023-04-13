@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PCBLIOLCMAE.proto";
+
+// CmdId: 886
+// Name: HGDEDCKBIIN
+message HGDEDCKBIIN {
+    bool IOILPCOLCGM = 15;
+    uint32 DBDEEBCMHMM = 12;
+    PCBLIOLCMAE IKHIFJNBADN = 6;
+    uint32 DMBFPFFMFCM = 13;
+}
+

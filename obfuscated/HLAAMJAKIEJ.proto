@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BBAHHNMJMJH.proto";
+import "CAHMGNJLGHD.proto";
+import "CIBJHBFKKAN.proto";
+import "FAOKBIKHFGB.proto";
+import "FMNPHBGDPIP.proto";
+import "GHMDEHIIAJD.proto";
+import "KAMHNCPNIKM.proto";
+import "KJIGNLMODHM.proto";
+import "LIHFDPHMIGJ.proto";
+import "LJEDENNPCCI.proto";
+import "LPFPMFAHFBC.proto";
+import "MEDAMHIOKME.proto";
+import "NLAAPIDMOCD.proto";
+
+// Name: HLAAMJAKIEJ
+message HLAAMJAKIEJ {
+    BBAHHNMJMJH BGPCMFNDBOJ = 1;
+    uint32 DMBFPFFMFCM = 2;
+    string KOIICOMMADP = 3;
+    NLAAPIDMOCD JDBAEBBIDJF = 4;
+    repeated MEDAMHIOKME AHHFAGMEILO = 5;
+    repeated FAOKBIKHFGB JAHHHKLLHCA = 6;
+    uint32 HJDCMHNDEKE = 7;
+    repeated GHMDEHIIAJD KNKNONHIMEE = 9;
+    uint32 PMPDDLBEMIN = 17;
+    uint32 IGJOEPFLJFF = 18;
+    LPFPMFAHFBC CIDEFPDINPO = 19;
+    repeated FMNPHBGDPIP EHBDINBDMLL = 20;
+    KJIGNLMODHM MMEHICOKHPD = 21;
+    repeated string GNDFCBMMDOM = 22;
+    repeated LIHFDPHMIGJ KNEDKLODAND = 23;
+    oneof HKJMNHAJJBI {
+        LJEDENNPCCI MJODFLJAOIM = 10;
+        CIBJHBFKKAN IDBPDBMINBH = 11;
+        KAMHNCPNIKM ILLPKJIGIHF = 12;
+        CAHMGNJLGHD ACEBEJHEFNO = 13;
+    }
+}
+

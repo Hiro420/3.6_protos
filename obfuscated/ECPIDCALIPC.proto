@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4857
+// Name: ECPIDCALIPC
+message ECPIDCALIPC {
+    repeated uint32 MBGEEHHCLPE = 14;
+    bool JHDKBKPEBBH = 13;
+}
+

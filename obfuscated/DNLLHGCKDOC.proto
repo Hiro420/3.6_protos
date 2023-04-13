@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NCJJFDLFCEE.proto";
+
+// CmdId: 2489
+// Name: DNLLHGCKDOC
+message DNLLHGCKDOC {
+    NCJJFDLFCEE BKLFBEEIPDE = 7;
+}
+

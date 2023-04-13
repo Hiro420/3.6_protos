@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4681
+// Name: FMABBJFJENA
+message FMABBJFJENA {
+    bool EIEPKFHNILM = 5;
+    uint32 EEMILGMLGOH = 1;
+    bool OJAFECKPAJE = 10;
+}
+

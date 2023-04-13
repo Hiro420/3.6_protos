@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 151
+// Name: MIMCCLIKMIJ
+message MIMCCLIKMIJ {
+    uint32 AJBLMLDNING = 4;
+    uint32 OBHPNGPDLOM = 7;
+    int32 EEDMFEOGLFN = 8;
+}
+

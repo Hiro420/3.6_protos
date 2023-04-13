@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8545
+// Name: IMMAPONENCG
+message IMMAPONENCG {
+    uint32 DMBFPFFMFCM = 8;
+}
+

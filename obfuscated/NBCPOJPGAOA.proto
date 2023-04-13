@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HPEAEINKHOM.proto";
+import "LNBOOJAPOBI.proto";
+
+// CmdId: 4254
+// Name: NBCPOJPGAOA
+message NBCPOJPGAOA {
+    uint32 DNHHONGGDCN = 12;
+    oneof CAMLFPFCCBJ {
+        HPEAEINKHOM MNIOIFIIFKI = 486;
+        LNBOOJAPOBI HBMALHAKHBM = 694;
+    }
+}
+

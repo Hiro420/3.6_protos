@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4050
+// Name: PGPJPNEGENN
+message PGPJPNEGENN {
+    repeated uint32 IELIBMPILGL = 15;
+    int32 EEDMFEOGLFN = 3;
+}
+

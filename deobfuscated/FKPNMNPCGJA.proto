@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "AISnapshotEntityData.proto";
+
+// Name: FKPNMNPCGJA
+message FKPNMNPCGJA {
+    repeated AISnapshotEntityData AGINKGKAOKH = 6;
+}
+

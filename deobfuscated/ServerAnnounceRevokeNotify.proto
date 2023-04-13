@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2167
+// Name: PIFPBALEJLO
+message ServerAnnounceRevokeNotify {
+    repeated uint32 config_id_list = 8;
+}
+

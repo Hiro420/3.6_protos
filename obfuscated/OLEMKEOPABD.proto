@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OLEMKEOPABD
+enum OLEMKEOPABD {
+    OLEMKEOPABD_NONE = 0;
+    OLEMKEOPABD_STARTED = 1;
+    OLEMKEOPABD_UNSTARTED = 2;
+    OLEMKEOPABD_SUCC = 3;
+}
+

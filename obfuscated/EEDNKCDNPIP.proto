@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: EEDNKCDNPIP
+message EEDNKCDNPIP {
+    uint32 HOKFHOOFCML = 1;
+    uint32 BOEEAPBKAGE = 2;
+    string OHIBLGJKAHF = 3;
+    string KECFLNLPKLB = 4;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BEOFHEJKBNP.proto";
+
+// CmdId: 6163
+// Name: AOEDIDDNEHH
+message AOEDIDDNEHH {
+    repeated BEOFHEJKBNP AOGFMFHOMNC = 8;
+    uint32 FGEIEPJKHDL = 15;
+    repeated int32 BMICHLGMOBD = 7;
+    bool KHINAKCANFD = 2;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 1713
+// Name: BAODCDAOMBM
+message BAODCDAOMBM {
+    KKFEDHALJFH BNNGDCDBMFI = 10;
+    uint32 NICMPEHDPBF = 14;
+    bool NCCPAOKAOPF = 11;
+    uint64 EEMILGMLGOH = 4;
+}
+

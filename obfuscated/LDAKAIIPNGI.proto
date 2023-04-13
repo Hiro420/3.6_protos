@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GEKCCHCJMPC.proto";
+
+// CmdId: 4833
+// Name: LDAKAIIPNGI
+message LDAKAIIPNGI {
+    uint32 MMLDFIDPMHG = 7;
+    GEKCCHCJMPC MIBIPIGCEOI = 3;
+}
+

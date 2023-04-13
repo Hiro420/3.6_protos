@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 6223
+// Name: ABKMBPBDLIE
+message ABKMBPBDLIE {
+    uint64 DKFHDCGJEJK = 11;
+}
+

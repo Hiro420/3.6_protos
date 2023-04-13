@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2334
+// Name: ABJCILGEAPG
+message ABJCILGEAPG {
+    int32 JBMPBFDPKGD = 9;
+}
+

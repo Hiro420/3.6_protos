@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OMEFMODIDAM.proto";
+
+// Name: OMCPIFLGGJH
+message OMCPIFLGGJH {
+    map<uint32, OMEFMODIDAM> KHAFMAFLDMH = 6;
+    uint32 IGJGAMNJJDM = 15;
+}
+

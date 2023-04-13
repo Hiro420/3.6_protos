@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5015
+// Name: IEBBBLDIPCC
+message IEBBBLDIPCC {
+    bool HEICDPIINEL = 15;
+    uint32 KGEIMHOAJAD = 10;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7994
+// Name: OGJOCAINDFA
+message OGJOCAINDFA {
+    uint32 LLDFMFMLKOP = 9;
+    int32 EEDMFEOGLFN = 11;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "MonsterRoute.proto";
+
+// CmdId: 3307
+// Name: LCONNAKDFLI
+message MonsterPointArrayRouteUpdateNotify {
+    uint32 entity_id = 6;
+    MonsterRoute monster_route = 10;
+}
+

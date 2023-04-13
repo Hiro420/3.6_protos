@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 6222
+// Name: CEKGHJHOGNE
+message ChangeCustomDungeonRoomReq {
+    uint32 room_id = 12;
+}
+

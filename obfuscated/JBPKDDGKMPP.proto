@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JBPKDDGKMPP
+message JBPKDDGKMPP {
+    bool FKOBJPCKIFJ = 5;
+    uint32 JAMPHBIPOOJ = 3;
+    bool PMGMPLGIKOD = 14;
+}
+

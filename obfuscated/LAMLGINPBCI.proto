@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MBJHALEKELO.proto";
+
+// CmdId: 8537
+// Name: LAMLGINPBCI
+message LAMLGINPBCI {
+    int32 EEDMFEOGLFN = 6;
+    repeated MBJHALEKELO ACMHJAPHJAL = 13;
+}
+

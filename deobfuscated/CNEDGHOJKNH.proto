@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 20910
+// Name: CNEDGHOJKNH
+message CNEDGHOJKNH {
+    uint32 score = 2;
+    uint32 level_id = 5;
+    bool is_success = 7;
+}
+

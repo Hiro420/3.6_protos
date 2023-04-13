@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24969
+// Name: PBMPCFIBGNM
+message PBMPCFIBGNM {
+    int32 EEDMFEOGLFN = 6;
+}
+

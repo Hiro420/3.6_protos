@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BBNFFMPCCDO.proto";
+
+// CmdId: 4781
+// Name: JOPGJDMPLDN
+message JOPGJDMPLDN {
+    repeated BBNFFMPCCDO EAAAFKIGFNN = 5;
+    repeated uint32 NIIJENMFINA = 11;
+    int32 EEDMFEOGLFN = 8;
+}
+

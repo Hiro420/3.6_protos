@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4252
+// Name: LDDBEADHCDI
+message LDDBEADHCDI {
+    uint32 DNHHONGGDCN = 3;
+    bool KABCKCDPFGD = 9;
+}
+

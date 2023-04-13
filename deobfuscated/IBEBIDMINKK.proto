@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 21605
+// Name: IBEBIDMINKK
+message IBEBIDMINKK {
+    uint32 dungeon_id = 10;
+    bool OBIIGFOOFIK = 14;
+}
+

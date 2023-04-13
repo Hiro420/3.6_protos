@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+
+// Name: AMLIKODMAOK
+message AMLIKODMAOK {
+    uint32 MAAOAELDJNP = 1;
+    string FLJJCLIMMJA = 13;
+    uint32 JDNIEGFHOBN = 4;
+    string HFJHMECOIJI = 14;
+    uint32 JBMPBFDPKGD = 11;
+    CAOGLKMLEOG IAEKOGMCHED = 3;
+    int32 KAHKHODLMPL = 15;
+}
+

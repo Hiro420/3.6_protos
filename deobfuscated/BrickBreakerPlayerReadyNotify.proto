@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5317
+// Name: FGKBEPBLMMD
+message BrickBreakerPlayerReadyNotify {
+    repeated uint32 uid_list = 9;
+}
+

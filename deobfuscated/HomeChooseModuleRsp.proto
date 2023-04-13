@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4834
+// Name: LIHDMMPLEFA
+message HomeChooseModuleRsp {
+    uint32 module_id = 3;
+    int32 retcode = 10;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8163
+// Name: AHLJANOBIMN
+message AHLJANOBIMN {
+    uint32 FIHIAODPKKN = 5;
+    uint32 GABGOBOIEIG = 2;
+    int32 EEDMFEOGLFN = 13;
+}
+

@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HAOPJHKKJLK.proto";
+import "PEMNFGBNJBG.proto";
+
+// CmdId: 8848
+// Name: LPELNPAHDLO
+message LPELNPAHDLO {
+    repeated HAOPJHKKJLK KNFGFJGFIJA = 8;
+    repeated uint32 HBCPMCJGBFH = 3;
+    repeated HAOPJHKKJLK CIDDMNDBKIM = 12;
+    repeated uint32 GJMCDGLMGKL = 15;
+    repeated uint32 GDGPEIJHMFM = 5;
+    repeated HAOPJHKKJLK EJJPEMAGGFB = 10;
+    repeated PEMNFGBNJBG CEAJFPMKPJK = 7;
+    uint32 JJGGAPDDOLN = 11;
+}
+

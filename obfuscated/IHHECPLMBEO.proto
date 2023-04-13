@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1987
+// Name: IHHECPLMBEO
+message IHHECPLMBEO {
+    int32 EEDMFEOGLFN = 13;
+    uint32 PGDFKOCBKJC = 7;
+}
+

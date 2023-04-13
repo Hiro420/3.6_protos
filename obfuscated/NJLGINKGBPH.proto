@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: NJLGINKGBPH
+message NJLGINKGBPH {
+    KKFEDHALJFH DBDEEBCMHMM = 9;
+    KKFEDHALJFH EHADCOBANHG = 8;
+}
+

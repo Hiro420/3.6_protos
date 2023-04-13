@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CLEECNDCANA.proto";
+
+// CmdId: 8456
+// Name: IJBAJKMEMJN
+message IJBAJKMEMJN {
+    uint32 LFOCJEADKPK = 13;
+    int32 EEDMFEOGLFN = 1;
+    repeated CLEECNDCANA EOHDCBGPLII = 14;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Quest.proto";
+
+// CmdId: 490
+// Name: EEHKLPMFHGC
+message QuestListNotify {
+    repeated Quest quest_list = 4;
+}
+

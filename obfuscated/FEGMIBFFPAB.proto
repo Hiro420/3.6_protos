@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FCINIPEMLPE.proto";
+
+// CmdId: 4590
+// Name: FEGMIBFFPAB
+message FEGMIBFFPAB {
+    string EFGHHOJCOOI = 14;
+    FCINIPEMLPE CACPEANKLNK = 6;
+    int32 EEDMFEOGLFN = 12;
+}
+

@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ANPKECIJOAF.proto";
+import "MFJBPEPMJOH.proto";
+import "PKDOAJEGHLP.proto";
+
+// CmdId: 1778
+// Name: JDMOIGGFIIE
+message JDMOIGGFIIE {
+    repeated uint32 JGJIDBPLCKD = 3;
+    uint64 JFPBPEKJGME = 8;
+    repeated uint32 LADOFJAEPFM = 15;
+    repeated uint64 CJEOOJJJMDM = 6;
+    repeated ANPKECIJOAF HNFPEKGFPGN = 10;
+    map<uint32, MFJBPEPMJOH> NHJIJJGHJHC = 11;
+    uint32 CALABALKNMA = 4;
+    repeated uint32 HHDBGCEJBAF = 12;
+    repeated PKDOAJEGHLP CIDDMNDBKIM = 1;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4476
+// Name: PBIIDNAPDBH
+message PBIIDNAPDBH {
+    uint32 AMBDCDLBMAN = 12;
+    uint32 EFCJDFABMGK = 15;
+}
+

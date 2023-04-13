@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HGDBFKLPLMK.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: KMEPMNFPJFH
+message KMEPMNFPJFH {
+    KKFEDHALJFH EPCFLDJKNJH = 1;
+    float MKPEMLMFKIA = 2;
+    bool EMNAKHGAFLP = 3;
+    oneof DDMKLBOBDKN {
+        float ECMEOLLAKEE = 11;
+        float OMPLBJFIEKN = 12;
+    }
+    oneof KKCGOLELNEL {
+        KKFEDHALJFH GONCOICLPDI = 21;
+        HGDBFKLPLMK BPHCCHGCFMK = 22;
+        HGDBFKLPLMK NCHPFAALFNH = 23;
+    }
+}
+

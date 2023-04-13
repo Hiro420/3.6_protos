@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1822
+// Name: HMGLDIEKKKD
+message HMGLDIEKKKD {
+    // Name: MCNOPMHCNHC
+    enum MCNOPMHCNHC {
+        MCNOPMHCNHC_INVALID = 0;
+        MCNOPMHCNHC_START = 1;
+        MCNOPMHCNHC_TIMEOUT = 2;
+    }
+
+    uint32 JBMPBFDPKGD = 4;
+    string EBLOGJGAOIP = 10;
+    MCNOPMHCNHC MFABFMFFAFJ = 13;
+}
+

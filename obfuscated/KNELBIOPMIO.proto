@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8715
+// Name: KNELBIOPMIO
+message KNELBIOPMIO {
+    int32 EEDMFEOGLFN = 13;
+    uint32 JJGGAPDDOLN = 7;
+}
+

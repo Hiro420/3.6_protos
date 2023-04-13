@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GEPNCOBIMBD
+message GEPNCOBIMBD {
+    uint32 HDMDJECGCKC = 5;
+    uint32 PHEIGICNDCJ = 14;
+    bool OIILPCOJEFG = 10;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PHALMEICHMB
+message PHALMEICHMB {
+    uint32 LAOBIDKNELB = 5;
+    uint32 FILHPFFFBOD = 14;
+    bool HEACCINCNFL = 13;
+}
+

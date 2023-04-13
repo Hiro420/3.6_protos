@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ABBABGECCOD.proto";
+
+// Name: ENHLKCOONLF
+message ENHLKCOONLF {
+    ABBABGECCOD CNDKFAMECDF = 15;
+    repeated uint32 APBPIKOGONJ = 8;
+    uint32 FNFPIGHNBLL = 4;
+}
+

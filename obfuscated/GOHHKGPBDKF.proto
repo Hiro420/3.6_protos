@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4299
+// Name: GOHHKGPBDKF
+message GOHHKGPBDKF {
+    uint32 AFHKBKAIDNC = 7;
+    uint32 LCIFKKCHPCI = 3;
+}
+

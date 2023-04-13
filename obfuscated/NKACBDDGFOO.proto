@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8128
+// Name: NKACBDDGFOO
+message NKACBDDGFOO {
+    int32 EEDMFEOGLFN = 11;
+    uint32 KAJGEMAAIJH = 9;
+    uint64 PJDFHKIKLNM = 4;
+}
+

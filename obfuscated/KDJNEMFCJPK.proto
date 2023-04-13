@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 392
+// Name: KDJNEMFCJPK
+message KDJNEMFCJPK {
+    float HGEEBLEAKME = 12;
+    uint32 NICMPEHDPBF = 1;
+}
+

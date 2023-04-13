@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DGIFDKNNFLL
+message AsterLargeDetailInfo {
+    bool is_open = 6;
+    uint32 begin_time = 12;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 392
+// Name: KDJNEMFCJPK
+message EvtCostStaminaNotify {
+    float cost_stamina = 12;
+    uint32 skill_id = 1;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GAPHHKJNLCG.proto";
+
+// Name: KKDALGHGFLA
+message KKDALGHGFLA {
+    uint32 DKPDMBEKJKP = 3;
+    repeated GAPHHKJNLCG MCLPANONIJO = 6;
+    uint32 BPKDOPHJPAL = 2;
+    bool MAOMIMGDMMO = 14;
+}
+

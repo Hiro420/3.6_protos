@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8055
+// Name: EFDEDAPCBKP
+message EFDEDAPCBKP {
+    int32 EEDMFEOGLFN = 2;
+}
+

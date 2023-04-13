@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 876
+// Name: JABPJDGCCLD
+message JABPJDGCCLD {
+    repeated uint32 GPJPCIJCEFM = 2;
+    uint32 PNLGKNFEFGC = 11;
+}
+

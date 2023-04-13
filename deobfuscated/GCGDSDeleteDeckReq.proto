@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7398
+// Name: IMOCMGPFFLJ
+message GCGDSDeleteDeckReq {
+    uint32 deck_id = 7;
+}
+

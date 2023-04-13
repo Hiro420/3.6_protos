@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1090
+// Name: EIIEBEFANNG
+message EIIEBEFANNG {
+    uint32 LGGLNOBIBFG = 4;
+    uint64 FPIIPJJPBOH = 3;
+}
+

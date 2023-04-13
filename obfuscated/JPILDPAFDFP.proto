@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 23177
+// Name: JPILDPAFDFP
+message JPILDPAFDFP {
+    uint32 GKDDBKPKIKH = 13;
+    uint32 JALOBHKEKIJ = 3;
+}
+

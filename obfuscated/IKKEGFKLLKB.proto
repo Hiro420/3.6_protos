@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 933
+// Name: IKKEGFKLLKB
+message IKKEGFKLLKB {
+    repeated uint32 FIPGIGKPNLF = 5;
+    int32 EEDMFEOGLFN = 12;
+}
+

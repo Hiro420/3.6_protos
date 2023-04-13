@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ABOLAALABPG.proto";
+import "CNPANIAGIPH.proto";
+import "KKFEDHALJFH.proto";
+import "PNHIFNNFPKO.proto";
+
+// Name: NGGFPHHAEOH
+message NGGFPHHAEOH {
+    uint32 IJIGBCCJJGJ = 573;
+    float KJKJMFMCDMN = 378;
+    uint32 KAOBIIOFPFH = 10;
+    bool DGDADCNJKEG = 581;
+    uint32 BCDAAPIDMNI = 15;
+    float PCFPGMKFHCL = 644;
+    uint32 KIBMNMFJBJG = 13;
+    CNPANIAGIPH BJDHNCIOOCD = 6;
+    int32 MPHGJKIBDNA = 1;
+    uint32 LKNDFCAIKNC = 296;
+    string MFNNDBKFCPB = 12;
+    KKFEDHALJFH JPJHKNOGALN = 3;
+    bool CBECHFPCNFM = 1542;
+    uint32 AOKJNHANEON = 1647;
+    float MACHKPDDDNO = 310;
+    uint32 EKNMEOKPEAN = 679;
+    bool BLKGGPMOEMA = 580;
+    uint32 JLDHPNKIBEN = 1557;
+    bool JBFCBJCNHOL = 11;
+    uint32 CNDCKKHKFOH = 1749;
+    uint32 GKJDJFMFEMH = 9;
+    float HCCPHGHNDNF = 770;
+    uint32 HOGDLBMOJDA = 1442;
+    uint32 JFBKJAKIHFN = 675;
+    float FGMLNPJDMON = 2;
+    ABOLAALABPG CFPAPECCMKK = 7;
+    uint32 BJCEANCHCPO = 898;
+    uint32 KLPMHHIMCBC = 399;
+    PNHIFNNFPKO JHLOCCMAJFM = 14;
+    uint32 IIMFELDOOJE = 4;
+}
+

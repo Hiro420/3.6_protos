@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LLHKAHKDALN.proto";
+
+// CmdId: 2918
+// Name: FKCBPEJLGCC
+message FKCBPEJLGCC {
+    repeated LLHKAHKDALN CBJMBGDPNOI = 4;
+}
+

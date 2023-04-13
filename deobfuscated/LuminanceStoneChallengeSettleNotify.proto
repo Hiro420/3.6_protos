@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LuminanceStoneChallengeSettleInfo.proto";
+
+// CmdId: 8785
+// Name: FNJHPEKAFEF
+message LuminanceStoneChallengeSettleNotify {
+    uint32 gallery_id = 1;
+    LuminanceStoneChallengeSettleInfo settle_info = 2;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 441
+// Name: DABGGEPNIEP
+message AddQuestContentProgressRsp {
+    uint32 content_type = 7;
+    int32 retcode = 2;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8462
+// Name: IGMLBCPGBAL
+message IGMLBCPGBAL {
+    uint32 JJGGAPDDOLN = 5;
+    uint32 KPBALBGPILL = 1;
+    uint32 LAOBIDKNELB = 10;
+    uint32 NICMPEHDPBF = 12;
+}
+

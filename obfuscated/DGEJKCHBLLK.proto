@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NJDPLIMDEEN.proto";
+
+// CmdId: 7570
+// Name: DGEJKCHBLLK
+message DGEJKCHBLLK {
+    NJDPLIMDEEN KDLCEBKOODL = 4;
+}
+

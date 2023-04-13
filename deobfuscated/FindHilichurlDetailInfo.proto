@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FindHilichurlDayContentInfo.proto";
+
+// Name: KFJANIJHDLP
+message FindHilichurlDetailInfo {
+    bool is_end_quest_accept = 8;
+    repeated FindHilichurlDayContentInfo day_content_info_list = 14;
+    uint32 content_close_time = 7;
+    uint32 day_index = 9;
+    bool is_content_closed = 3;
+    uint32 MEHOKJOPMBN = 11;
+    uint32 MDIPNDNFPEJ = 12;
+}
+

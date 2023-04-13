@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5665
+// Name: LLAFOBGFDIA
+message LLAFOBGFDIA {
+    int32 EEDMFEOGLFN = 4;
+}
+

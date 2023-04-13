@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LMPDLJBPMGO.proto";
+
+// CmdId: 8004
+// Name: IMGFKJFHKFN
+message IMGFKJFHKFN {
+    uint32 LFOCJEADKPK = 6;
+    repeated LMPDLJBPMGO CBBFHPJLNLI = 1;
+    int32 EEDMFEOGLFN = 9;
+}
+

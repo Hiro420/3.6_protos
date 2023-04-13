@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4252
+// Name: LDDBEADHCDI
+message WidgetUseAttachAbilityGroupChangeNotify {
+    uint32 material_id = 3;
+    bool is_attach = 9;
+}
+

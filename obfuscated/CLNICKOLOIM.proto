@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8754
+// Name: CLNICKOLOIM
+message CLNICKOLOIM {
+    int32 EEDMFEOGLFN = 6;
+}
+

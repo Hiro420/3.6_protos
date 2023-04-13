@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ExhibitionDisplayInfo.proto";
+import "OnlinePlayerInfo.proto";
+
+// Name: CFOCPOEDBJC
+message IslandPartyGallerySettleInfo {
+    repeated ExhibitionDisplayInfo card_list = 14;
+    OnlinePlayerInfo player_info = 10;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PhotoPosData.proto";
+
+// Name: ONDOIFJPFBE
+message PhotoActivityDetailInfo {
+    repeated PhotoPosData photo_pos_data_list = 15;
+    bool is_content_closed = 14;
+}
+

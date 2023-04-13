@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FKONGMBBBAN.proto";
+
+// CmdId: 865
+// Name: GDJHBFGHBOK
+message GDJHBFGHBOK {
+    repeated FKONGMBBBAN IEEPAJEHDIJ = 7;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5463
+// Name: NJPHDDAINAK
+message NJPHDDAINAK {
+    uint32 MFOOMFBLNMK = 4;
+    uint32 EIJDHKCNHCJ = 15;
+}
+

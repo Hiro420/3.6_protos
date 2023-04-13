@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HCCCNFFCBGN.proto";
+
+// Name: LONHLJHJKOJ
+message LONHLJHJKOJ {
+    repeated HCCCNFFCBGN JANIMDMDOJP = 15;
+    uint32 BJFKPHOOKCK = 12;
+}
+

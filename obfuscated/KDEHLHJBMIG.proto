@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4725
+// Name: KDEHLHJBMIG
+message KDEHLHJBMIG {
+    uint32 KAHKHODLMPL = 12;
+    int32 EEDMFEOGLFN = 11;
+    uint32 DLANKMOEDDJ = 8;
+    bool JBJBKIMEOOD = 1;
+}
+

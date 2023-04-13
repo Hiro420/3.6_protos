@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5492
+// Name: GNBEGCCEKHA
+message GNBEGCCEKHA {
+    bool CDBEAHFBHKF = 8;
+    uint32 MFOOMFBLNMK = 12;
+}
+

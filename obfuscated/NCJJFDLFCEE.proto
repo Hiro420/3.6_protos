@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DHIACDOHOHA.proto";
+
+// Name: NCJJFDLFCEE
+message NCJJFDLFCEE {
+    bool OELHNDOCPCA = 12;
+    repeated DHIACDOHOHA NBPBJHGOBCG = 14;
+    bool IJAAIDDEJMG = 1;
+    repeated uint32 JMAGMEOAICO = 13;
+    uint32 NDMAOJGHOGG = 5;
+    uint32 FHLJPMEJNAJ = 6;
+}
+

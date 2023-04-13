@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GJNLKPILJFD.proto";
+
+// Name: PJGLAMKGLIE
+message PJGLAMKGLIE {
+    GJNLKPILJFD PLPNECOAEON = 14;
+    repeated uint32 HANLLAGDDMN = 10;
+    repeated uint32 HDLDMBMKLKF = 13;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 65
+// Name: LAJIBNCFOMI
+message LAJIBNCFOMI {
+    bytes IKNBMODOJOB = 8;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 24658
+// Name: PJGKPIDAKOJ
+message GearActivityStartPlayGearReq {
+    uint32 level_id = 3;
+}
+

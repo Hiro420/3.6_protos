@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1609
+// Name: BMOIDOOEEFB
+message AvatarPromoteReq {
+    uint64 guid = 6;
+}
+

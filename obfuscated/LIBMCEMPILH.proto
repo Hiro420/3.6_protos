@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1971
+// Name: LIBMCEMPILH
+message LIBMCEMPILH {
+    uint32 PGEHBIAEHEG = 13;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PGIJOMGHNEA.proto";
+
+// Name: NHMPFEALEGC
+message NHMPFEALEGC {
+    uint32 EBBPBADLHKE = 12;
+    repeated PGIJOMGHNEA MLMIEHICOFE = 11;
+}
+

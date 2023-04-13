@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DGDNJFDLBNB.proto";
+import "INPDDALBMBO.proto";
+
+// CmdId: 5245
+// Name: PEAEKOIGBCH
+message PEAEKOIGBCH {
+    repeated uint64 CGNDMKNCNPK = 2;
+    repeated INPDDALBMBO HBCGHCPACGD = 3;
+    uint32 CBGNJHFJMLP = 7;
+    DGDNJFDLBNB OMKEFCKPOMK = 5;
+    uint32 PNLGKNFEFGC = 11;
+}
+

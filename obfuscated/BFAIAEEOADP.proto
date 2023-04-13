@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MBGAMHAPMHK.proto";
+
+// CmdId: 4617
+// Name: BFAIAEEOADP
+message BFAIAEEOADP {
+    MBGAMHAPMHK HKCEDOFELDI = 2;
+}
+

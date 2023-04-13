@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OHEONJCMMOF.proto";
+
+// CmdId: 4612
+// Name: KCDKLLPCCPC
+message KCDKLLPCCPC {
+    OHEONJCMMOF EHKACOELFHC = 1;
+}
+

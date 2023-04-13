@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4883
+// Name: JFBCACPLFLB
+message JFBCACPLFLB {
+    map<uint32, uint32> NHBLADFBCGJ = 7;
+    uint32 NDEIHPOEFDN = 6;
+}
+

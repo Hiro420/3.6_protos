@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CHLBGNJMBFM
+message CHLBGNJMBFM {
+    uint32 LIHIMGBNIFL = 15;
+    repeated uint32 HLBLDDOLLBA = 10;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5817
+// Name: NCJBDCHGKCH
+message NCJBDCHGKCH {
+    uint32 PGPHCNOCCDJ = 4;
+    uint32 PIKEPLNPLLJ = 11;
+}
+

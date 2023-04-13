@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JFEDOFPBNLC.proto";
+
+// Name: FDFGOMALABC
+message FDFGOMALABC {
+    bool FKOBJPCKIFJ = 2;
+    uint32 JJGGAPDDOLN = 13;
+    uint32 PAIDABGOCIM = 6;
+    JFEDOFPBNLC JFHPHFGLLGI = 10;
+    uint32 BEJLIKCLKPN = 12;
+}
+

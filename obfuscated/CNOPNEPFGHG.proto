@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24826
+// Name: CNOPNEPFGHG
+message CNOPNEPFGHG {
+    uint32 HDMDJECGCKC = 14;
+}
+

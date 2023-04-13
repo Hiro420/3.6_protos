@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LNEDLNCEKDB
+message LNEDLNCEKDB {
+    uint32 BCAIGBJGEOD = 15;
+    bool HKHAADBCFDO = 5;
+    uint32 CFFPNHNDNNI = 3;
+}
+

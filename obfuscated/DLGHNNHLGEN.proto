@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 153
+// Name: DLGHNNHLGEN
+message DLGHNNHLGEN {
+    uint32 HEKHEPFHLDL = 9;
+    int32 EEDMFEOGLFN = 8;
+}
+

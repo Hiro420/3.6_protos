@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3231
+// Name: NNDJOINBKAB
+message NNDJOINBKAB {
+    int32 BPKDOPHJPAL = 9;
+    uint32 JHFKILLJKLN = 11;
+    repeated float FBBNKHDEMJG = 6;
+    repeated string CMNMDFMICGE = 5;
+    repeated uint32 CPEJFNDDHJN = 8;
+}
+

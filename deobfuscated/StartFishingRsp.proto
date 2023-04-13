@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5849
+// Name: BCCAFNMNICP
+message StartFishingRsp {
+    uint32 fish_pool_id = 14;
+    int32 retcode = 12;
+}
+

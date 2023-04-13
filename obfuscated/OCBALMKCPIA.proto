@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4841
+// Name: OCBALMKCPIA
+message OCBALMKCPIA {
+    uint32 EDDFCBOLKKN = 2;
+    string EFGHHOJCOOI = 11;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1146
+// Name: CENAHNNLLGI
+message CENAHNNLLGI {
+    repeated uint32 FMNEMCFMLLF = 5;
+}
+

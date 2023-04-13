@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4744
+// Name: HNCNJCDKMDL
+message HNCNJCDKMDL {
+    repeated uint32 MBEEMKLMCFB = 6;
+    uint32 AOOCBPDDMKC = 9;
+    int32 EEDMFEOGLFN = 13;
+}
+

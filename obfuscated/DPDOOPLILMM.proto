@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DPDOOPLILMM
+message DPDOOPLILMM {
+    uint32 IAJGALONLCK = 11;
+    repeated uint32 PGFGNBAEGFE = 7;
+    uint32 GMOJDIGFDMK = 10;
+}
+

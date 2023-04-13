@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8424
+// Name: LEDKBLPLFGB
+message IrodoriChessUnequipCardRsp {
+    int32 retcode = 13;
+    uint32 card_id = 15;
+    uint32 level_id = 9;
+    bool is_hard_map = 1;
+}
+

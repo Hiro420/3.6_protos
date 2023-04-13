@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4070
+// Name: OCKILEPOHNF
+message OCKILEPOHNF {
+    uint32 ABFJMJHJLPP = 6;
+}
+

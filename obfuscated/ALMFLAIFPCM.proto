@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1016
+// Name: ALMFLAIFPCM
+message ALMFLAIFPCM {
+    uint64 FPIIPJJPBOH = 11;
+    repeated uint64 GKEOEFABFOF = 10;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 2132
+// Name: AOFKHINBNPA
+message AOFKHINBNPA {
+    int32 EEDMFEOGLFN = 7;
+    repeated INPDDALBMBO IEEPAJEHDIJ = 8;
+    uint32 PNLBJABJLFC = 3;
+    repeated uint32 HCELEHBLMAI = 6;
+}
+

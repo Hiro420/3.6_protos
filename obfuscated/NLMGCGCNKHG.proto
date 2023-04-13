@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KMNPJIFBGJD.proto";
+
+// CmdId: 5583
+// Name: NLMGCGCNKHG
+message NLMGCGCNKHG {
+    uint32 ECLCBCEPGIH = 1;
+    KMNPJIFBGJD PBGEHNAGDJL = 10;
+}
+

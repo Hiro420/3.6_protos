@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 492
+// Name: DNJJKDAHJEL
+message DNJJKDAHJEL {
+    repeated uint32 FALNGJNLHNM = 3;
+    uint32 OHBALLHKMLM = 5;
+    int32 EEDMFEOGLFN = 13;
+}
+

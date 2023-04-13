@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HKDJDGLGFOL.proto";
+
+// CmdId: 8018
+// Name: JPIOJPILOCF
+message JPIOJPILOCF {
+    int32 EEDMFEOGLFN = 3;
+    HKDJDGLGFOL LOHOGLIGAHJ = 11;
+}
+

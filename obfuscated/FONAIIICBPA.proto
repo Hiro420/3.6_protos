@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FONAIIICBPA
+message FONAIIICBPA {
+    repeated uint32 HCELEHBLMAI = 13;
+    uint32 FILHPFFFBOD = 12;
+    bool MNNLFOCPFAO = 11;
+    uint32 DILMPOBNGPN = 4;
+    uint32 PKDJIGJDEJE = 14;
+}
+

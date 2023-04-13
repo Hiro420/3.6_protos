@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MAJILCJBJDA.proto";
+
+// Name: DDMODGNAIDJ
+message DDMODGNAIDJ {
+    uint32 OBIGNEIOJIC = 9;
+    uint32 BEJLIKCLKPN = 4;
+    bool FKOBJPCKIFJ = 2;
+    repeated MAJILCJBJDA PMAPIEGPFFI = 12;
+}
+

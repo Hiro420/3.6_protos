@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8205
+// Name: CHANIJLEFJA
+message CHANIJLEFJA {
+    uint32 LFOCJEADKPK = 3;
+}
+

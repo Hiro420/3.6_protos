@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4208
+// Name: GEEINFDPFHF
+message GEEINFDPFHF {
+    repeated uint32 EKCLLDCMJLB = 12;
+    repeated uint32 CJFGLJIGKNL = 7;
+    int32 EEDMFEOGLFN = 4;
+    repeated uint32 DIFMBKKBINK = 15;
+}
+

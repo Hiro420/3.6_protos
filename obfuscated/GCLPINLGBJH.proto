@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 901
+// Name: GCLPINLGBJH
+message GCLPINLGBJH {
+    bool FBOKDJDCGEL = 12;
+}
+

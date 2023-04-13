@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BNDBEPBOMPG.proto";
+
+// CmdId: 6569
+// Name: GNCOBJFHHNG
+message GNCOBJFHHNG {
+    BNDBEPBOMPG KBGNNJCJHLO = 6;
+}
+

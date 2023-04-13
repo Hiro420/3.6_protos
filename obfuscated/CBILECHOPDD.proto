@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JCDFMFJACEH.proto";
+
+// CmdId: 1635
+// Name: CBILECHOPDD
+message CBILECHOPDD {
+    repeated JCDFMFJACEH KJFHDNGPKPB = 8;
+}
+

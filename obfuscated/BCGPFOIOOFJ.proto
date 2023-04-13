@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ONINAMINFAL.proto";
+
+// Name: BCGPFOIOOFJ
+message BCGPFOIOOFJ {
+    repeated uint32 LLONNKHKKHA = 11;
+    uint32 GPGPMFDFCMN = 5;
+    uint32 BMMDHCFGJMP = 6;
+    repeated ONINAMINFAL AJGOLDGBFPA = 9;
+    bool DFNAFMFCOLE = 8;
+    repeated uint32 FBPPLFNPECI = 3;
+    uint32 OLEKBKJBLMG = 15;
+}
+

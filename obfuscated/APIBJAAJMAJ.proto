@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 6231
+// Name: APIBJAAJMAJ
+message APIBJAAJMAJ {
+    uint32 PECOGIHGJDC = 7;
+    int32 EEDMFEOGLFN = 3;
+}
+

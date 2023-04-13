@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ILGBKKPPKCL.proto";
+import "ONINAMINFAL.proto";
+
+// Name: IBLAEMNIJBI
+message IBLAEMNIJBI {
+    repeated ONINAMINFAL MGPJAPEDDNF = 5;
+    ILGBKKPPKCL GPGCGGBIMPI = 3;
+    ILGBKKPPKCL FLEPBKJCEIE = 15;
+}
+

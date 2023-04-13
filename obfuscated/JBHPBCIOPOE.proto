@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 160
+// Name: JBHPBCIOPOE
+message JBHPBCIOPOE {
+    int32 EEDMFEOGLFN = 13;
+    uint32 EKMBFABJJLE = 15;
+    uint32 LLPCBPIDGJK = 14;
+}
+

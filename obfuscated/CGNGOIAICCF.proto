@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8844
+// Name: CGNGOIAICCF
+message CGNGOIAICCF {
+    repeated uint32 PAIJHACPHCL = 14;
+    int32 EEDMFEOGLFN = 5;
+}
+

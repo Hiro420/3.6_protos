@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2091
+// Name: BNDDIBJFHJL
+message BNDDIBJFHJL {
+    uint32 HJLEBAHLAOL = 4;
+    bool PHPPEEAKLMG = 11;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AIFEAPAMKDD.proto";
+
+// CmdId: 2789
+// Name: PIGNHADKHPI
+message PIGNHADKHPI {
+    repeated AIFEAPAMKDD JNFEGFHGOHM = 6;
+}
+

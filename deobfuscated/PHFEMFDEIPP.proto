@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4198
+// Name: PHFEMFDEIPP
+message PHFEMFDEIPP {
+    uint32 match_id = 5;
+}
+

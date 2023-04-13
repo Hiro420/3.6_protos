@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2039
+// Name: GKANNBKMMBN
+message GKANNBKMMBN {
+    uint32 OMCIMCAMBEK = 1;
+    uint32 LAOBIDKNELB = 14;
+    repeated uint32 FAAOILLELHJ = 7;
+    uint32 JOPJKOGODAM = 6;
+}
+

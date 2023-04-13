@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ELGBEHJIAIA
+message ELGBEHJIAIA {
+    uint32 HJLEBAHLAOL = 1;
+    bool IBNEJGFDCEI = 7;
+}
+

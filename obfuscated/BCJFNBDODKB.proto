@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 2922
+// Name: BCJFNBDODKB
+message BCJFNBDODKB {
+    uint32 BLCEPEMCKEM = 2;
+    int32 EEDMFEOGLFN = 10;
+    repeated INPDDALBMBO IEEPAJEHDIJ = 1;
+    uint32 OKKMHKAOPGN = 6;
+}
+

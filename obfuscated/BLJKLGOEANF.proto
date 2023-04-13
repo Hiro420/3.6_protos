@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8140
+// Name: BLJKLGOEANF
+message BLJKLGOEANF {
+    uint32 HJLEBAHLAOL = 14;
+}
+

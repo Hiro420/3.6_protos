@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 23886
+// Name: OMFGFEMGCPM
+message LanV3ShadowFinishLevelReq {
+    uint32 level_id = 15;
+    uint32 finish_time = 12;
+}
+

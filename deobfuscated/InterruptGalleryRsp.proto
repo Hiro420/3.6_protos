@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 5565
+// Name: IEGHEIHGAMM
+message InterruptGalleryRsp {
+    uint32 gallery_id = 4;
+    int32 retcode = 5;
+}
+

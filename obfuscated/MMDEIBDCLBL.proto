@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MJANEPLMIEP.proto";
+
+// CmdId: 2108
+// Name: MMDEIBDCLBL
+message MMDEIBDCLBL {
+    MJANEPLMIEP BAIEDBLGJII = 7;
+    uint32 PNLBJABJLFC = 11;
+}
+

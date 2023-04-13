@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 969
+// Name: CGKBAPDFIFP
+message DungeonCandidateTeamSetChangingAvatarReq {
+    bool is_changing_avatar = 9;
+}
+

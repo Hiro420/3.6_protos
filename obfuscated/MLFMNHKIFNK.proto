@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8780
+// Name: MLFMNHKIFNK
+message MLFMNHKIFNK {
+    repeated string CDCFOABBAKE = 14;
+    uint32 FJBMAHMNIGH = 7;
+}
+

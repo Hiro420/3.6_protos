@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 8673
+// Name: DEABICNFMEE
+message DEABICNFMEE {
+    repeated INPDDALBMBO IEEPAJEHDIJ = 13;
+    uint32 JBMPBFDPKGD = 12;
+}
+

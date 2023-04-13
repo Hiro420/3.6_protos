@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+import "INPDDALBMBO.proto";
+
+// Name: EILBMBFDLDF
+message EILBMBFDLDF {
+    CAOGLKMLEOG IAEKOGMCHED = 12;
+    uint32 JBMPBFDPKGD = 1;
+    repeated INPDDALBMBO IEEPAJEHDIJ = 4;
+    string EBLOGJGAOIP = 14;
+}
+

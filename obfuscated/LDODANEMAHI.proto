@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LDODANEMAHI
+message LDODANEMAHI {
+    uint32 GHOCEIKOMHJ = 13;
+    uint32 FDJCJOGJMMP = 2;
+    uint32 MDNMOJAPBKB = 1;
+    uint32 NDJPOJGKEHD = 8;
+}
+

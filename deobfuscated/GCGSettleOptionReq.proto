@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGSettleOption.proto";
+
+// CmdId: 7706
+// Name: FLLPOCFFHIA
+message GCGSettleOptionReq {
+    GCGSettleOption option = 9;
+}
+

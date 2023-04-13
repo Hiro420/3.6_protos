@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8423
+// Name: DPELCNHJHDF
+message DPELCNHJHDF {
+    int32 EEDMFEOGLFN = 7;
+    uint32 EHPIOILFBIN = 12;
+}
+

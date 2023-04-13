@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BJGMHMHDCGE.proto";
+
+// CmdId: 24050
+// Name: NMOHOIIFAEH
+message NMOHOIIFAEH {
+    uint32 DMBFPFFMFCM = 1;
+    BJGMHMHDCGE IOHBIABMEOC = 2;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3333
+// Name: NEIGIGODCNL
+message NEIGIGODCNL {
+    uint32 JANKICAHNKE = 7;
+    bool JOIAOAOPGFI = 5;
+    bool MLFFFPALACK = 13;
+    repeated uint32 DFLDJDPGFOL = 11;
+    repeated int32 MBEEMKLMCFB = 6;
+}
+

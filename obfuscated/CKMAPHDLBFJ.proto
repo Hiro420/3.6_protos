@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 223
+// Name: CKMAPHDLBFJ
+message CKMAPHDLBFJ {
+    map<uint32, string> AMMKOPBBGFL = 11;
+    uint32 BMFMJPIONPI = 15;
+}
+

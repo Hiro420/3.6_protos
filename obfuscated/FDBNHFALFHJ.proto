@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 229
+// Name: FDBNHFALFHJ
+message FDBNHFALFHJ {
+    int32 EEDMFEOGLFN = 8;
+    repeated uint32 DIMICFPBIBN = 11;
+    repeated uint32 PHCOOPDMKKC = 5;
+}
+

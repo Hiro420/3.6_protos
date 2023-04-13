@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AFOALEMHCMM.proto";
+
+// CmdId: 999
+// Name: HAFIIFADEGO
+message HAFIIFADEGO {
+    uint32 IHJHBOGKMLA = 8;
+    AFOALEMHCMM NIMEAPHOOIK = 13;
+}
+

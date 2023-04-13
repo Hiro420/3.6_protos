@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 295
+// Name: ONKAKAHPGHO
+message SceneEntityDrownReq {
+    uint32 entity_id = 8;
+}
+

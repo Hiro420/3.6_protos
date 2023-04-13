@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Birthday.proto";
+
+// CmdId: 4012
+// Name: IEMEICMDIIM
+message SetPlayerBirthdayReq {
+    Birthday birthday = 7;
+}
+

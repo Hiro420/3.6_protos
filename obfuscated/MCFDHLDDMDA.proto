@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DEOBNPJKPKC.proto";
+
+// CmdId: 998
+// Name: MCFDHLDDMDA
+message MCFDHLDDMDA {
+    uint32 JMNAJHPFCMM = 2;
+    DEOBNPJKPKC CNDKFAMECDF = 9;
+}
+

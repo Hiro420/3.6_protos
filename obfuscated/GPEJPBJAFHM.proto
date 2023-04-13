@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 637
+// Name: GPEJPBJAFHM
+message GPEJPBJAFHM {
+    uint32 PBPMGONFBPF = 12;
+    uint32 MLKHDJPCJLG = 13;
+}
+

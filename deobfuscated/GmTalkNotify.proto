@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 50
+// Name: FPKILDGANHL
+message GmTalkNotify {
+    string msg = 7;
+}
+

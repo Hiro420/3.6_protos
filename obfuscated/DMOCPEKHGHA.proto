@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PHKAPAALGGC.proto";
+
+// CmdId: 2186
+// Name: DMOCPEKHGHA
+message DMOCPEKHGHA {
+    PHKAPAALGGC PGNCCIFOLDN = 12;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NOABONHBAJJ.proto";
+
+// CmdId: 4255
+// Name: GOGACGCLFFK
+message GOGACGCLFFK {
+    repeated NOABONHBAJJ OCGDNKFNKLI = 3;
+}
+

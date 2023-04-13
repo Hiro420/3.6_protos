@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ItemParam.proto";
+
+// Name: NMLPHHIHIOK
+message ShopGoods {
+    uint32 min_level = 1; // OLFIOBININC
+    uint32 secondary_sheet_id = 736; // EOMGIGFFCLI
+    ItemParam goods_item = 7;
+    uint32 IBKPPFBAOBH = 9; // IBKPPFBAOBH
+    uint32 scoin = 1201; // JGCLNJKOALJ
+    uint32 LAKDFDKCMKC = 11; // LAKDFDKCMKC
+    uint32 ONDHAANEFIK = 1493; // ONDHAANEFIK
+    uint32 begin_time = 14;
+    repeated uint32 pre_goods_id_list = 6;
+    uint32 goods_id = 15; // IAKCJHEJHOG
+    uint32 max_level = 2; // LBPDCMBFNEC
+    uint32 bought_num = 3; 
+    uint32 buy_limit = 688; // GNENHCFPFCP
+    uint32 BKONLAFGBFC = 10; // BKONLAFGBFC
+    uint32 end_time = 4;
+    uint32 hcoin = 12; // MLKHDJPCJLG
+    repeated ItemParam cost_item_list = 13;
+    uint32 HLDEGIEBMBI = 617; // HLDEGIEBMBI
+    uint32 mcoin = 8; // LDBIHGCDGNP
+    uint32 next_refresh_time = 5;
+}
+

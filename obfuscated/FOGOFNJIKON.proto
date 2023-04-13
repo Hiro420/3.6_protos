@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FOGOFNJIKON
+message FOGOFNJIKON {
+    uint32 NKFMAJIEMBK = 14;
+    uint32 JHDBADNLDEJ = 5;
+    uint32 BPDNAIHEOHE = 13;
+}
+

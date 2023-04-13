@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 167
+// Name: MBBOODALGFB
+message ReadNicknameAuditRsp {
+    int32 retcode = 9;
+}
+

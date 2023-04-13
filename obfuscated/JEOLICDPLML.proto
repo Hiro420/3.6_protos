@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1516
+// Name: JEOLICDPLML
+message JEOLICDPLML {
+    uint32 GMJNLBGNFEJ = 15;
+    uint32 KJPOJHMDBNE = 14;
+    uint32 AOLMBNPLFEO = 3;
+}
+

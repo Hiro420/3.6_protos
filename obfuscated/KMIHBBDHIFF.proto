@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 426
+// Name: KMIHBBDHIFF
+message KMIHBBDHIFF {
+    uint64 BNLEHBOMGCC = 3;
+    uint32 OHBALLHKMLM = 8;
+    int32 EEDMFEOGLFN = 10;
+}
+

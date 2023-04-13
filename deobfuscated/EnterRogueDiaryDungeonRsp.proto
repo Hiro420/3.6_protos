@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8609
+// Name: APKFMOIFONL
+message EnterRogueDiaryDungeonRsp {
+    int32 retcode = 1;
+}
+

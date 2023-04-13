@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: DHIACDOHOHA
+message TowerTeam {
+    uint32 tower_team_id = 2;
+    repeated uint64 avatar_guid_list = 1;
+}
+

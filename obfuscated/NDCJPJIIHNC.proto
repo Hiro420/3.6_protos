@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GODAKDKKBEM.proto";
+
+// CmdId: 1972
+// Name: NDCJPJIIHNC
+message NDCJPJIIHNC {
+    repeated GODAKDKKBEM PDPACAADJLD = 12;
+}
+

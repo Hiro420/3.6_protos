@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2170
+// Name: PKAKPOJAEHN
+message PKAKPOJAEHN {
+    uint32 BNPKCHFCJFP = 9;
+}
+

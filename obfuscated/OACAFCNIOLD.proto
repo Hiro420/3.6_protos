@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3497
+// Name: OACAFCNIOLD
+message OACAFCNIOLD {
+    repeated uint32 JHAAMHAJDAP = 2;
+}
+

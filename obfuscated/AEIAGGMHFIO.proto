@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 142
+// Name: AEIAGGMHFIO
+message AEIAGGMHFIO {
+    uint32 HINMLENBAFO = 13;
+    uint32 GDFHDALHDKF = 2;
+}
+

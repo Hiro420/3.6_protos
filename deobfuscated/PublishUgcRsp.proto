@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "UgcType.proto";
+
+// CmdId: 6323
+// Name: AHFCMBIONFL
+message PublishUgcRsp {
+    int32 retcode = 8;
+    UgcType ugc_type = 5;
+    uint64 ugc_guid = 14;
+}
+

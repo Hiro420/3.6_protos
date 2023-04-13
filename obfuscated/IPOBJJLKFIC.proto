@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24631
+// Name: IPOBJJLKFIC
+message IPOBJJLKFIC {
+    uint32 AIFCFBNIILN = 3;
+    uint32 DCCPGLHNELF = 5;
+}
+

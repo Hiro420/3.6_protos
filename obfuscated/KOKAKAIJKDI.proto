@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EDIIGNKNLHN.proto";
+import "KNCIONFEMPE.proto";
+import "OLHOELIKCAG.proto";
+
+// Name: KOKAKAIJKDI
+message KOKAKAIJKDI {
+    uint32 BGPCMFNDBOJ = 1;
+    uint32 AMEJLPJCENL = 2;
+    uint32 FDFJAGDPGAB = 3;
+    uint32 CAMMDIMJEMH = 4;
+    int64 JNFHOBCLAKL = 5;
+    oneof LFKNKFAGPCM {
+        KNCIONFEMPE FKCDPJHKILF = 6;
+        OLHOELIKCAG EBPJHLGAPJE = 7;
+        EDIIGNKNLHN FHOKBCCBANE = 8;
+    }
+}
+

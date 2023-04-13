@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7526
+// Name: BPLAIDOBNMG
+message GCGDSCardBackUnlockNotify {
+    uint32 card_back_id = 10;
+}
+

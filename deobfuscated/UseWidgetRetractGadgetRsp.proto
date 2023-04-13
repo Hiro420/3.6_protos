@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4256
+// Name: PJPIJGLENEK
+message UseWidgetRetractGadgetRsp {
+    uint32 entity_id = 12;
+    int32 retcode = 6;
+}
+

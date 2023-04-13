@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2908
+// Name: ECPAMLMFHLJ
+message PlayerOfferingReq {
+    uint32 offering_id = 8;
+}
+

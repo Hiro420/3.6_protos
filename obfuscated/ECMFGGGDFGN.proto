@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: ECMFGGGDFGN
+message ECMFGGGDFGN {
+    uint32 HMCIGKKMNII = 1;
+    uint32 LJBMAAGDIPP = 2;
+    bytes EKLFFJCJCOB = 3;
+    bool GFPODPHCAGN = 4;
+}
+

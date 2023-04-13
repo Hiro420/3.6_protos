@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LMPDLJBPMGO.proto";
+
+// CmdId: 8244
+// Name: KKBAAPEFNPG
+message KKBAAPEFNPG {
+    int32 EEDMFEOGLFN = 2;
+    LMPDLJBPMGO FCFGLADDLGI = 7;
+    uint32 LFOCJEADKPK = 13;
+}
+

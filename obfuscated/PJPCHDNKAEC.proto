@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 1182
+// Name: PJPCHDNKAEC
+message PJPCHDNKAEC {
+    // Name: DPGKAGJABPH
+    enum DPGKAGJABPH {
+        DPGKAGJABPH_NONE = 0;
+        DPGKAGJABPH_EFFECT = 1;
+    }
+
+    KKFEDHALJFH DBDEEBCMHMM = 4;
+    DPGKAGJABPH GLABKBIJNBO = 11;
+    KKFEDHALJFH EHADCOBANHG = 1;
+    uint32 AMBDCDLBMAN = 5;
+    uint32 DMBFPFFMFCM = 3;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LODHKCAGNKL.proto";
+
+// Name: IGJCNGBEIOD
+message IGJCNGBEIOD {
+    repeated LODHKCAGNKL MPMAMMFEPDL = 8;
+    uint32 FBGPNEAAELI = 11;
+}
+

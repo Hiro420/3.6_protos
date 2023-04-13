@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FEDMMHJNFCH.proto";
+
+// Name: MBGAMHAPMHK
+message MBGAMHAPMHK {
+    repeated uint32 HENCMCGIAGP = 4;
+    repeated uint32 BPAOEFJJFPI = 5;
+    repeated uint32 CKMGNKPLJPI = 2;
+    FEDMMHJNFCH ABLEKABNJHC = 11;
+}
+

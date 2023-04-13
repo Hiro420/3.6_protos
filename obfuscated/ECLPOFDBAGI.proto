@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4088
+// Name: ECLPOFDBAGI
+message ECLPOFDBAGI {
+    uint32 JBMPBFDPKGD = 1;
+    string AMBLNLJKLDC = 4;
+}
+

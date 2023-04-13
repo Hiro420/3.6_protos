@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PINICBEFNME
+message PINICBEFNME {
+    int32 AJBLMLDNING = 6;
+    uint32 OBHPNGPDLOM = 4;
+}
+

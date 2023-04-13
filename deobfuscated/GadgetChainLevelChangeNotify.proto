@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 877
+// Name: JDHIIDNHDIA
+message GadgetChainLevelChangeNotify {
+    map<uint32, uint32> gadget_chain_level_map = 13;
+}
+

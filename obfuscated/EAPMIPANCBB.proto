@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HFPGMAKDKLF.proto";
+
+// Name: EAPMIPANCBB
+message EAPMIPANCBB {
+    uint32 CPEJFNDDHJN = 9;
+    uint32 FBBNKHDEMJG = 1;
+    uint32 CMNMDFMICGE = 3;
+    HFPGMAKDKLF CNDKFAMECDF = 8;
+    uint32 ECLCBCEPGIH = 5;
+    uint32 CKINANBMGCE = 7;
+}
+

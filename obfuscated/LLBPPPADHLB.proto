@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PBPLDMMEGBO.proto";
+
+// CmdId: 2666
+// Name: LLBPPPADHLB
+message LLBPPPADHLB {
+    repeated PBPLDMMEGBO LOHFNNJNIFB = 12;
+}
+

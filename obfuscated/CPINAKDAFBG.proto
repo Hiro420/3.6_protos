@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8132
+// Name: CPINAKDAFBG
+message CPINAKDAFBG {
+    uint32 LFOCJEADKPK = 13;
+    uint32 PKDJIGJDEJE = 7;
+    int32 EEDMFEOGLFN = 6;
+}
+

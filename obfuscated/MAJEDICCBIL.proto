@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 243
+// Name: MAJEDICCBIL
+message MAJEDICCBIL {
+    repeated uint32 DIMICFPBIBN = 2;
+}
+

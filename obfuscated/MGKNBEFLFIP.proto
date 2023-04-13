@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MOKFNGGECIL.proto";
+import "MPIMODDEDND.proto";
+
+// CmdId: 59
+// Name: MGKNBEFLFIP
+message MGKNBEFLFIP {
+    MOKFNGGECIL LAHPCDGAABG = 13;
+    MPIMODDEDND OOCKMABHCOI = 10;
+    string PFBHKJLJJPM = 1;
+}
+

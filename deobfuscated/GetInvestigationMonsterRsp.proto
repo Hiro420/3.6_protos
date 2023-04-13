@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "InvestigationMonster.proto";
+
+// CmdId: 1922
+// Name: ACFFIBPINDH
+message GetInvestigationMonsterRsp {
+    bool is_for_mark = 8;
+    int32 retcode = 9;
+    repeated InvestigationMonster monster_list = 2;
+}
+

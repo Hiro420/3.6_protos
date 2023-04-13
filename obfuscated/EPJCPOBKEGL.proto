@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: EPJCPOBKEGL
+message EPJCPOBKEGL {
+    KKFEDHALJFH KFFBIJEMGFD = 1;
+    float FOMGCFBHDIJ = 2;
+}
+

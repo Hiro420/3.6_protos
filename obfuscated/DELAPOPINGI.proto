@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3382
+// Name: DELAPOPINGI
+message DELAPOPINGI {
+    string EDLNMBOGAAL = 14;
+}
+

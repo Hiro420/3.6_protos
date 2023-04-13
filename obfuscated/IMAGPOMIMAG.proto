@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CPMJBNHKIEA.proto";
+import "DKJFENEJIFH.proto";
+import "ECIBJPBMCPH.proto";
+
+// Name: IMAGPOMIMAG
+message IMAGPOMIMAG {
+    int32 AJLEKIDIJBP = 1;
+    uint32 FLJBMGGJJGC = 2;
+    CPMJBNHKIEA NAKFJDNGHJD = 3;
+    CPMJBNHKIEA GLIKNMLCOND = 4;
+    uint32 KDLINMLAMDC = 5;
+    uint32 OPFADNLICOA = 6;
+    float KCMMBIDEHPJ = 7;
+    ECIBJPBMCPH PIHBPFIBCBP = 8;
+    uint32 NEOMJAIIIIK = 9;
+    bool CPEKEOIHEJH = 10;
+    DKJFENEJIFH EJGBBHNKDHC = 11;
+    uint32 HLNBKOBOKAN = 12;
+    bool HJGEEAAKCGP = 13;
+}
+

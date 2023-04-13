@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4745
+// Name: FFPLCCEFMAP
+message FFPLCCEFMAP {
+    // Name: LMPPPABCCLK
+    enum LMPPPABCCLK {
+        LMPPPABCCLK_INVALID = 0;
+        LMPPPABCCLK_KICK_BY_HOST = 1;
+        LMPPPABCCLK_BACK_TO_MY_WORLD = 2;
+        LMPPPABCCLK_HOME_BLOCKED = 3;
+        LMPPPABCCLK_HOME_IN_EDIT_MODE = 4;
+        LMPPPABCCLK_BY_MUIP = 5;
+        LMPPPABCCLK_CUR_MODULE_CLOSED = 6;
+    }
+
+    LMPPPABCCLK CNDKFAMECDF = 2;
+}
+

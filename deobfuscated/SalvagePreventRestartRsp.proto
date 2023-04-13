@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8807
+// Name: JCLHEAKGHLO
+message SalvagePreventRestartRsp {
+    uint32 gallery_id = 15;
+    int32 retcode = 5;
+}
+

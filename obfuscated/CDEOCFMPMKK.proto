@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 992
+// Name: CDEOCFMPMKK
+message CDEOCFMPMKK {
+    int32 EEDMFEOGLFN = 11;
+    uint32 AEIEJNNGFHO = 10;
+}
+

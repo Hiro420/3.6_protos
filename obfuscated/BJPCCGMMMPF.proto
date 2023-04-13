@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BJPCCGMMMPF
+message BJPCCGMMMPF {
+    uint32 IJJGJIDBOLO = 2;
+    map<uint32, bool> EIIINDDBPIN = 14;
+    bool CELPGIGFHMO = 15;
+    bool FPIDBNFKDFL = 3;
+    uint32 AMEJLPJCENL = 1;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 22710
+// Name: LBFHEDFPGMI
+message LBFHEDFPGMI {
+    int32 CNDKFAMECDF = 15;
+    bool HKHAADBCFDO = 7;
+}
+

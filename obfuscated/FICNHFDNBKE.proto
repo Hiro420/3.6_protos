@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1089
+// Name: FICNHFDNBKE
+message FICNHFDNBKE {
+    uint32 LGGLNOBIBFG = 11;
+    uint32 OGAANBBGHFN = 9;
+    uint32 DMBFPFFMFCM = 8;
+    uint64 FPIIPJJPBOH = 7;
+}
+

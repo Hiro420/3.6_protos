@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 21605
+// Name: IBEBIDMINKK
+message IBEBIDMINKK {
+    uint32 IHJHBOGKMLA = 10;
+    bool OBIIGFOOFIK = 14;
+}
+

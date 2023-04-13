@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LIHFDPHMIGJ.proto";
+import "OIEKIGIJIFH.proto";
+
+// Name: DJHMOLBEJAA
+message DJHMOLBEJAA {
+    uint32 PDHODCMBIBM = 14;
+    OIEKIGIJIFH MLOOHDJNNNC = 2;
+    uint64 FPIIPJJPBOH = 8;
+    uint64 OHGIKGAMPJC = 12;
+    uint32 JMHFBMHOEOA = 4;
+    repeated LIHFDPHMIGJ KNEDKLODAND = 11;
+    OIEKIGIJIFH IIKNGJIGOAP = 5;
+    repeated uint32 JMAGMEOAICO = 15;
+}
+

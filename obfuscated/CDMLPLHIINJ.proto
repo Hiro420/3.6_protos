@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 22075
+// Name: CDMLPLHIINJ
+message CDMLPLHIINJ {
+    int32 EEDMFEOGLFN = 4;
+}
+

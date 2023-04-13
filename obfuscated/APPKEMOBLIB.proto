@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2486
+// Name: APPKEMOBLIB
+message APPKEMOBLIB {
+    int32 EEDMFEOGLFN = 14;
+}
+

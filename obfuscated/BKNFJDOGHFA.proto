@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 398
+// Name: BKNFJDOGHFA
+message BKNFJDOGHFA {
+    uint32 EGMCLLMPACM = 12;
+    uint64 FPIIPJJPBOH = 9;
+}
+

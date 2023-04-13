@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "LCADAJJAJAM.proto";
+
+// CmdId: 94
+// Name: OEODMJEEKPM
+message OEODMJEEKPM {
+    repeated LCADAJJAJAM PFCKLEMEOOL = 8;
+}
+

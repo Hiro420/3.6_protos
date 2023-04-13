@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OLEMKEOPABD.proto";
+import "PIDANILFCHF.proto";
+
+// Name: IMEJDDMMKFB
+message IMEJDDMMKFB {
+    uint32 HEKHEPFHLDL = 6;
+    OLEMKEOPABD MFABFMFFAFJ = 5;
+    PIDANILFCHF DEJCDJKMGIK = 2;
+}
+

@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CPMJBNHKIEA.proto";
+import "ECIBJPBMCPH.proto";
+import "HPODJPJFNAC.proto";
+import "MHKLKDOLLLF.proto";
+
+// Name: MPIOJLNOMAC
+message MPIOJLNOMAC {
+    uint32 APOLJGALHBH = 13;
+    bool JAODDPOBICJ = 4;
+    repeated MHKLKDOLLLF HJPCLNACLMN = 11;
+    int32 AJLEKIDIJBP = 5;
+    CPMJBNHKIEA GLIKNMLCOND = 6;
+    bool KJPKHNFAEDC = 14;
+    bool CPEKEOIHEJH = 1;
+    ECIBJPBMCPH PIHBPFIBCBP = 12;
+    HPODJPJFNAC BIMGMPHAAGE = 3;
+    uint32 NEOMJAIIIIK = 8;
+    CPMJBNHKIEA NAKFJDNGHJD = 15;
+}
+

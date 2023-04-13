@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "CityInfo.proto";
+
+// CmdId: 251
+// Name: LNAAFIHHCDN
+message GetSceneAreaRsp {
+    uint32 scene_id = 11;
+    repeated uint32 area_id_list = 9;
+    repeated CityInfo city_info_list = 12;
+    int32 retcode = 2;
+}
+

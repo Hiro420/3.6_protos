@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5616
+// Name: CDKILDCCGII
+message CDKILDCCGII {
+    // Name: PMMIIFMHPDP
+    enum PMMIIFMHPDP {
+        PMMIIFMHPDP_NONE = 0;
+        PMMIIFMHPDP_ENTER = 1;
+        PMMIIFMHPDP_LEAVE = 2;
+    }
+
+    uint32 CNNBINPCDGF = 13;
+    PMMIIFMHPDP BNCAAPEDJPK = 1;
+}
+

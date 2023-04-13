@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 24826
+// Name: CNOPNEPFGHG
+message MuqadasPotionActivityEnterDungeonReq {
+    uint32 level_id = 14;
+}
+

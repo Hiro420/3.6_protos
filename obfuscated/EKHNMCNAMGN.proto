@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 3976
+// Name: EKHNMCNAMGN
+message EKHNMCNAMGN {
+    uint32 BMMDHCFGJMP = 2;
+    uint32 GPGPMFDFCMN = 14;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PLAEKPJCLFB
+message PLAEKPJCLFB {
+    repeated uint32 GPJPCIJCEFM = 1;
+    bool NDGBCKFJODE = 2;
+}
+

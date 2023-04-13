@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BJACKBJGDPJ.proto";
+
+// Name: KGIAEDGPNBH
+message KGIAEDGPNBH {
+    uint32 MOLCMPFBACG = 14;
+    repeated uint32 LEEILJPCMKF = 4;
+    BJACKBJGDPJ MCPOGCFBGNF = 1;
+    repeated uint32 AHDCPCAEOCE = 13;
+    uint32 EMKCFAOFHNA = 15;
+}
+

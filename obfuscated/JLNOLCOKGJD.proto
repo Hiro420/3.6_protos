@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JLNOLCOKGJD
+message JLNOLCOKGJD {
+    string LEELKODOCOL = 1;
+    string IHGEHAHMHAH = 2;
+    string NODAGBFPPBC = 3;
+}
+

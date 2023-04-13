@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PHKDBEICLGJ.proto";
+
+// CmdId: 4209
+// Name: CAEKJKGCKLD
+message CAEKJKGCKLD {
+    uint32 HJLEBAHLAOL = 13;
+    PHKDBEICLGJ BPKDOPHJPAL = 6;
+    uint32 LBOBKFJJOOE = 10;
+}
+

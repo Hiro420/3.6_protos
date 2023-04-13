@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PGIJOMGHNEA.proto";
+
+// Name: CBEEEDOJOEF
+message CBEEEDOJOEF {
+    repeated PGIJOMGHNEA MLMIEHICOFE = 13;
+    uint32 EBBPBADLHKE = 10;
+    uint32 GKJDJFMFEMH = 5;
+}
+

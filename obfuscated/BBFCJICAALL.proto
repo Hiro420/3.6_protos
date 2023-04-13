@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MFJBPEPMJOH.proto";
+
+// CmdId: 1799
+// Name: BBFCJICAALL
+message BBFCJICAALL {
+    repeated uint32 LADOFJAEPFM = 12;
+    repeated uint64 CJEOOJJJMDM = 5;
+    map<uint32, MFJBPEPMJOH> NHJIJJGHJHC = 7;
+}
+

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CKGPIIMDNMJ.proto";
+import "FICLFAMINEH.proto";
+import "IFDDHGFMDGM.proto";
+
+// Name: FEHKKAADAMI
+message FEHKKAADAMI {
+    bool AHIBJCCBCBI = 2;
+    bool MFBLCKKNECK = 9;
+    CKGPIIMDNMJ GOBHOHBKOIK = 13;
+    bool ODDJOICLCNC = 6;
+    repeated IFDDHGFMDGM LJDDKDFAOJI = 5;
+    FICLFAMINEH DEBAFCOAAKB = 8;
+}
+

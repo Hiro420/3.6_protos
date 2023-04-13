@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "COFDFDJGNEP.proto";
+import "DKBDDJJHDHA.proto";
+import "GAFAFJOLEAO.proto";
+
+// Name: JNCLNIFHAEF
+message JNCLNIFHAEF {
+    repeated GAFAFJOLEAO GNEPLNDAPCO = 3;
+    repeated DKBDDJJHDHA MMBPOIBOAPB = 9;
+    repeated COFDFDJGNEP JINJDGBALHC = 6;
+    bool HOJEJKKJCMI = 4;
+    repeated uint32 HLIPINBFCDI = 2;
+}
+

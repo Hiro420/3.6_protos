@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 249
+// Name: BGJJBDDEOHG
+message BGJJBDDEOHG {
+    float MEGGFFLKGDC = 3;
+    map<uint32, string> AMMKOPBBGFL = 13;
+    uint32 GCGCOGJHPPH = 5;
+    uint32 BLDNPJIPHGO = 2;
+    uint32 BMFMJPIONPI = 6;
+}
+

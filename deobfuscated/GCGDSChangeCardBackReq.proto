@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7879
+// Name: LNELFKCMGNP
+message GCGDSChangeCardBackReq {
+    uint32 card_back_id = 5;
+    uint32 deck_id = 14;
+}
+

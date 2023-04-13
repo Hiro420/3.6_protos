@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MLBIGMHGJJB.proto";
+
+// CmdId: 7088
+// Name: ACPDBCOLLIM
+message ACPDBCOLLIM {
+    MLBIGMHGJJB AHBMDHOLOBN = 3;
+    int32 EEDMFEOGLFN = 7;
+}
+

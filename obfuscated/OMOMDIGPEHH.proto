@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CHLBGNJMBFM.proto";
+import "IMHJJIEFMOF.proto";
+
+// Name: OMOMDIGPEHH
+message OMOMDIGPEHH {
+    IMHJJIEFMOF CCAIIJMIEKP = 11;
+    repeated CHLBGNJMBFM GODGJBPPGGO = 3;
+}
+

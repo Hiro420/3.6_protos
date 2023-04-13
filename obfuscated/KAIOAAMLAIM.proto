@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5576
+// Name: KAIOAAMLAIM
+message KAIOAAMLAIM {
+    uint32 ECLCBCEPGIH = 15;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BBOCNPLHGAM.proto";
+
+// Name: IKJLIFMCKLB
+message IKJLIFMCKLB {
+    repeated BBOCNPLHGAM KIMBBMDKMLL = 10;
+    bool FKOBJPCKIFJ = 14;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OKIDGAFOHGD.proto";
+
+// Name: EMNFBILMFFH
+message EMNFBILMFFH {
+    repeated OKIDGAFOHGD NBAFNNPGHEE = 5;
+    uint32 LIHIMGBNIFL = 2;
+}
+

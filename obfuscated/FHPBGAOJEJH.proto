@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FHPBGAOJEJH
+enum FHPBGAOJEJH {
+    FHPBGAOJEJH_NONE = 0;
+    FHPBGAOJEJH_START = 1;
+    FHPBGAOJEJH_READ = 2;
+}
+

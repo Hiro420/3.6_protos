@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GHNPJLHELHH
+enum GHNPJLHELHH {
+    GHNPJLHELHH_HIT_COLLIDER_INVALID = 0;
+    GHNPJLHELHH_HIT_COLLIDER_HIT_BOX = 1;
+    GHNPJLHELHH_HIT_COLLIDER_WET_HIT_BOX = 2;
+    GHNPJLHELHH_HIT_COLLIDER_HEAD_BOX = 3;
+}
+

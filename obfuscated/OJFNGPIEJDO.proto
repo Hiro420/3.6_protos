@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AEPGHCMCNGG.proto";
+
+// CmdId: 4882
+// Name: OJFNGPIEJDO
+message OJFNGPIEJDO {
+    repeated AEPGHCMCNGG IJCFGOGCPIK = 15;
+}
+

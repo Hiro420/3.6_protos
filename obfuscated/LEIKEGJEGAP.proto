@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 111
+// Name: LEIKEGJEGAP
+message LEIKEGJEGAP {
+    uint32 EIBBPACAANG = 9;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5589
+// Name: OOMEGDEJPJC
+message OOMEGDEJPJC {
+    map<uint32, uint32> FJIOGMMFNGJ = 2;
+    uint32 ECLCBCEPGIH = 1;
+}
+

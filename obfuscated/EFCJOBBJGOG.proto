@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2107
+// Name: EFCJOBBJGOG
+message EFCJOBBJGOG {
+    uint32 OJMCKHDBPML = 11;
+}
+

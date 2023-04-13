@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OGPFCJJIJNH
+message OGPFCJJIJNH {
+    uint32 IAJGALONLCK = 7;
+    string EFGHHOJCOOI = 10;
+    uint32 FGEIEPJKHDL = 11;
+    uint32 HMCIGKKMNII = 9;
+}
+

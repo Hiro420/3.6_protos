@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: OBFFNAGDGMJ
+message CylinderRegionSize {
+    float height = 3;
+    float radius = 15;
+}
+

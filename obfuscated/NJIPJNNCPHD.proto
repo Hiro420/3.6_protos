@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JAEINPOMBHJ.proto";
+
+// CmdId: 2575
+// Name: NJIPJNNCPHD
+message NJIPJNNCPHD {
+    JAEINPOMBHJ GPBOHMFKMEE = 12;
+    int32 EEDMFEOGLFN = 8;
+}
+

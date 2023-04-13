@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CAOGLKMLEOG.proto";
+import "CEBEGOKNPHM.proto";
+
+// Name: GEKCCHCJMPC
+message GEKCCHCJMPC {
+    uint32 JBMPBFDPKGD = 1;
+    string EBLOGJGAOIP = 2;
+    uint32 EEBAGDIEGNI = 3;
+    uint32 MFCJNNNFCGF = 4;
+    CEBEGOKNPHM LDDFKKENBMC = 5;
+    uint32 GFJIEJMHEKI = 6;
+    uint32 PCKJELDENIP = 7;
+    string FLJJCLIMMJA = 8;
+    uint32 ABFJMJHJLPP = 9;
+    repeated uint32 NFHEAHCOHAK = 10;
+    string DAKAMJMLMNA = 11;
+    CAOGLKMLEOG IAEKOGMCHED = 12;
+    string FDMCFBMDDLH = 13;
+}
+

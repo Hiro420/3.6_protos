@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NJAMABMAGCC.proto";
+
+// CmdId: 4727
+// Name: IIHAAPIDLAD
+message IIHAAPIDLAD {
+    NJAMABMAGCC KJDDOBCBEEJ = 14;
+}
+

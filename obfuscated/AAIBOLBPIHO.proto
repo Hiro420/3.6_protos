@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JMMPKPIHNMB.proto";
+
+// Name: AAIBOLBPIHO
+message AAIBOLBPIHO {
+    uint64 DKFHDCGJEJK = 6;
+    JMMPKPIHNMB MGHBPDCMOFC = 12;
+    uint32 PHELLJODGAN = 4;
+}
+

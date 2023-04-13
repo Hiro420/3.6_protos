@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CLBLCGKLOEE
+message CLBLCGKLOEE {
+    uint32 DGNPMDNKMPM = 14;
+    uint32 MFABFMFFAFJ = 6;
+}
+

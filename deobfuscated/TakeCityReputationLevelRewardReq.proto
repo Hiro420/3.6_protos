@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2889
+// Name: GOAICJCIDHN
+message TakeCityReputationLevelRewardReq {
+    uint32 city_id = 7;
+    uint32 level = 1;
+}
+

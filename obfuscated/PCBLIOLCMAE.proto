@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PCBLIOLCMAE
+enum PCBLIOLCMAE {
+    PCBLIOLCMAE_VEHICLE_INTERACT_NONE = 0;
+    PCBLIOLCMAE_VEHICLE_INTERACT_IN = 1;
+    PCBLIOLCMAE_VEHICLE_INTERACT_OUT = 2;
+}
+

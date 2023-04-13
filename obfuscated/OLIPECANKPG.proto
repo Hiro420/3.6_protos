@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2216
+// Name: OLIPECANKPG
+message OLIPECANKPG {
+    uint32 OLEBJHOKNAH = 14;
+    uint32 OOOENCCPLGD = 8;
+    uint32 JPOCBCKODGE = 11;
+}
+

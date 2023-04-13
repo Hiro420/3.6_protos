@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BGALNOFJNKP.proto";
+import "JGPINBCEHEH.proto";
+
+// Name: LLLDOONMJPE
+message LLLDOONMJPE {
+    bool DLIMEGDKJFC = 3;
+    bool MFBLCKKNECK = 8;
+    BGALNOFJNKP FJLHCPEOPBD = 2;
+    repeated JGPINBCEHEH PIKLPFIFAKE = 1;
+}
+

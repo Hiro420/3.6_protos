@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4686
+// Name: JLLBLAEKEEF
+message JLLBLAEKEEF {
+    int32 EEDMFEOGLFN = 3;
+    uint32 AEDKDLGMHLJ = 2;
+}
+

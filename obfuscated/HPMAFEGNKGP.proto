@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1850
+// Name: HPMAFEGNKGP
+message HPMAFEGNKGP {
+    uint32 ICDAIDNAOBK = 3;
+    bool PKLIAIGBAHN = 11;
+}
+

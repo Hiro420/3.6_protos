@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 22438
+// Name: LOEFLAFGOOH
+message WindSeedType3Notify {
+    bytes payload = 4;
+    uint32 config_id = 14;
+}
+

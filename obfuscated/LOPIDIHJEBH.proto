@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4093
+// Name: LOPIDIHJEBH
+message LOPIDIHJEBH {
+    int32 EEDMFEOGLFN = 8;
+}
+

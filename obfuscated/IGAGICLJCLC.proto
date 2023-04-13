@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JKFGLOLKOKP.proto";
+
+// CmdId: 8571
+// Name: IGAGICLJCLC
+message IGAGICLJCLC {
+    uint32 LFOCJEADKPK = 1;
+    int32 EEDMFEOGLFN = 12;
+    repeated JKFGLOLKOKP FKEAKJNBMFG = 2;
+}
+

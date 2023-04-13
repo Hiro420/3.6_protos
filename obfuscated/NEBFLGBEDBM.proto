@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IGIIEHFMKKN.proto";
+
+// CmdId: 2649
+// Name: NEBFLGBEDBM
+message NEBFLGBEDBM {
+    IGIIEHFMKKN CDPJEAAHEEP = 7;
+    bool JNJJIFMKJMD = 6;
+}
+

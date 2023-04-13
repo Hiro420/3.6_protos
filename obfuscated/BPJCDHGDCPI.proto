@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 21647
+// Name: BPJCDHGDCPI
+message BPJCDHGDCPI {
+    uint32 HDMDJECGCKC = 13;
+    bool DDOIAOEGKDJ = 4;
+    repeated uint32 LCGMABBNMCH = 14;
+    repeated uint32 MJCLKLBEPLO = 9;
+}
+

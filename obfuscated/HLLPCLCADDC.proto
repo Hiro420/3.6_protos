@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DDAGBEPBBEP.proto";
+
+// Name: HLLPCLCADDC
+message HLLPCLCADDC {
+    uint32 JGIPOEKBNNN = 4;
+    uint32 CGPHDIIGAPO = 14;
+    bool FKOBJPCKIFJ = 1;
+    repeated DDAGBEPBBEP CHBHLLJGFGO = 3;
+    repeated uint32 JNAGDNCCGNP = 7;
+}
+

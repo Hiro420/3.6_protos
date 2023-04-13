@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2068
+// Name: FNLIIEOFBGI
+message FNLIIEOFBGI {
+    uint32 KAJGEMAAIJH = 1;
+    bool GBHJHJENFGK = 8;
+    int32 EEDMFEOGLFN = 5;
+    bool AJBCCHJCBHB = 6;
+}
+

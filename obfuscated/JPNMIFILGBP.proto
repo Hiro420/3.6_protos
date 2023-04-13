@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 976
+// Name: JPNMIFILGBP
+message JPNMIFILGBP {
+    uint32 IHJHBOGKMLA = 12;
+    uint32 BLILHBOJOCD = 10;
+    int32 EEDMFEOGLFN = 1;
+}
+

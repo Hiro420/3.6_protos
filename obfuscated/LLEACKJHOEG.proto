@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FOGOFNJIKON.proto";
+
+// CmdId: 5098
+// Name: LLEACKJHOEG
+message LLEACKJHOEG {
+    FOGOFNJIKON CAKHPNNGABF = 15;
+}
+

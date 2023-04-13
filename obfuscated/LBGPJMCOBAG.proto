@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AGGLMJABOKH.proto";
+
+// CmdId: 1973
+// Name: LBGPJMCOBAG
+message LBGPJMCOBAG {
+    repeated AGGLMJABOKH PCGMMDNBOCI = 12;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "PlayerOfferingData.proto";
+
+// CmdId: 2920
+// Name: POFHGEBPHNP
+message OfferingInteractRsp {
+    PlayerOfferingData offering_data = 9;
+    int32 retcode = 11;
+}
+

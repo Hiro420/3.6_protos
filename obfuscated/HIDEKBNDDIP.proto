@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JFGLKLBDHBF.proto";
+
+// CmdId: 6324
+// Name: HIDEKBNDDIP
+message HIDEKBNDDIP {
+    repeated JFGLKLBDHBF JIDGICBBLBG = 9;
+    repeated JFGLKLBDHBF AKDNFEAGLCO = 5;
+}
+

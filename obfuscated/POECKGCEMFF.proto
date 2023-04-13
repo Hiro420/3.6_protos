@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 158
+// Name: POECKGCEMFF
+message POECKGCEMFF {
+    uint32 NPOCNCIDDHO = 1;
+    bool KGIAKJHGALA = 6;
+    uint32 CJIJDBMOPNO = 8;
+}
+

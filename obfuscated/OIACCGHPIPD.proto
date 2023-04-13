@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FCINIPEMLPE.proto";
+
+// CmdId: 4461
+// Name: OIACCGHPIPD
+message OIACCGHPIPD {
+    FCINIPEMLPE CACPEANKLNK = 15;
+}
+

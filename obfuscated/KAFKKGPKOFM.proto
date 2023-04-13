@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2035
+// Name: KAFKKGPKOFM
+message KAFKKGPKOFM {
+    uint32 OELGLNKALIE = 12;
+    uint32 HIANHGLLGMD = 6;
+    int32 EEDMFEOGLFN = 9;
+}
+

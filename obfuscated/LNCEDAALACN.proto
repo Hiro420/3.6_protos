@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LNCEDAALACN
+message LNCEDAALACN {
+    uint32 BBPIPIBIOPA = 15;
+    uint32 MIEDMELHOLI = 13;
+}
+

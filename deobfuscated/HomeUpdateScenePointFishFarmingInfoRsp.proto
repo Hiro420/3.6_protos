@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4800
+// Name: IJFFHALDHCG
+message HomeUpdateScenePointFishFarmingInfoRsp {
+    int32 retcode = 10;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DNOFKJHOKJA.proto";
+
+// Name: OMEKBGLNGGC
+message OMEKBGLNGGC {
+    map<uint32, DNOFKJHOKJA> ONJKGGJNIBH = 1;
+    uint32 KABFCEADINI = 15;
+    uint32 JOPJKOGODAM = 5;
+}
+

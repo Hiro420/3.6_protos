@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MOJACKAPJGM
+enum MOJACKAPJGM {
+    MOJACKAPJGM_CREATE_NONE = 0;
+    MOJACKAPJGM_CREATE_QUEST = 1;
+    MOJACKAPJGM_CREATE_ENERGY = 2;
+}
+

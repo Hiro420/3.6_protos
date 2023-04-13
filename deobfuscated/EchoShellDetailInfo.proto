@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "SummerTimeDungeonInfo.proto";
+
+// Name: JACFBCJENIC
+message EchoShellDetailInfo {
+    repeated SummerTimeDungeonInfo summer_time_dungeon_list = 9;
+    repeated uint32 BILGGOLGCFE = 1;
+    repeated uint32 PJKNNNDABLD = 11;
+    repeated uint32 OEMMMBBPCIL = 12;
+}
+

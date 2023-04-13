@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 7722
+// Name: MCFHDKFAKEL
+message MCFHDKFAKEL {
+    repeated uint32 DFNAIAAOAPE = 2;
+    uint32 HCGIBBGCFHO = 4;
+    uint32 KBCFLOPLBOI = 5;
+}
+

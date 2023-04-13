@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 22438
+// Name: LOEFLAFGOOH
+message LOEFLAFGOOH {
+    bytes MIHILPONANE = 4;
+    uint32 AMEJLPJCENL = 14;
+}
+

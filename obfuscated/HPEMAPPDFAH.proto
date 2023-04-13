@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24776
+// Name: HPEMAPPDFAH
+message HPEMAPPDFAH {
+    uint32 HDPJCNBFLEB = 7;
+}
+

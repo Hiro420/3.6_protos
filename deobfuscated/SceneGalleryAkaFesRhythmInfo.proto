@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CCOOHEJNIKK
+message SceneGalleryAkaFesRhythmInfo {
+    bool OBIIGFOOFIK = 5;
+    string transaction = 1;
+}
+

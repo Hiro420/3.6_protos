@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MPBJOANOMOJ.proto";
+
+// CmdId: 696
+// Name: NMCECMHCPGB
+message NMCECMHCPGB {
+    uint32 HNOLDILEACO = 4;
+    uint32 KGBNBCAGKHB = 3;
+    uint32 NIMGIJEEIAM = 12;
+    MPBJOANOMOJ OBDBKNBAJIF = 15;
+    uint32 DNJMBDOHNHC = 7;
+    uint32 OKPHHKCBADM = 11;
+}
+

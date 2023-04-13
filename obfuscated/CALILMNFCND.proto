@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AOKCLJGIMAD.proto";
+import "AOLLDEBHDJM.proto";
+import "HLLPCLCADDC.proto";
+
+// Name: CALILMNFCND
+message CALILMNFCND {
+    AOKCLJGIMAD LPEGBKGDNOF = 8;
+    HLLPCLCADDC KKDJEJLHEGP = 12;
+    repeated AOLLDEBHDJM PIKLPFIFAKE = 14;
+    uint32 EDCAHCIOFGK = 11;
+}
+

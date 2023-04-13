@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KAKKDDJILKM.proto";
+
+// CmdId: 2043
+// Name: NHNCAFGLKGB
+message NHNCAFGLKGB {
+    uint32 BNPKCHFCJFP = 15;
+    map<uint32, KAKKDDJILKM> JIKGEALPNAH = 14;
+}
+

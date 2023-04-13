@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: IECLMFCIPAE
+message IECLMFCIPAE {
+    bool JCECHLAINDC = 4;
+    uint32 JGIPOEKBNNN = 13;
+    KKFEDHALJFH KFFBIJEMGFD = 8;
+    uint32 LFCAGIIIEFJ = 5;
+    bool FKOBJPCKIFJ = 6;
+}
+

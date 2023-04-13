@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 7263
+// Name: HFLGOKMJKEI
+message GCGDSCardProficiencyNotify {
+    uint32 card_id = 8;
+    uint32 proficiency = 9;
+}
+

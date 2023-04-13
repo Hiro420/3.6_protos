@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HDHHCLBAMNI.proto";
+
+// Name: JNDPIICGKPI
+message JNDPIICGKPI {
+    uint32 NKDIAHFFCIG = 14;
+    uint32 NJHLNPIHHNO = 9;
+    repeated HDHHCLBAMNI ADNMJFFDNNP = 12;
+    uint32 FNKMLBJPMOK = 5;
+    bool HFHAHHODINP = 3;
+    HDHHCLBAMNI LNAGFJAEJDI = 4;
+    bool HLDOLEELKOK = 7;
+    bool OIILPCOJEFG = 15;
+    uint32 OMIILLBKHFH = 11;
+    uint32 HDMDJECGCKC = 10;
+    uint32 MIBBPBCIIIJ = 8;
+    bool CBBHLOABNLE = 6;
+}
+

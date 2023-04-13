@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FAHPLGLAMOL
+message FAHPLGLAMOL {
+    uint32 JJGGAPDDOLN = 12;
+    uint32 JGIPOEKBNNN = 5;
+    bool FKOBJPCKIFJ = 2;
+}
+

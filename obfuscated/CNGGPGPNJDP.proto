@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8584
+// Name: CNGGPGPNJDP
+message CNGGPGPNJDP {
+    uint32 IHJHBOGKMLA = 14;
+    uint32 BLILHBOJOCD = 2;
+    int32 EEDMFEOGLFN = 9;
+}
+

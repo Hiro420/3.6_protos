@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JFEEEGPDDNC
+message JFEEEGPDDNC {
+    uint32 JFAFMJAFPEF = 1;
+    map<uint32, uint32> BLIKKOCHNMP = 14;
+}
+

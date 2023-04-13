@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 428
+// Name: NAMKFIIDGHA
+message NAMKFIIDGHA {
+    uint32 GKCJMLGNMCL = 8;
+    int32 EEDMFEOGLFN = 13;
+    oneof AABFAKKCGJL {
+        uint32 HCGIBBGCFHO = 3;
+        uint32 LANNIFHAGJI = 2;
+    }
+}
+

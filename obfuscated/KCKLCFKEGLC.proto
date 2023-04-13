@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4820
+// Name: KCKLCFKEGLC
+message KCKLCFKEGLC {
+    repeated uint32 PEKJLPOAKNF = 9;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KBNDDMHEAAB.proto";
+
+// CmdId: 1116
+// Name: BAKKCODKNDD
+message BAKKCODKNDD {
+    string CNDKFAMECDF = 7;
+    uint32 DMBFPFFMFCM = 9;
+    KBNDDMHEAAB BGDLPDPAELP = 12;
+}
+

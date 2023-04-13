@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HPBALKBMEAI.proto";
+
+// Name: DADIGOEBEPB
+message DADIGOEBEPB {
+    repeated HPBALKBMEAI MFPIMAJOHNI = 6;
+    uint32 DFABLHPDPIN = 2;
+    bool MFBLCKKNECK = 7;
+}
+

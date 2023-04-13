@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 217
+// Name: MLHGMKJPGMM
+message MLHGMKJPGMM {
+    uint32 FGEIEPJKHDL = 6;
+    bool OJKAHBMCECO = 15;
+    uint64 BIHMFOCDMKP = 1;
+}
+

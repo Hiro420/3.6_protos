@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: JOFBOBHLMJA
+message JOFBOBHLMJA {
+    // Name: BEDECNHGCGK
+    message BEDECNHGCGK {
+        uint32 BPKDOPHJPAL = 12;
+    }
+
+    uint32 MCJLEIDIMNC = 4;
+    uint32 OMPLBJFIEKN = 15;
+    uint32 LHKGJHPFJKA = 2;
+    uint32 JBMPBFDPKGD = 11;
+    bool MJHNILOFLGB = 12;
+    oneof EOBACNJEEGP {
+        string DIOLFKPKKFJ = 1362;
+        uint32 KDKGDDHPIKG = 451;
+        BEDECNHGCGK ELEIPOMHCJC = 772;
+    }
+}
+

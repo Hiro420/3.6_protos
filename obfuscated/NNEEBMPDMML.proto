@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DOHJEAKEOKE.proto";
+
+// Name: NNEEBMPDMML
+message NNEEBMPDMML {
+    uint32 AMLCAOLJCHK = 8;
+    uint32 EHPIOILFBIN = 1;
+    uint32 PIIOIDEHFDD = 3;
+    uint32 DEGFCIHNLEG = 6;
+    DOHJEAKEOKE EDKOLGJPDHP = 14;
+    uint32 CPKKAJKMBEJ = 10;
+}
+

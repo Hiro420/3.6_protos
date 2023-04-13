@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PHLABMFOJJA.proto";
+
+// CmdId: 4853
+// Name: BEJNPDHEGDO
+message BEJNPDHEGDO {
+    int32 EEDMFEOGLFN = 3;
+    uint32 HBDKCGNFKMH = 5;
+    PHLABMFOJJA FAOBIMACLPC = 1;
+}
+

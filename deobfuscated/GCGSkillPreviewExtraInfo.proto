@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGSkillPreviewCardInfo.proto";
+
+// Name: JBPEBKINOLD
+message GCGSkillPreviewExtraInfo {
+    repeated GCGSkillPreviewCardInfo FLOOBAAJGAL = 1;
+    repeated GCGSkillPreviewCardInfo NKKHNKBCOAG = 14;
+}
+

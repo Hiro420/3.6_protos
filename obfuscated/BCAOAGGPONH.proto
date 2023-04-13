@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DCJBJCDFAAE.proto";
+
+// CmdId: 5506
+// Name: BCAOAGGPONH
+message BCAOAGGPONH {
+    DCJBJCDFAAE MIEDMELHOLI = 8;
+    uint32 ECLCBCEPGIH = 14;
+}
+

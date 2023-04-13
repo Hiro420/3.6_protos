@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IPICMDDHCHD.proto";
+
+// CmdId: 4300
+// Name: EHFMCONIKJH
+message EHFMCONIKJH {
+    repeated IPICMDDHCHD PLGPCHOMBHK = 7;
+}
+

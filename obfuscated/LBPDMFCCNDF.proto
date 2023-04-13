@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8473
+// Name: LBPDMFCCNDF
+message LBPDMFCCNDF {
+    uint32 HIPKFKGKHAJ = 10;
+    uint32 GMJNLBGNFEJ = 3;
+}
+

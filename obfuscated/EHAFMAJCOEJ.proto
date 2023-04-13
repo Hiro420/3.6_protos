@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+import "PEHLILGOPKN.proto";
+
+// CmdId: 395
+// Name: EHAFMAJCOEJ
+message EHAFMAJCOEJ {
+    PEHLILGOPKN CGAFJIIPALB = 1;
+    uint32 DMBFPFFMFCM = 6;
+    KKFEDHALJFH KPDOFNEIDFP = 13;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8273
+// Name: EKOIAIBMIOH
+message EKOIAIBMIOH {
+    int32 EEDMFEOGLFN = 15;
+    uint32 ELIONPMBAIP = 3;
+}
+

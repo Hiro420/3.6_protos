@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: JAOONNODHDP
+message JAOONNODHDP {
+    uint32 DMBFPFFMFCM = 10;
+    KKFEDHALJFH CDNLIINLGKA = 9;
+}
+

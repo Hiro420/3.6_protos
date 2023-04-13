@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MEDHAFCLIHB.proto";
+
+// Name: FNDNBGMCLDN
+message FNDNBGMCLDN {
+    int32 EEDMFEOGLFN = 5;
+    MEDHAFCLIHB CDPIPBIMLNJ = 6;
+}
+

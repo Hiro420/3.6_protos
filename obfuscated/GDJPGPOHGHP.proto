@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HAOPJHKKJLK.proto";
+
+// CmdId: 8770
+// Name: GDJPGPOHGHP
+message GDJPGPOHGHP {
+    HAOPJHKKJLK OADNEBFHEHB = 2;
+}
+

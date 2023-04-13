@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5217
+// Name: ADEJEPJMMLB
+message ADEJEPJMMLB {
+    uint32 PNLGKNFEFGC = 9;
+    uint32 IMOIJDCCEOP = 14;
+    bool KABEFPHAKFP = 15;
+    uint32 IEPBEPDPKBN = 6;
+    uint32 MGHNJCCINLK = 10;
+}
+

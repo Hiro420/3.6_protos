@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FODGEAPLODJ.proto";
+
+// CmdId: 475
+// Name: JKMGOFOBNBC
+message JKMGOFOBNBC {
+    // Name: PBMHNPFBBOI
+    message PBMHNPFBBOI {
+        bool HJHDAHFJGBM = 15;
+        uint32 IOOFCEKCNLP = 5;
+    }
+
+    // Name: EHMGNAPJJJO
+    message EHMGNAPJJJO {
+        uint32 OBBEJICFPIC = 6;
+        bool HJHDAHFJGBM = 4;
+    }
+
+    FODGEAPLODJ GDNFABAJPGE = 13;
+    PBMHNPFBBOI NCCCEAHMHHB = 3;
+    uint32 LANNIFHAGJI = 15;
+    EHMGNAPJJJO EIPKJBGKGKE = 11;
+}
+

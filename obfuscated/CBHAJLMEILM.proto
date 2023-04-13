@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CGGMBIMICNH.proto";
+import "ODPFLNHGMEI.proto";
+
+// Name: CBHAJLMEILM
+message CBHAJLMEILM {
+    repeated CGGMBIMICNH ABAKAILLGOM = 6;
+    repeated ODPFLNHGMEI AOAKGOPBGIH = 8;
+}
+

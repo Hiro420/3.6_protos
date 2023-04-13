@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: GLCHGFNJFBA
+message GLCHGFNJFBA {
+    uint32 JJGGAPDDOLN = 2;
+    bool FKOBJPCKIFJ = 7;
+    uint32 JGIPOEKBNNN = 13;
+    bool LODOAPOPHCN = 4;
+}
+

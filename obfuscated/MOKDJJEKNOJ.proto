@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CGGMBIMICNH.proto";
+import "KKGDPNEEALG.proto";
+
+// CmdId: 8587
+// Name: MOKDJJEKNOJ
+message MOKDJJEKNOJ {
+    bool IJAAIDDEJMG = 11;
+    uint32 JOPJKOGODAM = 7;
+    uint32 NLFDPDMBBFO = 9;
+    repeated CGGMBIMICNH ABAKAILLGOM = 14;
+    repeated KKGDPNEEALG MCFIACMACJI = 4;
+    uint32 HDMDJECGCKC = 5;
+}
+

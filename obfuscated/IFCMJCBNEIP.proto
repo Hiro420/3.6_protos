@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1821
+// Name: IFCMJCBNEIP
+message IFCMJCBNEIP {
+    uint32 KAHKHODLMPL = 7;
+    string LBPAGKOFJOE = 10;
+    int32 EEDMFEOGLFN = 12;
+}
+

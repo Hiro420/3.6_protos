@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1800
+// Name: NJDKABDEHGE
+message NJDKABDEHGE {
+    repeated uint64 DMCKCADOELM = 6;
+    int32 EEDMFEOGLFN = 9;
+    uint32 IKGNEAHBGOJ = 7;
+    uint64 OAIIFOIFFNN = 8;
+}
+

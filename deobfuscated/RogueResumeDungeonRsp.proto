@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8340
+// Name: OIIOGDNIDGK
+message RogueResumeDungeonRsp {
+    int32 retcode = 6;
+    uint32 stage_id = 11;
+}
+

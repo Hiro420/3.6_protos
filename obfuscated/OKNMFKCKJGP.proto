@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20858
+// Name: OKNMFKCKJGP
+message OKNMFKCKJGP {
+    bool AJBCCHJCBHB = 7;
+    uint32 KAJGEMAAIJH = 8;
+    int32 EEDMFEOGLFN = 3;
+    bool GBHJHJENFGK = 4;
+    uint64 PJDFHKIKLNM = 2;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ICDELFCCFKG.proto";
+
+// CmdId: 2357
+// Name: DMIMDAPMCMO
+message DMIMDAPMCMO {
+    int32 EEDMFEOGLFN = 15;
+    repeated ICDELFCCFKG EHJFNLAOMJI = 12;
+}
+

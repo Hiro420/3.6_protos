@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2075
+// Name: BBBCOOCMJOL
+message BBBCOOCMJOL {
+    uint32 LANNIFHAGJI = 6;
+    uint32 LFOCJEADKPK = 13;
+}
+

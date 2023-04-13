@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MMJAADOMEIP
+message MMJAADOMEIP {
+    uint32 ICDAIDNAOBK = 7;
+    uint32 JEBGOHBEBBJ = 8;
+    map<uint32, uint32> CEEGLLBOIMA = 14;
+}
+

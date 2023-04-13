@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AMABAPDIMGK.proto";
+
+// CmdId: 882
+// Name: PJLEOOFMGND
+message PJLEOOFMGND {
+    uint32 PNLGKNFEFGC = 9;
+    AMABAPDIMGK BHGHPABHALB = 11;
+}
+

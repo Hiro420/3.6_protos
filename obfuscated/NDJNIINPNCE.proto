@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NFBBOLGMJHK.proto";
+
+// CmdId: 643
+// Name: NDJNIINPNCE
+message NDJNIINPNCE {
+    uint32 KMECAPPHDNN = 14;
+    int32 EEDMFEOGLFN = 5;
+    map<uint32, NFBBOLGMJHK> NDAGFMBKOGO = 8;
+}
+

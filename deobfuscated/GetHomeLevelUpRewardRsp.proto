@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4757
+// Name: KNKAEPEBGNN
+message GetHomeLevelUpRewardRsp {
+    int32 retcode = 11;
+    uint32 level = 4;
+}
+

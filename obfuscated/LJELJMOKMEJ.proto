@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 374
+// Name: LJELJMOKMEJ
+message LJELJMOKMEJ {
+    uint32 DMBFPFFMFCM = 9;
+    uint64 OBNMNOHLGNB = 1;
+    KKFEDHALJFH EPCFLDJKNJH = 15;
+}
+

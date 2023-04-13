@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "NLAAPIDMOCD.proto";
+
+// CmdId: 3289
+// Name: IKHDMMGIPPN
+message IKHDMMGIPPN {
+    uint32 BIHMFOCDMKP = 7;
+    bool DLNFBLHEJCN = 4;
+    uint64 HBPMGOHDIOO = 8;
+    uint32 DMBFPFFMFCM = 9;
+    NLAAPIDMOCD JDBAEBBIDJF = 6;
+    uint64 HEDKENGIAPE = 5;
+}
+

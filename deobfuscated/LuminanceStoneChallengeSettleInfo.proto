@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LuminanceStoneChallengeGallerySettleInfo.proto";
+
+// Name: NNEANEAPPGD
+message LuminanceStoneChallengeSettleInfo {
+    LuminanceStoneChallengeGallerySettleInfo settle_info = 2;
+    bool is_new_record = 8;
+}
+

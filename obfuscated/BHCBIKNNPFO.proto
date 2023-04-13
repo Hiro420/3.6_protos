@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 1666
+// Name: BHCBIKNNPFO
+message BHCBIKNNPFO {
+    uint32 NICMPEHDPBF = 15;
+    uint64 NHEJCFNOGBH = 3;
+    KKFEDHALJFH IINACFKLAOM = 11;
+}
+

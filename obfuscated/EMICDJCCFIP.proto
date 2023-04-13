@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HFKNBJHCGCI.proto";
+
+// CmdId: 274
+// Name: EMICDJCCFIP
+message EMICDJCCFIP {
+    int32 EEDMFEOGLFN = 11;
+    HFKNBJHCGCI CNDKFAMECDF = 3;
+}
+

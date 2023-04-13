@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8916
+// Name: HAADBMMELOK
+message HAADBMMELOK {
+    int32 EEDMFEOGLFN = 9;
+    repeated uint32 ENAIONLINHB = 6;
+}
+

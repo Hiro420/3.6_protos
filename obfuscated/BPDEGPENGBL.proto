@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EAPLJCEIHNA.proto";
+
+// Name: BPDEGPENGBL
+message BPDEGPENGBL {
+    uint32 HJLEBAHLAOL = 1;
+    uint32 FPONMJANLOL = 2;
+    repeated EAPLJCEIHNA EELGGKCNFNK = 3;
+}
+

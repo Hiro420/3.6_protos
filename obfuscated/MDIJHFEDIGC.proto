@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4406
+// Name: MDIJHFEDIGC
+message MDIJHFEDIGC {
+    uint32 PPHMNEGECDM = 1;
+    bool KMDPBFFLLDN = 13;
+    uint32 BHBEJIMABDP = 15;
+}
+

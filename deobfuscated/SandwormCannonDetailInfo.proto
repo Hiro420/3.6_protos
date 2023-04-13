@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "LCMFDAHJIBK.proto";
+
+// Name: HLHOKAPBEBA
+message SandwormCannonDetailInfo {
+    repeated LCMFDAHJIBK JAAFEFLDPLF = 2;
+}
+

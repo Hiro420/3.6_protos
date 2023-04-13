@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4413
+// Name: AMNGHAEJJPL
+message ScenePlayInviteResultNotify {
+    bool is_all_argee = 9;
+    uint32 play_id = 5;
+}
+

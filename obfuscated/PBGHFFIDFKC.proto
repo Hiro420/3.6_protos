@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "OJIGKDCPAJL.proto";
+import "PEHLILGOPKN.proto";
+
+// CmdId: 383
+// Name: PBGHFFIDFKC
+message PBGHFFIDFKC {
+    PEHLILGOPKN CGAFJIIPALB = 9;
+    OJIGKDCPAJL MGBDEONNAFO = 6;
+    bool BAAGHFJNFIG = 7;
+    uint32 DMBFPFFMFCM = 15;
+}
+

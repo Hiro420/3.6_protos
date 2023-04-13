@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 622
+// Name: BKJBIOIIJNB
+message CombineFormulaDataNotify {
+    bool is_locked = 7;
+    uint32 combine_id = 9;
+}
+

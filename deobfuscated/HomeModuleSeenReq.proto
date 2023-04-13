@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4896
+// Name: BFJMCDIOHJH
+message HomeModuleSeenReq {
+    repeated uint32 seen_module_id_list = 11;
+}
+

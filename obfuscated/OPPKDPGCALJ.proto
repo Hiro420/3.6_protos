@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: OPPKDPGCALJ
+message OPPKDPGCALJ {
+    uint32 CMNMDFMICGE = 7;
+    uint32 CPEJFNDDHJN = 14;
+    uint32 FBBNKHDEMJG = 15;
+    uint32 CKINANBMGCE = 9;
+}
+

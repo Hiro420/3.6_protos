@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HJINEIJEJIL
+enum HJINEIJEJIL {
+    HJINEIJEJIL_NONE = 0;
+    HJINEIJEJIL_SUCC = 1;
+    HJINEIJEJIL_FAIL = 2;
+    HJINEIJEJIL_TIMEOUT = 3;
+    HJINEIJEJIL_CANCEL = 4;
+    HJINEIJEJIL_EXIT = 5;
+}
+

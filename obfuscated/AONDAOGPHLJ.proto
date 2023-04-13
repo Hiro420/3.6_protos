@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GPCCMCBLGJK.proto";
+
+// CmdId: 120
+// Name: AONDAOGPHLJ
+message AONDAOGPHLJ {
+    GPCCMCBLGJK BHGHPABHALB = 11;
+}
+

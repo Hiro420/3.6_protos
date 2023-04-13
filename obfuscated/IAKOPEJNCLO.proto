@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PFIOBDOEOJE.proto";
+
+// Name: IAKOPEJNCLO
+message IAKOPEJNCLO {
+    PFIOBDOEOJE FFCAAPPNLGB = 11;
+    uint32 HEAIGJBBEIP = 4;
+}
+

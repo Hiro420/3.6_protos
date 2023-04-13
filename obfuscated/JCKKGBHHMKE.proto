@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "MPBJOANOMOJ.proto";
+
+// CmdId: 676
+// Name: JCKKGBHHMKE
+message JCKKGBHHMKE {
+    repeated uint64 ENPPBADJCDL = 6;
+    MPBJOANOMOJ OBDBKNBAJIF = 11;
+}
+

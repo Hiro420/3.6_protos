@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KBNDDMHEAAB.proto";
+
+// CmdId: 1178
+// Name: DCPFIKALCJL
+message DCPFIKALCJL {
+    uint32 DMBFPFFMFCM = 15;
+    repeated KBNDDMHEAAB IHBNLMKGGBJ = 14;
+    bool LFAIMGICLPL = 4;
+}
+

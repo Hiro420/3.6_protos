@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IKBLOJFANCA.proto";
+
+// Name: MOLENBNLNDP
+message MOLENBNLNDP {
+    IKBLOJFANCA HLKEPNIABPP = 2;
+    uint32 CPEJFNDDHJN = 12;
+}
+

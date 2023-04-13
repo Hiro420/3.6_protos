@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ONINAMINFAL.proto";
+import "PHKAPAALGGC.proto";
+
+// CmdId: 2187
+// Name: HCGGECOOAMK
+message HCGGECOOAMK {
+    repeated PHKAPAALGGC EEILBKDPOHM = 1;
+    repeated ONINAMINFAL OHLJHBOMDJK = 12;
+    repeated uint32 OJABHLFOAJP = 7;
+    int32 EEDMFEOGLFN = 6;
+}
+

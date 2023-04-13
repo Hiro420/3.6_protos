@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IBGOIFCCPCF.proto";
+
+// CmdId: 3304
+// Name: BKGBDCBDGKF
+message BKGBDCBDGKF {
+    repeated IBGOIFCCPCF KPJGDNDBAIM = 9;
+    repeated IBGOIFCCPCF EBKCNJNMGLA = 8;
+    repeated IBGOIFCCPCF LIMODOCBEBH = 14;
+}
+

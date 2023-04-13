@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: LIEELECPDPF
+message LIEELECPDPF {
+    uint32 APOLJGALHBH = 10;
+    int32 FJDLJEFKCHG = 1;
+    bool HJGEEAAKCGP = 3;
+    uint32 OPFADNLICOA = 11;
+    uint32 EMJIFGHHFLP = 4;
+    uint32 KDLINMLAMDC = 6;
+    int32 OINBBNCHKAN = 12;
+}
+

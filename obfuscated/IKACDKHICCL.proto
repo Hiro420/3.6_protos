@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: IKACDKHICCL
+message IKACDKHICCL {
+    uint32 IPIAJLPLPPB = 5;
+    uint32 HPLKPDLHGJB = 15;
+    uint32 DMBFPFFMFCM = 1;
+}
+

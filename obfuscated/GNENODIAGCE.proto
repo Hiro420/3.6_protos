@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 2911
+// Name: GNENODIAGCE
+message GNENODIAGCE {
+    int32 EEDMFEOGLFN = 5;
+    uint32 BLCEPEMCKEM = 10;
+    repeated INPDDALBMBO IEEPAJEHDIJ = 11;
+}
+

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CEIABHOFPON.proto";
+import "FGBNNGALAKK.proto";
+
+// Name: CJNADCAPBFH
+message CJNADCAPBFH {
+    repeated uint32 MBFIDGIBEDM = 11;
+    uint32 PGHHOPCMEFC = 9;
+    bool HJGMGNEDJIF = 6;
+    uint32 OIGKEAGHANH = 3;
+    CEIABHOFPON FALIEFLKLCF = 12;
+    map<uint32, FGBNNGALAKK> HKNGLGAKNJH = 4;
+}
+

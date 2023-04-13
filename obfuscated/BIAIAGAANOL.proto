@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BIAIAGAANOL
+message BIAIAGAANOL {
+    int32 AOLDDCCIAHH = 2;
+    int32 KMKDOPOMCNG = 9;
+}
+

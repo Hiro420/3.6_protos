@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DCNDAKHPMHA
+message DCNDAKHPMHA {
+    bool JIKHGEGPFLN = 1;
+    uint64 ODKCEKFGOHC = 5;
+    bool DJPHNINHIGD = 3;
+}
+

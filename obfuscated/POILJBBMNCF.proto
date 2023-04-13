@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HIDBGEPIKMB.proto";
+import "NMLPHHIHIOK.proto";
+
+// CmdId: 763
+// Name: POILJBBMNCF
+message POILJBBMNCF {
+    int32 EEDMFEOGLFN = 15;
+    repeated NMLPHHIHIOK HABPEEKABIP = 5;
+    repeated HIDBGEPIKMB GDIJOINCDHC = 2;
+    uint32 AFGOHALCCGO = 11;
+}
+

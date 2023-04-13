@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: PGHIDDKHGAL
+message PGHIDDKHGAL {
+    uint32 CDMINANDFKE = 1;
+}
+

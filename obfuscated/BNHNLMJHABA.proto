@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ONINAMINFAL.proto";
+
+// CmdId: 24530
+// Name: BNHNLMJHABA
+message BNHNLMJHABA {
+    // Name: PEFLGLLDFBD
+    enum PEFLGLLDFBD {
+        PEFLGLLDFBD_TIME_OUT = 0;
+        PEFLGLLDFBD_SETTLE_PLAY_END = 1;
+        PEFLGLLDFBD_SETTLE_PLAYER_QUIT = 2;
+        PEFLGLLDFBD_SETTLE_LIFE_COUNT = 3;
+    }
+
+    repeated ONINAMINFAL DLAHEPCNJLI = 9;
+    uint32 HDMDJECGCKC = 8;
+    bool DDOIAOEGKDJ = 1;
+    bool GBHJHJENFGK = 5;
+    uint32 OMPLBJFIEKN = 7;
+    PEFLGLLDFBD CNDKFAMECDF = 11;
+    bool EJDMGHIKLAD = 13;
+    uint32 PHAKMIAPJGA = 12;
+    uint32 MDNMOJAPBKB = 6;
+    uint32 ECLCBCEPGIH = 2;
+}
+

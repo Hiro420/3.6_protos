@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 179
+// Name: MEAHPANFPHD
+message MEAHPANFPHD {
+    uint32 GHBDKDMBGEH = 5;
+    uint32 OBIJFFPNJCH = 13;
+    bool KLJOOPEKPII = 3;
+    uint32 MOOPCNDDCEP = 14;
+}
+

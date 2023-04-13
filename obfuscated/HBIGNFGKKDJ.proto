@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 144
+// Name: HBIGNFGKKDJ
+message HBIGNFGKKDJ {
+    int32 EEDMFEOGLFN = 12;
+}
+

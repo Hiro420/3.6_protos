@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 284
+// Name: BJNCNJLGKKL
+message BJNCNJLGKKL {
+    uint32 ABIIBMGJNKM = 12;
+    int32 FBBNKHDEMJG = 8;
+    int32 CPEJFNDDHJN = 15;
+    int32 CMNMDFMICGE = 4;
+}
+

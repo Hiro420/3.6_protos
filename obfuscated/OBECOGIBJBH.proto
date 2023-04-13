@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HFPGMAKDKLF.proto";
+
+// CmdId: 23001
+// Name: OBECOGIBJBH
+message OBECOGIBJBH {
+    HFPGMAKDKLF CNDKFAMECDF = 2;
+    uint32 COCEMCJMFGA = 15;
+    uint32 PNKNJPIMAFC = 12;
+    uint32 NNJAJGCHJKE = 1;
+    uint32 JIFEPOLMBCO = 13;
+    bool GBHJHJENFGK = 11;
+    bool JCLNDAJALIM = 3;
+    uint32 GEAAIMCNKCK = 4;
+}
+

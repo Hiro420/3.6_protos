@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5472
+// Name: AJEOBLEDMDL
+message AJEOBLEDMDL {
+    uint32 GPAOOGENIPP = 15;
+    uint32 MFOOMFBLNMK = 8;
+    bool AHLBALEPDGC = 6;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 24308
+// Name: GIBKMHEKPDN
+message GIBKMHEKPDN {
+    uint32 JJGGAPDDOLN = 12;
+    uint32 EOICKCAFEIG = 7;
+}
+

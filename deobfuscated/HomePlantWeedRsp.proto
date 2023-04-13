@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 4570
+// Name: FPCJFDGHEEL
+message HomePlantWeedRsp {
+    int32 retcode = 9;
+}
+

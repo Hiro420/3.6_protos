@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "PLKEBHIPGAB.proto";
+
+// CmdId: 634
+// Name: DMMFDIDGIIO
+message DMMFDIDGIIO {
+    map<uint32, uint32> DCCFDJCFDMO = 14;
+    PLKEBHIPGAB BPKDOPHJPAL = 9;
+    map<uint32, uint32> HJCFPDMMNFK = 10;
+}
+

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2622
+// Name: GPFFNOACEFD
+message GPFFNOACEFD {
+    repeated uint32 LBFAMBIMMMG = 1;
+    int32 EEDMFEOGLFN = 9;
+}
+

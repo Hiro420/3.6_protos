@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 500
+// Name: BMLLLCEODOK
+message BMLLLCEODOK {
+    int32 EEDMFEOGLFN = 3;
+    uint32 BHNIGBDOGPG = 10;
+    uint32 FDBFNNDGPBB = 1;
+    uint32 NNGAKPMFPOO = 2;
+}
+

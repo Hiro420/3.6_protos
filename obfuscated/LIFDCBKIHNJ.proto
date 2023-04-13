@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "BJPCCGMMMPF.proto";
+
+// CmdId: 2149
+// Name: LIFDCBKIHNJ
+message LIFDCBKIHNJ {
+    BJPCCGMMMPF BHGHPABHALB = 13;
+}
+

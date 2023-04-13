@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 281
+// Name: HGHBAOEAPNA
+message HGHBAOEAPNA {
+    uint32 DMBFPFFMFCM = 4;
+    int32 EEDMFEOGLFN = 15;
+}
+

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5516
+// Name: JGEBAOBIIFH
+message JGEBAOBIIFH {
+    uint32 ECLCBCEPGIH = 10;
+    map<uint32, uint32> AANFJAPENAF = 3;
+    uint32 IOJKKNAJAAH = 7;
+    bool BOGACJJDPBL = 5;
+    uint32 NJFLCDNPMPE = 11;
+    uint32 ICPLDONIHID = 2;
+}
+

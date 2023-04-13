@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "BonusOpActivityInfo.proto";
+
+// Name: EOOKEMINBGN
+message OpActivityInfo {
+    uint32 end_time = 2;
+    bool is_has_change = 6;
+    uint32 begin_time = 12;
+    uint32 schedule_id = 9;
+    uint32 activity_id = 11;
+    oneof detail {
+        BonusOpActivityInfo bonus_info = 5;
+    }
+}
+

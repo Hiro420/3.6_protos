@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// Name: DEOCMDJCCPB
+message DEOCMDJCCPB {
+    int32 KHNNMNLDBCD = 13;
+    int64 AMBDCDLBMAN = 1;
+    KKFEDHALJFH AMIDJEOCCAO = 2;
+}
+

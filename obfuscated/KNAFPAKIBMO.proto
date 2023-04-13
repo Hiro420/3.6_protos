@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KNAFPAKIBMO
+message KNAFPAKIBMO {
+    float OHFFCHIDPJF = 3;
+    uint32 EMJIFGHHFLP = 1;
+    uint32 BAOMNMEKHOE = 8;
+}
+

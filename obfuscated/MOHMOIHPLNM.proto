@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GEKCCHCJMPC.proto";
+
+// CmdId: 82
+// Name: MOHMOIHPLNM
+message MOHMOIHPLNM {
+    GEKCCHCJMPC CFGOLIDACAK = 9;
+    uint32 KAHKHODLMPL = 3;
+    int32 EEDMFEOGLFN = 14;
+    uint32 AOOCBPDDMKC = 15;
+}
+

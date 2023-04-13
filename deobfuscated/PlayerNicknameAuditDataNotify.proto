@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "ContentAuditInfo.proto";
+
+// CmdId: 120
+// Name: AONDAOGPHLJ
+message PlayerNicknameAuditDataNotify {
+    ContentAuditInfo info = 11;
+}
+

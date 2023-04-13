@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 24495
+// Name: IFOKONFKCDP
+message IFOKONFKCDP {
+    int32 retcode = 1;
+    uint32 gallery_id = 8;
+}
+

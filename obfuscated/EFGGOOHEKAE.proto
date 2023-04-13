@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1754
+// Name: EFGGOOHEKAE
+message EFGGOOHEKAE {
+    int32 IKGNEAHBGOJ = 1;
+    string AMCINKLPCBC = 3;
+    int32 EEDMFEOGLFN = 9;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AAIBOLBPIHO.proto";
+import "BOOFJNHCMAA.proto";
+
+// CmdId: 6246
+// Name: KOLPPEMABAB
+message KOLPPEMABAB {
+    AAIBOLBPIHO LECDOIOMLDE = 12;
+    int32 EEDMFEOGLFN = 10;
+    repeated BOOFJNHCMAA JBBKAIMNAAH = 11;
+}
+

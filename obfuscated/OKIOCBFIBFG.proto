@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5226
+// Name: OKIOCBFIBFG
+message OKIOCBFIBFG {
+    int32 JJMPKOPPOFI = 5;
+    uint32 IMOIJDCCEOP = 13;
+}
+

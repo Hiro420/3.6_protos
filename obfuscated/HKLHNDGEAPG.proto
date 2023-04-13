@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HKLHNDGEAPG
+message HKLHNDGEAPG {
+    uint32 ECLCBCEPGIH = 6;
+    uint32 NNJAJGCHJKE = 3;
+    uint32 FGNPAGJDGMJ = 1;
+    uint32 ECNCAFKGHNJ = 13;
+    uint32 FDJCJOGJMMP = 2;
+    uint32 EBBCMNKEDDA = 7;
+    uint32 NDJPOJGKEHD = 8;
+}
+

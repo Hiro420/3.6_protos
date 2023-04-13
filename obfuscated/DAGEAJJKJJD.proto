@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AEPGHCMCNGG.proto";
+
+// CmdId: 4889
+// Name: DAGEAJJKJJD
+message DAGEAJJKJJD {
+    AEPGHCMCNGG LGKHLFKHNBF = 8;
+}
+

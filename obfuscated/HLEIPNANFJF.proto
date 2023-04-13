@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8438
+// Name: HLEIPNANFJF
+message HLEIPNANFJF {
+    repeated uint64 BGJOLHNFECB = 12;
+    uint32 JJGGAPDDOLN = 14;
+    repeated uint64 BFKDPINEHJD = 1;
+}
+

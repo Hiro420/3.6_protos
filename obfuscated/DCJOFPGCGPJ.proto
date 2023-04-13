@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EOPMENBFLCI.proto";
+
+// CmdId: 516
+// Name: DCJOFPGCGPJ
+message DCJOFPGCGPJ {
+    int32 EEDMFEOGLFN = 9;
+    repeated EOPMENBFLCI DKNPIEBNGBB = 14;
+    uint32 FGEIEPJKHDL = 11;
+}
+

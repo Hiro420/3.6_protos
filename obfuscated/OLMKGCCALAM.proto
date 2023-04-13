@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IEMOAMPLPGH.proto";
+
+// CmdId: 8856
+// Name: OLMKGCCALAM
+message OLMKGCCALAM {
+    uint32 ECLCBCEPGIH = 8;
+    IEMOAMPLPGH KEPJFKAEJDH = 12;
+}
+

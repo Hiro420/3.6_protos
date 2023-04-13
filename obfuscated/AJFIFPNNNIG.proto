@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KEBACJLDGHN.proto";
+
+// Name: AJFIFPNNNIG
+message AJFIFPNNNIG {
+    uint32 KNJNIILLBNC = 8;
+    uint32 HDMDJECGCKC = 4;
+    repeated KEBACJLDGHN AOAKGOPBGIH = 14;
+    uint32 KFECCJKLOLE = 9;
+    uint32 JJGGAPDDOLN = 13;
+}
+

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 672
+// Name: BDMPGIOBPKD
+message BDMPGIOBPKD {
+    uint64 CNOIPKBMEHD = 12;
+    uint64 EEMILGMLGOH = 11;
+    bool DMFPKHEFMAA = 2;
+    uint32 MIKNKAKEFHE = 14;
+    uint32 CAPDPNKCHEG = 8;
+}
+

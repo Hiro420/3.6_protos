@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: NAKACCCBMGO
+message NAKACCCBMGO {
+    uint32 DKPDMBEKJKP = 12;
+    bool FKOBJPCKIFJ = 7;
+    bool NCACAHINDCJ = 11;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KKFEDHALJFH.proto";
+
+// CmdId: 3035
+// Name: DMADALIOKGO
+message DMADALIOKGO {
+    KKFEDHALJFH AAKJEBOMJON = 12;
+    KKFEDHALJFH IEBPIIEMPCJ = 1;
+    uint32 ONEHEKOOMCC = 9;
+}
+

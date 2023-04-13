@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "Reward.proto";
+
+// CmdId: 697
+// Name: BKACBGIOAIJ
+message GrantRewardNotify {
+    Reward reward = 11;
+}
+

@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GPJLHPAJOKK.proto";
+import "MENJHDPJMCN.proto";
+import "PDGCLANHIJP.proto";
+
+// Name: FKONGMBBBAN
+message FKONGMBBBAN {
+    uint32 GMJNLBGNFEJ = 1;
+    uint64 EEMILGMLGOH = 2;
+    oneof OFDMLDLAIEN {
+        GPJLHPAJOKK FPIAKCGFFHO = 5;
+        PDGCLANHIJP FIOEHJLGJBG = 6;
+        MENJHDPJMCN IGCEMGOEABA = 7;
+    }
+}
+

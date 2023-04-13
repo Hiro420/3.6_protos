@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: NJDPLIMDEEN
+message NJDPLIMDEEN {
+    uint32 HJLEBAHLAOL = 6;
+    repeated uint32 BCGPLMJLPIF = 10;
+}
+

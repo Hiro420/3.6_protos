@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JPIDCCMEHGC.proto";
+import "MBDJCHKJKOO.proto";
+
+// Name: GACMFCEKNNC
+message GACMFCEKNNC {
+    uint32 BCAIGBJGEOD = 8;
+    uint32 CFFPNHNDNNI = 1;
+    repeated JPIDCCMEHGC IADHLCBMMNJ = 13;
+    bool MFBLCKKNECK = 11;
+    repeated MBDJCHKJKOO BEOEHDKADJB = 15;
+}
+

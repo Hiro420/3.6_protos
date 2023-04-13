@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "HGDBFKLPLMK.proto";
+import "KKFEDHALJFH.proto";
+
+// Name: BEOFHEJKBNP
+message BEOFHEJKBNP {
+    // Name: MNENMABCJHH
+    enum MNENMABCJHH {
+        MNENMABCJHH_OBSTACLE_SHAPE_CAPSULE = 0;
+        MNENMABCJHH_OBSTACLE_SHAPE_BOX = 1;
+    }
+
+    int32 GLONOIJJMGP = 8;
+    KKFEDHALJFH KFFBIJEMGFD = 4;
+    KKFEDHALJFH GCNNHHAJODO = 10;
+    HGDBFKLPLMK GONCOICLPDI = 14;
+    MNENMABCJHH BPKDOPHJPAL = 2;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: CMBHMIBGEAF
+message ProductPriceTier {
+    string product_id = 9;
+    string price_tier = 12;
+}
+

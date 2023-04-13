@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "DHGFPNJDPIC.proto";
+import "DMDNCLBJMGG.proto";
+
+// Name: CNNGAFGPOEO
+message CNNGAFGPOEO {
+    DHGFPNJDPIC FALIEFLKLCF = 11;
+    uint32 HDMDJECGCKC = 7;
+    repeated DMDNCLBJMGG MAIKPANHGGG = 12;
+}
+

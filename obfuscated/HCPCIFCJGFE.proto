@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "ILPPOIPMJIF.proto";
+
+// CmdId: 8540
+// Name: HCPCIFCJGFE
+message HCPCIFCJGFE {
+    bool IKAFOHAAPBG = 3;
+    int32 EEDMFEOGLFN = 5;
+    ILPPOIPMJIF LMIKKPKFLDN = 12;
+}
+

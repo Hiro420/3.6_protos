@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4624
+// Name: EPFNLONCBBP
+message EPFNLONCBBP {
+    uint32 AMBDCDLBMAN = 3;
+    repeated uint32 GAIKPCAJJDD = 10;
+    uint32 EFCJDFABMGK = 1;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GMECAGNDCNE.proto";
+
+// CmdId: 4755
+// Name: ECKDBAFOHGM
+message ECKDBAFOHGM {
+    int32 EEDMFEOGLFN = 7;
+    GMECAGNDCNE IFCNLDJAAHA = 9;
+}
+

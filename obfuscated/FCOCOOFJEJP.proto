@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: FCOCOOFJEJP
+message FCOCOOFJEJP {
+    uint32 OGIIALOELPN = 9;
+    uint32 MAPMOKKMHJI = 6;
+    repeated uint32 LKPONGIDNOA = 11;
+    uint32 BCAAGPKKOMF = 8;
+    uint32 MIEDMELHOLI = 13;
+    uint32 CJKCIMCEPFD = 15;
+    repeated uint32 BLOHENDAHOL = 5;
+}
+

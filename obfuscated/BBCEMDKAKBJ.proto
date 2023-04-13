@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8113
+// Name: BBCEMDKAKBJ
+message BBCEMDKAKBJ {
+    uint32 GECADCEGKJD = 10;
+    bool GBHJHJENFGK = 11;
+    bool HKHAADBCFDO = 9;
+    uint32 JCFJLLKLHFO = 2;
+    uint32 ECLCBCEPGIH = 8;
+    uint32 CHOECMNPHGG = 12;
+    uint32 PBPGCOCLFIM = 3;
+    uint32 MDNMOJAPBKB = 5;
+}
+

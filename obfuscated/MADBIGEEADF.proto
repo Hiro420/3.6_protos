@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 23047
+// Name: MADBIGEEADF
+message MADBIGEEADF {
+    uint32 ECLCBCEPGIH = 7;
+}
+

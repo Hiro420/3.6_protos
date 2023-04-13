@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGBossChallengeData.proto";
+
+// CmdId: 7570
+// Name: DGEJKCHBLLK
+message GCGBossChallengeUpdateNotify {
+    GCGBossChallengeData boss_challenge = 4;
+}
+

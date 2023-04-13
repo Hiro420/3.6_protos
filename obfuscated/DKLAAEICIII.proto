@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: DKLAAEICIII
+message DKLAAEICIII {
+    uint32 IHJHBOGKMLA = 13;
+    uint32 AOBPKJNGNKK = 15;
+}
+

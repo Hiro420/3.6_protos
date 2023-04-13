@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "GCGDuelChallenge.proto";
+
+// CmdId: 7872
+// Name: EGNIHJPKBKP
+message GCGChallengeUpdateNotify {
+    GCGDuelChallenge challenge = 15;
+    uint32 server_seq = 9;
+}
+

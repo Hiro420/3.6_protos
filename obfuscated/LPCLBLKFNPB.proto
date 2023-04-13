@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 590
+// Name: LPCLBLKFNPB
+message LPCLBLKFNPB {
+    uint32 OMLFCPHFDGL = 7;
+    uint32 DMBFPFFMFCM = 14;
+    uint32 DECHHOMMECG = 11;
+}
+

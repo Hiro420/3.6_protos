@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: BIGICACAMIG
+message BIGICACAMIG {
+    uint32 BKPLONJEOAF = 12;
+    uint32 AAFNJPABDDJ = 13;
+    uint32 MDNMOJAPBKB = 15;
+    uint32 CALCAHMEJGN = 1;
+}
+

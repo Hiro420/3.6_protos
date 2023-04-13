@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 1099
+// Name: FHFLCAHNFCP
+message ProudSkillExtraLevelNotify {
+    uint64 avatar_guid = 15;
+    uint32 extra_level = 10; // CBAGHCLLOCO
+    uint32 talent_type = 3; // KPPFFPBNNAC
+    uint32 talent_index = 4; // LDLMAGLNLEA
+}
+

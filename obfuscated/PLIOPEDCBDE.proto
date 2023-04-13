@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: PLIOPEDCBDE
+enum PLIOPEDCBDE {
+    PLIOPEDCBDE_BARGAIN_COMPLETE_SUCC = 0;
+    PLIOPEDCBDE_BARGAIN_SINGLE_FAIL = 1;
+    PLIOPEDCBDE_BARGAIN_COMPLETE_FAIL = 2;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GPCCIKMALLP.proto";
+
+// CmdId: 8729
+// Name: EGKMBIHKJOB
+message EGKMBIHKJOB {
+    repeated GPCCIKMALLP ANAFDHKBILE = 8;
+    repeated GPCCIKMALLP NMKIFLLBAOO = 2;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 3129
+// Name: IEIOPBLDBDM
+message ShowClientTutorialNotify {
+    uint32 tutorial_id = 4;
+}
+

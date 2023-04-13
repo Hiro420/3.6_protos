@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: EKPPHANLAGM
+message EKPPHANLAGM {
+    uint32 HJLEBAHLAOL = 14;
+    bool NCACAHINDCJ = 10;
+}
+

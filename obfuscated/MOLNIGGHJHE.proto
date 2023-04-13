@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "EOMPENELAEF.proto";
+
+// CmdId: 674
+// Name: MOLNIGGHJHE
+message MOLNIGGHJHE {
+    uint32 FDFGPCNOJPN = 3;
+    EOMPENELAEF ICHOHMNIMJD = 12;
+}
+

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "AJMBBHKJNFH.proto";
+
+// CmdId: 1645
+// Name: ICFBBMJLJLA
+message ICFBBMJLJLA {
+    AJMBBHKJNFH NLAFCOOMANB = 6;
+    uint64 FPIIPJJPBOH = 7;
+}
+

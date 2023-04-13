@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "GNCMJDPOLCE.proto";
+
+// CmdId: 2000
+// Name: AMPMNKIKBID
+message AMPMNKIKBID {
+    bool HIFPOAJOGDK = 8;
+    GNCMJDPOLCE HJIMAOAOGHP = 6;
+    uint32 PGEHBIAEHEG = 13;
+    int32 EEDMFEOGLFN = 9;
+}
+

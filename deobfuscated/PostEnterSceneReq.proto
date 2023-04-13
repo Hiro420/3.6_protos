@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 3479
+// Name: NKAIGOMHPJB
+message PostEnterSceneReq {
+    uint32 enter_scene_token = 1;
+}
+

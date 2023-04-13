@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5099
+// Name: EFPHCPGCPAI
+message EFPHCPGCPAI {
+    int32 MAEEFMMLAPD = 11;
+    int32 EEDMFEOGLFN = 9;
+}
+

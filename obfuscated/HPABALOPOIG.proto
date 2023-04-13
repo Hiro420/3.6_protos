@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HPABALOPOIG
+message HPABALOPOIG {
+    int32 BPKDOPHJPAL = 1;
+    repeated uint32 JFKLKJLJLLO = 2;
+    repeated float MBEEMKLMCFB = 3;
+    uint32 JBHAGMFLMJF = 4;
+}
+

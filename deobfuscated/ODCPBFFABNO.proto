@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 21648
+// Name: ODCPBFFABNO
+message ODCPBFFABNO {
+    int32 retcode = 3;
+}
+

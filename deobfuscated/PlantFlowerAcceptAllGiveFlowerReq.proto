@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 8210
+// Name: CCBBCBAPIEF
+message PlantFlowerAcceptAllGiveFlowerReq {
+    uint32 schedule_id = 2;
+}
+

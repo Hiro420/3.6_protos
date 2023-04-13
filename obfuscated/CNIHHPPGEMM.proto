@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 946
+// Name: CNIHHPPGEMM
+message CNIHHPPGEMM {
+    map<uint32, uint32> LMFBCEJPMEE = 10;
+}
+

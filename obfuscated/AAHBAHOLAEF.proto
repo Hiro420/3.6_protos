@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FHMCMLOIGJB.proto";
+import "INPDDALBMBO.proto";
+
+// CmdId: 1623
+// Name: AAHBAHOLAEF
+message AAHBAHOLAEF {
+    map<uint64, FHMCMLOIGJB> MJDCPJBLBNB = 5;
+    repeated INPDDALBMBO IEEPAJEHDIJ = 11;
+    repeated INPDDALBMBO AGJLDJCAPHE = 9;
+    int32 EEDMFEOGLFN = 4;
+}
+

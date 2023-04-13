@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 2054
+// Name: NCGCAEBOIGG
+message NCGCAEBOIGG {
+    uint32 KAJGEMAAIJH = 8;
+}
+

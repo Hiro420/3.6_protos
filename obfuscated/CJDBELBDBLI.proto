@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: CJDBELBDBLI
+message CJDBELBDBLI {
+    uint32 JBMPBFDPKGD = 1;
+    uint64 FPIIPJJPBOH = 2;
+    uint32 DBDEEBCMHMM = 3;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JNDALNPMINN.proto";
+
+// CmdId: 4193
+// Name: GFBABCMFPOH
+message GFBABCMFPOH {
+    uint32 BFPBOJOIACJ = 6;
+    JNDALNPMINN CNDKFAMECDF = 7;
+    repeated uint32 FOIBMIAMHGF = 12;
+}
+

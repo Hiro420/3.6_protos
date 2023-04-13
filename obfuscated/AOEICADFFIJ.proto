@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "IIINMHIAOCN.proto";
+
+// CmdId: 968
+// Name: AOEICADFFIJ
+message AOEICADFFIJ {
+    repeated IIINMHIAOCN CHOPMGJFOKD = 4;
+    repeated uint32 JNOJCLMDDOP = 11;
+}
+

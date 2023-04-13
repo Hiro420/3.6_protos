@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CPFLEKBAPNG.proto";
+
+// Name: LADHOKCFHNL
+message LADHOKCFHNL {
+    repeated CPFLEKBAPNG KHMOBCBEKJA = 7;
+    uint32 FKFBGLNNIPA = 11;
+}
+

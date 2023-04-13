@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 5529
+// Name: EKIOINEMBPA
+message EKIOINEMBPA {
+    uint32 ECLCBCEPGIH = 5;
+    uint32 MDNMOJAPBKB = 8;
+    bool HKHAADBCFDO = 10;
+    uint32 HNLOMLFJMEF = 11;
+    uint32 NLGJGLMEKEH = 12;
+    uint32 ACNDNNIEIIF = 1;
+    bool DJKEDCHCCLI = 15;
+}
+

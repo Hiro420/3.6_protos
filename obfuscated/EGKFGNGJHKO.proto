@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "KECEDJBKILI.proto";
+
+// CmdId: 115
+// Name: EGKFGNGJHKO
+message EGKFGNGJHKO {
+    KECEDJBKILI BHGHPABHALB = 8;
+}
+

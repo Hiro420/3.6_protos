@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+import "FishInfo.proto";
+import "FishingScore.proto";
+
+// Name: LACBAJJCDMG
+message FishingGallerySettleInfo {
+    repeated FishingScore fishing_score_list = 15;
+    map<uint32, FishInfo> fish_map = 14;
+}
+

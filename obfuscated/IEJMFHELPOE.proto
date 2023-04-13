@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 99
+// Name: IEJMFHELPOE
+message IEJMFHELPOE {
+    string ADIACIPJIPC = 8;
+    string CEGFMOJGPAE = 5;
+}
+

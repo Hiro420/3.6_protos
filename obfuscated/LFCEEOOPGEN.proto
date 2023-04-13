@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 8864
+// Name: LFCEEOOPGEN
+message LFCEEOOPGEN {
+    uint32 LFCAGIIIEFJ = 13;
+}
+

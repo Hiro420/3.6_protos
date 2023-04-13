@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 680
+// Name: FJKADHAFOIM
+message FJKADHAFOIM {
+    int32 EEDMFEOGLFN = 2;
+    repeated uint64 ENPPBADJCDL = 1;
+}
+

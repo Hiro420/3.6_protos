@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HFEKCMGDEAI
+message HFEKCMGDEAI {
+    map<uint32, uint32> BCEODKFCELE = 15;
+    map<uint32, uint32> KLMGDDMCEIA = 2;
+}
+

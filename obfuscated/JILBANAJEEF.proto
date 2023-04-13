@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "CFFFGFFKINK.proto";
+
+// Name: JILBANAJEEF
+message JILBANAJEEF {
+    repeated CFFFGFFKINK BABKMKKLGMN = 8;
+}
+

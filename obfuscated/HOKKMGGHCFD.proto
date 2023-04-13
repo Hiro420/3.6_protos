@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 225
+// Name: HOKKMGGHCFD
+message HOKKMGGHCFD {
+    uint32 IHEPIKIDEAB = 4;
+}
+

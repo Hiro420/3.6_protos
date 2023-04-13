@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1165
+// Name: PGIFCEKLNPJ
+message PGIFCEKLNPJ {
+    float AJBLMLDNING = 10;
+    uint32 DMBFPFFMFCM = 9;
+    uint32 IHALDKMCIHJ = 8;
+}
+

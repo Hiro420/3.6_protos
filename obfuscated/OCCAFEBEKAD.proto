@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4075
+// Name: OCCAFEBEKAD
+message OCCAFEBEKAD {
+    string DAKAMJMLMNA = 10;
+    int32 EEDMFEOGLFN = 15;
+}
+

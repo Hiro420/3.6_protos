@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: MJANEPLMIEP
+message MJANEPLMIEP {
+    uint32 OLEBJHOKNAH = 14;
+    bool BCKJALNOGKD = 4;
+    uint32 IOLKEPCMIAN = 15;
+    uint32 FJLHCPEOPBD = 10;
+}
+

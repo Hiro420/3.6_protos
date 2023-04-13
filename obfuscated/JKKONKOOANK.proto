@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 4709
+// Name: JKKONKOOANK
+message JKKONKOOANK {
+    uint32 AMBDCDLBMAN = 5;
+    bool HHFCAJAJCEO = 14;
+    uint32 HBDKCGNFKMH = 3;
+}
+

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "INPDDALBMBO.proto";
+
+// CmdId: 8671
+// Name: IEEAGCKDJAA
+message IEEAGCKDJAA {
+    uint32 MJABGHGABFH = 9;
+    uint32 MEJDAEOJCFP = 5;
+    uint32 HAPFNEIHHPP = 6;
+    bool JKPPDFHBINJ = 14;
+    repeated INPDDALBMBO IEEPAJEHDIJ = 12;
+    repeated uint32 BFNGAILMGCC = 7;
+    uint32 MOBMFDJLHKD = 11;
+}
+

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 20870
+// Name: LAIDADNBLKG
+message LAIDADNBLKG {
+}
+

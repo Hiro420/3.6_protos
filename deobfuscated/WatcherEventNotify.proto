@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// CmdId: 2289
+// Name: IAOFCGMOHPH
+message WatcherEventNotify {
+    uint32 add_progress = 3;
+    uint32 watcher_id = 12;
+}
+

@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "JMMIILKOMNH.proto";
+
+// CmdId: 8971
+// Name: AOHCNKLIHDD
+message AOHCNKLIHDD {
+    JMMIILKOMNH HDPJCNBFLEB = 12;
+    uint32 IHJHBOGKMLA = 13;
+    uint32 FCJPKOCJACN = 5;
+}
+

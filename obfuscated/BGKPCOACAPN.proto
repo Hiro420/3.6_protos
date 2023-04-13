@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+import "FIBFPHIAJHG.proto";
+
+// CmdId: 4001
+// Name: BGKPCOACAPN
+message BGKPCOACAPN {
+    repeated FIBFPHIAJHG LBAJBILKPDG = 4;
+}
+

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: HDOMFAKCLHG
+message HDOMFAKCLHG {
+    uint32 PAMNIEEJDLE = 10;
+    uint32 HDMDJECGCKC = 12;
+}
+

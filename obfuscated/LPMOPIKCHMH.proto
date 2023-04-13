@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// CmdId: 1848
+// Name: LPMOPIKCHMH
+message LPMOPIKCHMH {
+    uint32 ICDAIDNAOBK = 6;
+    bool AHLBALEPDGC = 15;
+}
+

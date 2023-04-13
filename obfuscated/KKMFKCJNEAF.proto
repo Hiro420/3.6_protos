@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "catgirl.kirara.moe";
+
+
+// Name: KKMFKCJNEAF
+message KKMFKCJNEAF {
+    uint32 LIHIMGBNIFL = 11;
+    uint32 NICMPEHDPBF = 14;
+}
+
