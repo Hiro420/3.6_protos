@@ -7,24 +7,24 @@ import "GachaItem.proto";
 // CmdId: 1576
 // Name: BIMBGHFINGO
 message DoGachaRsp {
-    bool HFEKPDOKLDK = 823; // HFEKPDOKLDK
-    uint32 gachaType = 7;
-    uint32 dailyGachaTimes = 5; // KDFPKENAIOJ
-    bool PKOIBFIOLAO = 651; // PKOIBFIOLAO
-    uint32 newGachaRandom = 8; // DKCIEKFPMCG
+    bool Unk3300_HFEKPDOKLDK = 823;
+    uint32 gacha_type = 7;
+    uint32 wishProgress = 5;
+    bool Unk3300_PKOIBFIOLAO = 651;
+    uint32 tenCostItemNum = 8;
     repeated GachaItem gacha_item_list = 4;
     int32 retcode = 10;
-    uint32 gachaTimes = 9;
-    uint32 costItemId = 1; // JICLMBKMGCG
-    uint32 wishMaxProgress = 845; // PELOHDIKFAM
-    uint32 tenCostItemId = 14; // FBIDPNFLBJL
-    uint32 tenCostItemNum = 3; // EAGFIDHCDPD
-    uint32 wishProgress = 15; // BIPHOPJBNHC
-    uint32 gachaScheduleId = 2;
-    uint32 wishItemId = 12; // KKDFKKEMEBA
-    uint32 curScheduleDailyGachaTimes = 965; // PKPENDLDPKI
-    uint32 leftGachaTimes = 11; // FIHHLGMNIDM
-    uint32 costItemNum = 6; // OKKJEHDBIHK
-    uint32 gachaTimesLimit = 13; // FBILBJNNIKE
+    uint32 gacha_times = 9;
+    uint32 gachaTimesLimit = 1;
+    uint32 curScheduleDailyGachaTimes = 845;
+    uint32 costItemId = 14;
+    uint32 leftGachaTimes = 3;
+    uint32 tenCostItemId = 15;
+    uint32 gacha_schedule_id = 2;
+    uint32 wishItemId = 12;
+    uint32 newGachaRandom = 965; //PKPENDLDPKI
+    uint32 daily_gacha_times = 11; //FIHHLGMNIDM
+    uint32 costItemNum = 6;
+    uint32 wishMaxProgress = 13;
 }
 
