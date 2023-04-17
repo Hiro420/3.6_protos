@@ -11,7 +11,7 @@ message ShopGoods {
     ItemParam goodsItem = 7; //ok
     uint32 maxLevel = 9; //ok
     uint32 JGCLNJKOALJ = 1201;
-    uint32 scoin = 11; //JGCLNJKOALJ
+    uint32 scoin = 11; //LAKDFDKCMKC
     uint32 ONDHAANEFIK = 1493;
     uint32 beginTime = 14; //ok
     repeated uint32 preGoodsIdList = 6; //ok
