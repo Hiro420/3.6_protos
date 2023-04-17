@@ -15,8 +15,8 @@ message ParentQuest {
     ParentQuestRandomInfo random_info = 14;
     map<uint32, uint32> time_var_map = 5;
     repeated InferencePageInfo inference_page_list = 13;
-    uint32 parent_quest_state = 9; // PGAAFEALHLK
-    uint32 quest_var_seq = 12; // NJNBCLGFCIN
+    uint32 quest_var_seq = 9;
+    uint32 parent_quest_state = 12;
     repeated int32 quest_var = 8;
     bool is_finished = 11;
     uint32 parent_quest_id = 7;

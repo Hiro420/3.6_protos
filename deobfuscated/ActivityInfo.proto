@@ -91,7 +91,7 @@ message ActivityInfo {
     bool DNKBDEJAOMC = 6;
     bool MPCDIKMJOAC = 2041;
     uint32 cur_score = 882;
-    uint32 activity_type = 11; // OIPEAKGOPDE
+    uint32 activity_type = 11;
     bool GODELKHIPDE = 3;
     bool DLNNGPNHBFB = 1789;
     uint32 first_day_start_time = 617;

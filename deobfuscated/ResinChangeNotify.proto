@@ -6,8 +6,8 @@ option java_package = "emu.grasscutter.net.proto";
 // CmdId: 688
 // Name: LFGMKMAGMCE
 message ResinChangeNotify {
-    uint32 MBEMEOGMKNM = 4;
-    uint32 LADLACBKFMK = 8;
+    uint32 next_add_timestamp = 4;
+    uint32 cur_buy_count = 8;
     uint32 cur_value = 6;
 }
 

@@ -9,22 +9,22 @@ import "TowerMonthlyBrief.proto";
 // CmdId: 2492
 // Name: MPFPLNBLIKB
 message TowerAllDataRsp {
-    uint32 DPKOCIDIHEI = 10; // DPKOCIDIHEI
+    uint32 tower_schedule_id = 10;
     bool is_finished_entrance_floor = 4;
-    map<uint32, uint32> floor_open_time_map = 1; // OAFKGDGFFEO
-    uint32 AJKNPOGBLDG = 6; // AJKNPOGBLDG
+    map<uint32, uint32> floor_open_time_map = 1;
+    uint32 AJKNPOGBLDG = 6; // not used
     bool is_first_interact = 11;
-    uint32 EDGJPPKNHJE = 5; // EDGJPPKNHJE
+    uint32 next_schedule_change_time = 5;
     int32 retcode = 13; 
-    uint32 PHCNCLHJFBM = 8; // PHCNCLHJFBM
-    uint32 tower_schedule_id = 12; // KPJMJMPPPGK
-    uint32 next_schedule_change_time = 15; // NKMMGNAGOOA
+    uint32 PHCNCLHJFBM = 8; // not used
+    uint32 KPJMJMPPPGK = 12; // not used
+    uint32 valid_tower_record_num = 15; //NKMMGNAGOOA
     TowerMonthlyBrief last_schedule_monthly_brief = 1890;
     repeated TowerFloorRecord tower_floor_record_list = 2;
     TowerMonthlyBrief monthly_brief = 7;
-    map<uint32, uint32> OJGBCIONMOL = 3; // OJGBCIONMOL
+    map<uint32, uint32> skip_floor_granted_reward_item_map = 3;
     uint32 GMMJNDFMHAM = 9; // GMMJNDFMHAM
-    uint32 schedule_start_time = 1783; // MDANKJCGMIN
+    uint32 schedule_start_time = 1783;
     TowerCurLevelRecord cur_level_record = 14;
 }
 

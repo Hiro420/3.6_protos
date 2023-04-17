@@ -10,7 +10,7 @@ message RogueStageInfo {
     uint32 EIMBKPHMPEH = 3;
     uint32 IPDPBFFPPBG = 1489;
     uint32 NFAGHAIMDKI = 15;
-    bool AJFBLDPHGDD = 12;
+    bool isExplored = 12;
     uint32 NILFBNCBADF = 658;
     bool NHKJHKLOPDP = 14;
     uint32 cur_level = 10;

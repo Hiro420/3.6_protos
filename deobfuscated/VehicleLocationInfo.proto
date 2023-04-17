@@ -12,7 +12,7 @@ message VehicleLocationInfo {
     Vector pos = 13;
     Vector rot = 14;
     uint32 owner_uid = 1;
-    float KCCDNGMKBOB = 11;
-    float MILGENBLEAK = 7;
+    float cur_hp = 11; //KCCDNGMKBOB
+    float max_hp = 7; //MILGENBLEAK
 }
 

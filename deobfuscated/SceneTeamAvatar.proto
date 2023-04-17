@@ -16,7 +16,7 @@ message SceneTeamAvatar {
     bool is_on_scene = 10;
     uint64 weapon_guid = 1;
     repeated ServerBuff server_buff_list = 7;
-    bool FMFEBGBJAMB = 11;
+    bool is_reconnect = 11;
     uint32 entity_id = 13;
     AbilitySyncStateInfo weapon_ability_info = 3;
     AbilityControlBlock ability_control_block = 9;
