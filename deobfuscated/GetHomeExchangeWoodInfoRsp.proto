@@ -8,9 +8,9 @@ option java_package = "emu.grasscutter.net.proto";
 message GetHomeExchangeWoodInfoRsp {
     // Name: FOLINBPAHGO
     message HomeExchangeWoodInfo {
-        uint32 KLNKMDGAOJI = 14;
+        uint32 exchangedCount = 14;
         uint32 wood_id = 8;
-        uint32 NMOCBJLDBGH = 9;
+        uint32 exchangeLimit = 9;
         fixed32 next_refresh_time = 1;
     }
 
