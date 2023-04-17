@@ -1741,8 +1741,8 @@ public class PacketOpcodes {
     public static final int PlayerCompoundMaterialBoostRsp = 113;
     public static final int PlayerGameTimeByLuaNotify = 187;
     public static final int PlayerIpRegionNotify = 162;
-    public static final int GHMNCNNHLAI = 123;
-    public static final int DFPBHODHPKM = 130;
+    public static final int SkipPlayerGameTimeReq = 123;
+    public static final int SkipPlayerGameTimeRsp = 130;
     public static final int HMHLMKOOGFJ = 184;
     public static final int BIJJHMLCFOF = 108;
     public static final int EntityPropNotify = 1290;
