@@ -7,8 +7,8 @@ option java_package = "emu.grasscutter.net.proto";
 // Name: NEIGIGODCNL
 message ShowTemplateReminderNotify {
     uint32 template_reminder_id = 7;
-    bool JOIAOAOPGFI = 5;
-    bool MLFFFPALACK = 13;
+    bool is_revoke = 5; //JOIAOAOPGFI
+    bool is_need_cache = 13; //MLFFFPALACK
     repeated uint32 param_uid_list = 11;
     repeated int32 param_list = 6;
 }

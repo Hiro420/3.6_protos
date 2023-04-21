@@ -6,7 +6,7 @@ option java_package = "emu.grasscutter.net.proto";
 // CmdId: 5022
 // Name: NCFBCDPLLIG
 message PullRecentChatReq {
-    uint32 HNOFCJJHEAD = 1;
-    uint32 LMHJHHFEHOL = 15;
+    uint32 begin_sequence = 1;
+    uint32 pull_num = 15;
 }
 
