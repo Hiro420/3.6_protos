@@ -4,7 +4,7 @@ option java_package = "emu.grasscutter.net.proto";
 
 
 // Name: EJJJHKGPDAF
-message EJJJHKGPDAF {
-    float NFODLGCLNPJ = 3;
+message AbilityMixinEliteShield {
+    float sub_shield = 3;
 }
 

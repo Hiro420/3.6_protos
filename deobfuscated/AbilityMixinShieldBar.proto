@@ -4,10 +4,10 @@ option java_package = "emu.grasscutter.net.proto";
 
 
 // Name: KLMOCINFPME
-message KLMOCINFPME {
-    float MGDCCBBHFOL = 7;
-    float FOMFKNOIEHD = 8;
+message AbilityMixinShieldBar {
+    float shield = 7;
+    float max_shield = 8;
     uint32 element_type = 15;
-    uint32 FDKBBDNOIMN = 11;
+    uint32 player_num = 11;
 }
 

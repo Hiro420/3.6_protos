@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "emu.grasscutter.net.proto";
+
+
+// Name: AHHLIGPKLDL
+message AbilityMixinElementShield {
+    float sub_shield = 1;
+    float max_shield = 13;
+    uint32 absorb_type = 4;
+    float shield = 15;
+    uint32 player_num = 9;
+    bool is_shield_broken = 12;
+}
+
