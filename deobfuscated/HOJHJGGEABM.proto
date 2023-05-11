@@ -11,7 +11,7 @@ message HOJHJGGEABM {
     message ALMDBKOCELN {
         repeated uint32 monster_id_list = 6;
         string HAFEEECHHOJ = 2;
-        repeated PlatformType CHOPMGJFOKD = 7;
+        repeated PlatformType platform_type = 7;
     }
 
     repeated ALMDBKOCELN BGFGADONCPI = 15;

@@ -6,7 +6,7 @@ option java_package = "emu.grasscutter.net.proto";
 // CmdId: 99
 // Name: IEJMFHELPOE
 message ClientReportNotify {
-    string ADIACIPJIPC = 8;
-    string CEGFMOJGPAE = 5;
+    string report_value = 8;
+    string report_type = 5;
 }
 

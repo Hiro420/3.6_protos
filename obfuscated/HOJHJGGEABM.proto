@@ -11,7 +11,7 @@ message HOJHJGGEABM {
     message ALMDBKOCELN {
         repeated uint32 JNOJCLMDDOP = 6;
         string HAFEEECHHOJ = 2;
-        repeated IIINMHIAOCN CHOPMGJFOKD = 7;
+        repeated IIINMHIAOCN platform_type = 7;
     }
 
     repeated ALMDBKOCELN BGFGADONCPI = 15;

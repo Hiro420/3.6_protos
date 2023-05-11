@@ -7,7 +7,7 @@ import "PlatformType.proto";
 // CmdId: 968
 // Name: AOEICADFFIJ
 message AOEICADFFIJ {
-    repeated PlatformType CHOPMGJFOKD = 4;
+    repeated PlatformType platform_type = 4;
     repeated uint32 monster_id_list = 11;
 }
 
