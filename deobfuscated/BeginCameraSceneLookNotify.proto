@@ -26,8 +26,8 @@ message BeginCameraSceneLookNotify {
     bool MCFCBOJLEEA = 14;
     bool MHOPMFLJEJB = 1736;
     float IPCLENFLCLJ = 484;
-    Vector BJAIBAFFGAP = 6;
-    Vector BIGFKDFJPDD = 9;
+    Vector lookPos = 6; //BJAIBAFFGAP
+    Vector followPos = 9; //BIGFKDFJPDD
     float OHCHDGHEJDH = 2;
     bool FGEILCFGECH = 12;
     float PIOFKMOEEBP = 11;
