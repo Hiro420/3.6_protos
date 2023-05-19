@@ -6,9 +6,9 @@ import "SignInData.proto";
 
 // Name: NEJGOAIKEPA
 message SignInInfo {
-    uint32 GANAIGKNLOD = 11;
+    uint32 last_sign_in_time = 11;
     uint32 end_time = 5;
-    uint32 ODCICMMHNOH = 8;
+    uint32 sign_in_count = 8;
     uint32 schedule_id = 7;
     bool is_cond_satisfied = 10;
     uint32 config_id = 6;

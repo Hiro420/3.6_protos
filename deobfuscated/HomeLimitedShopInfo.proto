@@ -6,11 +6,11 @@ import "Vector.proto";
 
 // Name: ALCABPLHONH
 message HomeLimitedShopInfo {
-    fixed32 KILKJHNKDJB = 15;
+    fixed32 next_guest_open_time = 15; //KILKJHNKDJB
     uint32 uid = 2;
-    Vector PCIJFOPGEDO = 14;
-    fixed32 HEEGDABINMD = 8;
-    Vector NPFLGEPMDHD = 6;
-    fixed32 MBAMOPJCAHC = 13;
+    Vector djinn_pos = 14;
+    fixed32 next_open_time = 8; //HEEGDABINMD
+    Vector djinn_rot = 6;
+    fixed32 next_close_time = 13; //MBAMOPJCAHC
 }
 

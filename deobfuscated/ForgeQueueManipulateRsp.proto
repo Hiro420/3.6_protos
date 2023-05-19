@@ -9,9 +9,9 @@ import "ItemParam.proto";
 // Name: MJAFJIOFNFE
 message ForgeQueueManipulateRsp {
     int32 retcode = 2;
-    repeated ItemParam MDJJBOAANKF = 1;
-    repeated ItemParam BNCLNGJLJIA = 15;
+    repeated ItemParam return_item_list = 1;
+    repeated ItemParam output_item_list = 15;
     ForgeQueueManipulateType manipulate_type = 6;
-    repeated ItemParam LEANPAODEGK = 8;
+    repeated ItemParam extra_output_item_list = 8;
 }
 

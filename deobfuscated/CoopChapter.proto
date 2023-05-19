@@ -17,11 +17,11 @@ message CoopChapter {
     }
 
     uint32 finished_end_count = 4;
-    repeated uint32 KAKALNAGLGJ = 7;
+    repeated uint32 lock_reason_list = 7; //KAKALNAGLGJ
     map<uint32, uint32> seen_ending_map = 14;
     repeated CoopReward coop_reward_list = 5;
     repeated CoopPoint coop_point_list = 8;
-    repeated uint32 LNOCPBNPHIE = 12;
+    repeated uint32 finish_dialog_list = 12; //LNOCPBNPHIE
     uint32 id = 1;
     uint32 total_end_count = 6;
     State state = 2;

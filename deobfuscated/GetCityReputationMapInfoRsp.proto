@@ -7,9 +7,9 @@ option java_package = "emu.grasscutter.net.proto";
 // Name: LKBDHDEIKGI
 message GetCityReputationMapInfoRsp {
     int32 retcode = 11;
-    repeated uint32 EDAOAKIHGDE = 7;
-    repeated uint32 PBGGOGLHINL = 8;
-    bool MDAOIPDBBLN = 4;
-    bool KOIGFJPNDIO = 1;
+    repeated uint32 unlock_hunting_city_list = 7;
+    repeated uint32 reward_city_list = 8;
+    bool is_new_hunting = 4;
+    bool is_new_request = 1;
 }
 

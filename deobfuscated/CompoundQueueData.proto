@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 // Name: IJBDFMLMJMF
 message CompoundQueueData {
-    uint32 BIBEPDEFKDP = 1;
+    uint32 output_count = 1;
     uint32 compound_id = 2;
-    uint32 CIBCKFAJLEF = 5;
-    uint32 GOMEGAHKEMD = 15;
+    uint32 wait_count = 5;
+    uint32 output_time = 15;
 }
 

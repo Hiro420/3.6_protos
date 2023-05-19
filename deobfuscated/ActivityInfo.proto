@@ -98,7 +98,7 @@ message ActivityInfo {
     uint32 begin_time = 15;
     uint32 JAFIBAJIAFF = 540;
     bool is_finished = 12;
-    bool DMCFNBNECAN = 202;
+    bool is_starting = 202; //DMCFNBNECAN
     repeated ActivityWatcherInfo watcher_info_list = 4;
     oneof detail {
         SeaLampActivityDetailInfo sam_lamp_info = 9;

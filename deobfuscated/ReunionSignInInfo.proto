@@ -5,9 +5,9 @@ option java_package = "emu.grasscutter.net.proto";
 
 // Name: ENJILBPPCGP
 message ReunionSignInInfo {
-    uint32 GANAIGKNLOD = 7;
+    uint32 last_sign_in_time = 7;
     repeated uint32 reward_day_list = 9;
     uint32 config_id = 13;
-    uint32 ODCICMMHNOH = 10;
+    uint32 sign_in_count = 10;
 }
 
