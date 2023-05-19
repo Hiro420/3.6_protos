@@ -13,8 +13,8 @@ message CombineRsp {
     int32 retcode = 2;
     repeated ItemParam total_return_item_list = 9;
     repeated ItemParam cost_item_list = 3;
-    repeated ItemParam INKBGEBHDDN = 12;
-    repeated ItemParam OIJHNBLLBGE = 11;
+    repeated ItemParam total_random_item_list = 12;
+    repeated ItemParam total_extra_item_list = 11;
     repeated ItemParam result_item_list = 10;
 }
 
